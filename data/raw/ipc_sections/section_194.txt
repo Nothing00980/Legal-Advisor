@@ -1,0 +1,272 @@
+Giving false evidence.
+Whoever, being legally bound by an oath or by an express provision of law to state the
+truth, or being bound by law to make a declaration upon any subject,1 makes any
+statement which is false,2. and which he either knows or believes to be false or does
+not believe to be true,3. is said to give false evidence.
+Explanation 1.—A statement is within the meaning of this section, whether it is made
+verbally or otherwise.
+Explanation 2.—A false statement as to the belief of the person attesting is within the
+meaning of this section, and a person may be guilty of giving false evidence by
+stating that he believes a thing which he does not believe, as well as by stating that he
+knows a thing which he does not know.
+ILLUSTRATIONS
+(a) A, in support of a just claim which B has against Z for one thousand rupees,
+falsely swears on a trial that he heard Z admit the justice of B's claim. A has
+given false evidence.
+(b) A, being bound by an oath to state the truth, states that he believes a certain
+signature to be the handwriting of Z, when he does not believe it to be the
+handwriting of Z. Here A states that which he knows to be false, and therefore
+gives false evidence.
+(c) A, knowing the general character of Z's handwriting, states that he believes a
+certain signature to be the handwriting of Z; A in good faith believing it to be so.
+Here A's statement is merely as to his belief, and is true as to his belief, and
+therefore, although the signature may not be the handwriting of Z, A has not
+given false evidence.
+(d) A, being bound by an oath to state the truth, states that he knows that Z was at
+a particular place on a particular day, not knowing anything upon the subject. A
+gives false evidence whether Z was at that place on the day named or not.
+(e) A, an interpreter or translator, gives or certifies as a true interpretation or
+translation of a statement or document which he is bound by oath to interpret or
+translate truly, that which is not and which he does not believe to be a true
+interpretation or translation. A has given false evidence.
+COMMENT.—
+Ingredients.—The offence under this section involves three ingredients:—
+(1) A person must be legally bound;
+(a) by an oath, or any express provision of law, to state the truth; or
+(b) to make a declaration upon any subject.
+(2) He must make a false statement.
+(3) He must;
+(a) know or believe it to be false, or
+(b) not believe it to be true.
+1. 'Legally bound by an oath or by an express provision of law, etc.'— In case the
+recourse to a false plea is taken with an oblique motive, it would definitely hinder,
+hamper or impede the flow of justice and prevent the Courts from performing their
+legal duties.2 The Courts have to follow the procedures strictly and cannot allow a
+witness to escape the legal action for giving false evidence before the Court on mere
+explanation that he had given it under the pressure of the police or for some other
+reason. Whenever the witness speaks falsehood in the Court, and it is proved
+satisfactorily, the Court should take a serious action against such witnesses.3 It is
+necessary that the accused should be legally bound by an oath before a competent
+authority. If the Court has no authority to administer an oath the proceeding will be
+coram non judice and a prosecution for false evidence will not stand.4. Similarly, if the
+Court is acting beyond its jurisdiction it will not be sustained.5. For the essentiality of
+section 191, petitioner must have been legally bound to speak truth or make a
+declaration and he must have stated or declared what is false. He must also know or
+believe what he has stated or declared is false or he has believed it true. If there is no
+compulsion to make any declaration as required by law, Section 191 will not have any
+application. The information given by him is not on any oath nor was he bound to give
+such information under any provision of Law.6.
+[s 191.1] 'By an oath'.—
+An oath or a solemn affirmation is not a sine qua non in the offence of giving false
+evidence.7. The offence may be committed although the person giving evidence has
+been either sworn or affirmed.8. Whenever in a Court of law a person binds himself on
+oath to state the truth, he is bound to state the truth and he cannot be heard to say that
+he should not have gone into the witness box or should not have made an affidavit. It is
+no defence to say that he was not bound to enter the witness box.9.
+[s 191.2] 'By an express provision of law'.—
+Under this clause sanction of an oath is not necessary; there must be a specific
+provision of law compelling a person to state the truth. Where the accused is not bound
+by an express provision of law to state the truth he cannot be charged with giving false
+evidence.10.
+[s 191.3] 'Declaration upon any subject'.—
+In certain cases the law requires a declaration from a person of verification in a
+pleading—and if such a declaration is made falsely it will come under this clause. The
+words 'any subject' denote that the declaration must be in connection with a subject
+regarding which it was to be made.
+2. 'Any statement which is false'.—It is not necessary that the false evidence should be
+material to the case in which it is given.11. If the statement made is designedly false,
+the accused is liable whether the statement had a material bearing or not upon the
+matter under enquiry before the Court.12.
+3. 'Knows or believes to be false or does not believe to be true'.—The matter sworn to
+must be either false in fact, or, if true, the accused must not have known it to be so. The
+making of a false statement, without knowledge as to whether the subject-matter of
+the statement is false or not, is legally the giving of false evidence.13. Where a man
+swears to a particular fact, without knowing at the time whether the fact be true or
+false, it is as much perjury as if he knew the fact to be false, and equally indictable.14.
+However, a man cannot be convicted of perjury for having acted rashly, or for having
+failed to make reasonable inquiry with regard to the facts alleged by him to be true.15.
+[s 191.4] Two Contradictory Statements.—
+Merely because a person makes two contradictory statements, one of which must be
+false, it does not make out a case of perjury unless the falsity of one of the two
+statements as charged in the indictment is positively proved to be so.16. In India a
+prosecution for perjury seems to be possible in such a case by virtue of illustration (e)
+of section 221, The Code of Criminal Procedure, 1973, it has been held to be
+inexpedient to do so in the interest of justice. Thus, where a person made one
+statement under section 164 Cr PC, 1973 and a diametrically opposite statement in
+Court during the enquiry or trial, he could in view of this illustration be charged in the
+alternative and convicted of intentionally giving false evidence, although it cannot be
+proved which of these contradictory statements was false. But to do so may be to tie
+him down to his previous false statement under section 164 Cr PC, 1973, and
+preventing him from telling the truth even belatedly at the later stage of enquiry or trial.
+The Supreme Court too has felt that a witness whose statement has been recorded
+under section 164 Cr PC, 1973, feels tied to his previous statement and as such his
+evidence has to be approached with caution.17. In the instant case as it could not be
+shown that the earlier statements of the witnesses recorded under section 164 Cr PC,
+1973 were true and those given before the Magistrate in course of the enquiry were
+false, the complaints of perjury filed against the witnesses were directed to be
+withdrawn.18.
+[s 191.5] As to expert opinion.—
+A scientific expert was asked to give his opinion regarding two cartridges, whether
+those were fired from one firearm or from two different ones, without sending the
+suspected firearm to him. He gave opinion, inter alia, that no definite opinion could be
+offered in order to link the firearm unless the firearm was made available to him. During
+the examination, the Court insisted him to give a definite opinion that too without
+examining the firearm. At that time, he opined that the cartridges appeared to have
+been fired from two separate firearms. Considering that there was a deliberate
+deviation in his opinion the High Court initiated proceedings against him under section
+340 Cr PC, 1973 for perjury. The Supreme Court held that it is unjust, if not unfair, to
+attribute any motive to the appellant that there was a somersault from his original
+stand in the written opinion.19.
+[s 191.6] Written statements and applications.—
+A person filing a written statement in a suit is bound by law to state the truth, and if he
+makes a statement which is false to his knowledge or belief, or which he believes not
+be to true, he is guilty of this offence.20. Signing and verifying an application for
+execution containing false statements is an offence under this section, and it makes no
+difference that at the time when the signature and verification were appended the
+application was blank.21. But the verification of an application, in which the applicant
+makes a false statement, does not subject him to punishment for this offence, if such
+application does not require verification.22.
+[s 191.7] Incriminating statement no justification.—
+When a party makes a false statement while legally bound by solemn affirmation, the
+fact that the statement was one tending to incriminate himself will not justify his
+acquittal on a charge of giving false evidence.23.
+[s 191.8] Illegality of trial does not purge perjury.—
+The fact that the trial in which false evidence is given is to be commenced de novo
+owing to irregularity does not exonerate the person giving false evidence in that trial
+from the obligation to speak the truth, and he is liable for giving false evidence.24.
+[s 191.9] Prosecution for perjury.—
+It has been held by the Supreme Court that the courts should sanction the prosecution
+for perjury only in those cases where perjury appears to be deliberate and where it
+would be expedient in the interest of justice to punish the delinquent and not merely
+because there is some inaccuracy in the statement.25.
+[s 191.10] Accused not liable for giving false evidence.—
+The authors of the Code observe:
+We have no punishment for false evidence given by a person when on his trial for an
+offence, though we conceive that such a person ought to be interrogated... If A stabs Z,
+and afterwards on his trial denies that he stabbed Z, we do not propose to punish A as
+a giver of false evidence.26.
+The accused shall not render himself liable to punishment by refusing to answer questions
+put by the Court or by giving false answers to them.27.
+[s 191.11] CASES.—
+In a case, where the allegation was that the Attorney General and Chief Vigilance
+Officer gave consent to prosecute the Complainant without due care and without
+proper application of mind. The Supreme Court held that it cannot be said that the
+document conveying consent was a 'false document' or that giving of 'consent'
+amounted to giving of 'false evidence' or 'fabricating false evidence' at any stage of
+judicial proceeding.28. A person could only be held guilty of an offence under section
+191 if false evidence is knowingly given or when the statement is believed to be not
+true.29. A witness falsely deposing in another's name;30. and a person falsely verifying
+his plaint;31. and an official making a false return of the service of summons,32. were
+held guilty of giving false evidence. The Supreme Court has held that where a false
+affidavit is sworn by a witness in a proceeding before a Court the offence would fall
+under this section and section 192. It is the offence of giving false evidence or of
+fabricating false evidence for the purpose of being used in a judicial proceeding.33.
+Where a notice of perjury was issued to certain eye-witnesses but it could not be
+shown with certainty that they were liars, it was held that the issue of notices was not
+proper. The Court used its inherent powers and quashed the notices. The challenge
+was presented by only one of the witnesses on his own behalf as well as that of
+others.34.
+[s 191.12] Affidavit.—
+An affidavit is evidence within the meaning of section 191 of the IPC, 1860. It was
+alleged about an affidavit filed in a Court that it contained false statements. The
+affidavit was filed by the party suo motu and not under direction from the Court. Such
+an affidavit could not be termed as evidence. Hence, no action could be taken against
+him under the IPC, 1860.35. Process Server while he takes information from the
+neighbours is not expected to get a sworn statement from them. It is neither an
+affidavit nor a sworn statement. It is only an information, which he has collected to
+show his bona fides that he made attempts to serve the notice on the party. If on the
+request of process server if any such information is given that information cannot be
+treated as false evidence or fabricating evidence nor it could be treated as certificate
+nor a declaration under any of the provisions of this section.36.
+[s 191.13] Abetment.—
+Where an accused asked a witness to suppress certain facts in giving his evidence
+against him (accused), it was held that he was guilty of abetment of giving false
+evidence in a stage of a judicial proceeding.37. Where C falsely represented himself to
+be U, and the writer of a document signed by U, and T, knowing that C was not U and
+had not written such document, adduced C as U, the writer of that document, it was
+held that T was guilty of abetment of giving false evidence.38.
+[s 191.14] Bar under section 195 Cr PC, 1973.—
+Section 195 of the Code lays down the procedure for prosecution for contempt of
+lawful authority of public servants for offences against public justice and for offences
+against public documents given in the form of evidence. As per this provision, Court is
+debarred from taking cognizance of any of the offences punishable under sections
+193–196, 199, 200, 205–211 and section 228, when such offence is alleged to have
+been committed in, or in relation to, any proceedings in any Court except on the
+complaint in writing of that Court by such officer of the Court as that Court may
+authorise in writing in that behalf or of some other Court to which that Court is
+subordinate. The term "Court" in the section means a Civil, Revenue or Criminal Court
+and includes a tribunal. Section 340 of the Code prescribes the procedure to be
+followed for offences mentioned in section 195 of the Code. Therefore, the summoning
+orders of the Magistrate against the petitioners under sections 193/191/209 IPC, 1860
+are hit by provisions of section 195 of the Code and the cognizance taken by the
+Magistrate of the offences is, therefore, without jurisdiction.39. Sections 191 and 192 of
+the IPC, 1860 are the sections that define offences for which punishment is provided
+for in sections 193 and 195 as mentioned in section 195(1)(b) (i), Criminal Procedure
+Code. So the bar to initiate proceedings is applicable to sections 191 and 192 also.40.
+[s 191.15] Procedure.—
+A combined reading of the aforequoted provisions of Cr PC, 1973 and IPC, 1860 as
+also sub-section (3) of section 195, Cr PC, 1973 makes this legal position quite clear
+that they are applicable to any legal proceeding before a Civil Court or a Criminal Court,
+including a Tribunal constituted by Central, Provincial or State Acts, if declared by that
+particular Act to be a Court for the purpose of section 195, Cr PC, 1973. Therefore, if
+the Family Court finds that any party to the proceeding or a witness therein has
+intentionally given false evidence at any stage of a judicial proceeding or fabricated
+false evidence for the purpose of being used in any stage of the proceeding, and the
+Family Court is of the opinion that it is expedient in the interest of justice that an
+enquiry should be made into any evidence referred to in clause (b) of sub-section (1) of
+section 195, Cr PC, 1973 it may hold a preliminary enquiry and if it thinks necessary
+then it may record a finding to that effect and then proceed to make a complaint in
+respect of the particular offence/offences stipulated in clause (b) of section 195, Cr
+PC, 1973 to the concerned Magistrate having jurisdiction against the said person.41.
+1. S Palani Velayutham v District Collector Tirunvelveli TN, (2010) 1 SCC (Cr) 401 : (2009) 10 SCC
+664 [LNIND 2009 SC 1659] : (2009) 12 SCR 1215 [LNIND 2009 SC 1659] .
+2. Chandra Shashi v Anil Kumar Verma, 1995 (1) SCC 421 [LNIND 1994 SC 1604] .
+3. Mishrilal v State of MP, (2005)10 SCC 701 [LNIND 2005 SC 1165] : 2005 SCC (Cr) 1712.
+4. Abdul Majid v Krishna Lal Nag, (1893) 20 Cal 724 ; Niaz Ali, (1882) 5 All 17 ; Mata Dayal (1897)
+24 Cal 755 ; Subba, (1883) 6 Mad 252; Fatteh Ali, (1894) PR No. 15 of 1894.
+5. Chait Ram, (1883) 6 All 103 ; Bharma, (1886) 11 Bom 702 (FB).
+6. D Jothi v K P Kandasamy, 2000 Cr LJ 292 (Mad).
+7. (1865) 2 WR (CrL) 9.
+8. Gobind Chandra Seal, (1892) 19 Cal 355 ; Shava v State, (1891) 16 Bom 359; contra, Maru,
+(1888) 10 All 207 .
+9. Ranjit Singh, 1959 Cr LJ 1124 : AIR 1959 SC 843 [LNIND 1959 SC 63] .
+10. Hari Charan Singh, (1900) 27 Cal 455 .
+11. Parbutty Churn Sircar, (1866) 6 WR (Cr) 84; Damodhar P Kulkarni, (1868) 5 BHC (CrC) 68.
+12. Mohammad Khudabux, (1949) Nag 355.
+13. Echan Meeah, (1865) 2 WR (Cr) 47. Mohammod Hussein v State of Maharashtra, 1995 Cr LJ
+2364 (Bom).
+14. Mawbey, (1796) 6 TR 619, 637; Schlesinger, (1847) 10 QB 670 .
+15. Muhammad Ishaq, (1914) 36 All 362 .
+16. Cross & Jones: Introduction to Criminal Law, 9th Edn, p 275.
+17. Ramcharan, 1968 Cr LJ 1473 : AIR 1968 SC 1267 [LNIND 1968 SC 29] ; Balak Ram, 1974 Cr
+LJ 1486 : AIR 1974 SC 2165 [LNIND 1974 SC 236] .
+18. Ibid. Kuriakose v State of Kerala, 1995 Cr LJ 2687 : 1994 Supp (1) SCC 602 , contradictory
+statements as to contents of panchanama by an attesting witness does not make him liable to
+be prosecuted under the section, gravity of the false statement has also to be taken into
+account.
+19. Prem Sagar Manocha v State (NCT of Delhi), 2016 Cr LJ 1090 : (2016) 4 SCC 571 [LNIND
+2016 SC 9] .
+20. Mehrban Singh, (1884) 6 All 626 ; Padam Singh, (1930) 52 All 856 .
+21. Ratanchand v State, (1904) 6 Bom LR 886 .
+22. Kasi Chunder Mozumdar, (1880) 6 Cal 440 .
+23. (1867) 3 MHC (Appx.) XXXIX.
+24. Virasami v State, (1896) 19 Mad 375; Batesar Mandal, (1884) 10 Cal 604 .
+25. State (Govt. of NCT of Delhi) v Pankaj Chaudhary, AIR 2018 SC 5412 [LNIND 2018 SC 565] .
+26. Note G, p 131.
+27. Criminal Procedure Code, section 313 (3).
+28. Buddhi Kota Subbarao v K Parasaran, AIR 1996 SC 2687 [LNIND 1996 SC 1254] : (1996) 5
+SCC 530 [LNIND 1996 SC 1254] .
+29. Indian Structural Engineering Company Pvt Ltd v Pradip Kumar Saha, 2009 Cr LJ 4229 (Cal).
+30. Prema Bhika (1863) 1 BHC 89.
+31. Luxumandas, (1869) Unrep CrC 25.
+32. Shama Churn Roy, (1867) 8 WR (Cr) 27.
+33. Baban Singh v Jagdish Singh, AIR 1967 SC 68 [LNIND 1966 SC 47] : 1967 Cr LJ 6 ; MP Paul,
+1973 Cr LJ 1284 (Ker).
+34. State v Manoher Yeshwant Paul, 1997 Cr LJ 3114 (Bom).
+35. Delhi Lotteries v Rajesh Agarwal, AIR 1998 : 1332 (Del).
+36. D Jothi v K P Kandasamy, 2000 Cr LJ 292 (Mad).
+37. Andy Chetty, (1865) 2 MHC 438 .
+38. Chundi Churn, Nauth, (1867) 8 WR (Cr) 5.
+39. Kusum Sandhu v Sh Ved Prakash Narang, 2009 Cr LJ 1078 (Del).
+40. Premjit Kaur v Harsinder Singh, (1982) 2 SCC 167 : (1982) 1 SCC (Cr) 379 : 1982 CrLR 318.
+41. Arun Kumar Agarwal v Mrs. Radha Arun, 2001 Cr LJ 3561 (KAR).

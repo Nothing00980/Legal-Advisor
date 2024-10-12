@@ -1,0 +1,146 @@
+Robbery.
+In all robbery there is either theft or extortion.
+When theft is robbery.
+Theft is "robbery" if, in order to the committing of the theft, or in committing the
+theft, or in carrying away1 or attempting to carry away property obtained by the
+theft, the offender, for that end,2 voluntarily causes3 or attempts to cause to any
+person4 death or hurt or wrongful restraint, or fear of instant death or of instant
+hurt, or of instant wrongful restraint.
+When extortion is robbery.
+Extortion is "robbery" if the offender, at the time of committing the extortion, is in
+the presence of the person put in fear, and commits the extortion by putting that
+person in fear of instant death, of instant hurt, or of instant wrongful restraint to
+that person or to some other person, and, by so putting in fear, induces the person
+so put in fear then and there to deliver up the thing extorted.
+Explanation.—The offender is said to be present if he is sufficiently near to put the
+other person in fear of instant death, or instant hurt, or of instant wrongful
+restraint.
+ILLUSTRATIONS
+(a) A holds Z down and fraudulently takes Z's money and jewels from Z's clothes
+without Z's consent. Here A has committed theft, and in order to the committing
+of that theft, has voluntarily caused wrongful restraint to Z. A has therefore
+committed robbery.
+(b) A meets Z on the highroads, shows a pistol, and demands Z's purse. Z in
+consequence, surrenders his purse. Here A has extorted the purse from Z by
+putting him in fear of instant hurt, and being at the time of committing the
+extortion in his presence. A has therefore committed robbery.
+(c) A meets Z and Z's child on the highroad. A takes the child and threatens to fling
+it down a precipice, unless Z delivers his purse. Z, in consequence delivers his
+purse. Here A has extorted the purse from Z, by causing Z to be in fear of instant
+hurt to the child who is there present. A has therefore committed robbery on Z.
+(d) A obtains property from Z by saying—"Your child is in the hands of my gang, and
+will be put to death unless you send us ten thousand rupees". This is extortion,
+and punishable as such; but it is not robbery, unless Z is put in fear of the instant
+death of his child.
+COMMENT—
+Robbery is a special and aggravated form of either theft or extortion. The chief
+distinguishing element in robbery is the presence of imminent fear of violence. The
+second para distinguishes robbery from theft, the third distinguishes it from extortion.
+[s 390.1] Object.—
+The authors of the Code observe: "There can be no case of robbery which does not fall
+within the definition either of theft or of extortion; but in practice it will perpetually be a
+matter of doubt whether a particular act of robbery was a theft or extortion. A large
+proportion of robberies will be half theft, half extortion. A seizes Z, threatens to murder
+him, unless he delivers all his property, and begins to pull off Z's ornaments. Z in terror
+begs that A will take all he has, and spare his life, assists in taking off his ornaments,
+and delivers them to A. Here, such ornaments as A took without Z's consent are taken
+by theft. Those which Z delivered up from fear of death are acquired by extortion. It is
+by no means improbable that Z's right-arm bracelet may have been obtained by theft,
+and left-arm bracelet by extortion; that the rupees in Z's girdle may have been obtained
+by theft, and those in his turban by extortion. Probably in nine-tenths of the robberies
+which are committed, something like this actually takes place, and it is probable that a
+few minutes later neither the robber nor the person robbed would be able to recollect in
+what proportions theft and extortion were mixed in the crime; nor is it at all necessary
+for the ends of justice that this should be ascertained. For though, in general the
+consent of a sufferer is a circumstance which vary materially modifies the character of
+the offence, and which ought, therefore, to be made known to the Courts, yet the
+consent which a person gives to the taking of his property by a ruffian who holds a
+pistol to his breast is a circumstance altogether immaterial".140.
+The Explanation and illustrations (b) and (c) mark the distinction between simple
+extortion and extortion which is robbery. Illustration (a) indicates when theft is robbery.
+An analysis of section 390 IPC, 1860 would show that in order that theft may constitute
+robbery, prosecution has to establish:
+(a) if in order to the committing of theft; or
+(b) in committing the theft; or
+(c) in carrying away or attempting to carry away property obtained by theft; or
+(d) the offender for that end i.e. any of the ends contemplated by (a) to (c); or
+(e) voluntarily causes or attempts to cause to any person death or hurt or wrongful
+restraint or fear of instant death or of instant hurt or instant wrongful restraint.
+In other words, theft would only be robbery if for any of the ends mentioned in (a) to (c)
+the offender voluntarily causes or attempts to cause to any person death or hurt or
+wrongful restraint or fear of instant death or of instant hurl or instant wrongful restraint.
+If the ends does not fall within (a) to (c) but, the offender still causes or attempts to
+cause to any person death or hurt or wrongful restraint or fear of instant death or of
+instant hurt or instant wrongful restraint, the offence would not be robbery. The Court
+emphasised that (a) or (b) or (c) have to be read conjunctively with (d) and (e). It is only
+when (a) or (b) or (c) co-exist with (d) and (e) or there is a nexus between any of them
+and (d) and (e) would theft amount to robbery.141.
+[s 390.2] Theft, extortion and robbery.—
+Theft or extortion when caused with violence causing death or fear of death, hurt or
+wrongful restraint is robbery. When there is no theft, as a natural corollary, there cannot
+be robbery. Robbery is only an aggravated form of theft or extortion. Aggravation is in
+the use of violence causing death or fear of death, hurt or restraint. Violence must be in
+the course of theft and not subsequently. Also, it is not necessary that violence should
+actually be committed, even attempt to commit it is enough.142.
+1. 'Carrying away'.—Even if death, hurt or wrongful restraint, or fear of any of these, is
+caused after committing theft, in order to carry away the property obtained by theft,
+this offence would be committed.
+2. 'For that end'.—Death, hurt or wrongful restraint must be caused in committing theft,
+or in carrying away property obtained by theft. The expression "for that end" clearly
+means that the hurt caused by the offender must be with the object of facilitating the
+committing of theft or must be caused while the offender is committing theft or is
+carrying away or is attempting to carry away property obtained by theft.143. Where a
+person caused hurt only to avoid capture when surprised while stealing144. it was held
+that theft, and not robbery, was committed. The use of violence will not convert the
+offence of theft into robbery, unless the violence is committed for one of the ends
+specified in this section. Where the accused abandoned the property obtained by theft
+and threw stones at his pursuer to deter him from continuing the pursuit, it was held
+that the accused was guilty of theft and not of robbery.145. The victim was relieved of
+his watch in a running train by one of the two accused who were associates in crime.
+As the snatcher was trying to get down from the train, the victim raised alarm.
+Whereupon the second accused gave a slap to the victim. It was held that the hurt
+caused was directly related to the theft i.e., to facilitate carrying away of the property
+obtained by theft and as such the accused were rightly convicted under section 392,
+IPC, 1860.146.
+3. 'Voluntarily causes'.—These words denote that an accidental infliction of injury by a
+thief will not convert his offence into robbery. Thus, where a person while cutting a
+string, by which a basket was tied, with intent to steal it, accidentally cut the wrist of the
+owner, who at the moment tried to seize and keep the basket, and ran away with it, it
+was held that the offence committed was theft and not robbery.147. But where in
+committing theft, there is indubitably an intention seconded by an attempt to cause
+hurt, the offence is robbery.148. In order to make an offence of theft a robbery there
+must be either theft and injury or threat of injury while committing theft.149.
+4. 'Person'.—The word 'person' cannot be so narrowly construed as to exclude the dead
+body of a human being who was killed in the course of the same transaction in which
+theft was committed.150.
+[s 390.3] CASES.—
+Where participation of the accused, was not explained by the prosecution and there
+were contradictions in the evidence of prosecution witnesses, the Court acquitted the
+accused.151.
+The accused sprinkled chilli powder in the eyes of certain persons and snatched their
+attaches containing cash. The evidence of persons who were carrying was found to be
+reliable. Cash was recovered as a result of disclosures made by the accused.
+Presumption under section 114 of the Indian Evidence Act, 1872 applied. The accused
+was accordingly convicted.152.
+140. Note N, p 162.
+141. State of Maharashtra v Joseph Mingel Koli, 1997 (2) Crimes 228 [LNIND 1996 BOM 667]
+(Bom.).
+142. Venu v State of Karnataka, (2008) 3 SCC 94 [LNIND 2008 SC 208] : (2008) 1 SCC (Cr) 623 :
+AIR 2008 SC 1199 [LNIND 2008 SC 208] : 2008 Cr LJ 1634 .
+143. Venu v State of Karnataka, (2008) 3 SCC 94 [LNIND 2008 SC 208] : AIR 2008 SC 1199
+[LNIND 2008 SC 208] : 2008 Cr LJ 1634 .
+144. Kalio Kerio, (1872) Unrep Cr C 65.
+145. (1865) 1 Weir 442; Kalio Kiero, sup.
+146. Harish Chandra, 1976 Cr LJ 1168 : AIR 1976 SC 1430 : (1976) 2 SCC 795 .
+147. Edwards, (1843) 1 Cox 32.
+148. Teekai Bheer, (1866) 5 WR (Cr) 95.
+149. Padmanava Mohapatra, 1983 Cr LJ NOC 238 (Ori). Proved case of robbery and murder.
+State of Kerala v Naduvectil Vishwanathan, 1991 Cr LJ 1501 .
+150. Jamnadas, AIR 1963 MP 106 [LNIND 1962 MP 173] .
+151. Prabhat Marak v State of Tripura, 2011 Cr LJ 1844 (Gau).
+152. Rameshwar Soni v State of MP, 1997 Cr LJ 3418 (MP). As to when theft becomes robbery
+see State of Maharashtra v Vinayak Tukaram, 1997 Cr LJ 3988 (Bom), here the accused snatched
+three gold buttons from the shirt of the victim at a railway platform. He gave a knife blow on
+being caught. Convicted for robbery. The Court said that it could not be contended that he gave
+the knife blow only to extricate himself from the clutches of the person holding him and to
+ensure the taking away of the stolen gold buttons.

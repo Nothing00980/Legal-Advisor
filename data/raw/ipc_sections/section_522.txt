@@ -1,0 +1,248 @@
+Punishment for attempting to commit offences punishable with
+imprisonment for life or other imprisonment.
+Whoever attempts to commit an offence punishable by this Code1. with 1
+[imprisonment for life] or imprisonment, or to cause such an offence to be committed,
+and in such attempt does any act towards the commission of the offence, shall, where
+no express provision is made by this Code2. for the punishment of such attempt, be
+punished with 2 [imprisonment of any description provided for the offence, for a term
+which may extend to one-half of the imprisonment for life or, as the case may be, one-
+half of the longest term of imprisonment provided for that offence], or with such fine
+as is provided for the offence, or with both.
+ILLUSTRATIONS
+(a) A makes an attempt to steal some jewels by breaking open a box, and finds
+after so opening the box, that there is no jewel in it. He has done an act towards
+the commission of theft, and therefore is guilty under this section.
+(b) A makes an attempt to pick the pocket of Z by thrusting his hand into Z's pocket.
+A fails in the attempt in consequence of Z's having nothing in his pocket. A is
+guilty under this section.
+COMMENT.—
+Before completion of crime, human mind has to pass four steps as under:—
+(1) Intention to commit;
+(2) Preparation to commit it;
+(3) Attempt to commit it; and
+(4) If the attempt is successful, then crime is complete.
+Section 511 Indian Penal Code, 1860 (IPC, 1860) is a general provision dealing with the
+attempts to commit offences and not made punishable by other specific section. It
+makes punishable all attempts to commit offences punishable with imprisonment and
+not only those punishable for life or death.3.
+A person commits the offence of 'attempt to commit a particular offence' when (i) he
+intends to commit that particular offence; and (ii) he, having made preparations and
+with the intention to commit the offence, does an act towards its commission; such an
+act need not be the penultimate act towards the commission of that offence, but must
+be an act during the course of committing that offence, section 511, IPC, 1860 is
+attracted.4. An attempt to commit an offence is an act, or a series of acts, which leads
+inevitably to the commission of the offence, unless something, which the doer of the
+act neither foresaw nor intended, happens to prevent this. An attempt may be
+described to be an act done in part execution of a criminal design, amounting to more
+than mere preparation, but falling short of actual consummation, and, possessing,
+except for failure to consummate, all the elements of the substantive crime. In other
+words, an attempt consists in it the intent to commit a crime, falling short of, its actual
+commission or consummation/completion. It may consequently be defined as that
+which if not prevented would have resulted in the full consummation of the act
+attempted. The illustrations given in section 511 clearly show the legislative intention
+to make a difference between the cases of a mere preparation and an attempt.5.
+In Om Prakash's case6. the Supreme Court has clearly held that like section 511, IPC,
+1860 in section 307, IPC, 1860 to the act need not be the penultimate act.
+[s 511.1] Essentials.—
+In every crime, there is first intention to commit it; second, preparation to commit it;
+third, attempt to commit it. If the third stage, that is attempt is successful, then the
+crime is complete. If the attempt fails, the crime is not complete but the law punishes
+the person attempting the act. An 'attempt' is made punishable, because every attempt,
+although it fails of success, must create alarm, which, of itself, is an injury, and the
+moral guilt of the offender is the same as if he had succeeded.
+A culprit first intends to commit the offence, then makes preparation for committing it
+and thereafter attempts to commit the offence. If the attempt succeeds, he has
+committed the offence, if it fails due to reasons beyond his control, he is said to have
+attempted to commit the offence. Attempt to commit an offence can be said to begin
+when the preparations are complete and the culprit commences to do something with
+the intention of committing the offence and which is a step towards the commission of
+the offence. The moment he commences to do an act with the necessary intention, he
+commences his attempt to commit the offence—the act need not be the penultimate
+act towards the commission of the offence but it must be an act during the course of
+committing that offence.7.
+(1) Intention.—Intention is the direction of conduct towards the object chosen upon
+considering the motives which suggest the choice.8. The will is not to be taken for the
+deed, unless there be some external act which shows that progress has been made in
+the direction of it, or towards maturing and affecting it. In an attempt to commit an
+offence, there must be intention to commit the crime combined with doing of some act
+adopted to, but falling short of its actual commission.9.
+(2) Preparation.—Preparation consists in devising or arranging the means or measures
+necessary for the commission of an offence.10.
+[s 511.2] Removal of rice bags from godown in order to sell them.—
+A Government stockist removed 80 bags of rice from a godown in his charge and
+concealed them in a room with a view to sell them and appropriate the sale proceeds. It
+was held that the act of the stockist amounted only to preparation and therefore, he
+was not guilty of any offence.11.
+[s 511.3] Running towards well for committing suicide.—
+A woman ran to a well stating she would jump into it, and she was caught before she
+could reach it. It was held that she could not be convicted of an attempt to commit
+suicide as she might have changed her mind before jumping into the well.12.
+(3) Attempt.—Attempt is the direct movement towards the commission after the
+preparations are made.13. In State of Maharashtra v Mohd. Yakub,14. reported in the
+Apex Court considered the definition of 'attempt to commit crime' as the last proximate
+act which a person does towards the commission of an offence, the consummation of
+the offence being hindered by circumstances beyond his control. It was observed by
+the Apex Court that what constitutes an "attempt" is a mixed question of law and fact,
+depending largely on the circumstances of the particular case. "Attempt" defies a
+precise and exact definition. Broadly speaking, all crimes which consist of the
+commission of affirmative acts are preceded by some covert or overt conduct which
+may be divided into three stages. The first stage exists when the culprit first entertains
+the idea or intention to commit an offence. In the second stage, he makes preparations
+to commit it. The third stage is reached when the culprit takes deliberate overt steps to
+commit the offence. Such overt act or step in order to be 'criminal' need not be the
+penultimate act towards the commission of the offence. It is sufficient if such act or
+acts were deliberately done, and manifest a clear intention to commit the offence
+aimed, being reasonably proximate to the consummation of the offence.
+The test for determining whether the acts constitute attempt or preparation is whether
+the overt acts already done are such that if the offender changes his mind and does not
+proceed further in its progress, the acts already done would be completely harmless.
+But where the thing done is such as, if not prevented by any extraneous cause, would
+fructify into commission of an offence, it would amount to an attempt to commit that
+offence.15. An attempt to commit an offence does not cease to be an attempt merely
+because after the attempt is made and before the actual completion of the offence the
+offender may be able to prevent its completion by doing some other act in pursuance
+of a changed intention.16.
+An accused is liable for attempt where his failure to commit an offence is not due to
+any act or omission of his own, but to the intervention of some factor independent of
+his own volition.17. Where misrepresentations had been made and money obtained
+from the persons sought to be cheated by misrepresentations, there is an attempt to
+cheat and not merely a preparation for committing that offence.18.
+[s 511.4] Distinction between 'preparation' and 'attempt'.—
+There is a distinction between 'preparation' and 'attempt'. Attempt begins where
+preparation ends. A person commits the offence of attempt to commit a particular
+offence when accused (i) intends to commit a particular offence, (ii) he having made
+preparation and with the intention to commit an offence, (iii) does an act towards its
+commission, such an act need not be the penultimate act towards the commission of
+that offence but must be an act during the course of committing that offence.19.
+1. 'Offence punishable by this Code'.—No criminal liability can be incurred under the
+Code by an attempt to do an act, which if done will not be an offence against the
+Code.20.
+The expression "whoever attempts to commit an offence" in this section can only mean
+"whoever intends to do a certain act with the intent or knowledge necessary for the
+commission of that offence".21.
+[s 511.5] Impossible offence.—
+An attempt is possible, even when the offence attempted cannot be committed; as
+when a person, intending to pick another person's pocket, thrusts his hand into the
+pocket, but finds it empty. That such an act would amount to a criminal attempt
+appears from the illustrations to this section. But in doing such an act, the offender's
+intention is to commit a complete offence, and his act only falls short of the offence by
+reason of an accidental circumstance which has prevented the completion of the
+offence. It is possible to attempt to commit an impossible theft and so offend against
+the Code because theft is itself an offence against the Code, and may therefore, be
+attempted within the meaning of the Code. At the same time it is necessary to show
+that the means adopted are apparently suitable for the fulfilment of the design.22. Thus
+where a man threatens the life of another with a child's pop gun using a cork as a
+projectile23. or tries to pick the pocket of a man who is well beyond the reach of his
+hand, no attempt either to commit murder or to steal can be said to have been
+committed as the means adopted are impossible of achieving the designed purpose.
+Similar would be the case in regard to absolutely impossible acts. Thus where the act
+is such that it is incapable of commission, e.g., trying to steal from an empty room or
+an empty pocket or trying to kill a person by shooting at a bulge in a bed thinking it to
+be the enemy, no criminal attempt can be said to have been committed.24. In the IPC,
+1860, however, trying to steal from an empty pocket would still constitute an attempt
+as Illustration (b) to section 511, IPC, 1860 specifically says so. Though in England too
+this happened to be the law previously25. the position has materially changed after the
+decision of the House of Lords in Haughtons case.26. It is felt that the law in India
+should be changed on this score at least to bring about a uniformity of approach to this
+question of attempt so far sections 307 and 511, IPC, 1860 are concerned especially,
+after the decision of the Supreme Court in the case of Om Prakash's case,27. has held
+that under both these sections the act need not be the last proximate act.
+[s 511.6] Attempt to cheat.—
+The accused applied to the Patna University for permission to appear at the MA
+Examination in English as a private candidate representing that he was a graduate
+having obtained his BA degree three years earlier and that he had been teaching in a
+certain school. In support of his application, he attached certain certificates purporting
+to be from the Headmaster of the School and the Inspector of Schools. The University
+authorities gave the accused permission to appear at the examination. Later on, finding
+that the certificates were false and that the accused was not a graduate and was not a
+teacher, the University authorities withdrew the permission. The Supreme Court held
+that the accused was guilty of attempting to cheat and that the moment the accused
+dispatched his application to the University, he entered the realm of attempting to
+commit the offence of cheating.28. Where the accused made an alteration in his own
+affidavit under the honest belief that it was necessary for customs' clearance, the
+Supreme Court set aside the conviction under section 420 read with this section.29.
+The offence of attempting to cheat may be committed even though the person
+attempted to be cheated does not believe in the representations made to him and is
+not misled by them but only feigns belief in order to trap the offender.30.
+[s 511.7] Outraging Modesty of a Woman and attempt to Rape (sections 354
+and 511 read with section 376).—
+In between complete rape and attempt to commit rape there is a rare area covered by
+section 354 of IPC, 1860, i.e., assault or criminal force to woman with intent to outrage
+her modesty or indecent assault. The dividing line between attempt to commit rape and
+indecent assault is not only thin but also is practically invisible. For an offence of
+attempt to commit rape, prosecution is required to establish that the act of the accused
+went beyond the stage of preparation. In a given case, where the prosecutrix was made
+naked and her cries attracted her uncle who came to the spot and then the accused
+fled away, it was held that it was not a case of attempt to commit rape but was one
+under section 354 of IPC, 1860.31.
+[s 511.8] 'Attempt could be a minor offence'.—
+It is true that there was no charge under section 376 read with section 511, IPC, 1860.
+However, under section 222 of the Code of Criminal Procedure, 1973 (Cr PC, 1973)
+when a person is charged for an offence he may be convicted of an attempt to commit
+such offence although the attempt is not separately charged.32.
+2. 'Where no express provision is made by this Code'.—The section does not apply to
+cases of attempts made punishable by some specific sections of the Code. The
+attempts specifically provided for are:—
+Section 121, attempt to wage war against the Government of India. Section 124,
+attempt wrongfully to restrain the President and other high officials with intent to
+induce or compel them to exercise or refrain from exercising any of their lawful powers.
+Section 125, attempt to wage war against the Government of any Asiatic Power in
+alliance or at peace with the Government of India. Section 130, attempt to rescue State
+prisoners or prisoners of war. Section 196, attempt to use as the evidence known to be
+false. Sections 198, 200, attempt to use as true a certificate or declaration known to be
+false in a material point. Section 213, attempt to obtain a gratification to screen an
+offender from punishment. Sections 239 and 240, attempt to induce a person to
+receive a counterfeit coin. Section 241, attempt to induce a person to receive as
+genuine counterfeit coin which, when the offender took it, he did not know to be
+counterfeit. Sections 307 and 308, attempts to commit murder and culpable homicide.
+Section 309, attempt to commit suicide. Sections 385, 387 and 389, attempt to put a
+person in fear of injury or accusation in order to commit extortion. Section 391,
+conjoint attempt of five or more persons to commit dacoity. Sections 393, 394 and 398,
+attempts to commit robbery. Section 460, attempt by one of many joint house-breakers
+by night to cause death or grievous hurt.
+1. Subs. by Act 26 of 1955, section 117 and Sch, for transportation for life (w.e.f. 1 January
+1956).
+2. Subs. by Act 26 of 1955, section 117 and Sch, for certain words (w.e.f. 1 January 1956).
+3. Pawan Kumar v State of Haryana, 2010 Cr LJ 2077 (P&H).
+4. I K Narayana v State of Karnataka, 2013 Cr LJ 874 (Kant).
+5. Koppula Venkat Rao v State of AP, AIR 2004 SC 1874 [LNIND 2004 SC 301] : 2004 Cr LJ 1804
+(SC).
+6. Om Prakash, 1961 (2) Cr LJ 848 (SC).
+7. Abhayanand, AIR 1961 SC 1698 [LNIND 1961 SC 202] ; Om Prakash, 1961 (2) Cr LJ 848 (SC).
+8. James Fitzjames Stephen, General View of the Criminal Law of England, 2nd Edn, p 69;
+Koppula Venkat Rao v State of AP, AIR 2004 SC 1874 [LNIND 2004 SC 301] : 2004 Cr LJ 1804 :
+(2004) 3 sCC 602, the Supreme Court explained why attempt has been characterized as crime.
+9. Damodar Behera v State of Orissa, 1996 Cr LJ 344 (Ori).
+10. Quoted with approval from Mayne's Criminal Law in Peterson's case, (1876) 1 All 316 , 317
+and in Padala Venkatasami, (1881) 3 Mad 4, 5; Ashaq Hussain, (1948) Pak LR 155.
+11. Bhagwat v State, (1948) 28 Pat 92.
+12. Ramakka, (1884) 8 Mad 5.
+13. Quoted with approval from Mayne's Criminal Law in Peterson, (1876) 1 All 316 , and in
+Padala Venkatasami, (1881) 3 Mad 4.
+14. State of Maharashtra v Mohd. Yakub, AIR 1980 SC 1111 [LNIND 1980 SC 99] : (1980) 3 SCC
+57 [LNIND 1980 SC 99] .
+15. Tustipada Mandal, (1950) Cut 75.
+16. Haricharan v State, AIR 1950 Ori 114 [LNIND 1949 ORI 25] (SB).
+17. Mangeram v Lal Chhatramohansingh, (1950) Nag 908.
+18. Bashirbhai, (1960) 3 SCR 554 [LNIND 1960 SC 126] : 62 Bom LR 908.
+19. State of Maharashtra v Mohd. Yakub, AIR 1980 SC 1111 [LNIND 1980 SC 99] : (1980) 3 SCC
+57 [LNIND 1980 SC 99] .
+20. Mangesh Jivaji, (1887) 11 Bom 376, 381; Ram Charit Ram Bhakat v Chairman, Rajshahi
+District Board, (1938) 1 Cal 420 .
+21. Om Prakash, AIR 1962 SC 1782 .
+22. Mohinder Singh, 1960 Cr LJ 393 (Punj).
+23. Ibid.
+24. Haughton v Smith, (1975) AC 476 Per House of Lords : (1973) 3 All ER 1109 : (1974) 2 WLR
+607 ; see also Neilson (1978) RTR 232 .
+25. Ring, (1892) 61 LJ MC 116.
+26. Haughton, supra.
+27. Om Prakash, 1961 (2) Cr LJ 848 (SC).
+28. Abhayanand, AIR 1961 SC 1698 [LNIND 1961 SC 202] ; see also Sudhir Kumar, 1973 Cr LJ
+1798 (SC); State of Maharashtra v Mohd. Yakub, 1980 Cr LJ 793 (SC).
+29. Kapoor Chand Maganlal Chanderia v State (Delhi Admn), 1985 SCC (Cr) 441 : (1985) Supp
+SCC 268 .
+30. Bashirbhai, 62 Bom LR 908 : (1960) 3 SCR 554 [LNIND 1960 SC 126] .
+31. Tukaram Govind Yadav v State of Maharashtra, 2011 Cr LJ 1501 (Bom); State of MP v Babulal,
+AIR 1960 MP 155 [LNIND 1959 MP 49] ; Rajesh Vishwakarma v State of Jharkhand, 2011 Cr LJ
+2753 (Jha); Pawan Kumar v State of Haryana, 2010 Cr LJ 2077 (P&H).
+32. Pandharinath v State of Maharashtra, (2009) 14 SCC 537 [LNIND 2009 SC 1378] .

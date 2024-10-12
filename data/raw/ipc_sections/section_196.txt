@@ -1,0 +1,240 @@
+Punishment for false evidence.
+Whoever intentionally gives false evidence in any stage of a judicial proceeding, or
+fabricates false evidence for the purpose of being used in any stage of a judicial
+proceeding,1 shall be punished with imprisonment of either description for a term
+which may extend to seven years, and shall also be liable to fine, and whoever
+intentionally gives or fabricates false evidence in any other case,2 shall be punished
+with imprisonment of either description for a term which may extend to three years,
+and shall also be liable to fine.
+Explanation 1.—A trial before a Court-martial; 67. [***] is a judicial proceeding.
+Explanation 2.—An investigation directed by law preliminary to a proceeding before a
+Court of Justice, is a stage of a judicial proceeding, though that investigation may not
+take place before a Court of Justice.
+ILLUSTRATION
+A, in an enquiry before a Magistrate for the purpose of ascertaining whether Z ought to
+be committed for trial, makes on oath a statement which he knows to be false. As this
+enquiry is a stage of a judicial proceeding, A has given false evidence.
+Explanation 3.—An investigation directed by a Court of Justice according to law, and
+conducted under the authority of a Court of Justice, is a stage of a judicial
+proceeding, though that investigation may not take place before a Court of Justice.
+ILLUSTRATION
+A, in any enquiry before an officer deputed by a Court of Justice to ascertain on the
+spot the boundaries of land, makes on oath a statement which he knows to be false.
+As this enquiry is a stage of a judicial proceeding. A has given false evidence.
+COMMENT.—
+Sections 191 and 192 define the offences punishable under this section. The first
+paragraph applies only to cases in which the false evidence is given in a judicial
+proceeding, the second to all other cases. If the offence is committed in any stage of a
+judicial proceeding it is more severely punishable than when it is committed in a non-
+judicial proceeding.
+Intention is the essential ingredient in the constitution of this offence. If the statement
+was false, and known or believed by the accused to be false, it may be presumed that
+in making that statement he intentionally gave false evidence. In order to make a
+person liable for perjury it is necessary that he should have made a statement on oath
+regarding the facts on which his statement was based and then deny those facts on
+oath on a subsequent occasion.68. The mere fact that a deponent has made
+contradictory statements at two different stages in a judicial proceeding is not by itself
+always sufficient to justify a prosecution for perjury under section 193 but it must be
+established that the deponent has intentionally given false statement in any stage of
+the 'judicial proceeding' or fabricated false evidence for the purpose of being used in
+any stage of the 'judicial proceeding'.69.
+It is not necessary that the false statement should be material to the case. The gist of
+the offence is the giving or fabrication of false evidence intentionally. Where knowledge
+of falsity is proved, intention is readily presumed.70.
+1. 'Any stage of a judicial proceeding'.—The recording of a statement under section
+161 itself is a judicial proceeding in view of Explanation 2 to section 193 in so far as
+recording of a statement is part of the investigation directed by law preliminary to a
+proceeding before a Court of justice and therefore is a stage of the judicial
+proceedings. Mere failure to support contention made in said FIR while giving evidence
+under section 164 Cr PC, 1973, can't conclusively lead to hold that he had given false
+evidence by departing from contentions made in FIR.71. Where a witness in Sessions
+trial deposing contrary to what he had said in a statement recorded under section 164,
+recourse to section 340 cannot be taken without first deciding whether the earlier
+statement was false.72. In the course of proceedings for execution of a decree in a
+Court which had no jurisdiction to entertain such proceedings the judgment-debtor
+made a false statement and produced a forged receipt. The Court made a complaint
+under section 195 of the Criminal Procedure Code for prosecution of the judgment-
+debtor in respect of the said offences; it was held that if during the course of the
+proceedings which were ultra vires and illegal any offence under section 471 of the
+Code was committed, it could not be said that it was committed in or in relation to, or
+by a party to, any judicial proceedings, in which evidence could be legally taken, and
+therefore the complaint must be dismissed.73. Since enquiry conducted by an officer of
+the Railway Protection Force is a judicial proceeding under section 9 of The Railway
+Property (Unlawful Possession) Act, 1966, furnishing of false documents in course of
+such an enquiry would amount to an offence under section 193, IPC, 1860.74. Giving
+false evidence in support of the prosecution case during the course of trial falls within
+the ambit of sections 193 and 195, IPC, 1860, and not under section 211, IPC, 1860, as
+there is no institution of criminal proceeding in such a case.75. (See Comments under
+sub-head "Falsely Charges" under section 211 infra.) Where the accused abetted the
+offence of forgery by creating a false document with a view to use it in a suit but did
+not use it in the suit, it was held that there was no question of prosecuting him under
+section 193, IPC, 1860, nor was a Court complaint under section 195(1) (b) (i), Cr PC,
+1973, necessary in the case. The accused could be safely prosecuted under section
+467 read with section 114, IPC, 1860, on a private complaint.76.
+Where the accused police-officer asked a police official to forge the signature of his
+superior on the carbon copy of the counter-affidavit containing false averments and the
+same was filed in the Supreme Court with that forged signature, the accused was held
+guilty of an offence under section 192.77.
+Questions which a person is compelled to answer and the answers which have a
+tendency to incriminate, cannot be the sole basis of a charge of perjury.78.
+[s 193.1] Court Complaint: When?—
+In Iqbal Singh Marwah v Meenakshi Marwah,79. the Constitution Bench held that the
+section 195(1)(b)(ii) -Cr PC, 1973 which mandates that 'no Court shall take cognizance
+of offences relating to documents given in evidence except on the complaint in writing
+of that Court, or of some other Court to which that Court is subordinate', would be
+attracted only when the offences enumerated in the said provision have been
+committed with respect to a document after it has been produced or given in evidence
+in a proceedings in any Court, i.e., during the time when the documents was in custodial
+legis.80. Though the Rent Controller discharges quasi-judicial functions, he is not a
+Court, as understood in the conventional sense and he cannot, therefore, make a
+complaint under section 340 Cr PC, 1973.81.
+[s 193.2] Belated complaint.—
+A witness made false statement before a competent Court and the accused were
+convicted. The appellate Court (Sessions Court) held that the witness had given false
+statement and directed that a notice be issued to him to show cause why a complaint
+under section 193, IPC, 1860 be not filed against him. The notice was issued and after
+hearing him, the Court directed that a complaint be filed. The High Court found that the
+notice issued to him was no notice because it did not specify the portions that were
+found to be false, besides the statement was recorded ten years ago. The Court held
+that it was not proper to file a complaint at that stage. The Court set aside the order of
+the Sessions Judge.82.
+[s 193.3] Supreme Court cannot convert itself into trial Court.—
+The accused filed a forged affidavit before the Supreme Court. It was held by the three
+Judge Bench that the Supreme Court could not try and convict the accused. The order
+of the Supreme Court convicting the accused and sentencing him to three months'
+imprisonment was liable to be set aside because of non-compliance of procedure
+prescribed by sections 195 and 340, Cr PC, 1973 and also because of lack of original
+jurisdiction to try a criminal offence under section 193, IPC, 1860. Directions to the
+competent authority to proceed in the matter were not issued because the accused
+had already served out the sentence of imprisonment imposed on him.83.
+[s 193.4] False Affidavits.—
+The swearing of false affidavits in judicial proceedings not only has the tendency of
+causing obstruction in the due course of judicial proceedings but has also the tendency
+to impede, obstruct and interfere with the administration of justice. The due process of
+law cannot be permitted to be slighted nor the majesty of law be made a mockery by
+such acts or conduct on the part of the parties to the litigation or even while appearing
+as witnesses. Anyone who makes an attempt to impede or undermine or obstruct the
+free flow of the unsoiled stream of justice by resorting to the filing of false evidence
+commits criminal contempt of the Court and renders himself liable to be dealt with in
+accordance with the Act. On facts, High Court found that apart from committing
+contempt of Court the accused-1 has also committed an offence of perjury punishable
+under section 193, IPC, 1860 committed in relation to proceedings of the Court. Court
+directed the Registrar (Judicial) under section 340(3)(b), Cr PC, 1973 to file a complaint
+before the jurisdictional Magistrate in this regard.84.
+[s 193.5] CASES.—
+A father handed over the custody of his minor daughter to the accused woman for
+household chores, but thereafter his efforts to get back his daughter failed. He filed a
+habeas corpus petition and the Court directed the respondent to produce the girl in
+response to which the respondent produced some other girl of the same name to
+mislead the Court. The Court directed that a complaint under sections 193, 196 and
+199 be lodged against the respondent.85. Declaration in an application filed under
+section 482 of Cr PC, 1973 that the applicant had not approached the Supreme Court
+or the High Court earlier is not perjury, though applicant had filed for anticipatory Bail
+before the Sessions Court.86.
+[s 193.6] Hostile witness.—
+In a prosecution under sections 489B and 489C, all prosecution witnesses who were
+police officials turned hostile. Subsequently they filed affidavits stating that they were
+threatened by higher officers not to support their previous statements during
+investigation. Court set aside the order of acquittal of the accused, ordered re-trial and
+directed to proceed under sections 193 and 195A.87. After a long span of time, the
+prosecution witnesses filed a false affidavit stating that they were coerced and tutored
+by police. They were held liable for perjury.88.
+2. 'In any other case'.—A statement made in the course of a public investigation under
+section 164 of the Code of Criminal Procedure comes within these words.89. Whether
+the accused has really made a false statement or not is a question of fact, which can
+be decided at the trial and not in quashing proceeding, when the allegations, which
+have been made against the accused do make out a prima facie case under section
+193, IPC, 1860.90. A person married the daughter of his maternal uncle, after converting
+to Christianity. If they married before conversion this marriage would have come under
+'Sapindas relations' which is prohibited under the Hindu Marriage Act, 1955. After
+conversion into Christianity the marriage does not fall under 'Sapinda' relationship. It
+cannot be said that there was any false declaration. It is held that offence punishable
+under section 193 of IPC, 1860 is not made out.91.
+[s 193.7] Section 193 IPC, 1860 and Section 125A of the Representation of
+Peoples Act, 1950.—
+Where a specific penal provision is made under the Act providing a penalty for filing
+false affidavit under section 125A of the Act, without anything more, for filing such a
+false affidavit, that alone, no prosecution under the general penal provision of section
+193 of the Penal Code is entertainable. Furthermore, the penal provision under section
+193 IPC, 1860 has to be understood giving significance to the expressions 'intentionally
+giving or fabricating false evidence', 'in any stage of a judicial proceeding' or 'in any
+other case.' Giving or fabricating false evidence in the aforesaid section whether it be in
+the judicial proceeding or in any other case must have been intended to form an
+opinion on the evidence erroneously and such forming of opinion should be touching
+the point material to the result of such proceeding. Viewed in that angle the declaration
+to be made by a candidate in his affidavit filed with his nomination paper over the
+matters prescribed by the election commission when he contests an election, it cannot
+be stated that the candidate is giving evidence by affidavit but at best only a
+declaration on the particulars sought for. If the candidate fails to furnish information or
+gives false information which he knows or has reason to believe to be false or conceals
+any information he is liable to be prosecuted only for the offence under section 125A of
+the Act, and not for the penal offence under section 193 IPC, 1860.92.
+[s 193.8] Section 193 IPC, 1860 and proceedings under section 340 Cr PC,
+1973.—
+Power to punish under section 344 Cr PC, 1973 and section 193 Cr PC, 1973 are
+distinct. Section 344 Cr PC, 1973 calls for summary trial, whereas under section 193
+IPC, 1860 offender is to be tried as warrant case. Section 344 Cr PC, 1973 vests powers
+in the Courts to summarily try and punish the accused. It is for this reason that section
+344 Cr PC, 1973 prescribes sentence also. The Judge either should have convicted the
+petitioner under section 344 Cr PC, 1973 or ought not to have invoked section 193 IPC,
+1860. Once, the Judge opted to try the petitioner for the offence under section 193 IPC,
+1860, it was incumbent upon him to hold an inquiry under section 340 Cr PC, 1973 and
+then to frame a charge and try the offender for a warrant case as minimum sentence
+prescribed under section 193 IPC, 1860 is three years.93. Before lodging a complaint as
+provided by section 340 of the Code, the Court has to record a finding of any (i) prima
+facie case and deliberate falsehood on a matter of substance; (ii) there is reasonable
+foundation for the charge; and (iii) it is expedient in the interest of justice that a
+complaint should be filed.94. An enquiry when made, under section 340 (1) Cr PC, 1973,
+is really in the nature of affording a locus paenitentiae to a person and if at that stage
+the Court chooses to take action, it does not mean that he will not have full and
+adequate opportunity in due course of the process of justice to establish his
+innocence. When the trial of the appellant commences under section 193, IPC, 1860
+the reasons given or those in the order passed under section 340 (1), Cr PC, 1973
+should not weigh with the criminal Court in coming to its independent conclusion
+whether the offence under section 193, IPC, 1860 has been fully established against
+the appellant beyond reasonable doubt.95.
+1. S Palani Velayutham v District Collector Tirunvelveli TN, (2010) 1 SCC (Cr) 401 : (2009) 10 SCC
+664 [LNIND 2009 SC 1659] : (2009) 12 SCR 1215 [LNIND 2009 SC 1659] .
+67. The words "or before a Military Court of Request" omitted by Act 13 of 1889, section 2 and
+Sch.
+68. Ismail Khan v State of Karnataka, 1992 Cr LJ 3566 (Kant).
+69. KTMS Mohd v UOI, AIR 1992 SC 2199 : 1992 Cr LJ 2781 .
+70. Sadasiba, (1956) Cut 87; Pravinchand v Ibrahim Md, 1987 Cr LJ 1795 (Bom).
+71. Bimal Das v The State of Tripura, 2012 Cr LJ 1252 (Gau).
+72. Thomman v IInd Addl Sessions Judge, 1994 Cr LJ 48 (Ker).
+73. Sumat Prasad v State, (1942) All 42 .
+74. BC Saxena, 1983 Cr LJ 1432 (AP).
+75. Santosh Singh v Izahar Hussain, 1973 Cr LJ 1176 : AIR 1973 SC 2190 [LNIND 1973 SC 160] .
+76. State of Karnataka v Hemareddy, 1981 Cr LJ 1019 : AIR 1981 SC 1417 [LNIND 1981 SC 44] :
+(1981) 2 SCC 185 [LNIND 1981 SC 44] .
+77. Afzal v State of Haryana, AIR 1996 SC 2326 [LNIND 1996 SC 130] : 1996 Cr LJ 1679 .
+78. NSR Krishna Prasad v Directorate of Enforcement LBK Market, 1992 Cr LJ 1888 (AP). See
+section 132, The Indian Evidence Act, 1972.
+79. Iqbal Singh Marwah v Meenakshi Marwah, (2005) 4 SCC 370 [LNIND 2005 SC 261] : AIR 2005
+SC 2119 [LNIND 2005 SC 261] .
+80. Sushanta Sarkar v State of Nagaland, 2012 Cr LJ 4467 (Gau).
+81. Iqbal Singh Narang v Veeran Narang, AIR 2012 SC 466 [LNIND 2011 SC 1189] : (2012) 2 SCC
+60 [LNIND 2011 SC 1189] ;2012 AIR (SCW) 730 : (2012) 1 SCC (Cr) 740.
+82. Jagdish Prasad Singhal v State of Rajasthan, 1994 Cr LJ 759 (Raj).
+83. Randhir Singh v State of Haryana, AIR 2000 SC 544 [LNIND 2000 SC 27] : 2000 Cr LJ 755 .
+Another ruling to the same effect, MS Ahlawat v State of Haryana, AIR 2000 SC 168 [LNIND 1999
+SC 1395] : (2000) Cr LJ 388 ; Mohammed Zahid v Govt. of NCT of Delhi, 1998 Cr LJ 2908 : AIR
+1998 SC 2023 [LNIND 1998 SC 557] .
+84. Advocate General,Karnataka v Chidambara, 2004 Cr LJ 493 (Kant).
+85. R Rathinam v Kamla Vaiduriam, 1993 Cr LJ 2661 (Mad).
+86. Rajkumar Dhanuji Bombarde v Madhukar Wankhede, 2008 Cr LJ 661 (Bom).
+87. Court on Its Own Motion v State of Punjab, 2012 Cr LJ 2240 (PH).
+88. State of MP v Badri Yadav, 2006 Cr LJ 2128 : AIR 2006 SC 1769 [LNIND 2006 SC 229] :
+(2006) 9 SCC 549 [LNIND 2006 SC 229] .
+89. Purshottam Ishvar, (1920) 23 Bom LR 1 ; 45 Bom 834 (FB). Mohammed Zahid v Govt. of NCT
+of Delhi, AIR 1998 SC 2023 [LNIND 1998 SC 557] : 1998 Cr LJ 2908 , false entries in case diary,
+interpolations, cooking up false case against the accused, show-cause notices issued against
+the concerned police officer for the offence.
+90. Sushanta Sarkar v State of Nagaland, 2012 Cr LJ 4467 (Gau).
+91. O P Gogne v State, 2012 Cr LJ 1718 (Del).
+92. Ganesh Kumar v PK Raju, 2013 (2) Ker LT 434 : 1 LR 2013 (2) Ker 710 .
+93. Jaskaran v State of Haryana, 2008 Cr LJ 4261 (PH).
+94. Rit Lai Khatway v State of Bihar, 2007 Cr LJ 593 (Pat). See also State (Govt. of NCT of Delhi) v
+Pankaj Chaudhary, AIR 2018 SC 5412 [LNIND 2018 SC 565] .
+95. K Karunakaran v TV Eachara Warrier, AIR 1978 SC 290 [LNIND 1977 SC 319] : (1978) 1 SCC
+18 [LNIND 1977 SC 319] .

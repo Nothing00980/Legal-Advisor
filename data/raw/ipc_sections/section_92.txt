@@ -1,0 +1,743 @@
+Act of a person of unsound mind.
+Nothing is an offence which is done by a person who, at the time of doing it, 1 by
+reason of unsoundness of mind, 2 is incapable of knowing the nature of the act, or
+that he is doing what is either wrong or contrary to law. 3
+COMMENT.—
+To commit a criminal offence, mens rea is generally taken to be an essential element of
+crime. It is said furiosus nulla voluntus est. In other words, a person who is suffering
+from a mental disorder cannot be said to have committed a crime as he does not know
+what he is doing. For committing a crime, the intention and act both are taken to be the
+constituents of the crime; actus non facit reum nisi mens sit rea. Every normal and sane
+human being is expected to possess some degree of reason to be responsible for
+his/her conduct and acts unless contrary is proved. But a person of unsound mind or a
+person suffering from mental disorder cannot be said to possess this basic norm of
+human behaviour.90.
+[s 84.1] McNaughten Rule and the origin of Section 84 of IPC, 1860.—
+Section 84 clearly gives statutory recognition to the defence of insanity as developed
+by the Common Law of England in a decision of the House of Lords rendered in the
+case of R v Daniel McNaughten.91. In that case, the House of Lords formulated the
+famous Mc Naughten Rules on the basis of the five questions, which had been referred
+to them with regard to the defence of insanity. The reference came to be made in a
+case where Mc Naughten was charged with the murder by shooting of Edward
+Drummond, who was the Pvt Secretary of the then Prime Minister of England Sir Robert
+Peel. The accused Mc Naughten produced medical evidence to prove that, he was not,
+at the time of committing the act, in a sound state of mind. He claimed that he was
+suffering from an insane delusion that the Prime Minister was the only reason for all
+his problems. He had also claimed that as a result of the insane delusion, he mistook
+Drummond for the Prime Minister and committed his murder by shooting him. The plea
+of insanity was accepted and Mc Naughten was found not guilty, on the ground of
+insanity. The aforesaid verdict became the subject of debate in the House of Lords.
+Therefore, it was determined to take the opinion of all the judges on the law governing
+such cases. Five questions were subsequently put to the Law Lords. A comparison of
+answers to question no. 2 and 3 and the provision contained in section 84 of the IPC,
+1860 would clearly indicate that the section is modelled on that answers.92.
+The essential elements of section 84 are as follows:
+(i) The accused must, at the time of commission of the act be of unsound mind;
+(ii) The unsoundness must be such as to make the accused at the time when he is
+doing the act charged as offence, incapable of knowing the nature of the act or
+that he is doing what is wrong or contrary to law.93. Where it is proved that the
+accused has committed multiple murders while suffering from mental
+derangement of some sort and it is found that there is (i) absence of any motive,
+(ii) absence of secrecy, (iii) want of pre-arrangement, and (iv) want of
+accomplices, it would be reasonable to hold that the circumstances are
+sufficient to support the inference that the accused suffered from unsoundness
+of mind.94.
+Though the onus of proving unsoundness of mind is on the accused,95. yet it has been
+held that where during the investigation previous history of insanity is revealed, it is the
+duty of an honest investigator to subject the accused to a medical examination and
+place that evidence before the Court and if this is not done, it creates a serious infirmity
+in the prosecution case and the benefit of doubt has to be given to the accused.96.
+Prosecution is duty bound to subject the accused to a medical examination
+immediately.97. This onus may, however, be discharged by producing evidence as to the
+conduct of the accused shortly prior to the offence and his conduct at the time or
+immediately afterwards, also by evidence of his mental condition, his family history and
+so forth.98. Every person is presumed to know the natural consequences of his act.
+Similarly every person is also presumed to know the law. The prosecution has not to
+establish these facts.99.
+There are four kinds of persons who may be said to be non compos mentis (not of
+sound mind): (1) an idiot; (2) one made non compos by illness; (3) a lunatic or a
+madman; and (4) one who is drunk.
+An idiot is one who is of non-sane memory from his birth, by a perpetual infirmity,
+without lucid intervals; and those are said to be idiots who cannot count twenty, or tell
+the days of the week, or who do not know their fathers or mothers, or the like. A person
+made non compos men-us by illness is excused in criminal cases from such acts as
+are-committed while under the influence of his disorder. A lunatic is one who is afflicted
+by mental disorder only at certain periods and vicissitudes, having intervals of reason.
+Madness is permanent. Lunacy and madness are spoken of as acquired insanity, and
+idiocy as natural insanity.100.
+[s 84.2] Legal insanity vis-a-vis Medical insanity.—
+A distinction is to be made between legal insanity and medical insanity. A Court is
+always concerned with legal insanity, and not with medical insanity. What sections 84,
+IPC, 1860 provides is defence of legal insanity as distinguished from medical insanity.
+A person is legally insane when he is incapable of knowing the nature of the act or that
+what he was doing was wrong or contrary to law.101. Incapacity of the person on
+account of insanity must be of the nature which attracts the operation of section 84
+IPC, 1860.102. An accused who seeks exoneration from liability of an act under section
+84 of the IPC, 1860 is to prove legal insanity and not medical insanity. Expression
+"unsoundness of mind" has not been defined in the IPC, 1860 and it has mainly been
+treated as equivalent to insanity. But the term insanity carries different meaning in
+different contexts and describes varying degrees of mental disorder. Every person who
+is suffering from mental disease is not ipso facto exempted from criminal liability. The
+mere fact that the accused is conceited, odd, irascible and his brain is not quite all
+right, or that the physical and mental ailments from which he suffered had rendered his
+intellect weak and affected his emotions or indulges in certain unusual acts, or had fits
+of insanity at short intervals or that he was subject to epileptic fits and there was
+abnormal behaviour or the behaviour is queer are not sufficient to attract the
+application of section 84 of the IPC, 1860.103. The medical profession would
+undoubtedly treat the accused as a mentally sick person. However, for the purposes of
+claiming the benefit of the defence of insanity in law, the appellant would have to prove
+that his cognitive faculties were so impaired, at the time when the crime was
+committed, as not to know the nature of the act.104. Only legal insanity is contemplated
+under section 84 of IPC, 1860.105.
+[s 84.3] 42nd Report of Law Commission of India.—
+Law Commission of India re-visited section 84 of the IPC, 1860 in view of the criticism
+to the M'Naughten Rules in various countries including Britain but came to the
+conclusion that law of insanity under section 84 of the IPC, 1860 needs no changes in
+Indian circumstances.106.
+Section 84 lays down the legal test of responsibility in cases of alleged unsoundness of
+mind. There is no definition of "unsoundness of mind" in the Penal Code. The Courts
+have, however, mainly treated this expression as equivalent to insanity. But the term
+"insanity" itself has no precise definition. It is a term used to describe varying degrees
+of mental disorder. So, every person, who is mentally diseased, is not ipso facto
+exempted from criminal responsibility. A distinction is to be made between legal
+insanity and medical insanity. A Court is concerned with legal insanity, and not with
+medical insanity.107. In this case, the accused was under medical treatment prior to the
+occurrence. Evidence indicating that he remained mentally fit for about four years after
+treatment. During the trial also he was sent for treatment and his conduct was normal
+thereafter. On such facts, it was held, that the accused was not entitled to protection
+under section 84. The Court also added that where previous history of insanity of the
+accused comes to light during investigation, the accused must be medically examined
+and report placed before the Court. Any lapse in this respect would create infirmity in
+the prosecution case and the accused may become entitled to benefit of doubt.
+1. 'At the time of doing it'.—It must clearly be proved that at the time of the committing
+of the act, the party accused was labouring under such a defect of reason, from
+disease of the mind, as not to know the nature and quality of the act he was doing, or, if
+he did know it, that he did not know he was doing what was wrong.108. If he did know it,
+he is responsible.109.
+In Sheralli Wali Mohammed v State of Maharashtra,110. it was held that:
+... it must be proved clearly that, at the time of the commission of the acts, the appellant, by
+reason of unsoundness of mind, was incapable of either knowing the nature of the act or
+that the acts were either morally wrong or contrary to law. The question to be asked is, is
+there evidence to show that, at the time of the commission of the offence, he was labouring
+under any such incapacity? On this question, the state of his mind before and after the
+commission of the offence is relevant.
+The crucial point of time for deciding whether the benefit of this section should be
+given or not is the material time when the offence takes place. If at that moment a man
+is found to be labouring under such a defect of reason as not to know the nature of the
+act he was doing or that, even if he knew it, he did not know it was either wrong or
+contrary to law then this section must be applied. In coming to that conclusion, the
+relevant circumstances, like the behaviour of the accused before the commission of
+the offence and his behaviour after the commission of the offence, should be taken
+into consideration.111. The accused pushed a child of four years into fire resulting in his
+death but there was nothing to show that there was any deliberateness or preparation
+to commit the crime. His act was accompanied by manifestations of unnatural brutality
+and was committed openly. He neither concealed nor ran away nor tried to avoid
+detection which showed that he was not conscious of his guilt. It was held that the
+accused was entitled to benefit of section 84 and his conviction under section 302 was
+set aside.112. The accused, a young boy brought up by his grandfather, went abroad for
+further studies. When his parents visited abroad they did not care to see him. His
+grandfather's death was communicated to him much later. On return to India, he
+committed offences of brutal nature at random. During the pendency of the session's
+case, he again continued and completed his engineering course and started a printing
+press and later he managed a garage and allied industries employing nearly 30
+persons. His behaviour before and after the offences was that of a normal man. It was
+held that he was insane at the time of the offence and was given benefit of section
+84.113. Where the accused was examined by two doctors who certified him to be
+schizophrenic and his abnormal behaviour was also apparent from the evidence on the
+record, the Supreme Court held that the acquittal of the accused by the High Court was
+proper.114.
+In other words, to get the benefit of section 84 IPC, 1860, it must be shown that at the
+time of the commission of the act the accused by reason of unsoundness of mind was
+incapable of either knowing the nature of the act or that the act was either morally
+wrong or contrary to law and for determining this his state of mind before and after the
+commission of the offence is most relevant. It would be dangerous to admit the
+defence of insanity upon arguments derived merely from the character of the crime.115.
+Thus, the fact that the accused committed the murder over a trifling matter and made a
+clean breast of his crime would not go to show that he was insane.116.
+[s 84.4] Lucid intervals.—
+A lucid interval of an insane person is not merely a cessation of the violent symptoms
+of the disorder, but a restoration of the faculties of the mind sufficiently to enable the
+person soundly to judge the act; but the expression does not necessarily mean
+complete or perfect restoration of the mental faculties to their original condition. So, if
+there is such a restoration, the person concerned can do the act with such reason,
+memory and judgment as to make it a legal act; merely a cessation of the violent
+symptoms of the disorder is not sufficient.117.
+2. 'Unsoundness of mind.'—Whether the want of capacity is temporary or permanent,
+natural or supervening, whether it arises from disease, or exists from the time of birth,
+it is included in this expression. It is only 'unsoundness of mind' which naturally impairs
+the cognitive faculties of the mind that can form a ground of exemption from criminal
+responsibility.118. The nature and extent of the unsoundness of mind required being
+such as would make the offender incapable of knowing the nature of the act, or that he
+is doing what is wrong or contrary to law.119. Thus, as Stephen says that if a person
+cuts off the head of a sleeping man because 'it would be great fun to see him looking
+for it when he woke up', it would obviously be a case where the perpetrator of the act
+would be incapable of knowing the physical effects of his act.120. The accused had
+killed his wife and his minor children and assaulted his neighbour and the police officer.
+The evidence showed that he had a history of insanity with at random assault on
+strangers but his relations with his wife were cordial. It was held that the accused was
+a man of unsound mind and his conviction under sections 302, 332 and 323 was set
+aside.121. The accused caught hold of the legs of a girl of two years of age on the road
+and struck her on the ground. She sustained head injury and died in the hospital. On the
+basis of the ocular evidence about the conduct of the accused at the time of the
+offence and the opinion of the doctor about his state of mind, the accused was
+acquitted on the ground of insanity.122. The accused, a labourer, killed his brother's wife
+and attempted to kill his mother in a quarrel over money deposited with his mother.
+Accused assaulted with axe on the vital parts of the victim's body, absconded for three
+months and immediately after the incident worked as a labourer in another village for
+15 days. It was held that the conduct of the accused immediately before, at the time of
+and after the incident, was wholly inconsistent with the plea of insanity raised by him.
+The history of earlier mental derangement was not by itself sufficient to bring the case
+within section 84.123. Where on the day of the crime the accused was seen dancing
+with a dog on his head and with a broken bottle, but the medical evidence showed that
+he was a normal man, it was held that defence of insanity was an afterthought.124. The
+mere fact that the accused attempted to escape from the scene of occurrence after
+killing his wife, belied his plea of insanity.125. Where a father and his relatives sacrificed
+a four-year-old son to propitiate the deity, the Supreme Court held that this does not by
+itself constitute insanity. Such primitive and inhuman actions must be punished
+severely so as to deter others from resorting to such barbaric practices.126.
+[s 84.5] Partial delusion.—
+Mere abnormality of mind or partial delusion affords no protection under section 84
+IPC, 1860.127. Whether a person who, under an insane delusion as to the existing facts,
+commits an offence in consequence thereof, is to be, therefore, excused depends upon
+the nature of the delusion. If he labours under a partial delusion only, and is not in other
+respects insane, he must be considered in the same situation as to responsibility as if
+the facts, with respect to which the delusion exists, were real.128. If a person afflicted
+with insane delusion, in respect of one or more particular subjects or persons, commits
+a crime, knowing that he was acting contrary to law, but did the act complained of with
+a view, under the influence of insane delusion, of redressing or revenging some
+supposed grievance or injury, or of producing some public benefit, he is nevertheless
+punishable according to the nature of the crime committed.129. Where the accused
+after killing his daughter tried to commit suicide and there was no evidence of
+psychiatric treatment but only major depression, he was held liable to be convicted.130.
+3. 'Nature of the act, or...what is either wrong or contrary to law.'—If the accused were
+conscious that an act was done which he ought not to do and if the act was at the
+same time contrary to the law of the land, he is punishable. His liability will not be
+diminished if he did the act complained of with a view under the influence of insane
+delusion of redressing or revenging some supposed grievance or injury or of producing
+some public benefit, if he knew that he was acting contrary to law.131. Where the
+accused, a young man, took a girl of four years on a bicycle to a lonely place near a
+canal, sexually assaulted her and threw her into the canal, it was held that it was a
+carefully thought out action and not an act of an insane person.132.
+Mere absence of motive for a crime, howsoever atrocious it may be, cannot, in the
+absence of plea and proof of legal insanity, bring the case within this section.133. The
+mere fact that an act of murder is committed by the accused on a sudden impulse and
+there is no discoverable motive for the act will not generally afford the Court sufficient
+basis for accepting the plea of insanity.134. Thus, in SW Mohammed's case the
+Supreme Court held that the mere fact that no motive has been proved why the
+accused murdered his wife and child or the fact that he made no attempt to run away
+when the door was broken open would not indicate that he was insane or that he did
+not have the necessary mens rea for the offence.135. In a Madras case, however, the
+Madras High Court has held that where the accused was insane for some months prior
+to occurrence and on cordial terms with his wife but suddenly killed the wife in the
+open courtyard without any ostensible motive and did not even attempt to run away or
+secret his crime, he had to be given the benefit of section 84, IPC, 1860.136. This case
+can, of course, be distinguished from the above mentioned Supreme Court case on the
+ground that in the instant case the accused had previous history of insanity which was
+not fully cured. Prior or subsequent treatment for schizophrenia coupled with the
+evidence of the doctor that the accused was schizophrenic would entitle the accused
+to the benefit of section 84 in a charge of murder.137. But where the doctor in his
+evidence merely said unsoundness of mind may have existed from before and that
+evidence was contradicted by evidence of close relations about sanity of the accused
+at the time of the occurrence, it was held that the accused could not get the benefit of
+section 84, IPC, 1860.138. There is a difference between medical insanity and legal
+insanity. By medical insanity is meant the prisoner's consciousness of the bearing of
+his act on those affected by it and by legal insanity is meant the prisoner's
+consciousness in relation to himself.139. There can be no legal insanity unless the
+cognitive faculties of the accused are as a result of unsoundness of mind completely
+impaired. In order to constitute legal insanity unsoundness of mind must be such as to
+make the offender incapable of knowing the nature of the act, or that he is doing what
+is wrong or contrary to law.140. Thus, mere abnormality of mind or partial delusion,
+irresistible impulse or compulsive behaviour of a psychopath affords no protection
+under section 84 of the IPC, 1860 as the law contained in that section is still squarely
+based on the outdated M'Naughten Rules of 19th Century England. Thus, in
+Siddheswari's case141. where the accused killed her ailing child of three and there was
+also some evidence elicited in cross-examination to show that the accused had
+suffered from some mental derangement two years prior to the incident, it was held
+that the mere fact the murder was committed on a sudden impulse or as a "mercy
+killing" was no ground to give her the benefit of section 84 IPC, 1860, even though both
+euthanasia (mercy killing) and irresistible impulse would entitle the accused in England
+to get the benefit of diminished responsibility and her crime would be treated as
+manslaughter (i.e. culpable homicide not amounting to murder). In a latter case too the
+Gauhati High Court felt that where the accused has made out a prima facie case of
+irresistible impulse the plea has to be taken into consideration in deciding the question
+of giving benefit of section 84, IPC, 1860, to the accused.142.
+The position, however, has undergone a sea change in England where the right or
+wrong test of the M'Naughten Rules no longer dominate this branch of criminal law to
+the exclusion of mental abnormality falling short of complete insanity as a limited
+defence establishing a claim to diminished responsibility. Thus, under section 2 of the
+Homicide Act, 1957 if two Psychiatrists certify that the homicidal act of the accused
+was influenced by abnormal condition of his mind though not amounting to legal
+insanity within the meaning of M'Naughten Rules, still he cannot be convicted of
+murder but his offence will be regarded only as a manslaughter which is equivalent to
+culpable homicide not amounting to murder under the IPC, 1860. It is hoped that the
+Indian law too would be changed on this score with due regard to the modern
+developments in the field of psychology of criminal behaviour.
+[s 84.6] CASES.—
+Accused, who was a mentally challenged person before the incident, killed three
+persons and caused injuries to others with an axe. He did not know the implication of
+his act and indiscriminately went on wielding axe blows, be it a child or a woman and
+there after he did not even attempt to hide the weapon which he used for committing
+crime. He was found of unsound mind in his medical examination. Case of accused
+comes within the four corners of section 84 IPC, 1860.143. Where an accused, who was
+suffering from fever which caused him while suffering from its paroxysms to be
+bewildered and unconscious, killed his children at being annoyed at their crying, but he
+was not delirious then, and there was no evidence to show that he was not conscious
+of the nature of his act, it was held that he was not entitled to protection under this
+section.144. But where the accused labouring under a delusion believed his two-month-
+old infant child to be a devil and danger to himself, his family and to the whole world
+and, therefore, killed the child with unusual ferocity almost reducing it to a pulp and
+thereafter without making any attempt to escape told the police party that he had
+removed a devil from the world, it was held that the accused did not know that what he
+had done was wrong and as such was entitled to get protection of section 84, IPC,
+1860, even when he did not plead insanity in his defence as the prosecution itself
+disclosed that he was insane.145. IPC, 1860Allegation that accused appellant had cut
+his son, aged about one and a half years, to death and he was intercepted while he was
+preparing to bury the dead body by digging a pit. Medical evidence shows that the
+accused was suffering from schizophrenia. Accused was reticent by nature and used
+to keep himself indoors and interact only when he was compelled to do so. He was not
+in a normal state of mind at the time of alleged crime. Appellant is entitled to the
+benefits under section 84 of IPC, 1860.146. The accused killed three persons and
+caused injuries to others and there was no previous enmity or motive established. The
+witnesses stated that he ran from one place to other and on his way he assaulted five
+persons indiscriminately without any rhyme or reason. The evidence shows that
+appellant had developed insanity since long and entitled to the benefit of this
+section.147. Accused chopped off his wife's head, with a chopper. After the occurrence,
+in a very unusual and abnormal manner, holding the head and the chopper in each of
+his hands, he walked down the road and ultimately reached the police station. Though
+this, by itself, would not be sufficient to come to any conclusion but taken along with
+the other circumstances of the case would clearly point to the validity of the defence
+put forward on behalf of the accused.148.
+[s 84.7] Epilepsy, Epileptic fits and Section 84.—
+Epilepsy usually occurs from early infancy, though it may occur at any period of life.
+Individuals, who have had epileptic fits for years, do not necessarily show any mental
+aberration, but quite a few of them suffer from mental deterioration. Religiosity is a
+marked feature in the commencement, but the feeling is only superficial. Such patients
+are peevish, impulsive and suspicious, and are easily provoked to anger on the slightest
+cause. Epileptic psychosis is that which is associated with epileptic fits. This may
+occur before or after the fits, or may replace them, and is known as pre- epileptic, post-
+epileptic and masked or psychic phases (psychomotor epilepsy).149.
+Where the accused committed the murder without any motive under the influence of an
+epileptic fits, he was entitled to get the benefit under section 84, IPC, 1860.150. But if at
+the time of the crime he was not acting under epileptic automatism, mere past history
+of epilepsy will not absolve the accused from liability.151.
+[s 84.8] Irresistible impulse.—
+Mere abnormality of mind or partial delusion, irresistible impulse or compulsive
+behaviour of a psychopath affords no protection under section 84 as the law contained
+in that section is still squarely based on the outdated M'Naughten Rules of 19th
+Century. The provisions of section 84 are in substance the same as those laid down in
+the answers of the Judges to the questions put to them by the House of Lords, in
+M'Naughten's case. Behaviour, antecedent, attendant and subsequent to the event, may
+be relevant in finding the mental condition of the accused at the time of the event, but
+not that remote in time.152.
+[s 84.9] Nervousness.—
+The fact that the accused became nervous after raping a six-year-old girl and in that
+state of mind killed her, was held to be not sufficient to establish insanity. The Court
+reduced the death sentence to life imprisonment and added that nervous psychosis
+may become in circumstances a kind of insanity.153.
+[s 84.10] Homicide by ' ganja ' smoker.—
+In a case of ganja addict before the Supreme Court, the accused had killed his wife and
+children ranging one –16 years with knife. Death sentence was confirmed by the High
+Court. The accused had not raised the defence of unsoundness in Courts below. The
+Supreme Court got the enquiry conducted by police after a plea was raised at the SLP
+stage. The enquiry report and evidence of family members and other witnesses
+revealed the addiction and on-going treatment. He was not allowed the benefit of
+section 84. The state of mind on the day of the incident is the crucial factor. The State
+of mind on other days is relevant only if such evidence would help determining the
+state of mind at the crucial moment.154.
+[s 84.11] Insane delusion.—
+The accused killed two women by cutting their necks with an axe without any reason.
+Evidence showed that he suffered from similar attacks of disorder earlier too. After the
+incident he was heard saying that he was haunted by a God to do what he did. The plea
+of insanity was accepted and the accused was directed to be kept in a mental
+hospital.155. The accused killed seven persons including his wife and two children with
+an axe. He also killed the cattle which came his way. There was no provocation. It was
+brutality simpliciter. The evidence on record showed that he was not of sound mind.
+The death sentence awarded to him was set aside. He was acquitted under the benefit
+of this section.156. Mere abnormality or partial delusion, irresistible impulse or
+compulsive behaviour of a psychopath affords no protection under section 84 of the
+Penal Code.157.
+[s 84.12] Paranoid schizophrenia.—
+Paranoid schizophrenia, in the vast majority of cases, starts in the fourth decade and
+develops insidiously. Suspiciousness is the characteristic symptom of the early stage.
+Ideas of reference occur, which gradually develop into delusions of persecution.
+Auditory hallucinations follow which in the beginning, start as sounds or noises in the
+ears, but afterwards change into abuses or insults.158. In paranoid schizophrenia, the
+person affected lives in a state of constant fear being haunted by the belief that he is
+being poisoned, some noxious gases are blown into his room and that all are plotting
+against him to ruin him. The patient gets very irritated and excited owing to equally
+painful and disagreeable hallucinations and delusions.159. The accused was convicted
+for having murdered his wife in a brutal manner. He raised the plea of insanity. It came
+out from evidence that he was suffering from leprosy and insanity from sometime past.
+The medical opinion was that he was suffering from paranoid schizophrenia which is a
+form of paranoid psychosis. The plea was allowed. But he being not in a fit state of
+mind to judge his own welfare or take care of himself without medical aid, the Court
+directed him to be detained in safe custody under medical supervision and not to be
+released till medical evidence of social fitness.160. The evidence on record shows that
+on the day of the incident, when the appellant was examined by doctors, he was found
+to be suffering from paranoid schizophrenia. He had delusions and persecutory ideas
+with no insight in his illness. From this, an inference can reasonably be drawn that the
+accused was under paranoid delusions at the time that he committed the offence.161.
+[s 84.13] Burden of proof.—
+The Supreme Court defined the doctrine of burden of proof in the context of the plea of
+insanity in the following propositions:-
+"(1) The prosecution must prove beyond reasonable doubt that the appellant had
+committed the offence with the requisite mens rea; and the burden of proving
+that always rests on the prosecution from the beginning to the end of the trial.
+(2) There is a rebuttable presumption that the appellant was not insane, when he
+committed the crime, in the sense laid down by section 84 of the IPC, 1860: the
+appellant may rebut it by placing before the court all the relevant evidence - oral,
+documentary or circumstantial, but the burden of proof upon him is no higher
+than that rests upon a party to civil proceedings.
+(3) Even if the appellant was not able to establish conclusively that he was insane
+at the time he committed the offence, the evidence placed before the court by
+the appellant or by the prosecution may raise a reasonable doubt in the mind of
+the court as regards one or more of the ingredients of the offence, including
+mens rea of the appellant and in that case the court would be entitled to acquit
+the appellant on the ground that the general burden of proof resting on the
+prosecution was not discharged".162.
+It has been held that merely because an injured witness, who may legitimately be
+classified as an interested witness for obvious reasons, may have stated that the
+appellant was not of unsound mind, cannot absolve the primary duty of the prosecution
+to establish its case beyond all reasonable doubt explaining why the plea for
+unsoundness of mind taken by the accused was untenable.163.
+The burden of proving the existence of circumstances bringing the case within the
+purview of section 84 lies upon the accused under section 105 of the Indian Evidence
+Act. Under the said section, the Court shall presume the absence of such
+circumstances.164. But the burden on the accused cannot be equivalent with the
+burden of proof on the prosecution and cannot be rated higher than the burden on a
+party to a civil proceeding where a finding can be based upon preponderance of
+probabilities. There is no conflict between the general burden which is always on the
+prosecution and which never shifts and the special burden which rests on the accused
+to make out the defence of insanity.165. Sometimes the facts may in themselves be
+sufficient to discharge the burden which lies on the accused. This possibility was
+recognised by the Supreme Court in Ratan Lal v State of MP.166. The accused-appellant
+was kept in police custody for ten days and only then it was felt that he needed medical
+examination. There was no evidence on record to show what his condition was during
+those ten days and why he was not examined earlier. This conduct on the part of the
+police, neither to arrange his examination nor permit him to do so, brought about such
+a gap of time between the incident and examination that his condition at the time of
+the incident was no longer capable of being precisely determined. As against this
+police inaction, the defence pointed towards the conduct of the accused before the
+incident and some statements of witnesses which supported the instable condition of
+the accused. This was held to be sufficient to discharge the burden which lies on the
+accused and his acquittal was upheld by the Supreme Court. Going by this case in
+Tukappa Tamanna Lingardi v State of Maharashtra,167. the Bombay High Court found
+evidence of insanity from a narration of the facts themselves. Mere oral statements of
+witnesses cannot give rise to an inference that the appellant was of unsound mind at
+the time of commission of offence. Plea of the accused does not come within
+exception contemplated under section 84 of IPC, 1860.168. IPC, 1860
+Where there was no satisfactory evidence of the previous history of the accused or his
+subsequent conduct and the only fact on record was that ghastly murders were
+committed without motive, it was held that the burden of proof as to plea of insanity
+was not discharged. However, because of the absence of motive, premeditation and
+any weapon, killings being done with stone pieces, death sentence was converted into
+life imprisonment.169. Where, on the other hand, a father killed his son and then danced
+around, moving towards his house threatening others, facts spoke for themselves so
+as to discharge the burden of proof as to insanity, the accused was acquitted and
+ordered to be detained in a mental home.170.
+Mere eccentric behaviour, like drowning one's own two and a half-year-old child to
+death, does not discharge this burden which is essentially on the accused and requires
+him to show all the ingredients of the defence to the extent at least of making them
+probable at the time of the commission of the act. Previous history and subsequent
+conduct are only relevant facts in the determination of the condition at the material
+time.171.
+The mere absence of motive is not sufficient to bring the case within the scope of
+section 84.172.
+[s 84.14] Sentencing.—
+The accused was charged with offences under sections 427, 302, 307, 451, etc.
+Medical evidence showed that he was a person of unsound mind at the time when the
+offences were committed. The accused, therefore, could not be detained in prison. He
+was directed to be put in a mental hospital. The authorities were further directed to
+follow the procedure prescribed by section 335, Code of Criminal Procedure, 1973 (Cr
+PC, 1973).173.
+[s 84.15] Sentencing.—Battered woman syndrome.—
+The accused woman pleaded guilty to manslaughter on an indictment for murder. She
+was a young woman aged 20. She began a sexual relationship with the deceased when
+she was 14 and began to live with him when she was 16. She had a miscarriage and on
+two occasions took overdoses. The deceased became violent towards her two or three
+times each week. She sought psychiatric help and on two occasions came to the
+attention of the police. In 1998 she decided to end the relationship and there was an
+argument which developed into a fight. She picked up a knife and waved it at the
+deceased, telling him to leave. There was a further struggle during the course of which
+the deceased received a fatal knife wound to his back. She immediately shouted for
+help and was found in an extremely distressed condition. When she was examined, she
+was found to be extensively bruised. A psychiatrist who examined her found that she
+exhibited a number of features of the "battered woman's syndrome", including chronic
+depressive illness, a feeling of hopelessness and despair, and inability to act effectively
+or to see an escape from her situation, and feelings of self-blame, shame and a poor
+sense of self-worth. A second psychiatrist found a degree of clinical depression which
+amounted to abnormality of mind. She was sentenced to four years' detention in a
+young offender institution. Her appeal against the sentence was allowed. In the light of
+the evidence, the Court reached the conclusion that there were in the present case
+those exceptional circumstances which would allow the Court to take the unusual
+course of passing a sentence other than custody. The accused woman had been
+subject from a young age to persistent and prolonged violence from a man older than
+herself who was domineering and demanding. Since her arrest she had made
+remarkable progress, and a custodial sentence would be likely to damage and possibly
+bring to an end that rehabilitation. She had served the equivalent of a sentence of 12
+months and it was appropriate to give her the opportunity to continue her progress. The
+Court accordingly quashed the sentence of four years' detention in a young offender
+institution and substituted a probation order.174.
+[s 84.16] CASES.—Defence not made out.—
+Accused came to the house one day prior to the occurrence, demanded money and
+threatened the deceased of grave consequences and on the next day, when the
+demand was not fulfilled, he trespassed into the house, pushed away PWs 1 and 2,
+bolted the door from inside and inflicted repeated aruval blows on the deceased that
+resulted into her death. All these aspects also show that at the relevant time, he was
+not insane as claimed by him.175. Accused committed murder of two persons
+andcaused injuries to another. Testimony of witnesses was found cogent and reliable
+and there was no material on the basis of which it could be inferred that at the time of
+commission of offence the accused was of unsound mind to such an extent that by
+reason of such unsoundness, he was incapable of knowing the nature of the act or
+knowing that he was doing what was either wrong or contrary to law, plea of insanity
+rejected.176. Mere taking treatment earlier in Mental Hospital itself is not sufficient
+proof of total insanity of person.177.
+The accused killed his wife and daughter with an axe. He attended Kirtan (rendering of
+religious hymns) a night before. He carried the corpses in a hand-cart and made his
+statement before the police. His confessional statement was recorded by a competent
+judicial magistrate. He found no noticeable abnormality of mind or mental
+disorderliness. Even on his examination under section 313, Cr PC, 1973, he showed a
+soundness of mind. It was held that he was not entitled to the benefit of section 84.178.
+[s 84.17] When to be pleaded.—
+The plea cannot be raised for the first time before the Supreme Court for which no
+foundation was established before.179.
+[s 84.18] Investigation of offence vis-à-vis the general exceptions–
+The duty cast upon the investigating officer to investigate into the mental condition of
+the accused is very important. The Supreme Court held that, where during the
+investigation previous history of insanity is revealed, it is the duty of an honest
+investigator to subject the accused to a medical examination and place that evidence
+before the Court and if this is not done, it creates a serious infirmity in the prosecution
+case and the benefit of doubt has to be given to the accused.180. The Division Bench of
+High Court of Kerala observed that even if all the acts constituting an offence as per
+definition in IPC, 1860 are committed by a person, if an investigating officer finds on
+investigation that by reason of unsoundness of mind, accused was incapable of
+knowing the nature of the act, or that he was doing what is either wrong or contrary to
+law, as stated in Section 84 IPC, 1860, he shall not file a charge sheet against such
+person.181. The Court also held that the investigating officer is bound to investigate
+and confirm that despite what is contained in the "General Exceptions", acts committed
+by accused shall constitute offence under IPC, 1860.182. But the Single Bench of the
+High Court of Kerala, later, held that the ingredients of section 84 can only be taken as
+a defence during trial and it is not possible to throw out the Final Report in a case on
+the ground that the concerned accused was suffering from legal insanity.183.
+[s 84.19] Procedure.—
+Chapter XXV of Cr PC, 1973 deals with provisions as to accused persons of unsound
+mind.184.
+1. Shankar Narayan Bhadolkar v State of Maharashtra, AIR 2004 SC 1966 [LNIND 2004 SC 1370] :
+2004 Cr LJ 1778 : (2005) 9 SCC 71 [LNIND 2004 SC 1370] .
+2. The Indian Evidence Act, I of 1872, section 105.
+3. Musammat Anandi, (1923) 45 All 329 ; Babulal, 1960 Cr LJ 437 (All).
+4. A K Chaudhary v State of Gujarat, 2006 Cr LJ 726 (Guj).
+5. A K Chaudhary v State of Gujarat, 2006 Cr LJ 726 (Guj).
+90. State of Rajasthan v Shera Ram, (2012) 1 SCC 602 [LNIND 2011 SC 1192] : AIR 2012 SC 1
+[LNIND 2011 SC 1192] : (2012) 1 SCC (Cr) 406.
+91. R v Daniel McNaughten, 1843 RR 59 : 8ER 718 (HL).
+92. Sudhakaran v State of Kerala, (2010) 10 SCC 582 [LNIND 2010 SC 1046] : AIR 2011 SC 265
+[LNIND 2010 SC 1046] : 2011 Cr LJ 292 .
+93. State of Maharashtra v Govind Mhatarba Shinde, 2010 Cr LJ 3586 (Bom).
+94. State of Orissa v Duleswar Barik, 2008 Cr LJ 1065 (Ori) relied on ShamaTudu v State, 1987 Cr
+LJ 618 (Ori).
+95. Dahyabhai, 1964 (2) Cr LJ 472 (SC); Lonimohon Das, 1974 Cr LJ 1186 (Gau); Gunadhar
+Mondal, 1979 Cr LJ NOC 178 (Cal); Kesheorao, 1979 Cr LJ 403 (Bom); Lala Sk., 1983 Cr LJ 1675
+(Cal); Balu Ganpat, 1983 Cr LJ 1769 (Bom); Paramal Raman v State of Kerala, 1992 Cr LJ 176 Ker;
+Bai Bamilaben v State of Gujarat, 1991 Cr LJ 2219 Guj; Shama Tudu v State, 1987 Cr LJ 618
+Orissa; Sheralli Walli Md v State of Maharashtra, AIR 1972 SC 2443 : 1972 Cr LJ 1523 ; Qyami
+Ayatu v State of MP, AIR 1974 SC 216 [LNIND 1973 SC 242] : 1974 Cr LJ 305 . In Shama Tudu v
+State, 1987 Cr LJ 618 , the Orissa High Court cited the following cases in which the plea of
+insanity was accepted : Mitu Khadia v State of Orissa, 1983 Cr LJ 385 : 1983 Cut LR (Cr) 108;
+Khageshwar Pujari v State of Orissa, 1984 Cr LJ 1108 : 1984 (1) Ori LR 142 ; Sundar Bairagi v
+State, 1984 Cr LJ 124 ; Bata v State, 1985 (2) Ori LR 398 . The plea was negatived in the
+following cases; Nakul Chandra v State of Orissa, 1982 Cr LJ 2158 : (1982) 54 Cut LJ 195; Kusa
+Majhi v State, (1985) 59 Cut LT 203 : 1985 (1) Crimes 520 : 1985 Cr LJ 1460 : AIR 1985 SC 1409
+[LNIND 1985 SC 227] . State of MP v Digvijay Singh, AIR 1981 SC 1740 [LNIND 1978 SC 324] :
+1981 Cr LJ 1278 , prosecution case proved.
+96. Siddhapal Kamala Yadav, AIR 2009 SC 97 [LNIND 2008 SC 1992] : (2009) 1 SCC 124 [LNIND
+2008 SC 1992] ; Sanna Eranna, 1983 Cr LJ 619 (Kant); M Parvaiah, 1985 Cr LJ 1824 (AP);
+Kuttappan, 1986 Cr LJ 271 (Ker).
+97. State of Maharashtra v Govind Mhatarba Shinde, 2010 Cr LJ 3586 (Bom).
+98. State of Maharashtra v Govind Mhatarba Shinde, 2010 Cr LJ 3586 (Bom).
+99. Bhikari, AIR 1966 SC 1 [LNIND 1965 SC 57] . Absence of motive is one of the factors to be
+taken into account. Subbigadu v Emperor, AIR 1925 Mad 1238 [LNIND 1925 MAD 157] : 1926
+(27) Cr LJ 46 ; Ujagar Singh v State, AIR 1954 PEPSU 4 : 1953 Cr LJ 1859 . But this is only one
+factor among others. See Amrit Bhushan Gupta v UOI, AIR 1977 SC 608 [LNIND 1976 SC 458] :
+1977 Cr LJ 376 ; Ram Bharose v State of MP, 1974 Jab LJ 348 ; Peeru Singh v State of MP, 1987
+Cr LJ 1781 MP.
+100. Bapu v State of Rajasthan, (2007) 8 SCC 66 [LNIND 2007 SC 774] : JT 2007 (9) SC 110 :
+2007 AIR (SCW) 3808 : 2007 (7) SCR 917 [LNIND 2007 SC 774] : (2007) 8 Scale 455 [LNIND
+2007 SC 774] : (2007) 3 SCC (Cr) 509.
+101. Kuttappan v State of Kerala, 1986 Cr LJ 271 (Ker).
+102. Siddhapal Kamala Yadav, AIR 2009 SC 97 [LNIND 2008 SC 1992] : (2009) 1 SCC 124
+[LNIND 2008 SC 1992] .
+103. Surendra Mishra v State of Jharkhand, AIR 2011 SC 67 : (2011) 11 SCC 495 [LNIND 2011 SC
+27] : (2011) 3 SCC(Cr.) 232.
+104. Sudhakaran v State of Kerala, (2010) 10 SCC 582 [LNIND 2010 SC 1046] : AIR 2011 SC 265
+[LNIND 2010 SC 1046] : 2011 Cr LJ 292 .
+105. State of Maharashtra v Govind Mhatarba Shinde, 2010 Cr LJ 3586 (Bom).
+106. Available at : http://lawcommissionofindia.nic.in/1-50/Report42.pdf (last accessed in July
+2019).
+107. Bapu v State of Rajasthan, (2007) 8 SCC 66 [LNIND 2007 SC 774] : (2007) 3 SCC (Cr) 509 :
+(2007) 4 KLT 63 [LNIND 1985 KER 300] .
+108. Third question and answer in M'Naughton's case, (1843) 4 St Tr (NS) 847, 10 Cl & F 200;
+Tola Ram, (1927) 8 Lah 684. Jaganath Das v State, 1991 Cr LJ (NOC) 32 Cal.
+109. Harka v State, (1906) 26 AWN 193. Hari Singh Gond v State of MP, (2008) 16 SCC 109
+[LNIND 2008 SC 1728] : AIR 2009 SC 31 [LNIND 2008 SC 1728] : 2009 Cr LJ 346 : (2008) 3 KLT
+969 [LNIND 2008 SC 1728] , Mere abnormality of mind, partial delusion, irresistable impulse or
+compulsive psychopathic behaviour affords no protection under section 84. It is only
+unsoundness of mind which naturally impairs the cognitive faculties of mind which can justify
+exemption under section 84. Bapu v State of Rajasthan, (2007) 8 SCC 66 [LNIND 2007 SC 774] ,
+time factor, time of the offence is crucial.
+110. Sheralli Wali Mohammed v State of Maharashtra, (1973) 4 SCC 79 : 1972 Cr LJ 1523 .
+111. Govindaswami Padayachi, (1952) Mad 479; Ahmadullah, (1961) 3 SCR 583 [LNIND 1961 SC
+29] : (1961) 2 Cr LJ 43 : AIR 1961 SC 998 [LNIND 1961 SC 29] ; Dahyabhai, AIR 1964 SC 1563
+[LNIND 1964 SC 88] : 1964 (2) Cr LJ 472 ; followed in Narain v State, 1991 Cr LJ 1610 All, the
+accused murdering the Imam of a masjid, acquitted because of proven insanity. AG Bhagwat v
+UT Chandigarh, 1989 Cr LJ 214 P&H, no insanity at the time of attack.
+112. Ajaya Mahakud v State of Orissa, 1993 Cr LJ 1201 (Ori).
+113. S Sunil Sandeep v State of Karnataka, 1993 Cr LJ 2554 (Kant).
+114. State of Punjab v Mohinder Singh, (1983) 2 SCC 274 : 1983 SCC (Cr) 402 : 1983 Cr LR (SC)
+187 . In a similar acquittal, the HP High Court ordered that the accused be confined to mental
+hospital so that he would pose no danger to public. Krishan Dutt v State of HP, 1992 Cr LJ 1065
+HP.
+115. SW Mohammed, 1972 Cr LJ 1523 : AIR 1972 SC 2443 .
+116. Oyami Ayatu, 1974 Cr LJ 305 : AIR 1974 SC 216 [LNIND 1973 SC 242] . See also Gunadhar
+Mondal, 1979 Cr LJ NOC 178 (Cal), Kesheorao 1979 Cr LJ 403 (Bom). Basanti v State, 1989 Cr LJ
+415 (Ori), woman jumped into well with her children, rescued, voluntarily explaining her conduct,
+no insanity. Parapuzha Thamban v State of Kerala, 1989 Cr LJ 1372 (Ker); Munilal Gupta v State,
+1988 Cr LJ 627 (Del); Meh Ram v State, 1994 Cr LJ 1897 (Raj).
+117. Bapu v State of Rajasthan, (2007) 8 SCC 66 [LNIND 2007 SC 774] : (2007) 3 SCC (Cr) 509 :
+(2007) 4 KLT 63 [LNIND 1985 KER 300] .
+118. Kader Hasyer Shah, (1896) 23 Cal 604 , 607; Kalicharan, (1947) Nag 226.
+119. Gedka Goala, (1937) 16 Pat 333.
+120. Stephen : History of the Criminal Law, vol II, p 166.
+121. Raghu Pradhan v State of Orissa, 1993 Cr LJ 1159 (Ori).
+122. Brushabha Digal v State of Orissa, 1993 Cr LJ 3149 (Ori).
+123. Ashok Dattatraya v State of Maharashtra, 1993 Cr LJ 3450 (Bom).
+124. Amruta v State of Maharashtra, 1996 Cr LJ 1416 (Bom).
+125. Tola Ram v State of Rajasthan, 1996 Cr LJ 8 (Raj). For a case of pretended insanity, see
+Nathu Bapu Mhaskar v State of Maharashtra, 1996 Cr LJ 2121 (Bom).
+126. Paras Ram v State of Punjab, (1981) 2 SCC 508 : 1981 SCC (Cr) 516. Gulab Manik Surwase v
+State of Maharashtra, 2001 Cr LJ 4302 (Bom) the conduct of assaulting his wife in broad day
+light within the sight of his relatives and leaving behind the blood stained axe on the spot, the
+Court said, was a sign of abnormalcy. The accused was given the benefit of doubt. Laxmandas
+Mangaldas Manikpuri v State of Maharashtra, 1997 Cr LJ 950 (Bom), no trace of insanity in the
+conduct of the accused either before or after killing his wife. Defence under section 84 not
+available.
+127. Marimuthu v State, 2009 Cr LJ 3633 (Mad).
+128. Fourth question and answer in M'Naughton's case (1843) 4 St Tr (NS) 847; Ghatu Pramanik,
+(1901) 28 Cal 613 .
+129. First question and answer in M'Naughton's case, sup. Durga Domar v State of MP, (2002) 10
+SCC 193 , the accused killed in ferocious manner 5 children belonging to his close relatives,
+Courts below sentenced him to death, he could not engage a counsel. In this state of things, the
+judicial conscience of the Supreme Court compelled it to seek medical opinion regarding the
+mental condition of the accused.
+130. Madesh v State by The Inspector of Police, 2014 Cr LJ 96 (Mad).
+131. M'Naughton's case, (1843) 4 St Tr (NS) 847, 10 Cl & F 200.
+132. State of Maharashtra v Umesh Krishna Pawar, 1994 Cr LJ 774 (Bom).
+133. Kalicharan, (1947) Nag 226.
+134. Ganesh Shrawan, (1969) 71 Bom LR 643 .
+135. SW Mohammed, 1972 Cr LJ 1523 : AIR 1972 SC 2443 . See also Mitu Khadia, 1983 Cr LJ
+1385 (Ori).
+136. In the matter of Lakshman, 1973 Cr LJ 110 (Mad).
+137. Prakash, 1985 Cr LJ 196 (Bom). Krishan Dutt v State of HP, 1992 Cr LJ 1065 (HP), medical
+evidence and manner of commission showed insanity, acquittal.
+138. Velusamy, 1985 Cr LJ 981 (Mad).
+139. Baswant Rao, (1948) Nag 711.
+140. Sukru Sa, 1973 Cr LJ 1323 (Ori); Kesheorao, 1979 Cr LJ 403 (Bom); Lala Sk, 1983 Cr LJ
+1675 (Cal); Rajan v State, 1984 Cr LJ 874 (Ker); Kusa Majhi, 1985 Cr LJ 1460 (Ori). Sudhir Ch
+Biswas v State, 1987 Cr LJ 863 Cal.
+141. Siddheswari Bora, 1981 Cr LJ 1005 (Gau).
+142. State of Assam v Inush Ali, 1982 Cr LJ 1044 (Gau).
+143. Sita Ram v State, 2011 Cr LJ 1082 (All); Leena Balkrishna Nair v State of Maharashtra, 2010
+Cr LJ 3292 (Bom).
+144. Lakshman Dagdu, (1886) 10 Bom 512.
+145. Nivrutti, 1985 Cr LJ 449 (Bom).
+146. Debeswar Bhuyan v State of Assam, 2012 Cr LJ 274 (Gau). See also Laxman Gagarai v State
+of Orissa, 2012 Cr LJ 44 (Ori).
+147. State of Orissa v Kalia Alias Debabrata Maharana, 2008 Cr LJ 3107 (Ori).
+148. Kuttappan v State of Kerala, 1986 Cr LJ 271 (Ker).
+149. State of Rajasthan v Shera Ram, (2012) 1 SCC 602 [LNIND 2011 SC 1192] : AIR 2012 SC 1
+[LNIND 2011 SC 1192] : (2012) 1 SCC (Cr) 406 relied on Modi, Medical Jurisprudence and
+Toxicology, 24th Edn, 2011.
+150. Satwant Singh, 1975 Cr LJ 1605 (P & H). R v Sullivan, (1983) 2 All ER 673 , epilepsy is a
+disease of the mind, but it is not that of madness, though the effect produced on the mind is the
+same because it is difficult to convict a person who is himself a victim of psychomotor epilepsy.
+151. State of MP v Ahamadulla, 1961 (2) Cr LJ 43 : AIR 1961 SC 998 [LNIND 1961 SC 29] .
+152. Bapu v State of Rajasthan, (2007) 8 SCC 66 [LNIND 2007 SC 774] : JT 2007 (9) SC 110 :
+2007 AIR (SCW) 3808 : 2007 (7) SCR 917 [LNIND 2007 SC 774] : (2007) 8 Scale 455 [LNIND
+2007 SC 774] : (2007) 3 SCC(Cr) 509; Lok Bahadur Dahal v State of Sikkim, 2012 Cr LJ 4996 (Sik);
+Marimuthu v State, 2009 Cr LJ 3633 (Mad); Siddhapal Kamala Yadav, AIR 2009 SC 97 [LNIND
+2008 SC 1992] : (2009) 1 SCC 124 [LNIND 2008 SC 1992] ; Ramadhin v State of MP, 1995 Cr LJ
+3708 (MP).
+153. Riyasat v State of UP, 1993 Cr LJ 2834 (All).
+154. Jagdish v State of MP, (2009) 9 SCC 495 [LNINDORD 2009 SC 210] : (2010) 1 SCC(Cr) 21 :
+AIR 2010 SC (Supp) 373.
+155. Niman Sha v MP, 1996 Cr LJ 3395 (MP); Venugopalan Venu v Kerala, 1996 Cr LJ 3363 (Ker).
+Raval Mohanbhatt v State, 1998 Cr LJ 4325 (Guj).
+156. State of Jharkhand v Madras Nayak, 2003 Cr LJ NOC 197 : 2003 AIR Jhar HCR 653.
+157. Siddhapal Kamala Yadav, AIR 2009 SC 97 [LNIND 2008 SC 1992] : (2009) 1 SCC 124
+[LNIND 2008 SC 1992] .
+158. Shrikant Anandrao Bhosale v State of Maharashtra, AIR 2002 SC 3399 [LNIND 2002 SC 606]
+: (2002) 7 SCC 748 [LNIND 2002 SC 606] .
+159. Debeswar Bhuyan v State of Assam, 2012 Cr LJ 274 (Gau).
+160. Jagannath Das v State, 1991 Cr LJ (NOC) 32 (Cal). SK Nair v State of Punjab, AIR 1997 SC
+1537 [LNIND 1996 SC 1829] : 1997 Cr LJ 772 : (1997) 1 SCC 141 [LNIND 1996 SC 1829] , the
+plea of paranoid, facts established that he understood the implications of the acts at the time of
+the incident plea not sustainable. Ram Swarup Thakur v State of Bihar, 2000 Cr LJ 426 (Pat), the
+accused killed his own son of 3 years old for no reason. He was in mental hospital for two years,
+not a normal man at the time. No evidence from prosecution as to his state of mind. Acquitted.
+Shrikant Anandrao Bhosale v State of Maharashtra, AIR 2002 SC 3399 [LNIND 2002 SC 606] :
+(2002) 7 SCC 748 [LNIND 2002 SC 606] , another case of paranoid schizophrenia, the accused
+killed his wife in day light, made no attempt to hide or run away, mental unsoundness before or
+after occurrence was proved. The benefit of section 84 was granted. Also see Sudhakaran v
+State of Kerala, (2010) 10 SCC 582 [LNIND 2010 SC 1046] : AIR 2011 SC 265 [LNIND 2010 SC
+1046] : 2011 Cr LJ 292 .
+161. Tikaram Krishnalal Pandey v State of Maharashtra, 2013 Cr LJ 2410 (Bom).
+162. Dahyabhai Chhaganbhai Thakkar v State of Gujarat, AIR 1964 SC 1563 [LNIND 1964 SC 88] ;
+Sudhakaran v State of Kerala, (2010) 10 SCC 582 [LNIND 2010 SC 1046] : AIR 2011 SC 265
+[LNIND 2010 SC 1046] : 2011 Cr LJ 292 ; In State of H v Gian Chand, AIR 2001 SC 2075 [LNIND
+2001 SC 1124] : (2001) 6 SCC 71 [LNIND 2001 SC 1124] : 2001 Cr LJ 2548 : (2001) 1 SCC(Cr)
+980, the Supreme Court set aside the High Court Judgment by holding that the High Court
+misapplied the Dahyabhai Judgment (Supra).
+163. Devidas Loka Rathod v State of Maharashtra, AIR 2018 SC 3093 [LNIND 2018 SC 311] .
+164. Gelsing Pida Pawar v State of Maharashtra. 2010 Cr LJ 4097 (Bom); Leena Balkrishna Nair v
+State of Maharashtra, 2010 Cr LJ 3292 (Bom); Sarat Chandra Sahoo v State of Orissa, 2010 Cr LJ
+3084 (Ori)].
+165. Shivraj Singh v State of MP, 1975 Cr LJ 1458 , the accused failed to make out his defence.
+Similar observations occur in State v E Lemon, AIR 1970 Goa 1 : 1970 Cr LJ 36 ; Balagopal Re,
+1976 Cr LJ 1978 ; Dulal Nayak v State of WB, 1987 Cr LJ 1561 Cal, striking twice on head with
+the leg of cot, intention clear. Omkarlal v State of MP, 1987 Cr LJ 1289 MP. TN Lakshmaiah v
+State of Karnataka, (2002) 1 SCC 219 [LNIND 2001 SC 2360] , the Court has to examine the
+accused's claim having regard to his entire conduct up to commencement of the proceedings
+before the trial Court. The accused murdered his wife and son and took the plea that he acted
+under a spell of insanity. He led no evidence to that effect. Also his conduct was that of a fully
+conscious man. Bapu v State of Rajasthan, (2007) 8 SCC 66 [LNIND 2007 SC 774] , explanation
+of the type of burden of proof which lies on the accused; Bihari Lal v State of HP, 2006 Cr LJ
+3832 HP, the accused has to prove his mental condition of insanity. He cannot draw any benefit
+from adverse medical opinion.
+166. Ratan Lal v State of MP, AIR 1971 SC 778 [LNIND 1970 SC 487] : 1971 Cr LJ 654 .
+167. Tukappa Tamanna Lingardi v State of Maharashtra, 1991 Cr LJ 2375 (Bom).
+168. Kirtanram Mansai Uranv v State of MP, 2011 Cr LJ 4658 (Chh).
+169. Bhan Singh v State of MP, 1990 Cr LJ 1861 (MP).
+170. Elkari Shankari v State of AP, 1990 Cr LJ 97 AP. See also Uchhab Sahoo v State of Orissa,
+1989 Cr LJ 168 (Ori), evidence created a doubt that the accused might have been under a spell
+of madness.
+171. Narayan Chandra Dey v State, 1988 Cr LJ 387 (Cal). See also Santosh Kumar Sarkar v State,
+1988 Cr LJ 1828 Cal.
+172. Bapu v State of Rajasthan, (2007) 8 SCC 66 [LNIND 2007 SC 774] : (2007) 4 KLT 63 [LNIND
+1985 KER 300] . There has to be absence of mens rea and not mere absence of motive.
+173. Chandrashekar v State, 1998 Cr LJ 2237 (Kant). See also Raval Mohanbhai Laxmanbhai v
+State, 1998 Cr LJ 4325 .
+174. R v Feel (Taramary), (2000) 2 Cr App R (S) 464, [CA (Crim Div)].
+175. Mariappan vState of TN, 2013 Cr LJ 2334 (SC) : 2013 (6) Scale 18 .
+176. Turam Sundi v State of Jharkhand, 2011 Cr LJ 1872 (Jha); Madhusudan v State of
+Karnataka, 2011 Cr LJ 215 (Kar); C T Raveenran v State of Kerala, 2011 Cr LJ 14089 (Ker).
+177. Nand Lal v State of Rajasthan, 2011 Cr LJ 3686 (Raj); Babasaheb Thombre v State of
+Maharashtra, 2008 Cr LJ 2935 (Bom)].
+178. Dhaneswar Pradhan v State of Assam, 2003 Cr LJ 733 (Gau).
+179. PSVLN Sastry v Advocate General HC of AP, (2007) 15 SCC 271 .
+180. Apu @ Gajraj Singh v State of Rajasthan, (2007) 8 SCC 66 [LNIND 2007 SC 774] : 2007 (3)
+RCR (Criminal) 343.
+181. Shibu v State of Kerala, 2013 (4) KLJ 300 : 2013 (4) KLT 323 [LNIND 2012 KER 968] (Ker
+DB).
+182. Ibid.
+183. Ashok Kumar R v State of Kerala, 2016 Cr LJ 4765 (Ker) : 2016 (4) KHC 232 .
+184. Section 328-339.

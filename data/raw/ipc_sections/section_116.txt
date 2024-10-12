@@ -1,0 +1,156 @@
+Abettor.
+A person abets an offence, who abets either the commission of an offence, or the
+commission of an act which would be an offence, if committed by a person capable by
+law of committing an offence with the same intention or knowledge as that of the
+abettor.
+Explanation 1.—The abetment of the illegal omission of an act may amount to an
+offence although the abettor may not himself be bound to do that act.
+Explanation 2.—To constitute the offence of abetment it is not necessary that the act
+abetted should be committed, or that the effect requisite to constitute the offence
+should be caused.
+ILLUSTRATIONS
+(a) A instigates B to murder C. B refuses to do so. A is guilty of abetting B to
+commit murder.
+(b) A instigates B to murder D. B in pursuance of the instigation stabs D. D recovers
+from the wound. A is guilty of instigating B to commit murder.
+Explanation 3.—It is not necessary that the person abetted should be capable by law
+of committing an offence, or that he should have the same guilty intention or
+knowledge as that of the abettor, or any guilty intention or knowledge.
+ILLUSTRATIONS
+(a) A, with a guilty intention, abets a child or a lunatic to commit an act which would
+be an offence, if committed by a person capable by law of committing an
+offence, and having the same intention as A. Here A, whether the act be
+committed or not, is guilty of abetting an offence.
+(b) A, with the intention of murdering Z, instigates B, a child under seven years of
+age, to do an act which causes Z's death. B, in consequence of the abetment,
+does the act in the absence of A and thereby causes Z's death. Here though B
+was not capable by law of committing an offence, A is liable to be punished in
+the same manner as if B had been capable by law of committing an offence, and
+had committed murder, and he is therefore subject to the punishment of death.
+(c) A instigates B to set fire to a dwelling-house. B, in consequence of the
+unsoundness of his mind, being incapable of knowing the nature of the act, or
+that he is doing what is wrong or contrary to law, sets fire to the house in
+consequence of A's instigation. B has committed no offence, but A is guilty of
+abetting the offence of setting fire to a dwelling-house, and is liable to the
+punishment provided for that offence.
+(d) A, intending to cause a theft to be committed, instigates B to take property
+belonging to Z out of Z's possession. A induces B to believe that the property
+belongs to A. B takes the property out of Z's possession, in good faith, believing
+it to be A's property. B, acting under this misconception, does not take
+dishonestly, and therefore does not commit theft. But A is guilty of abetting
+theft, and is liable to the same punishment as if B had committed theft.
+Explanation 4.—The abetment of an offence being an offence, the abetment of such
+an abetment is also an offence.
+ILLUSTRATION
+A instigates B to instigate C to murder Z. B accordingly instigates C to murder Z, and C
+commits that offence in consequence of B's instigation. B is liable to be punished for
+his offence with the punishment for murder; and, as A instigated B to commit the
+offence, A is also liable to the same punishment.
+Explanation 5.—It is not necessary to the commission of the offence of abetment by
+conspiracy that the abettor should concert the offence with the person who commits
+it. It is sufficient if he engages in the conspiracy in pursuance of which the offence is
+committed.
+ILLUSTRATION
+A concerts with B a plan for poisoning Z. It is agreed that A shall administer the poison.
+B then explains the plan to C mentioning that a third person is to administer the poison,
+but without mentioning A's name. C agrees to procure the poison, and procures and
+delivers it to B for the purpose of its being used in the manner explained. A administers
+the poison; Z dies in consequence. Here, though A and C have not conspired together,
+yet C has been engaged in the conspiracy in pursuance of which Z has been murdered.
+C has therefore committed the offence defined in this section and is liable to the
+punishment for murder.
+COMMENTS.—
+Abetment under the IPC, 1860 involves active complicity on the part of the abettor at a
+point of time prior to the actual commission of the offence,59. and it is of the essence
+of the crime of abetment that the abettor should substantially assist the principal
+culprit towards the commission of the offence. Nowhere, concurrence in the criminal
+acts of another without such participation therein as helps to give effect to the criminal
+act or purpose, is punishable under the Code.
+'Abettor', under this section, means the person who abets (1) the commission of an
+offence, or (2) the commission of an act, which would be an offence if committed by a
+person not suffering from any physical or mental incapacity. In the light of the
+preceding section he must be an instigator or a conspirator or an intentional helper.
+Merely because the accused's brother was carrying on criminal activities in her house,
+the appellant cannot be held guilty unless there is some material to show her
+complicity.60.
+Explanation 1.—If a public servant is guilty of an illegal omission of duty made
+punishable by the Code, and a private person instigates him, then he abets the offence
+of which such public servant is guilty, though the abettor, being a private person, could
+not himself have been guilty of that offence.
+Explanation 2.—The question regarding abettor's guilt depends on the nature of the act
+abetted and the manner in which abetment was made. Commission of the act abetted
+is not necessary for the offence of abetment.61. The offence of abetment is complete
+notwithstanding that the person abetted refuses to do the thing, or fails involuntarily in
+doing it, or does it and the expected result does not follow. The offence of abetment by
+instigation depends upon the intention of the person who abets, and not upon the act
+which is actually done by the person whom he abets.
+Explanation 3.—This explanation makes it clear that the person abetted need not have
+any guilty intention in committing the act abetted. It applies to abetment generally and
+there is nothing to indicate that it applies only to abetment by instigation and not to
+other kinds of abetment.62. The offence of abetment depends upon the intention of the
+person who abets and not upon the knowledge or intention of the person he employs to
+act for him.
+Explanation 4.—This Explanation is to be read as follows: "When the abetment of an
+offence is an offence the abetment of such an abetment is also an offence". In view of
+Explanation 4 appended under section 108 of the IPC, 1860 the contention of accused
+that there cannot be any abetment of an abetment and it is unknown to criminal
+jurisprudence, holds no water and merits no consideration.63.
+[s 108.1] Abetment of attempt to commit suicide.—
+Section 306 prescribes punishment for abetment of suicide while section 309 punishes
+attempt to commit suicide. Abetment of attempt to commit suicide is outside the
+purview of section 306 and it is punishable only under section 309 and read with
+section 107, IPC, 1860.64.
+[s 108.2] Euthanasia.—
+Assisted suicide and assisted attempt to commit suicide are made punishable for
+cogent reasons in the interest of society. Such a provision is considered desirable to
+also prevent the danger inherent in the absence of such a penal provision.65. But in
+Aruna Ramchandra Shanbaug v UOI,66. the Supreme Court held that passive euthanasia
+can be allowed under exceptional circumstances under the strict monitoring of the
+Court. In March 2018, a five-judge Constitution Bench of the Supreme Court gave legal
+sanction to passive euthanasia, permitting 'living will' by patients.67.
+[s 108.3] Political murder.—
+The accused were poor villagers who were brainwashed and became tools for
+committing crimes. The leaders who called for revenge were not charge sheeted and
+they got off scot-free. Even their names were not revealed as they were political head-
+weight. Such leaders who prompt the followers to commit crimes should be charge
+sheeted for abetment of offence for murder.
+[s 108.4] Abetment is substantive offence.—
+The offence of abetment is a substantive one and the conviction of an abettor is,
+therefore, in no way dependent on the conviction of the principal.68. It cannot be held in
+law that a person cannot ever be convicted of abetting a certain offence when the
+person alleged to have committed that offence in consequence of the abetment has
+been acquitted. The question of the abettor's guilt depends on the nature of the act
+abetted and the manner in which the abetment was made. Under section 107, IPC,
+1860 a person abets the doing of an act in either of three ways which can be:
+instigating any person to do an act; or engaging with one or more person in any
+conspiracy for the doing of that act; or intentionally aiding the doing of that act. If a
+person instigates another or engages with another in a conspiracy for the doing of an
+act which is an offence, he abets such an offence and would be guilty of abetment
+under section 115 or section 116, IPC, 1860 even if the offence abetted is not
+committed in consequence of the abetment. The offence of abetment is complete
+when the alleged abettor has instigated another or engaged with another in a
+conspiracy to commit the offence. It is not necessary for the offence of abetment that
+the act abetted must be committed. This is clear from Explanation 2 and illustration (a)
+thereto, to section 108, IPC, 1860. It is only in the case of a person abetting an offence
+by intentionally aiding another to commit that offence that the charge of abetment
+against him would be expected to fail when the person alleged to have committed the
+offence is acquitted of that offence.69.
+59. Molazim Tewari, (1961) 2 Cr LJ 266 .
+60. Marry Perara Lilly v State, (1987) Supp1 SCC 182 : (1988) 1 SCC (Cr) 56.
+61. Sundar v State of UP, 1995 Cr LJ 3481 (All), relying on Sukh Ram v State of MP., 1989 SCC
+(Cr) 357 : AIR 1989 SC 772 [LNIND 2016 MP 593] .
+62. Chaube Dinkar Rao, (1933) 55 All 654 .
+63. Gundala Reddeppa Naidu v State of AP, 2005 Cr LJ 4702 (AP).
+64. Gian Kaur v State of Punjab, AIR 1996 SC 946 [LNIND 1996 SC 653] : (1996) 2 SCC 648
+[LNIND 1996 SC 653] .
+65. The Constitution Bench Gian Kaur v State of Punjab, 1996 (2) SCC 648 [LNIND 1996 SC 653]
+held that both euthanasia and assisted suicide are not lawful in India which overruled the two
+Judge Bench decision of the Supreme Court in P Rathinam v UOI, AIR 1994 SC 1844 [LNIND
+1994 SC 1533] : 1994 (3) SCC 394 [LNIND 1994 SC 1533] . The Court held that the right to life
+under Article 21 of the Constitution does not include the right to die.
+66. Aruna Ramchandra Shanbaug v UOI, (2011) 4 SCC 454 [LNIND 2011 SC 265] : AIR 2011 SC
+1290 [LNIND 2011 SC 265] .
+67. Common Cause (A Registered Society) v UOI, (2018) 5 SCC 1 [LNIND 2018 SC 87] .
+68. Gallu Saheb v State of Bihar, AIR 1958 SC 813 [LNIND 1958 SC 76] ; Maruti Dada, (1875) 1
+Bom 15; Sahib Ditta, (1885) PR No. 20 of 1885.
+69. Jamuna Singh v State of Bihar, AIR 1967 SC 553 [LNIND 1966 SC 202] : 1967 Cr LJ 541 .

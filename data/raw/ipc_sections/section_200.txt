@@ -1,0 +1,54 @@
+Issuing or signing false certificate.
+Whoever issues or signs any certificate required by law to be given or signed, or
+relating to any fact of which such certificate is by law admissible in evidence, knowing
+or believing that such certificate is false in any material point, shall be punished in the
+same manner as if he gave false evidence.
+COMMENT.—
+Several laws require a certificate of some matter to be given. The offence of certifying
+in any of these, knowing or believing that the certificate is false, is put on the same
+footing as the offence of giving false evidence. The certificate must, however, be false
+in a material point. The issuing or signing must be by the officer or person authorized to
+certify.
+[s 197.1] Ingredients.—
+The section has two essentials:—
+1. Issuing or signing of a certificate—
+(a) required by law to be given or signed, or
+(b) relating to a fact of which such certificate is by law admissible in
+evidence.
+2. Such certificate must have been issued or signed knowing or believing that it is
+false in any material point.
+Before convicting a person for offence under section 197, IPC, 1860 the prosecution
+must prove the following facts:-—
+(i) that the document in question purports to be a certificate;
+(ii) that such certificate is required by law to be given or signed, or that it related to
+some fact of which such certificate is by law admissible in evidence;
+(iii) that such certificate is false;
+(iv) that it is false in a material point;
+(v) that the accused issued or signed the same;
+(vi) that he, when doing so, knew or believed, such certificate to be false.121.
+[s 197.2] Certificate.—
+As per section 197, certificate contemplated therein is a certificate, which is required
+not to be given or signed for the use in the Court's administration of Justice. That
+means, certificate is issued as required by some law and it has some reference to
+some statutory requirements. Information given by petitioner to Process Server is that
+he has not heard about the Noticee for the last two years and his whereabouts are not
+known. That is not a certificate contemplated under any statute. Therefore, section 197
+also will have no application.122. The expression "by law admissible in evidence"
+means that the certificate should by some provision of law be admissible in evidence
+as such a certificate without further proof.123. A medical certificate is not such a
+certificate and the issue or use of a false medical certificate does not render a person
+liable under this section or section 198.124.
+1. S Palani Velayutham v District Collector Tirunvelveli TN, (2010) 1 SCC (Cr) 401 : (2009) 10 SCC
+664 [LNIND 2009 SC 1659] : (2009) 12 SCR 1215 [LNIND 2009 SC 1659] .
+121. Mangtu Ram v State of Rajasthan, 2003 Cr LJ 4733 (Raj).
+122. D Jothi v KP Kandasamy, 2000 Cr LJ 292 (Mad).
+123. Mahabir Thakur, (1916) 23 CLJ 423; Kumar Choudhari v State, (1936) 16 Pat 21; Prafulla
+Kumar Khara, (1942) 1 Cal 573 . A caste certificate issued by an MLA to a student to enable him
+to get a pre-matric scholarship has been held to be not a certificate within the meaning of this
+section. Haladhara Karji v Dileswar Subudhi, 1989 Cr LJ 629 (Ori), no caste was mentioned in the
+certificate. Premlata v State of Rajasthan, 1998 Cr LJ 1430 (Raj), a statement would become a
+false certificate if the law requires the issue of such a certificate as a legal proof. In this case
+the certificate was issued by the headmaster, though he was not authorised to do so. The
+candidate used the certificate for obtaining an appointment. A prima facie case under section
+198 was made out against the headmaster.
+124. Prafulla Kumar Khara, Ibid.

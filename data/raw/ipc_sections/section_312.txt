@@ -1,0 +1,206 @@
+Attempt to commit suicide.
+Whoever attempts to commit suicide and does any act towards the commission of
+such offence, shall be punished with simple imprisonment for a term which may
+extend to one year 663.[or with fine, or with both].
+COMMENT.—
+Suicide by itself is not an offence under either English or Indian Criminal Law, though at
+one time it was a felony in England.664. It is a unique legal phenomenon in the IPC,
+1860 that the only act, the attempt of which alone will become an offence. The person
+who attempts to commit suicide is guilty of the offence under section 309 IPC, 1860
+whereas the person who committed suicide cannot be reached at all. Section 306
+renders the person who abets the commission of suicide punishable for which the
+condition precedent is that suicide should necessarily have been committed.665.
+The act done must be in the course of the attempt, otherwise no offence is committed.
+Where a woman with the intention of committing suicide by throwing herself in a well,
+actually ran towards it, when she was seized by a person, it was held that she might
+have changed her mind, and she was caught before she did anything which might have
+been regarded as the commencement of the offence.666. Her act simply amounted to
+preparation. The pounding of oleander roots with an intention to poison oneself with
+the same was held not to constitute this offence.667. Where the accused jumped into a
+well to avoid and escape from police, and when rescued he came out of the well of his
+own accord, it was held that, in the absence of evidence that he jumped into the well to
+commit suicide, he could not be convicted of this offence.668. A village woman of 20
+years old was ill-treated by her husband. There was a quarrel between the two, and the
+husband threatened that he would beat her. Late that night the woman, taking her six
+months' old baby in her arms, slipped away from the house. After she had gone some
+distance she heard somebody coming up behind her, and when she turned round and
+saw her husband pursuing her, she got into a panic and jumped down a well nearby
+with the baby in her arms. The result was that the baby died but the woman recovered.
+One of the charges against her was attempt to commit suicide. It was held that she
+should not be convicted under this section of an attempt to commit suicide, for the
+word "attempt" connotes some conscious endeavour to accomplish the act, and the
+accused in jumping down the well was not thinking at all of taking her own life but only
+of escaping from her husband.669. If a person openly declares that he will fast to death
+and then proceeds to refuse all nourishment until the stage is reached when there is
+imminent danger of death ensuing, he can be held guilty under this section but when
+the evidence falls short of this, it cannot be said to be sufficient to sustain the
+charge.670. A woman who had been suffering from chronic incurable disease retired to
+bed with her one and a half-year-old child but was found with the child inside a well
+about 200 feet away from her house in the early morning of the next day when they
+were both taken out of the well, it was found that though the woman was alive the child
+had died. On being prosecuted under sections 302 and 309 IPC, 1860, she denied
+having jumped into the well. She further pleaded that she was too ill and there was
+something wrong with her brain. The trial Judge did not give her the benefit of section
+84 IPC, 1860 and convicted her of both the offences charged. In acquitting her the High
+Court of Bombay held that in the absence of any evidence that she deliberately jumped
+into the well along with the child, she could not be convicted merely on the basis of
+imagination or denied the benefit of section 84 IPC, 1860. In any case, the Judge
+should have given her the benefit of doubt.671. Moreover, suspicion however strong is
+not proof.672. Where a desolate woman jumped into a well with her two children and
+was released with admonition for the offence under section 309 but was sentenced to
+imprisonment for three months for the offence under section 307 IPC, 1860, the
+Supreme Court directed that she should also be released with admonition for the
+offence under section 307 IPC, 1860.673. Witness clearly stated that deceased was
+shouting, pleading with the accused to not kill her, when accused gave sword blows to
+her. There is no material available to establish that deceased volunteered herself for
+death — Exception 5 to section 300 could not be invoked. Conviction and sentence, as
+recorded by trial Court under sections 302 and 309 of IPC, 1860 against appellant was
+held proper.674.
+[s 309.1] Voluntary termination of life.—
+A person cannot claim his own life by saying that he had led a successful life and the
+mission of his life was fulfilled. It would amount to suicide as it would attract the
+provisions of sections 306 and 309. The Court said that no distinction could be made
+between suicide as ordinarily understood and the right to voluntarily put an end to one's
+life.675.
+[s 309.2] Fast-unto-death.—
+Where a person commenced fast-unto-death for certain demands but even before his
+demands were conceded, he chose to get himself treated medically without protest, it
+was held that the mens rea to destroy himself was absent and it could not be said that
+he attempted to commit suicide.676.
+[s 309.3] Constitutional validity of section 309.—
+In P Rathinam v UOI,677.,678. the constitutional validity of section 309 was challenged
+and the Supreme Court observed that the provision punishing attempt to commit
+suicide is cruel and irrational and is violative of Article 21 of the Constitution and it
+deserves to be effaced from the statute book to humanalise penal laws. It added that
+the act of attempted suicide has no baneful effect on society and it is also not against
+religion, morality or public policy, besides suicide or attempt to commit it causes no
+harm to others.
+This decision was subsequently reversed and it has been held again that the provision
+for penalising attempt to commit suicide and abetment of suicide is not
+unconstitutional.679.
+The Constitution Bench in a subsequent decision in Gian Kaur v State of Punjab680. and
+other connected matters has overruled the view taken in the case of P Rathinam681.
+that section 309 IPC, 1860 is constitutionally invalid. It was held that, on the facts
+which are not only proved but are also admitted by A1 the acquittal of A1 under section
+309, IPC, 1860 has to be set aside and he will have to be convicted under that
+section.682.
+[s 309.4] The Mental Healthcare Act, 2017
+Parliament has now enacted the Mental Healthcare Act, 2017 which vide section 115
+lays down that:
+(1) Notwithstanding anything contained in section 309 of the Indian Penal Code any
+person who attempts to commit suicide shall be presumed, unless proved otherwise, to
+have severe stress and shall not be tried and punished under the said Code.
+(2) The appropriate Government shall have a duty to provide care, treatment and
+rehabilitation to a person, having severe stress and who attempted to commit suicide,
+to reduce the risk of recurrence of attempt to commit suicide.
+In view of the above provisions, if a person attempts to commit suicide, it shall be
+presumed, unless proved otherwise, that he has severe stress and he shall not be tried
+and punished under section 309 of the IPC, 1860. By inverting the presumption against
+guilt but retaining the provision in the statute book, attempt to suicide is still a criminal
+offence. In order to render conviction, prosecution will be required to lead evidence and
+prove that the survivor did not have severe stress and did not suffer any issue of
+mental health.
+[s 309.5] Euthanasia.—
+In India active euthanasia is illegal and a crime under section 302 or at least section
+304 IPC, 1860. Physician assisted suicide is a crime under section 306 IPC, 1860
+(abetment to suicide). The Constitution Bench in Gian Kaur v State of Punjab,683. held
+that both euthanasia and assisted suicide are not lawful in India which overruled the
+two Judge Bench decision of the Supreme Court in P Rathinam v UOI.684. The Court
+held that the right to life under Article 21 of the Constitution does not include the right
+to die. But in Aruna Ramchandra Shanbaug v UOI,685. the Supreme Court held that
+passive euthanasia can be allowed under exceptional circumstances under the strict
+monitoring of the Court. The difference between 'active' and passive' euthanasia is that
+in active euthanasia something is done to end the patient's life while in passive
+euthanasia, something is not done that would have preserved the patient's life. It is
+usually defined as withdrawing medical treatment with a deliberate intention to causing
+the patient's death. In Common Cause (A Regd. Society) v UOI,686. a five-judge
+Constitution Bench gave legal sanction to passive euthanasia, permitting 'living will' by
+patients on withdrawing medical support if they slip into irreversible coma. The
+Supreme Court held that the right to die with dignity is a fundamental right.
+[s 309.6] Procedure for passive euthanasia.—
+Article 226 gives abundant power to the High Court to pass suitable orders on the
+application filed by the near relatives or next friend or the doctors/hospital staff praying
+for permission to withdraw the life support to an incompetent person of the kind above
+mentioned. When such an application is filed the Chief Justice of the High Court should
+forthwith constitute a Bench of at least two Judges who should decide to grant
+approval or not. Before doing so the Bench should seek the opinion of a committee of
+three reputed doctors to be nominated by the Bench after consulting such medical
+authorities/medical practitioners as it may deem fit. Preferably one of the three doctors
+should be a neurologist, one should be a psychiatrist, and the third a physician. For this
+purpose a panel of doctors in every city may be prepared by the High Court in
+consultation with the State Government/Union Territory and their fees for this purpose
+may be fixed. The committee of three doctors nominated by the Bench should carefully
+examine the patient and also consult the record of the patient as well as taking the
+views of the hospital staff and submit its report to the High Court Bench.
+Simultaneously with appointing the committee of doctors, the High Court Bench shall
+also issue notice to the State and close relatives, e.g., parents, spouse,
+brothers/sisters, etc., of the patient, and in their absence his/her next friend, and supply
+a copy of the report of the doctor's committee to them as soon as it is available. After
+hearing them, the High Court bench should give its verdict. The above procedure
+should be followed all over India until Parliament makes legislation on this subject.687.
+[s 309.7] Abetment of attempt to commit Suicide.—
+Section 306 prescribes punishment for abetment of suicide while section 309 punishes
+attempt to commit suicide. The history of use of the provisions of section 309 shows
+that the section has been pressed into service primarily in the case of Sati, where the
+widow commits suicide and others have various reasons – economic and social, to
+abet such hapless woman to commit suicide. If a hapless Sati victim is goaded to
+commit suicide and the abetters abet her to jump into the funeral pyre of her husband,
+it would be preposterous for law to hold the abetters not guilty of any offence merely
+because she escapes or is saved from death later.688.
+663. Subs. by Act 8 of 1882, section 7, for "and shall also be liable to fine".
+664. Gangula Mohan Reddy v State of AP, AIR 2010 SC 327 [LNIND 2010 SC 3] : (2010) 1 SCC
+327 ; Gian Kaur v State of Punjab, 1996 (2) SCC 648 [LNIND 1996 SC 653] : AIR 1996 SC 946
+[LNIND 1996 SC 653] .
+665. Satvir Singh v State of Punjab, (2001) 8 SCC 633 [LNIND 2001 SC 2168] : 2001 Cr LJ 4625 .
+666. Ramakka, (1884) 8 Mad 5.
+667. Tayee, (1883) Unrep Cr C 188.
+668. Dwarka Poonja, (1912) 14 Bom LR 146 [LNIND 1912 BOM 6] .
+669. Dhirajia, (1940) All 647 .
+670. Ram Sunder, AIR 1962 All 262 [LNIND 1961 ALL 65] .
+671. Phulabai, 1976 Cr LJ 1519 (Bom).
+672. Brij Bhusan Singh, AIR 1946 PC 38 .
+673. Radharani, 1981 Cr LJ 1705 (SC) : AIR 1981 SC 1776 (2) : 1981 (Supp) SCC 84. Rukhmina
+Devi v State of UP, 1989 Cr LJ 548 (All), mother locked herself up with her son after altercation
+with family. She killed the child and then attempted suicide. Convicted under this section and
+section 300 with a remark that because her husband had also rejected her and she was the
+victim of rage, her sentence might be remitted by the State. For a case in which the
+circumstances ruled out the possibility of suicide, see Subedar Tewari v State of UP, AIR 1989 SC
+733 : 1989 Cr LJ 923 : 1989 (Supp) SCC 91. Kavita v State of TN, AIR 1998 SC 2473 [LNIND 1998
+SC 642] : 1998 Cr LJ 3624 no proof that the woman threw her children into the well and then
+herself jumped into it to commit suicide. Conviction set aside. Ram Kumar v State of Gujarat, AIR
+1998 SC 2732 [LNIND 1998 SC 772] : 1998 Cr LJ 4048 the deceased-woman and her accused
+husband were alone in the house. There was ligature mark on her neck. Her body was on a cot
+and not hanging. The court said that the theory of suicide became demolished and that of
+murder could be inferred. State of Maharashtra v Maruti; State of UP v Sikandar Ali, 1998 Cr LJ
+2520 : AIR 1998 SC 1862 [LNIND 1998 SC 1231] double murder, conviction. Death penalty not
+warranted, life imprisonment. State of HP v Jeet Singh, AIR 1999 SC 1293 : 1999 Cr LJ 2025 ,
+whether death was homicidal or suicidal, injuries found on both leg of the dead body on the
+basis of which the doctor stated that death might have been due to smothering. This opinion
+was formed without chemical examiner's report. The finding of the High Court that the
+deceased might have committed suicide was held liable to be set aside.
+674. Narendra v State of Rajasthan, 2012 Cr LJ 723 (Raj); Ujwala Sonyabapu Bhujade v State of
+Maharashtra, 2011 Cr LJ 1791 (Bom)— offences under sections 302 and 309 IPC, 1860 not
+proved.
+675. CA Thomas Master v UOI, 2000 Cr LJ 3729 (Ker).
+676. Ramamoorthy v State of TN, 1992 Cr LJ 2074 (Mad). Banwarilal Sharma v State of UP,
+(1998) 3 SCC 604 : JT 1998 (4) SC 466 ; Balamani v State, 2010 (4)Ker LT 329 .
+677. Jagadeeswar v State of AP, 1988 Cr LJ 549 approved and Dubal v State of Maharashtra,
+1987 Cr LJ 743 overruled. The court also noted the distinction between suicide and euthanasia
+and section 306 and section 309.
+678. P Rathinam v UOI, 1994 Cr LJ 1605 .
+679. Gian Kaur v State of Punjab, 1994 Cr LJ 1660 (SC), the decision of Division Bench in P
+Rathinam v UOI, 1994 AIR SCW 1764 : (1994) 3 SCC 394 [LNIND 1994 SC 1533] : 1994 Cr LJ
+1605 : AIR 1994 SC 1844 [LNIND 1994 SC 1533] overruled by Constitution Bench.
+680. Supra.
+681. Supra.
+682. Aruna Ramchandra Shanbaug v UOI, (2011) 4 SCC 454 [LNIND 2011 SC 265] : AIR 2011 SC
+1290 [LNIND 2011 SC 265] .
+683. Gian Kaur v State of Punjab, 1996 (2) SCC 648 [LNIND 1996 SC 653] .
+684. P Rathinam v UOI, AIR 1994 SC 1844 [LNIND 1994 SC 1533] : 1994 (3) SCC 394 [LNIND
+1994 SC 1533] .
+685. Aruna Ramchandra Shanbaug v UOI, (2011) 4 SCC 454 [LNIND 2011 SC 265] : AIR 2011 SC
+1290 [LNIND 2011 SC 265] .
+686. Common Cause (A Regd. Society) v UOI, LNIND 2018 SC 87 .
+687. Aruna Ramchandra Shanbaug v UOI, (2011) 4 SCC 454 [LNIND 2011 SC 265] : AIR 2011 SC
+1290 [LNIND 2011 SC 265] .
+688. Berin P Varghese v State of Kerala, 2008 Cr LJ 1759 .

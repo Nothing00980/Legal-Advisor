@@ -1,0 +1,159 @@
+Fabricating false evidence.
+Whoever causes any circumstance to exist or 42.[makes any false entry in any book or
+record or electronic record or makes any document or electronic record containing a
+false statement], intending that such circumstance, false entry or false statement
+may appear in evidence in a judicial proceeding,1 or in a proceeding taken by law
+before a public servant2 as such, or before an arbitrator, and that such circumstance,
+false entry or false statement so appearing in evidence, may cause any person who in
+such proceeding is to form an opinion upon the evidence, to entertain an erroneous
+opinion touching any point material3 to the result of such proceeding, is said "to
+fabricate4 false evidence".
+ILLUSTRATIONS
+(a) A, puts jewels into a box belonging to Z, with the intention that they may be
+found in that box, and that this circumstance may cause Z to be convicted of
+theft. A has fabricated false evidence.
+(b) A makes a false entry in his shop-book for the purpose of using it as
+corroborative evidence in a Court of Justice. A has fabricated false evidence.
+(c) A, with the intention of causing Z to be convicted of a criminal conspiracy, writes
+a letter in imitation of Z's handwriting, purporting to be addressed to an
+accomplice in such criminal conspiracy, and puts the letter in a place which he
+knows that the officers of the Police are likely to search. A has fabricated false
+evidence.
+COMMENT.—
+The wording of this section is so general as to cover any species of crime, which
+consists in the endeavour to injure another by supplying false data upon which to rest a
+judicial decision.
+[s 192.1] Ingredients.—
+The offence defined in this section has three ingredients:—
+(1) Causing any circumstance to exist, or making any false entry in any book or
+record, or making any document containing a false statement.
+(2) Doing one of the above acts with the intention that it may appear in evidence in
+a judicial proceeding, or in a proceeding taken by law before a public servant or
+an arbitrator.
+(3) Doing such act with the intention that it may cause any person, who in such
+proceeding, is to form an opinion upon the evidence to entertain an erroneous
+opinion touching any point material to the result of such proceeding.43. From a
+careful reading of section 192, IPC, 1860, what transpires is that whoever forges
+a document, containing false statement or false entry, intending that such false
+entry or false statement may appear in evidence in a judicial proceeding, or in a
+proceeding taken by law before a public servant as such, so appearing in
+evidence, may cause any person, who, in such proceeding, is to form an opinion
+upon the evidence, to entertain an erroneous opinion in such proceeding, he is
+said to fabricate false evidence.44.
+1. 'Judicial proceeding'.—The Code of Criminal Procedure says that 'judicial
+proceeding' includes any proceeding in the course of which evidence is or may be
+legally taken on oath [section 2(i)]. The power to take evidence on oath, which includes
+affirmation as well,45. is the characteristic test of 'judicial proceeding'. 'Judicial
+proceeding' means nothing more or less than a step taken by a Court in the course of
+administration of justice in connection with a case.46. Execution proceedings are
+judicial proceedings.47.
+It is not essential that there should be any judicial proceeding pending at the time of
+fabrication. It is enough that there is a reasonable prospect of such a proceeding
+having regard to the circumstances of the case and that the document in question is
+intended to be used in such a proceeding.48.
+2. 'Public servant'.—The provisions of this section are not confined to false evidence to
+be used in judicial proceedings, but to any proceeding before a public servant. A
+Government correspondence was stealthily removed by accused No. 1 and handed
+over to the pleader of accused Nos. 2 and 3. The correspondence was replaced by
+accused No. 1. It was afterwards discovered that some papers had disappeared from
+the correspondence whilst others had been either mutilated or altered. It was held that
+accused Nos. 2 and 3 were guilty of offences under sections 466 and 193.49.
+3. 'Material'.—The false evidence under this section should be material to the case in
+which it is given though not so under section 191.50. The word 'material' means of such
+a nature as to affect in any way, directly or indirectly, the probability of anything to be
+determined by the proceeding, or the credit of any witness, and a fact may be material
+although evidence of its existence was improperly admitted.51.
+4. 'Fabricate'.—The term fabrication refers to the fabrication of false evidence; and if
+the evidence fabricated is intended to be used in a judicial proceeding, the offence is
+committed as soon as the fabrication is complete; it is immaterial that the judicial
+proceeding has not been commenced,52. or that no actual use has been made of the
+evidence fabricated. The mere fabrication is punishable under section 193; the use of
+the fabricated evidence is punishable under section 196.
+The evidence fabricated must be admissible evidence.53.
+[s 192.2] Liability of accused for fabricating false evidence.—
+It has been held by the High Courts of Calcutta54. and Bombay55. that an offender who
+fabricates false evidence to screen himself from punishment is liable to be convicted
+under this section. The Allahabad High Court56. has veered round to the same view,
+after distinguishing an earlier case57. to the contrary.
+[s 192.3] Vicarious liability.—
+Neither section 192 IPC, 1860 nor section 199 IPC, 1860, incorporate the principle of
+vicarious liability, and therefore, it was incumbent on the complainant to specifically
+aver the role of each of the accused in the complaint.58. Penal Code does not contain
+any provision for attaching vicarious liability on the part of the managing Director or the
+Director for the Company when the accused is the company. Vicarious liability arise
+provided any provision exits in that behalf in the statute. It is obligatory on the part of
+the complainant to make requisite allegations which would attract the provision
+constituting vicarious liability.59.
+[s 192.4] CASES.—Fabrication of evidence to be used in judicial proceeding.—
+The brother of an accused person applied to the Court on behalf of the accused asking
+that the witnesses for the prosecution might first be made to identify the accused. The
+Court assenting to this request, he produced before the Court ten or twelve men, none
+of whom could be identified as the accused by any of the witnesses. Upon being asked
+by the Court where the accused was, he pointed out a man who was not the accused. It
+was held that he was guilty of fabricating false evidence.60. The accused, who was in
+possession of the complainant's house as a yearly tenant, about the time the tenancy
+came to an end, prepared another rent-note for a period of four years and got it
+registered without the complainant's knowledge. It was held that the accused had
+fabricated false evidence inasmuch as the rent-note, which contained an admission
+against the interest of the accused, could be admitted in evidence on his behalf.61. By
+swearing a false affidavit the accused makes himself prima facie liable under section
+193 read with sections 191 and 192 of the IPC, 1860.62. In order to have the value of
+CFC excluded for the purpose of excise duty, letters were fabricated and the same were
+seized in a raid. Fifteen months later, taking up a notice of motion, High Court directed
+filing of criminal complaints against the appellant under section 192. While agreeing
+that the Division Bench was not wrong in making the direction, which it did on the
+merits of the case, Supreme Court held that the High Court did not appear to have
+bestowed sufficient attention while deciding upon the expediency contemplated by
+section 340.63.
+[s 192.5] No fabrication if no erroneous opinion could be formed touching any
+point material to result of proceeding.—
+It is now well settled that prosecution for perjury should be sanctioned by the Court
+only in those cases where there is a prima facie case of deliberate and conscious
+falsehood on a matter of substance and the conviction is reasonably probable or
+likely.64. It is also very necessary that the portions of the witness's statement in regard
+to which he has, in the opinion of the Court, perjured himself, should be specifically set
+out in or form annexure to the show cause notice issued to the accused so that he is in
+a position to furnish adequate and proper reply in regard thereto and be able to meet
+the charge.65.
+[s 192.6] No fabrication of evidence fabricated is inadmissible.—
+The mere fact that a document would be ultimately inadmissible in evidence does not
+necessarily take it out of the mischief of section 193.66.
+1. S Palani Velayutham v District Collector Tirunvelveli TN, (2010) 1 SCC (Cr) 401 : (2009) 10 SCC
+664 [LNIND 2009 SC 1659] : (2009) 12 SCR 1215 [LNIND 2009 SC 1659] .
+42. Subs. by The Information Technology Act, 2000 (Act 21 of 2000) section 91 and First Sch,
+w.e.f. 17 October 2000, for the words "makes any false entry in any book or record, or makes any
+document contained on false statement". The words "electronic record" have been defined in
+section 29A.
+43. Babu Lal v State of UP, (1964) 1 Cr LJ 555 : AIR 1964 SC 725 [LNIND 1963 SC 218] .
+Maharashtra State Electricity Distribution Co Ltd v Datar Switchgerar Ltd, (2010) 10 SCC 479
+[LNIND 2010 SC 979] : 2011 CR LJ. 8 : (2010) 12 SCR 551 : (2011) 1 SCC (Cr) 68; See State of
+MP v Asian Drugs, 1990 Cr LJ 105 MP, the defence exposing fabrication by Inspectors under The
+Drugs and Cosmetics Act, 1940 (23 of 1940).
+44. Sushanta Sarkar v State of Nagaland 2012 Cr LJ 4467 (Gau).
+45. The General Clauses Act, 1897 (X of 1897), section 3 (37)
+46. Venkatachalam Pillai, (1864) 2 MHC 43 ; Tulja v State, (1887) 12 Bom 36, 42.
+47. Govind Pandurang, (1920) 22 Bom LR 1239 , 45 Bom 668.
+48. Rajaram, (1920) 22 Bom LR 1229 [LNIND 1920 BOM 119] ; Govind Pandurang, Ibid.
+49. Vallabhram Ganpatram, (1925) 27 Bom LR 1391 .
+50. Tookaram, (1862) Unrep. CrC 2.
+51. Stephen's Digest, Art 148; SP Kohli, 1978 Cr LJ 1804 : AIR 1978 SC 1753 [LNIND 1978 SC
+235] .
+52. Mula, (1879) 2 All 105 .
+53. Zakir Husain, (1898) 21 All 159 .
+54. Superintendent and Remembrancer of Legal Affairs, Bengal v Taraknath Chatterji, (1935) 62
+Cal 666 .
+55. Rama Nana, (1921) 46 Bom 317, 23 Bom LR 987.
+56. Bhagirath Lal, (1934) 57 All 403 .
+57. Ram Khilawan, (1906) 28 All 705 .
+58. Maharashtra State Electricity Distribution Co Ltd v Datar Switchgerar Ltd, (2010) 10 SCC 479
+[LNIND 2010 SC 979] : 2011 Cr LJ 8 : (2010) 12 SCR 551 : (2011) 1 SCC (Cr) 68.
+59. Maksud Saiyed v State of Gujarat, (2008) 5 SCC 668 [LNIND 2007 SC 1090] : JT 2007 (11) SC
+276 [LNIND 2007 SC 1090] : 2008 (5) SCR 1240 : (2008) 6 Scale 81 [LNIND 2008 SC 848] :
+(2008) 2 SCC (Cr) 692.
+60. Cheda Lal, (1907) 29 All 351 .
+61. Rajaram, (1920) 22 Bom LR 1229 [LNIND 1920 BOM 119] .
+62. Baban Singh, 1967 Cr LJ 6 : AIR 1967 SC 68 [LNIND 1966 SC 47] .
+63. Phiroze Dinshaw Lam v UOI, 1996) 8 SCC 209 : (1996) 1 SCC (Cr) 575.
+64. SP Kohli, 1978 Cr LJ 1804 : AIR 1978 SC 1753 [LNIND 1978 SC 235] .
+65. Ibid.
+66. Mahesh Chandra Dhupi, (1940) 1 Cal 465 .

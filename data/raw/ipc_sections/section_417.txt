@@ -1,0 +1,526 @@
+Punishment for criminal breach of trust.
+Whoever commits criminal breach of trust shall be punished with imprisonment of
+either description for a term which may extend to three years, or with fine, or with
+both.
+COMMENT—
+The criminal breach of trust would, inter alia, mean using or disposing of the property
+by a person who is entrusted with or has otherwise dominion there over. Such an act
+must not only be done dishonestly but also in violation of any direction of law or any
+contract express or implied relating to carrying out the trust.286. To constitute this
+offence there must be dishonest misappropriation by a person in whom confidence is
+placed as to the custody or management of the property in respect of which the breach
+of trust is charged. The ownership or beneficial interest in the property in respect of
+which criminal breach of trust is alleged to have been committed must be in some
+person other than the accused and the latter must hold it on account of some person
+or in some way for his benefit.287. The offence of criminal breach of trust closely
+resembles the offence of embezzlement under the English law. Offences committed by
+trustees with regard to trust property fall within the purview of this section.
+A partner has undefined ownership along with other partners over all the assets of the
+partnership. If he chooses to use any of them for his own purpose he may be
+accountable civilly to other partners. But he does not thereby commit any
+misappropriation. A partner may have dominion over the partnership property. But
+mere dominion is not enough. It must further be shown that his dominion was the
+result of entrustment. Thus to prosecute a partner the prosecution must establish that
+dominion over the assets or a particular asset of the partnership was by a special
+agreement between the parties, entrusted to the accused partner. If in the absence of
+such a special agreement a partner receives money belonging to the partnership he
+cannot be said to have received it in a fiduciary capacity or in other words cannot be
+held to have been entrusted with dominion over partnership properties and without
+entrustment there cannot be any criminal breach of trust.288. The Supreme Court has
+reiterated that where a partner is entrusted with property under special contract and he
+holds that property in a fiduciary capacity, any misappropriation of that property would
+amount to criminal breach of trust.289.
+[s 406.1] Ingredients.—
+The section requires—
+(1) Entrusting any person with property or with any dominion over property;
+(2) The person entrusted (a) dishonestly misappropriating or converting to his own
+use that property; or
+(b) Dishonestly using or disposing of that property or wilfully suffering any other
+person so to do in violation
+(i) of any direction of law prescribing the mode in which such trust is to be
+discharged, or
+(ii) of any legal contract made touching the discharge of such trust.
+This offence consists of any one of four positive acts, namely, misappropriation,
+conversion, user, or disposal of property. Neither failure to account for breach of
+contract, however dishonest, is actually and by itself the offence of criminal breach of
+trust.290.
+Sufferance of any loss by the victim is not necessary for leading to a conviction under
+the section.291.
+The section does not require that the trust should be in furtherance of any lawful
+object. Offences committed by trustees with regard to trust property fall within the
+purview of this section. Negligence or other misconduct causing the loss of trust
+property may make the person entrusted civilly responsible, but will not make him
+guilty of criminal breach of trust.
+[s 406.2] Criminal misappropriation and criminal breach of trust.—
+In criminal misappropriation the property comes into the possession of the offender by
+some casualty or otherwise, and he afterwards misappropriates it. In the case of
+criminal breach of trust the offender is lawfully entrusted with the property, and he
+dishonestly misappropriates the same, or wilfully suffers any other person so to do,
+instead of discharging the trust attached to it.
+1. 'Being in any manner entrusted with property'.—The words "in any manner" do not
+enlarge the term "entrustment" itself and, unless there is entrustment, the transaction in
+question cannot be affected by the terms of that section.292. The word 'entrusted' is
+not a term of law. In its most general significance all it imports is a handing over of the
+possession for some purpose which may not imply the conferring of any proprietary
+right at all.293. The natural meaning of 'entrusted' involves that the assured should by
+some real and conscious volition have imposed on the person, to whom he delivers the
+goods, some species of fiduciary duty.294. The expression "entrustment" carries with it
+the implication that the person handing over any property or on whose behalf that
+property is handed over to another, continues to be its owner. Further, the person
+handing over property must have confidence in the person taking the property so as to
+create a fiduciary relationship between them.295.
+Once entrustment is proved, the prosecution has not to prove any misappropriation. It
+is for the accused to prove in his defence that there was no misappropriation. The
+offence becomes proved when it is shown that the money has not been applied to the
+purpose for which it was entrusted.296.
+[s 406.3] Customary gifts at engagement, etc.—
+Gifts in cash or kind which are customarily given at the time of engagement, tilak or
+marriage ceremony cannot be regarded as an entrustment of items of dowry. No
+complaint can be presented against the donee in respect of such customary
+practices.297.
+Where a person authorised to collect, delegates his functions to a subordinate of his,
+and the latter acts in exercise of such delegated authority, any amount that is paid to
+him would constitute 'entrustment' within the meaning of section 405.298.
+[s 406.4] 'Property'.—
+The word 'property' is used in the Code in a much wider sense than the expression
+'movable property'. There is no good reason to restrict the meaning of the word
+'property' to movable property only when it is used without any qualification in this
+section or other sections of the Penal Code.299. The offence of criminal breach of trust
+is committed not only by dishonest conversion, but also by dishonest use or
+disposition, and there is nothing in the wording of this section to exempt from the
+definition of criminal breach of trust dishonest use of immovable property by the
+person entrusted with dominion over it.
+In cases of criminal breach of trust a distinction has to be drawn between the person
+entrusted with property and one having control or general charge over the property. In
+case of the former, if it is found that the property is missing, without further proof, the
+person so entrusted will be liable to account for it. In the latter case, that person will be
+liable only when it is shown that he misappropriated it or was a party to criminal breach
+of trust committed in respect of that property by any other person.300.
+2. 'Dishonestly misappropriates'.—A temporary misappropriation may also constitute a
+criminal breach of trust. The bank officials in this case made public money available to
+a private party contrary to statutory provisions and Departmental instructions. The
+dishonest intention was self-evident.301. Terms of section 405 are very wide. They
+apply to one who is in any manner entrusted with property or dominion over property.
+Section 405 does not require that trust should be in furtherance of any lawful object. It
+merely provides that a person commits criminal breach of trust if he dishonestly
+misappropriates or converts to his own use the property entrusted to him.302.
+[s 406.5] Negligence is not 'Dishonestly'.—
+Criminal or dishonest intention is a sine qua non in an offence of criminal breach of
+trust. This being so the prosecution has to show that the accused dishonestly
+misappropriated or converted to his own use or dishonestly disposed of property
+entrusted to him. The prosecution must prove 'entrustment' or 'domino' over the
+property with the person proceeded and the person so entrusted has dishonestly
+misappropriated or converted that property. Even if the prosecution succeeds in
+proving entrustment, it would fail to establish the offence against the accused, if it fails
+to prove that he has misappropriated the property entrusted303.
+It has been held that a mere error of judgment does not attract criminal liability.304.
+[s 406.6] Wilful omission to account.—
+Similarly, "in the case of a servant charged with misappropriating the goods of his
+master the elements of criminal offence of misappropriation will be established if the
+prosecution proves that the servant received the goods, that he was under a duty to
+account to his master and had not done so. If the failure to account was due to an
+accidental loss the facts being within the servant's knowledge, it is, for him to explain
+the loss".305. In JM Desai's case the matter was further clarified by the Supreme Court
+to say, "conviction of a person for the offence of criminal breach of trust may not in all
+cases be founded merely on his failure to account for the property entrusted to him, or
+over which he has dominion, even when a duty to account is imposed upon him, but
+where he is unable to account or renders an explanation for his failure to account
+which is untrue an inference of misappropriation with dishonest intent may readily be
+made".306.
+Mere retention of goods by a person without misappropriation does not constitute
+criminal breach of trust.307.
+3. 'Dishonestly uses or disposes of that property'.— To constitute the offence of
+criminal breach of trust punishable under section 406 of the IPC, 1860, there must be
+dishonest misappropriation by a person in whom confidence is placed as to the
+custody or management of the property in respect of which the breach of trust is
+charged. The misappropriation or conversion or disposal must be with a dishonest
+intention. Every breach of trust gives rise to a suit for damages, but it is only when there
+is evidence of a mental act of fraudulent misappropriation that the commission of
+embezzlement of any sum of money becomes a penal offence punishable as criminal
+breach of trust. It is this mental act of fraudulent misappropriation that clearly
+demarcates an act of embezzlement which is a civil wrong or tort, from the offence of
+criminal breach of trust. In the present case, apparently the prosecution has failed to
+establish the offence of cheating and criminal breach of trust in the absence of mens
+rea. In such view of the matter, the accused persons could not have been convicted.308.
+3A. In violation of any direction of law.—The criminal breach of trust would, inter alia,
+mean using or disposing of the property by a person who is entrusted with or has
+otherwise dominion there over. Such an act must not only be done dishonestly but also
+in violation of any direction of law or any contract express or implied relating to
+carrying out the trust. A direction of law need not be a law made by the Parliament or a
+Legislature; it may be made by an authority having the power therefor; the law could be
+a subordinate legislation, a notification or even a custom.309. It has been held that the
+expression "direction of law", even if taken literally, would include a direction issued by
+authorities in exercise of their statutory power as also power of supervision. Failure on
+the part of bank officials to follow RBI instructions and provisions of a Departmental
+Manual was a violation of a direction of law amounting to criminal breach of trust. The
+Manual was the UCO Bank Manual of Instructions on Bill Discounting.310.
+It has been held that the expression "direction of law" in section 405 includes banking
+norms, practices and directions given in internal Departmental instructions of a bank.
+Bank officials who allowed advance credits on banker's cheques to a customer in
+violation of Departmental instructions acted in violation of direction of law. The
+officials had dominion over the money belonging to the bank and they dishonestly used
+that money for conferring a benefit on the customer. They were held guilty of the
+offence under the section.311.
+[s 406.7] Partner.—
+In Velji Raghavji,312. the Supreme Court approved this statement of law in Bhuban
+MohanRana v Surendra Mohan Das, and held that mere existence of the accused's
+dominion over property is not enough and that it must be further shown that his
+dominion was the result of entrustment. According to the Supreme Court the
+prosecution must establish that dominion over the assets or a particular asset of the
+partnership was by a special agreement between the parties, entrusted to the accused
+partner. Where the partner of a firm had taken away some VCRs and cassettes, a
+criminal complaint was not allowed, the loss to the firm being essentially of civil nature
+and, therefore, civil proceedings would have been more appropriate.313. Signing of
+contracts on behalf of the firm particularly when the partnership deed authorised
+partners to sign documents on behalf of others was held to be not constituting a
+criminal breach of trust.314. As to when can a partner be prosecuted on a charge of
+criminal breach of trust see "Comments" ante.
+[s 406.8] Misappropriation of company money by nominated director.—
+The accused was the director of a public limited company and in that capacity he
+misappropriated a huge sum of money. In the complaint against him the charge was
+made out under section 409. However, the charge was framed under section 408. It
+was held that the accused was a nominated director of the company and there was
+nothing to indicate that he was an employee or servant of the company. Hence, his
+conviction under section 408 was not to be legally sound. He was convicted under
+section 406.315.
+[s 406.9] Directors of company.—
+The directors of a company were prosecuted for non-deposit of PF amount of
+employees. It was held that directors are not in the position of the principal employer.
+They could not be prosecuted as there was no entrustment of the amount to them in
+terms of section 405, explanation 1.316. The offence alleged in the criminal complaint
+filed by respondent is under sections 405 and 420 IPC, 1860 where under no specific
+liability is imposed on the officers of the company, if the alleged offence is by the
+Company. In the absence of specific details about the same, no person other than
+Company can be prosecuted under the alleged complaint.317.
+The complainant was the wholesale dealer of the company. His dealership was
+terminated. Even so he sent a demand draft to the company for supply of goods. He
+did so because his dealership was subsequently reinstated by the company. The
+proprietor of the dealer firm filed a complaint alleged offence by the company because
+neither it supplied the goods nor returned the money. The company's application for
+quashing the complaint was rejected because the offence was prima facie made out.
+The Supreme Court said that only the company could be made liable but not its
+managing director or any other employee. The Supreme Court reversed the order of the
+High Court. Costs and compensation of harassment was quantified at Rs. 1,00,000.318.
+[s 406.10] Husband and Wife.—
+The Supreme Court has held that reading this section with sections 4 and 6 of the
+Dowry Prohibition Act, 1961, marriage gifts and ornaments received from in-laws must
+be handed over to the wife on being driven out and a failure to do so, would amount to
+an offence under this section.319. Where the wife was turned out of the house by the
+husband who refused to return the 'streedhan' despite repeated requests and
+persuasions, it was held that criminal breach of trust is a continuing offence and fresh
+cause of action accrues to the wife till the return of the property.320.
+It has been held that taking away by the mother-in-law of gifts and cash offerings to the
+wife at the time of her marriage amounts to misappropriation of streedhan. It was
+further held that offering of 25 lakh rupees for grant of divorce by mutual consent as
+compensation to the complainant did not per se constitute any offence under the
+section. Any gift made to the bridegroom or her parents, whether in accordance with
+any custom or law also did not constitute an offence under the section. The
+proceedings were directed to be continued only against the mother-in-law.321.
+[s 406.11] Pledgee.—
+where, in derogation of the statutory requirement of giving reasonable notice before
+disposing of the articles pledged, the pledgee sells them and the price obtained is also
+not commensurate with the real value of the goods, the Delhi High Court expressed the
+opinion that it may amount to criminal breach of trust.322.
+[s 406.12] Vehicle delivered under hire-purchase.—
+When hirer himself committed default by not paying the instalments and under the
+agreement, the appellants have repossessed the vehicle, the respondent-hirer cannot
+have any grievance as the vital element of 'dishonest intention' is lacking. The element
+of 'dishonest intention' which is an essential element to constitute the offence of theft
+cannot be attributed to a person exercising his right under an agreement entered into
+between the parties as he may not have an intention of causing wrongful gain or to
+cause wrongful loss to the hirer.323.Where a person to whom a truck was delivered
+under hire-purchase scheme, altered the identity of the vehicle by tampering with
+numbers, it was held that an offence under section 406 was made out. The accused
+was convicted to four years R1.324.
+[s 406.13] Default in refunding share application money.—
+A person, who makes a public issue for inviting applications for shares and who
+becomes liable to refund the share application money because of refusal by a stock
+exchange to approve his securities and fails to refund the money, can be prosecuted for
+criminal breach of trust.325.
+[s 406.14] Money saving scheme.—
+The petitioner was running money saving scheme. He used to collect money from the
+members for different committees and disbursement to them. The disbursement was
+stopped because of non-payment by members of the amount due. It was held that
+there was no dishonest intention to misappropriate money and offences under
+sections 406 and 420 were not made out.326.
+[s 406.15] Re-payment of loan.—
+Where the accused sold machinery and goods which had been hypothecated to bank
+and the amount not paid to bank for repayment of loan, Court held that dispute in
+question is of civil nature and the trial Court justified in dismissing complaint under
+section 203.327.
+4. 'Legal contract express or implied'.—Violation of a contract in order to amount to
+criminal breach of trust has to be in respect of a legal or valid contract, and not one for
+a criminal purpose, e.g., purchase of stolen property, etc.328.
+[s 406.16] CASES.—Breach of trust.—
+Where a retired employee of a company wrongly occupied the Company quarters for
+more than 18 years, dismissal of complaint under section 630 Companies Act, 2013
+and section 406 IPC, 1860 on technical grounds by the magistrate was held
+untenable.329. The complaint does not contain the averment that Rs.5 lakhs was
+entrusted to the appellant, either in his personal capacity or as the Chairman of MSEB
+and that he misappropriated it for his own use. The said amount was deposited by the
+complainant company with MSEB and there is nothing in the complaint which may
+even remotely suggest that the complainant had entrusted any property to appellant or
+that the appellant had dominion over the said money of the complainant, which was
+converted by him to his own use, so as to satisfy the ingredients of section 405 IPC,
+1860. Proceedings quashed.330. Where the accused took a jeep on loan for a specific
+purpose and for a particular period but refused to return it on demand by the
+complainant after the purpose had been served and the stipulated period was long
+over, it was held that there was a prima facie case of criminal breach of trust and as
+such the complaint could not be thrown out.331.
+[s 406.17] Refusal to return streedhan.—
+Where the husband and the father-in-law turned out a Hindu woman from the marital
+home and refused to return her ornaments, money and clothes despite repeated
+demands, it was held that an offence of criminal breach of trust as defined in sections
+405 and 406, IPC, 1860, was prima facie made out and the case could not be quashed.
+Section 27 of the Hindu Marriage Act, 1955 and section 14 of the Hindu Succession
+Act, 1956, nowhere provide that the concept of streedhan is abolished or that a remedy
+under the criminal law is not available.332.
+[s 406.18] Violation of legal contract.—
+where there is a mere breach of the contract terms, such as default in payment of an
+instalment, a liability of civil nature only would arise.333. Where a contractor was given
+cement for construction work by the Minor Irrigation Department, Government of Bihar
+under a specific agreement that he would return unused cement but instead of doing
+so he sold the cement to outsiders, it was held a fiduciary relationship had been clearly
+established in the instant case and the contractor was liable to be convicted under
+section 406, IPC, 1860.334.
+[s 406.19] Acting contrary to directions of person entrusting money.—
+One of the accused persons, a registered stock broker, purchased mutual fund
+securities in the name of a bank and later on sold them. The sale was contrary to the
+terms subject to which securities were issued (sale before completion of lock-in
+period). But otherwise there was no violation of any statutory provisions. Neither the
+name lending bank nor the issuing institution objected to the sale. It was held that the
+accused was the real owner of the securities. There was no breach of trust on his part
+because the property sold was his own. The securities were purchased by another
+financial institution and the other accused was an officer of that institution. He was
+also acquitted of similar charges. He could not be convicted under the Prevention of
+Corruption Act, 1988 for the reason that purchase of securities to the tune of 33 crores
+could not have been done without authorisation from higher authorities. The
+transaction was also legal.335.
+[s 406.20] Civil wrong when becomes crime.—
+A distinction must be made between a civil wrong and a criminal wrong. When dispute
+between the parties constitute only a civil wrong and not a criminal wrong, the Courts
+would not permit a person to be harassed although no case for taking cognizance of
+the offence has been made out336. An act of breach of trust simpliciter involves a civil
+wrong of which the person wronged may seek his redress for damages in a civil Court
+but a breach of trust with mens rea gives rise to a criminal prosecution as well. The
+element of 'dishonest intention' is therefore, an essential element to constitute the
+offence of Criminal Breach of Trust.337. Breach of trust may be basically a civil wrong,
+but it gives rise to criminal liability also when there is mens rea.338. The difference
+between the two lies in dishonest intention.339. If there is a flavour of civil nature, the
+same cannot be agitated in the form of criminal proceeding. If there is huge delay and
+in order to avoid the period of limitation, it cannot be resorted to a criminal
+proceeding.340. A civil suit was filed alleging negligence and breach of contractual
+obligations. The Court said that a breach of contract simpliciter does not constitute any
+offence. The criminal complaint must disclose the ingredients of the offence. For
+ascertaining the prima facie correctness of the allegations the Court can look at the
+correspondence between the parties and other admitted documents. Criminal
+proceedings should not be encouraged when they are found to be mala fide or
+otherwise an abuse of the process of the Court.341. Merely because a civil claim has
+been raised by the complainant regarding the breach of agreement, it cannot prevent
+him from initiating criminal proceedings.342. Though a case of breach of trust may be
+both a civil wrong and a criminal offence but there would be certain situations where it
+would predominantly be a civil wrong and may or may not amount to a criminal
+offence. The present case is one of that type where, if at all, the facts may constitute a
+civil wrong and the ingredients of the criminal offences are wanting. Having regard to
+the relevant documents including the trust deed as also the correspondence following
+the creation of the tenancy, the submissions advanced on behalf of the parties, the
+natural relationship between the settlor and the trustee as mother and son and the fall
+out in their relationship and the fact that the wife of the co-trustee was no more
+interested in the tenancy, it must be held that the criminal case should not be
+continued.343.
+[s 406.20.1] Matters under special laws.—
+The act of taking away dowry articles by the husband and in-laws, being in violation of
+special legislation contained in the Dowry Prohibition Act, 1961, such offence should
+be tried under the special legislation rather than under the general provisions of IPC,
+1860. The Supreme Court also pointed out that if any article was given by way of
+dowry, the question of its entrustment on behalf of wife would not arise.344.
+[s 406.21] Arbitration clause.—
+The presence of an arbitration clause between the parties does not bar criminal
+proceedings under section 406. Both civil and criminal proceedings can be there side
+by side.345.
+[s 406.22] Period of Limitation.—
+The Punjab and Haryana High Court is of the view that the offence under the section is
+of continuing nature. Every day a fresh cause of action keeps accruing until the
+property is actually returned.346.
+[s 406.23] Sanction for prosecution.—
+In a charge against a Government servant under the section read with section 120B
+(conspiracy), sanction for prosecution is not necessary.347. Since transaction for
+offences involved took place in a foreign country, sanction from Central Government is
+a must to enable Court to take cognizance of offences and proceed further in case.
+The High Court held that trial has proceeded without sanction and, thus, rendering it
+invalid, and in course of such invalid trial magistrate passed order for further
+investigation, which too was invalid.348.
+[s 406.24] Compromise.
+Compounding was denied on the ground that section 406 not compoundable as
+amount involved was more than Rs. 250. The Supreme Court held that it is perhaps
+advisable that in disputes where the question involved is of a purely personal nature,
+the Court should ordinarily accept the terms of the compromise even in criminal
+proceedings as keeping the matter alive with no possibility of a result in favour of the
+prosecution is a luxury which the Courts, grossly overburdened as they are, cannot
+afford and that the time so saved can be utilized in deciding more effective and
+meaningful litigation. This is a common sense approach to the matter based on ground
+of realities and bereft of the technicalities of the law.349.
+[s 406.25] Jurisdiction.—
+The Streedhan was handed over at one place and misappropriated at another place. It
+was held that there was no jurisdiction at the place where it was entrusted because at
+that time there might have been no intention to misappropriate. Thus jurisdiction was
+only at the place where misappropriation was committed.350.
+[s 406.25.1] Entrustment of cheque.—
+A cheque has been held to be a property within the meaning of section 405. A blank
+cheque was issued to a person who misappropriated the same or used it for a purpose
+for which it was not given. The case under section 406 was held to have been made
+out.351.
+[s 406.26] Dishonour of cheque.—
+There were regular business dealings in the course of which payments were made by
+cheques. One such cheque was dishonoured for which the criminal complaint was
+instituted. There was nothing in the complaint to show that the intention was to cheat
+the complainant by giving him the cheque as a camouflage. The transaction under
+which the cheque was given was a mere agreement to sell without any actual transfer
+of goods. Thus the offence of cheating or of criminal breach of trust was not made out.
+The complaint was quashed.352.
+286. Sudhir Shantilal Mehta v CBI, (2009) 8 SCC 1 [LNIND 2009 SC 1652] : (2009) 3 SCC (Cr)
+646.
+287. CM Narayan, AIR 1953 SC 478 [LNIND 1952 SC 159] : 1954 Cr LJ 102 .
+288. Velji Raghavji Patel, 1965 (2) Cr LJ 431 : AIR 1965 SC 1433 [LNIND 1964 SC 350] .
+289. Anil Saran v State of Bihar, AIR 1996 SC 204 [LNIND 1995 SC 819] : 1996 Cr LJ 408 .
+290. Daityari Tripatti v Subodh Chandra Chaudhuri, (1942) 2 Cal 507 .
+291. R Venkatkrishnan v CBI, (2009) 11 SCC 737 [LNIND 2009 SC 1653] .
+292. Satyendra Nath Mukherji, (1947) 1 Cal 97 . This case was approved by the Supreme Court
+in Jaswantlal, AIR 1968 SC 700 [LNIND 1967 SC 338] : 1968 Cr LJ 803 . Dani Singh, AIR 1963 Pat
+52 ; Ram Niranjan, (1964) 1 Cr LJ 614 .
+293. Per Lord Haldane in Lake v Simmons, (1927) AC 487 . VR Dalal v Yougendra Naranji
+Thakkar, (2008) 15 SCC 625 [LNIND 2008 SC 1222] : AIR 2008 SC 2793 [LNIND 2008 SC 1222] ,
+"entrustment" being the first ingredient of breach of trust, if it is missing, there would be no
+criminal breach of trust. Onkar Nath Mishra v State (NCT) of Delhi, (2008) 2 SCC 561 [LNIND
+2007 SC 1511] : 2008 Cr LJ 1391 , entrustment of property to in-laws or any misappropriation by
+them found lacking, charge not made out.
+294. Per Lord Sumner in ibid.
+295. Jaswantlal, AIR 1968 SC 700 [LNIND 1967 SC 338] : 1968 Cr LJ 803 .
+296. State of HP v Karanvir, 2006 Cr LJ 2917 : AIR 2006 SC 2211 [LNIND 2006 SC 394] : (2006) 5
+SCC 381 [LNIND 2006 SC 394] .
+297. Khuman Chand v State of Rajasthan, 1998 Cr LJ 1693 (Raj).
+298. Rajkishore v State, AIR 1969 Ori 190 [LNIND 1969 ORI 35] .
+299. RK Dalmia, AIR 1962 SC 1821 [LNIND 1962 SC 146] : (1962) 2 Cr LJ 805 .
+300. Kesar Singh v State, 1969 Cr LJ 1595 .
+301. R Venkatkrishnan v CBI, (2009) 11 SCC 737 [LNIND 2009 SC 1653] . It made no difference
+to the criminal liability that the money was quickly recovered and Departmental action was
+taken against bank officials.
+302. Ibid.
+303. Sardar Singh, 1977 Cr LJ 1158 : AIR 1977 SC 1766 .
+304. Sudhir Shantilal Mehta v CBI, (2009) 8 SCC 1 [LNIND 2009 SC 1652] .
+305. Krishan Kumar, 1959 Cr LJ 1508 (SC) : AIR 1959 SC 1390 [LNIND 1959 SC 135] .
+306. JM Desai, 1960 Cr LJ 1250 : AIR 1960 SC 889 [LNIND 1960 SC 79] ; See also Bipin Chandra,
+1964 (1) Cr LJ 688 (Ori).
+307. Nirmalabai v State, (1953) Nag 813.
+308. Ramdeo Singh v State of Bihar, 2013 Cr LJ 891 (Pat).
+309. Sudhir Shantilal Mehta v CBI, (2009) 8 SCC 1 [LNIND 2009 SC 1652] : (2009) 3 SCC(Cr) 646.
+310. Sudhir Shantilal Mehta v CBI, (2009) 8 SCC 1 [LNIND 2009 SC 1652] .
+311. Mir Naqvi Askari v CBI, (2009) 15 SCC 643 [LNIND 2009 SC 1651] : AIR 2010 SC 528
+[LNIND 2009 SC 1651] .
+312. Velji Raghavji, (1964) 67 Bom LR 443 SC : AIR 1965 SC 1433 [LNIND 1964 SC 350] : (1965)
+2 Cr LJ 431 .
+313. Alagiri v State, 1996 Cr LJ 2978 (Mad).
+314. Anwarul Islam v WB, 1996 Cr LJ 2912 (Cal). Nandlal Lakotia v State of Bihar, 2001 Cr LJ
+1900 (Pat), a partner becomes the owner of his share only after settlement of accounts and
+allotment of his share to the partner. The partner in this case was a working partner. He
+dishonestly misappropriated the property to the firm entrusted to him. He was liable for criminal
+breach of trust.
+315. Turner Morrison & Co, Bombay v KN Tapuria, 1993 Cr LJ 3384 .
+316. BP Gupta, v State of Bihar, 2000 Cr LJ 781 (Pat).
+317. Thermax Ltd v KM Johny, (2011) 13 SCC 412 [LNIND 2011 SC 947] : (2012) 2 SCC (Cr) 650;
+Pramod Parmeshwarlal Banka v State of Maharashtra, 2011 Cr LJ 4906 (Bom).
+318. SK Alagh v State of UP, (2008) 5 SCC 662 [LNIND 2008 SC 368] : AIR 2008 SC 1731 [LNIND
+2008 SC 368] : 2008 Cr LJ 2256 : (2008) 3 All LJ 588.
+319. Madhu Sudan Malhotra v Kishore Chand Bhandari, 1988 BLJR 360 : 1988 SCC (Cr) 854 :
+1988 Supp SCC 424 .
+320. Balram Singh v Sukhwant Kaur, 1992 Cr LJ 792 (P&H).
+321. Bhaskar Lal Sharma v Monica, (2009) 10 SCC 604 [LNIND 2009 SC 1432] : (2009) 161 DLT
+739 .
+322. JRD Tata, Chairman TISCO v Payal Kumar, 1987 Cr LJ 447 (Del).
+323. Charanjit Singh Chadha v Sudhir Mehra, AIR 2001 SC 3721 [LNIND 2001 SC 2906] : (2001) 7
+SCC 417 [LNIND 2001 SC 2906] .
+324. State of UP v Sita Ram, 1998 Cr LJ 4225 (All), the court said that ingredients of the offence
+under section 420 were not made out.
+325. Radhey Shyam Khemka v State of Bihar, 1993 AIR SCW 2427 : 1993 Cr LJ 2888 : (1993) 3
+SCC 54 [LNIND 1993 SC 276] .
+326. Ghansham Das v State of Haryana, 1992 Cr LJ 2594 (P&H).
+327. Kaumudiben Harshadbhai Joshi v State of Gujarat, 2012 Cr LJ 4720 (Guj).
+328. Gobardhan Chandra Mandal v Kanai Lal Mandal, (1953) 2 Cal 133 .
+329. Automobile Products India Ltd v Das John Peter, (2010) 12 SCC 593 [LNIND 2010 SC 624] :
+(2011) 1 SCC(Cr) 768.
+330. Asoke Basak v State of Maharashtra, (2010) 10 SCC 660 [LNIND 2010 SC 1699] : (2011) 1
+SCC(Cr) 85 ; Chandralekha v State of Rajasthan, JT 2012 (12) SC 390 [LNIND 2012 SC 809] :
+2012 (12) Scale 692 [LNIND 2012 SC 809] – FIR filed after six years of the incident-Continuation
+of proceedings is an abuse of process of law-FIR quashed; Also see MM Prasad Khaitan v RG
+Poddar, (2010) 10 SCC 673 [LNIND 2010 SC 991] .
+331. Halimuddin Ahmad, 1976 Cr LJ 449 (Pat).
+332. Pratibha Rani, 1985 Cr LJ 817 : AIR 1985 SC 628 [LNIND 1985 SC 86] : (1983) 2 SCC 370 .
+For other cases of prosecution of the same kind, see Manas Kumar Dutta v Aloka Dutta, 1991 Cr
+LJ 288 (Ori); Bairo Prasad v Laxmibai Pateria, 1991 Cr LJ 2535 : AIR 1985 SC 628 [LNIND 1985
+SC 86] : (1985) 2 SCC 370 [LNIND 1985 SC 86] . Where the amount defalcated was surrendered
+by the accused and he was released on bail. His sentence of one year R.I. was reduced to the
+period already undergone. Diannatius v State of Kerala, 1988 SCC (Cr) 57 (II) : 1987 Supp SCC
+189 . Such a proceeding cannot be stayed under writ jurisdiction. C Laxmichand v State of TN,
+1991 Cr LJ 1647 (Mad).
+333. Sunil Ranjan Ghose v Samar Roy, 1987 Cr LJ 1603 (Cal).
+334. Kalaktar Singh, 1978 Cr LJ 663 (Pat); State v Jaswantlal Nathalal, 1968 Cr LJ 803 (SC)
+distinguished on the ground that in the latter case the contract was not produced in evidence
+nor any oral evidence led to prove the terms of the contract. See further Madhavrao J Scindia v
+SC Angre, AIR 1988 SC 709 [LNIND 1988 SC 100] : 1988 Cr LJ 853 : (1988) 1 SCC 692 [LNIND
+1988 SC 100] , where elements of a crime were wanting and, therefore, proceedings, were
+quashed; Bal Kishan Das v PC Nagar, AIR 1991 SC 1531 : 1991 Cr LJ 1837 , where arbitration
+proceedings about the matter in question had been going on for more than 17 years, the
+Supreme Court rejected prosecution under this section. Thematter was of civil nature; AL Panian
+v State of AP, 1990 Supp SCC 607 : 1991 SCC (Cr) 84, failure to pay on due date on the expiry of
+credit period of sale is not a matter covered by this provision. Central Bureau of Investigation v
+Duncan Industries, AIR 1996 SC 2452 [LNIND 1996 SC 1028] : 1996 Cr LJ 3501 , the allegation in
+the complaint that the goods in respect of which floating charge was created in favour of banks
+were disposed by the debtor company, does not constitute criminal breach of trust.
+335. S Mohan v CBI, (2008) 7 SCC 1 [LNIND 2008 SC 1234] : (2008) 106 Cut LT 360, following
+the Canbank Financial Services Ltd, case (2004) 8 SCC 355 [LNIND 2004 SC 892] : AIR 2004 SC
+5123 [LNIND 2004 SC 892] , where it was held that the accused had a transferable interest in the
+securities purchased in the name of Andhra Bank and its subsidiary.
+336. Joseph Salvaraj A v State of Gujarat, AIR 2011 SC 2258 [LNIND 2011 SC 576] : (2011) 7 SCC
+59 [LNIND 2011 SC 576] ; Devendra v State of UP, (2009) 7 SCC 495 [LNIND 2009 SC 1158] :
+(2009) 3 SCC Cr 461.
+337. Venkatakrishnan v CBI, 2010 SC 1812 : (2009) 11 SCC 737 [LNIND 2009 SC 1653] ; SW
+Palanikar v State of Bihar, 2002 (1) SCC 241 [LNIND 2001 SC 2381] .
+338. Sudhir Shantilal Mehta v CBI, (2009) 8 SCC 1 [LNIND 2009 SC 1652] : (2009) 3 SCC Cr 646.
+339. R Venkatkrishnan v CBI, (2009) 11 SCC 737 [LNIND 2009 SC 1653] .
+340. Thermax Ltd v KM Johny, (2011) 13 SCC 412 [LNIND 2011 SC 947] : (2012) 2 SCC(Cr) 650.
+341. All Cargo Movers India Pvt Ltd v Dhanesh Badarmal Jain, (2007) 14 SCC 776 [LNIND 2007
+SC 1227] : AIR 2008 SC 247 [LNIND 2007 SC 1227] .
+342. Lee Kun Hee v State of UP, (2012) 3 SCC 132 [LNIND 2012 SC 89] : AIR 2012 SC 1007
+[LNINDORD 2012 SC 443] : 2012 Cr LJ 1551 ; Arun Bhandari v State of UP, (2013) 2 SCC 801
+[LNIND 2013 SC 18] : 2013 Cr LJ 1020 (SC)- Case is not purely in civil nature- High Court erred in
+quashing the order of cognizance; See also Adarsh Kaur Gill v State of NCT of Delhi, 2013 Cr LJ
+1955 (Del).
+343. Thermax Ltd v KM Johny, (2011) 13 SCC 412 [LNIND 2011 SC 947] : (2012) 2 SCC (Cr) 650;
+Nagawwa v Veeranna Shivalingappa Konjalgi, 1976 (3) SCC 736 [LNIND 1976 SC 188] : AIR 1976
+SC 1947 [LNIND 1976 SC 188] ; State of Haryana v Bhajan Lal, 1992 Supp (1) SCC 335 : AIR 1992
+SC 604 .
+344. Harmanpreet Singh Ahluwalia v State of Punjab, (2009) 7 SCC 712 [LNIND 2009 SC 1121] :
+2009 Cr LJ 3462.
+345. Sham Lal v State of Punjab, 2001 Cr LJ 2987 (P&H).
+346. Balram Singh v Sukhwant Kaur, 1992 Cr LJ 972 (P&H). The court surveyed a number of
+authorities on the concept of continuing offence. State of Bihar v Deokaran Kenshi, AIR 1973 SC
+908 [LNIND 1972 SC 392] : 1973 Cr LJ 347 and Bhagirath Kanoris v State of MP, AIR 1984 SC
+1688 [LNIND 1984 SC 377] : 1984 Lab IC 1578 , wherein the Supreme Court explained the
+concept of a continuing offence. Best v Butter, (1932) 2 KB 108 , wherein it was held under the
+Trade Unions Act that every day that the moneys were willfully withheld, the offence was
+committed. The court noted the contrary view expressed in Waryam Singh v State of Punjab,
+1982 Cr LJ (NOC) 117 (P&H) and State of Punjab v Sarwan Singh, 1981 Cr LJ 722 (SC) : 1981
+PLR 451 : AIR 1981 SC 1054 [LNIND 1981 SC 201] , but distinguished them because there in the
+opposite party had conceded to the proposition. In Gurcharan Singh v Lakhwinder Singh, (1987) 1
+Recent CR 424 it was again taken for granted without argument that the offence under the
+section was not of continuing nature.
+347. State of Kerala v V Padmanabhan, AIR 1999 SC 2405 [LNIND 1999 SC 585] : 1999 Cr LJ
+3696 .
+348. P T Abdul Rahiman v State of Kerala, 2013 Cr LJ 893 (Ker).
+349. Madan Mohan Abbot v State of Punjab, AIR 2008 SC 1969 [LNIND 2008 SC 755] : (2008) 4
+SCC 582; Now section 406 is made compoundable irrespective of the amount involved in the
+case by the Amendment Act 5 of 2009.
+350. Vijay Kumar v Sunita, 2000 Cr LJ 4116 (MP).
+351. Suryalakshmi Cotton Mills Ltd v Rajvir Industries Ltd, (2008) 13 SCC 678 [LNIND 2008 SC
+36] : AIR 2008 SC 1683 [LNIND 2008 SC 36].
+352. Sneh Lata v Swastika Agro Industrial Corp, 2001 Cr LJ 4432 (P&H).

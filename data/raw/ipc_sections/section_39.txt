@@ -1,0 +1,769 @@
+Acts done by several persons in furtherance of common intention.
+When a criminal act is done by several persons in furtherance of the common
+intention 1 of all, each of such persons is liable for that act in the same manner as if it
+were done by him alone.]
+COMMENT—
+Introduction.—Ordinarily, no man can be held responsible for an independent act and
+wrong committed by another. However, section 34 of the IPC, 1860 makes an exception
+to this principle. It lays down a principle of joint liability in the doing of a criminal act.
+The essence of that liability is to be found in the existence of common intention,
+animating the accused leading to the doing of a criminal act in furtherance of such
+intention. It deals with the doing of separate acts, similar or adverse by several
+persons, if all are done in furtherance of common intention. In such situation, each
+person is liable for the result of that as if he had done that act himself.171. The soul of
+section 34, IPC, 1860 is the joint liability in doing a criminal act.172.
+[s 34.1] History.—
+Section 34 IPC, 1860 is part of the original Code of 1860 as drafted by Lord Macaulay.
+The original section as it stood was "When a criminal act is done by several persons,
+each of such persons is liable for that act in the same manner as if the act was done by
+him alone." However, on account of certain observations made by Sir Barnes Peacock,
+CJ, in Queen v Gora Chand Gope,173. it was necessary to bring about a change in the
+wordings of the section. Accordingly, in the year 1870 an amendment was brought
+which introduced the following words after "when a criminal act is done by several
+persons..." "…in furtherance of the common intention...". After this change, the section
+has not been changed or amended ever.
+[s 34.2] Object.—
+The provision is intended to meet a case in which it may be difficult to distinguish
+between acts of individual members of a party who act in furtherance of the common
+intention of all or to prove exactly what part was taken by each of them. The true
+contents of the section are that if two or more persons intentionally do an act jointly,
+the position in law is just the same as if each of them has done it individually by
+himself. As observed in Ashok Kumar v State of Punjab,174. the existence of a common
+intention amongst the participants in a crime is the essential element for application of
+this section. It is not necessary that the acts of the several persons charged with
+commission of an offence jointly must be the same or identically similar. The acts may
+be different in character, but must have been actuated by one and the same common
+intention in order to attract the provision.175. Barendra Kumar Ghosh v King Emperor,176.
+stated the true purport of section 34 as:
+The words of s.34 are not to be eviscerated by reading them in this exceedingly limited
+sense. By s.33 a criminal act in s.34 includes a series of acts and, further, 'act' includes
+omission to act, for example, an omission to interfere in order to prevent a murder being
+done before one's very eyes. By s.37, when any offence is committed by means of several
+acts whoever intentionally cooperates in the commission of that offence by doing any one
+of those acts, either singly or jointly with any other person, commits that offence. Even if the
+appellant did nothing as he stood outside the door, it is to be remembered that in crimes as
+in other things 'they also serve who only stand and wait'.177.
+[s 34.3] Principle.—
+This section is only a rule of evidence and does not create a substantive offence.
+Section 34 IPC, 1860 lays down the principle of constructive liability. The essence of
+section 34 IPC, 1860 is a simultaneous consensus of the minds of the persons
+participating in criminal action to bring about a particular result. Section 34 IPC, 1860
+stipulates that the act must have been done in furtherance of the common intention. In
+fact, the section is intended to cover a case where a number of persons act together
+and on the facts of the case it is not possible for the prosecution to prove as to which
+of the persons who acted together actually committed the crime. Little or no distinction
+exists between a charge for an offence under a particular section and a charge under
+that section read with section 34.178. Therefore, section 34, IPC, 1860, would apply
+even if no charge is framed under that section provided of course from the evidence it
+becomes clear that there was pre-arranged plan to achieve the commonly intended
+object.179. Thus, where six persons were charged under sections 148, 302/149 and
+307/149, IPC, 1860, but two were acquitted, the remaining four accused could be
+convicted on the charges of murder and attempt to murder with the aid of section 34 of
+the Penal Code.180. This section really means that if two or more persons intentionally
+do a thing jointly, it is just the same as if each of them had done it individually.181. If the
+criminal act was a fresh and independent act springing wholly from the mind of the
+doer, the others are not liable merely because when it was done they were intending to
+be partakers with the doer in a different criminal act.
+[s 34.4] Scope, ambit and applicability.—
+Section 34 of the Indian Penal Code recognises the principle of vicarious liability in
+criminal jurisprudence. The said principle enshrined under Section 34 of the Code
+would be attracted only if one or more than one accused person act conjointly in the
+commission of offence with others. It is not necessary that all such persons should be
+named and identified before the liability under Section 34 of the Indian Penal Code can
+be invoked. So long as the evidence brought by the prosecution would disclose that
+one or more accused persons had acted in concert with other persons not named or
+identified, the liability under Section 34 of the Code would still be attracted. Once the
+other accused stands acquitted in absence of said evidence, the vicarious liability
+under section 34 of the Code would not be attracted so as to hold the accused liable
+for the offence with the aid of Section 34 of the Code. However, the accused would still
+be liable for the offence if the injury or injuries leading to offence can be attributed to
+him.182. A bare reading of this section shows that the section could be dissected as
+follows:
+(a) Criminal act is done by several persons;
+(b) Such act is done in furtherance of the common intention of all; and
+(c) Each of such persons is liable for that act in the same manner as if it were done
+by him alone.
+(d) But, it is not necessary that all such persons should be named and identified
+before the liability under Section 34 of the Indian Penal Code can be invoked.183.
+In other words, these three ingredients would guide the court in determining whether an
+accused is liable to be convicted with the aid of section 34. While first two are the acts
+which are attributable and have to be proved as actions of the accused, the third is the
+consequence. Once the criminal act and common intention are proved, then by fiction
+of law, criminal liability of having done that act by each person individually would arise.
+The criminal act, according to section 34 IPC, 1860 must be done by several persons.
+The emphasis in this part of the section is on the word "done".184. The section does not
+envisage the separate act by all the accused persons for becoming responsible for the
+ultimate criminal act. If such an interpretation is accepted, the purpose of section 34
+shall be rendered infructuous.185. Under section 34 of the Indian Penal Code, a pre-
+concert in the sense of a distinct previous plan is not necessary to be proved.186. It is a
+well settled law that mere presence or association with other members is not per se
+sufficient to hold each of them criminally liable for the offences committed by the other
+members, unless there is sufficient evidence on record to show that one such member
+also intends to or knows the likelihood of commission of such an offending act.187.
+[s 34.5] Three leading Cases.—
+The case of Barendra Kumar Ghosh v King Emperor,188. is a locus classicus and has
+been followed by number of High Courts and the Supreme Court in a large number of
+cases. In this case, the Judicial Committee dealt with the scope of section 34 dealing
+with the acts done in furtherance of the common intention, making all equally liable for
+the results of all the acts of others. It was observed that section 34 when it speaks of a
+criminal act done by several persons in furtherance of the common intention of all, has
+regard not to the offence as a whole, but to the criminal act, that is to say, the totality of
+the series of acts which result in the offence. In the case of a person assaulted by
+many accused, the criminal act is the offence which finally results, though the
+achievement of that criminal act may be the result of the action of several persons.
+In another celebrated case Mehbub Shah v King-Emperor,189. the court held that:
+Section 34 lays down a principle of joint liability in the doing of a criminal act. The section
+does not say "the common intentions of all," nor does it say "an intention common to all."
+Under the section, the essence of that liability is to be found in the existence of a common
+intention animating the accused leading to the doing of a criminal act in furtherance of such
+intention. To invoke the aid of s.34 successfully, it must be shown that the criminal act
+complained against was done by one of the accused persons in the furtherance of the
+common intention of all; if this is shown, then liability for the crime may be imposed on any
+one of the persons in the same manner as if the act were done by him alone. This being the
+principle, it is clear to their Lordships that common intention within the meaning of the
+section implies a pre-arranged plan, and to convict the accused of an offence applying the
+section it should be proved that the criminal act was done in concert pursuant to the pre-
+arranged plan.
+Approving the judgments of the Privy Council in Barendra Kumar Ghosh (Barendra
+Kumar Ghosh v King Emperor,190. and Mahbub Shah cases191 a three-Judge Bench of
+Supreme Court in Pandurang v State of Hyderabad,192. held that to attract the
+applicability of section 34 of the Code the prosecution is under an obligation to
+establish that there existed a common intention which requires a pre-arranged plan
+because before a man can be vicariously convicted for the criminal act of another, the
+act must have been done in furtherance of the common intention of all. The Court had
+in mind the ultimate act done in furtherance of the common intention
+[s 34.6] Common intention and mens rea.—
+Under section 34, every individual offender is associated with the criminal act which
+constitutes the offence both physically as well as mentally i.e. he is a participant not
+only in what has been described as a common act but also what is termed as the
+common intention and, therefore, in both these respects his individual role is put into
+serious jeopardy although this individual role might be a part of a common scheme in
+which others have also joined him and played a role that is similar or different. But
+referring to the common intention, it needs to be clarified that the courts must keep in
+mind the fine distinction between "common intention" on the one hand and mens rea as
+understood in criminal jurisprudence on the other. Common intention is not alike or
+identical to mens rea. The latter may be coincidental with or collateral to the former but
+they are distinct and different.193.
+[s 34.7] Participation.—
+Participation of several persons in some action with the common intention of
+committing a crime is an essential ingredient; once such participation is established,
+section 34 is at once attracted.194. Thus, the dominant feature of section 34 is the
+element of intention and participation in action. This participation need not in all cases
+be by physical presence.195. The Supreme Court has held that it is the essence of the
+section that the person must be physically present at the actual commission of the
+crime. He need not be present in the actual room; he can, for instance, stand guard by a
+gate outside ready to warn his companions about any approach of danger or wait in a
+car on a nearby road ready to facilitate their escape, but he must be physically present
+at the scene of the occurrence and must actually participate in the commission of the
+offence in some way or other at the time crime is actually being committed.196.
+The Supreme Court has emphasised that proof of participation by acceptable evidence
+may in circumstances be a clue to the common intention and that it would not be fatal
+to the prosecution case that the culprits had no community of interests.197.
+Sometimes, however, absence of actual participation may serve an important purpose
+as it happened, for example, where in a love triangle the paramour killed the woman's
+husband and she remained sitting with the dead body inside the house without opening
+the door. The main accused having been acquitted, the Supreme Court held that the
+woman alone could not be convicted under section 302 read with section 34
+particularly in view of the fact that the nature of the injuries (gandasa blows with a
+heavy hand) made it explicit that they were the handiwork of masculine power and not
+that of feminine hands.198. It is also necessary to remember that mere presence of the
+offender at the scene of murder without any participation to facilitate the offence is not
+enough.199. By merely accompanying the accused one does not become liable for the
+crime committed by the accused within the meaning of section 34, IPC, 1860.200. The
+degree of participation is also an important factor.201. The court restated the two
+ingredients for application of the section which are:
+(i)
+common intention to commit a crime, and
+(ii) participation by all the accused in the act or acts in furtherance of the common
+intention. These two things establish their joint liability.202.
+Where one of the accused persons focussed light on the victim with a torch so as to
+enable others to assault him, otherwise it is a dark night. The court said that his
+conduct prior and subsequent to the occurrence clearly showed that he shared the
+common intention so far as the assault on the deceased was concerned. Hence, he
+was rightly roped in under section 34.203. If participation is proved and common
+intention is absent, section 34 cannot be invoked.204. The co-accused was standing
+outside the house, where the incident took place, while the others committed the
+murder. There is no evidence of his having played any part in the crime. He did not even
+act as a guard; he did not prevent the witness from entering the house. There is no
+evidence of the formation or sharing of any common intention with the other accused.
+No weapon was seized from him, nor was any property connected with the crime,
+confiscated from him. It was therefore, held that, it was not safe to convict the co-
+accused of the offence of murder with the aid of sub-sections 34 and 120(B).205.
+[s 34.8] Physical Presence not sine qua non.—
+Physical presence at the very spot is not always a necessary ingredient to attract the
+action. The Supreme Court decision in Shreekantiah Ramayya v State of Bombay,206. is
+the authority for the aforesaid proposition. Vivian Bose, J, speaking for the Bench of
+three Judges stated thus:
+He need not be present in the actual room; he can, for instance, stand guard by a gate
+outside ready to warn his companions about any approach of danger or wait in a car on a
+nearby road ready to facilitate their escape.
+What is required is his actual participation in the commission of the offence in some
+way or other at the time when the crime is actually being committed. The participation
+need not in all cases be by physical presence. In offence involving physical violence,
+normally presence at the scene of offence may be necessary, but such is not the case
+in respect of other offences when the offence consists of diverse acts which may be
+done at different times and places. The physical presence at the scene of offence of
+the offender sough to be rendered liable under this section is not one of the conditions
+of its applicability in every case.207. Even the concept of presence of the co-accused at
+the scene is not a necessary requirement to attract section 34 of the IPC, 1860, e.g., the
+co-accused can remain a little away and supply weapons to the participating accused
+either by throwing or by catapulting them so that the participating accused can inflict
+injuries on the targeted person. There may be other provisions in the IPC, 1860 like sub-
+sections 120B or 109 which could be invoked then to catch such non-participating
+accused. Thus, participation in the crime in furtherance of the common intention is sine
+qua non for section 34 IPC, 1860. Exhortation to other accused, even guarding the
+scene etc. would amount to participation. Of course, when the allegation against an
+accused is that he participated in the crime by oral exhortation or by guarding the
+scene the court has to evaluate the evidence very carefully for deciding whether that
+person had really done any such act.208.
+The absence of any overt act of assault, exhortation or possession of weapon cannot
+be singularly determinative of absence of common intention.209.
+[s 34.9] In furtherance of common intention.—
+The Supreme Court referred to the Oxford English Dictionary where the word
+"furtherance" is defined as an "action of helping forward." Russell, in his book on
+Criminal Law adopted this definition and said:
+It indicates some kind of aid or assistance proceeding an effect in future and that any act
+may be regarded as done in furtherance of the ultimate felony if it is a step intentionally
+taken for the purpose of effecting the felony." The Supreme Court has also construed the
+word "furtherance" as "advancement or promotion.210.
+1. 'Common intention'.—The phrase 'common intention' means a pre-oriented plan and
+acting in pursuance to the plan. The common intention to give effect to a particular act
+may even develop at the spur of moment between a number of persons with reference
+to the facts of a given case.211. In Amrik Singh's case it has further been held that
+though common intention may develop in course of the fight but there must be clear
+and unimpeachable evidence to justify that inference.212. Before a Court can convict a
+person for any offence read with section 34, it should come to a definite conclusion
+that the said person had a prior concert with one or more other persons, named or
+unnamed, for committing the said offence.213. Where the act of murder by the main
+accused was facilitated by two others by catching hold of the victim but without
+knowing nor having the intention of causing death, it was held that the only common
+intention that could be inferred was that of causing grievous hurt.214. Where the
+accused had inflicted lathi blows causing injuries only on the eyewitness and not on the
+deceased, he could not be said to have shared the common intention of committing
+murder of the deceased. He was acquitted for the charge of murder and was convicted
+under section 325.215.
+Common intention does not mean similar intention of several persons. To constitute
+common intention it is necessary that the intention of each one of them be known to
+the rest of them and shared by them.216.
+What to speak of similar intention even same intention without sharing each other's
+intention is not enough for this section.217. In a case like this each will be liable for
+whatever injury he caused but none could be vicariously convicted for the act of any of
+the others.218. In fine, if common intention cannot be inferred from the evidence of
+facts and circumstances of the case, section 34, IPC, 1860, cannot be invoked.219. A
+party of farmers was cutting their crop. The deceased took away a portion of the
+harvested crop. That night when he was returning from a barat 16 persons waited for
+him on the way. They came towards him and the convict who was carrying a knife gave
+him a stab wound on the neck which proved fatal. The others did not know that he had
+a knife and all of them being with bare hands, it could not be said that they had the
+common intention of causing death. They could as well have thought that after
+surrounding the accused he would be called upon to return or pay for the harvest taken
+away by him.220.A person gifted his land to one of his grandsons. His other son along
+with his wife fully armed, the man with a lathi and the woman with a gandasa came to
+protest. The man lost control and both grandson and his father intervened to save the
+situation but they received lathi blows and died. The woman struck only her brother-in-
+law with the gandasa causing a non-fatal injury. Her husband was convicted for murder
+but her punishment was reduced to causing grievous hurt because it appeared that the
+whole thing was a spot happening and not a planned affair.221.
+Where the genesis of the verbal wrangle between the neighbours was not known, but it
+appeared to have arisen suddenly, there being no chance for common intention to be
+formulated, each attacker was held to be punishable for his individual acts.222.
+Where common intention was established the mere fact that one of the culprits
+distanced himself from the scene could not absolve him from liability.223.
+It is not necessary for bringing a case within the scope of section 34 to find as to who
+in fact inflicted the fatal blow. A conviction under the section read with the relevant
+substantive provision can be made when the ingredients required by the section are
+satisfied and it is not necessary to mention the section number in the judgment.224.
+Death of two persons was caused by unprovoked firing by appellants who are police
+officials and grievous gunshot injuries to another person. It was not necessary to
+assign a specific role to each individual appellant as the firing at the Car was
+undoubtedly with a clear intent to annihilate those in it and was resorted to in
+furtherance of common intention of all the appellants. The accused were liable to
+conviction under section 302/34 IPC, 1860.225. The acts of all the accused need not be
+the same or identically similar. All that is necessary is that they all must be actuated by
+the one and the same common intention. The fact that two of them caused injuries at
+the back of their victim and the injury at the head which proved to be fatal was caused
+by the third person, the two co-accused could not claim to be absolved of liability for
+murder.226.
+It is not necessary for bringing about the conviction of the co-accused to show that he
+also committed an overt act for the achievement of their object. The absence of any
+overt act or possession of weapon cannot be singularly determinative of absence of
+common intention. If common intention by meeting of minds is established in the facts
+and circumstances of the case there need not be an overt act or possession of weapon
+required, to establish common intention.227.
+The accused caught hold of the victim and exhorted the main accused to strike him. On
+such exhortation the main accused inflicted a Kirpan wound. The victim died. It was
+held that the instigation was only to strike. It could not be said that the accused shared
+the intention of the main accused to kill. The conviction was altered from under
+sections 202/34 to one under section 324.228. The victim woman was murdered by her
+father-in-law and brother-in-law. The third person helped them to conceal the dead body
+to screen them. The conviction of the two accused for murder was upheld but that of
+the third one only for concealment of evidence under sections 201/34.229.
+[s 34.10] Common Intention: How Proved.—
+The common intention can be inferred from the circumstances of the case and that the
+intention can be gathered from the circumstances as they arise even during an
+incident.230. Common intention is a state of mind. It is not possible to read a person's
+mind. There can hardly be direct evidence of common intention. The existence or non-
+existence of a common intention amongst the accused has to be deciphered
+cumulatively from their conduct and behaviour in the facts and circumstances of each
+case. Events prior to the occurrence as also after, and during the occurrence, are all
+relevant to deduce if there existed any common intention. There can be no straight
+jacket formula.231. The Court has to examine the prosecution evidence in regard to
+application of section 34 cumulatively and if the ingredients are satisfied, the
+consequences must follow. It is difficult to state any hard and fast rule which can be
+applied universally to all cases. It will always depend on the facts and circumstances of
+the given case whether the person involved in the commission of the crime with a
+common intention can be held guilty of the main offence committed by them
+together.232. Courts, in most cases, have to infer the intention from the act(s) or
+conduct of the accused or other relevant circumstances of the case. However, an
+inference as to the common intention shall not be readily drawn; the criminal liability
+can arise only when such inference can be drawn with a certain degree of
+assurance.233. In most cases it has to be inferred from the act or conduct or other
+relevant circumstances of the case in hand.234. This inference can be gathered by the
+manner in which the accused arrived on the scene and mounted the attack, the
+determination and concert with which the beating was given or the injuries caused by
+one or some of them, the acts done by others to assist those causing the injuries, the
+concerted conduct subsequent to the commission of the offence, for instance all of
+them left the scene of the incident together and other acts which all or some may have
+done as would help in determining the common intention. In other words, the totality of
+the circumstances must be taken into consideration in arriving at the conclusion
+whether the accused had a common intention to commit an offence of which they
+could be convicted.235. Manner of attack shows the common intention of accused.236.
+The Supreme Court has reiterated:
+We reiterate that for common intention, there could rarely be direct evidence. The ultimate
+decision, at any rate would invariably depend upon the inference deducible from the
+circumstances of each case. It is settled law that the common intention or the intention of
+the individuals concerned in furtherance of the common intention could be proved either
+from direct evidence or by inference from the acts or attending circumstances of the case
+and conduct of the parties.237.
+[s 34.11] Complaint.—
+In order to attract section 34 of the IPC, 1860, the complaint must, prima facie, reflect a
+common prior concert or planning amongst all the accused.238.
+[s 34.12] Effect of no charge under section 34.—
+Even if section 34 has not been included in a charge framed for the offence under
+section 302 IPC, 1860 against the accused, a conviction for the offence under section
+302 with the aid of section 34 is not bad as no prejudice would be caused to him.239.
+Where the appellants caused injuries not enough to cause the death but the same were
+caused by another, in the absence of a charge under section 34, they were found to be
+guilty under section 326 of IPC, 1860.240.
+Sections 34, 114 and 149 of the IPC, 1860 provide for criminal liability viewed from
+different angles as regards actual participants, accessories and men actuated by a
+common object or a common intention; and as explained by five Judge Constitution
+Bench of in Willie Slavey v The State of MP,241. the charge is a rolled-up one involving
+the direct liability and the constructive liability without specifying who are directly liable
+and who are sought to be made constructively liable.242. But before a court can convict
+a person under section 302, read with section 34, of the Indian Penal Code, it should
+come to a definite conclusion that the said person had a prior concert with one or more
+other persons, named or unnamed, for committing the said offence. A few illustrations
+will bring out the impact of section 34 on different situations.
+(1) A, B, C and D are charged under section 302, read with section 34, of the Indian
+Penal Code, for committing the murder of E. The evidence is directed to establish that
+the said four persons have taken part in the murder.
+(2) A, B, C and D and unnamed others are charged under the said sections. But
+evidence is adduced to prove that the said persons, along with others, named or
+unnamed, participated jointly in the commission of that offence.
+(3) A, B, C and D are charged under the said sections. But the evidence is directed to
+prove that A, B, C and D, along with 3 others, have jointly committed the offence. As
+regards the third illustration, a Court is certainly entitled to come to the conclusion that
+one of the named accused is guilty of murder under section 302, read with section 34,
+of the Indian Penal Code, though the other three named accused are acquitted, if it
+accepts the evidence that the said accused acted in concert along with persons,
+named or unnamed, other than those acquitted, in the commission of the offence. In
+the second illustration the Court can come to the same conclusion and convict one of
+the named accused if it is satisfied that no prejudice has been caused to the accused
+by the defect in the charge. But in the first illustration the Court certainly can convict
+two or more of the named accused if it accepts the evidence that they acted conjointly
+in committing the offence. But what is the position if the Court acquits 3 of the 4
+accused either because it rejects the prosecution evidence or because it gives the
+benefit of doubt to the said accused? Can it hold, in the absence of a charge as well as
+evidence, that though the three accused are acquitted, some other unidentified persons
+acted conjointly along with one of the named persons? If the Court could do so, it
+would be making out a new case for the prosecution: it would be deciding contrary to
+the evidence adduced in the case. A Court cannot obviously make out a case for the
+prosecution which is not disclosed either in the charge or in regard to which there is no
+basis in the evidence. There must be some foundation in the evidence that persons
+other than those named have taken part in the commission of the offence and if there
+is such a basis the case will be covered by the third illustration.243. Absence of charge
+under section 34 is not fatal by itself unless prejudice to the accused is shown.244.
+[s 34.13] Alternative Charge.—
+The trial Court framed charges under sections 302/307 r/w 120B IPC, 1860 and an
+alternative charge under sections 302/307 r/w section 34 IPC, 1860 without opining on
+the alternative charge, convicted the accused under sections 302/307 r/w 120B, The
+contention that accused is deemed to be acquitted for charges under sections
+302/307/34 IPC, 1860 of the charge of common intention of committing murder and
+there was no appeal by the State against the deemed acquittal against that charge, it
+was not open to the High Court to alter or modify the conviction under sections
+302/307/34 IPC, 1860, repelled by holding that charges had indeed been framed in the
+alternative and for cognate offences having similar ingredients as the main allegation
+of murder.245.
+[s 34.14] Distinction between sections 34 and 149, IPC, 1860.—
+Though both these sections relate to the doctrine of vicarious liability and sometimes
+overlap each other there are substantial points of difference between the two. They are
+as under:—
+(i) Section 34 does not by itself create any specific offence, whereas section 149,
+IPC, 1860, does so (see discussion under sub-para "principle" ante).
+(ii) Some active participation, especially in a crime involving physical violence is
+necessary under section 34 but section 149, IPC, 1860, does not require it and
+the liability arises by reason of mere membership of the unlawful assembly with
+a common object and there may be no active participation at all in the
+preparation and commission of the crime.
+(iii) Section 34 speaks of common intention but section 149, IPC, 1860,
+contemplates common object which is undoubtedly wider in its scope and
+amplitude than intention. If the offence committed by a member of an unlawful
+assembly is in prosecution of the common object of the unlawful assembly or
+such as the members of that assembly knew to be likely to be committed in
+prosecution of the common object, all other members of the unlawful assembly
+would be guilty of that offence under section 149, IPC, 1860, although they may
+not have intended to do it or participated in the actual commission of that
+offence.246.
+(iv) Section 34 does not fix a minimum number of persons who must share the
+common intention, whereas section 149, IPC, 1860, requires that there must be
+at least five persons who must have the same common object (see also
+discussion under sub-head "Sections 34 and 149" under section 149, IPC, 1860,
+infra).247.
+[s 34.15] Effect of conviction or acquittal of one or more or others.—
+Several persons involved in a criminal adventure may be guilty of different offences
+depending upon their respective acts. If the act is done in furtherance of their common
+intention, all of them become equally liable for the act. Similarly, if they are members of
+an unlawful assembly, an act done by any one in prosecution of the common object or
+any act which the members knew could happen in such prosecution, every member
+would be liable for the act. If any one of them happens to be wrongly acquitted and no
+appeal has been filed against it, it would not ipso facto impede the conviction of others.
+Likewise, the conviction of any one or more them does not automatically result in the
+conviction of others.248.
+[s 34.16] Substitution of conviction from section 149 to section 34.—
+Following some earlier rulings,249. the Supreme Court has stated the law in the
+following terms:250.
+It is true that there was no charge under s. 302 read with s. 34... but the facts of the case
+are such that the accused could have been charged alternatively either under s. 302 read
+with s. 149 or under s. 302 read with s. 34 and one of the accused having been acquitted,
+the conviction under s. 302/149 can be substituted with one under s. 302/34. No prejudice
+is likely to be caused to the accused whose appeal is being dismissed.251.
+[s 34.17] Robbery.—
+Provision under section 397 inevitably negates the use of the principles of constructive
+or vicarious liability engrafted under section 34. The sentence for offence under section
+397 of the IPC, 1860 cannot be awarded to those of the members of the group of
+dacoits who did not use any deadly weapon. A plain reading of section 397 of the IPC,
+1860 would make it clear that such guilt can be attributed only to that offender who
+uses any deadly weapon or causes grievous hurt to any person during course of the
+commission of the robbery. The provision postulates that only the individual act of
+accused will be relevant to attract section 397 of the IPC, 1860.252. In a sudden quarrel
+over payment, person sitting inside the car pulled the petrol pump attendant into the
+car and drove away. The occupants of the car escaped punishment. It was held that the
+driver alone could not be held guilty of the offence of robbery and abduction with the
+aid of section 34.253. In a serial highway robbery and murder in which same persons
+were involved, it was found as a fact that the self-same two persons were seen by a
+witness together in a different town before the occurrence. One of their victims
+survived and he also testified that he saw both of them together. Both of them were
+held to be guilty of successive crimes and convicted for murder with the aid of section
+34 without any need of knowing who played what part.254.
+[s 34.18] Mob action.—
+A mob of 200 persons armed with different weapons came to the field with the object
+of preventing the prosecution party from carrying on transplantation operations. Some
+of them caused death of a person at the spur of the moment for some spot reason.
+The whole mob could not be convicted for it.255 A mob chased the members of the
+rival community up to their locality. A part of the mob started burning their houses and
+the other part kept on chasing and caused deaths. The court said that the two parts of
+the mob could not be said to have shared the intention of burning or causing death.256.
+[s 34.19] Misappropriation.—
+Where the accused the Sarpanch and Secretary of a Gram Panchayat misappropriated
+the funds of the Panchayat and the circumstances and evidence showed patent
+dishonest intention on the part of the accused persons, the conviction and sentence of
+the accused under section 409/34, was not interfered with.257.
+[s 34.20] Rape cases.—
+In Gang Rape it is not necessary that the intention should exists from the beginning. It
+can be developed at the last minute before the commission of the offence.258.
+[s 34.21] Exhortation.—
+One of the accused exhorted while the other immobilised the deceased and the third
+accused delivered the fatal injuries. It was held that each one shared a common
+intention.259. Section 34 was held to have been rightly applied where two of the
+accused persons caught hold of the deceased and on their exhortation the third
+accused shot him on the right temple resulting in death.260.
+Mere exhortation by one of the accused persons saying that they would not leave the
+victim till he died was held to be not a basis for roping into the common intention of the
+others.261. The only allegation against the appellant was her exhortation. Enmity
+between the family of the deceased and that of the accused proved. In such a situation,
+where the eye witnesses have not narrated any specific role carried by the appellant,
+rather the specific role of assaulting with the sword has been attributed to the co-
+accused, it cannot be ruled out that the name of the appellant has been added due to
+enmity with the main accused.262.
+[s 34.22] Pre-conceived common intention.—
+Only when a court with some certainty holds that a particular accused must have pre-
+conceived or pre-meditated the result which ensued or acted in concert with others in
+order to bring about that result, that section 34 may be applied.263.
+[s 34.23] Common intention and private defence.—
+If two or more persons had common intention to commit murder and they had
+participated in the acts done by them in furtherance of that common intention, all of
+them would be guilty of murder. Section 96 IPC, 1860 says that nothing is an offence
+which is done in the exercise of the right of private defence. Though all the accused
+would be liable for committing the murder of a person by doing an act or acts in
+furtherance of the common intention, they would not be liable for the act or acts if they
+had the right of private defence to voluntarily cause death of that person. Common
+intention, therefore, has relevance only to the offence and not to the right of private
+defence. What would be an offence by reason of constructive liability would cease to
+be one if the act constituting the offence was done in exercise of the right of private
+defence.
+If the voluntary causing of death is not permissible under the right of private defence
+under section 96, then the common intention in regard thereto will lead to the result
+that the accused persons must be held guilty by reason of constructive liability under
+the relevant section (in this case section 304 Part I IPC, 1860). If, however, the common
+intention was only to commit an act which was permissible within the confines of s. 96
+read with s. 98, then constructive liability under section 34 cannot be said to have been
+accrued to the accused. If the right of private defence was exceeded by some persons,
+the guilt of each of the accused proved to have exceeded the right of private defence
+would have to be dealt with separately. The instant case came under the former
+situation, and hence, such persons were guilty under section 304, Part I IPC, 1860.
+They, therefore, must be held to have had a common object for causing death of P.
+They were sentenced to undergo ten years' rigorous imprisonment each.264.
+170. Subs. by Act 27 of 1870, section 1, for section 34.
+171. Goudappa v State of Karnataka, (2013) 3 SCC 675 [LNIND 2013 SC 177] ; Satyavir Singh
+Rathi v State Thr. CBI, AIR 2011SC 1748 : (2011) 6 SCC 1 [LNIND 2011 SC 475] : 2011 Cr LJ.
+2908 ; Abdul Sayeed v State of MP, 2010 (10) SCC 259 [LNIND 2010 SC 872] : 2010(9) Scale 379
+: (2010) 3 SCC (Cr) 1262.
+172. Kuria v State of Rajasthan, AIR 2013 SC 1085 [LNIND 2012 SC 678] : (2012) 10 SCC 433
+[LNIND 2012 SC 678] : 2012 Cr LJ 4707 (SC).
+173. Queen v Gora Chand Gope, (1866) 5 South WR (Cr) 45.
+174. Ashok Kumar v State of Punjab, AIR 1977 SC 109 : (1977)1 SCC 746 .
+175. Babulal Bhagwan Khandare v State Of Maharashtra AIR 2005 SC 1460 [LNIND 2004 SC
+1203] : (2005) 10 SCC 404 [LNIND 2004 SC 1203] .
+176. Barendra Kumar Ghosh v King Emperor, AIR 1925 PC 1 [LNIND 1924 BOM 206] .
+177. Lallan Rai v State of Bihar, AIR 2003 SC 333 [LNIND 2002 SC 705] : 2003 Cr LJ 465 : (2003)
+1 SCC 268 [LNIND 2002 SC 705] .
+178. Virendra Singh v State of MP, (2010) 8 SCC 407 [LNIND 2010 SC 723] : (2010) 3 SCC (Cr)
+893 : 2011 Cr LJ 952 .
+179. Garib Singh v State of Punjab, 1972 Cr LJ 1286 : AIR 1973 SC 460 [LNIND 1972 SC 187] .
+See also Yogendra v State of Bihar, 1984 Cr LJ 386 (SC).
+180. Ram Tahal v State of UP, 1972 Cr LJ 227 : AIR 1972 SC 254 [LNIND 1971 SC 579] relied in
+Thoti Manohar v State of AP,2012, (7) Scale 215 : (2012) 7 SCC 723 [LNIND 2012 SC 365] : 2012
+Cr LJ 3492 ; see also Amar Singh v State of Haryana, 1973 Cr LJ 1409 : AIR 1973 SC 2221 ;
+Dharam Pal v State of UP, 1975 Cr LJ 1666 : AIR 1975 SC1917 [LNIND 1975 SC 314] ; Amir
+Hussain v State of UP, 1975 Cr LJ 1874 : AIR 1975 SC 2211 State of Rajasthan v ArjunSingh,
+(2011) 9 SCC 115 [LNIND 2011 SC 855] : AIR 2011 SC 3380 [LNIND 2011 SC 855] .
+181. BN Srikantiah v State of Mysore, AIR 1958 SC 672 [LNIND 1958 SC 49] : 1958 Cr LJ 1251 .
+182. Killer Thiayagu v. State, AIR 2017 SC 612 [LNINDORD 2017 SC 1134] .
+183. Killer Thiayagu v. State, AIR 2017 SC 612 [LNINDORD 2017 SC 1134] .
+184. Shyamal Ghosh v State of WB, (2012) 7 SCC 646 [LNIND 2012 SC 397] : 2012 Cr LJ 3825 :
+AIR 2012 SC 3539 [LNIND 2012 SC 397] ; NandKishore v State of MP, AIR 2011 SC 2775 [LNIND
+2011 SC 622] : (2011) 12 SCC 120 [LNIND 2011 SC 622] ; Baldeo Singh v State of Bihar, AIR 1972
+SC 464 : 1972 Cr LJ 262 ; Rana Pratap v State of Haryana, AIR 1983 SC 680 [LNIND 1983 SC 157]
+: 1983 Cr LJ 1272 : (1983) 3 SCC 327 [LNIND 1983 SC 157] ,
+185. Syed Yousuf Hussain v State of AP, AIR 2013 SC 1677 [LNIND 2013 SC 275] : 2013 Cr LJ
+2172 : 2013 (5) Scale 346 [LNIND 2013 SC 275] , (2013)4 SCC 517 [LNIND 2013 SC 275] ; Suresh
+v State of UP, 2001 (3) SCC 673 [LNIND 2001 SC 623] ; Lallan Rai v State of Bihar, AIR 2003 SC
+333 [LNIND 2002 SC 705] : 2003 Cr LJ 465 : (2003) 1 SCC 268 [LNIND 2002 SC 705] .
+186. Sudip Kr. Sen v State of WB, AIR 2016 SC 310 [LNIND 2016 SC 10] : 2016 Cr LJ 1121 .
+187. Nagesar v State of Chhatisgarh, 2014 Cr LJ 2948 .
+188. Barendra Kumar Ghosh v King Emperor, AIR 1925 PC 1 [LNIND 1924 BOM 206] .
+189. Mehbub Shah v King-Emperor, AIR 1945 PC 148 .
+190. Supra.191.Supra.
+192. Pandurang v State of Hyderabad, AIR 1955 SC 216 [LNIND 1954 SC 171] : 1955 Cr LJ 572 .
+193. Shyamal Ghosh v State of WB, (2012) 7 SCC 646 [LNIND 2012 SC 397] : 2012 Cr LJ 3825 :
+AIR 2012 SC 3539 [LNIND 2012 SC 397] NandKishore v State of MP, AIR 2011 SC 2775 [LNIND
+2011 SC 622] : (2011) 12 SCC 120 [LNIND 2011 SC 622] .
+194. Vijendra Singh v State of UP, AIR 2017 SC 860 [LNIND 2017 SC 16] ; Bharwad Mepa Dana v
+State of Bombay, AIR 1960SC 289.
+195. Virendra Singh v State of MP, (2010) 8 SCC 407 [LNIND 2010 SC 723] : (2010) 3 SCC (Cr)
+893 : 2011 Cr LJ 952 .
+196. Shreekantiah Ramayya, (1954) 57 Bom LR 632 (SC); Shiv Prasad, AIR 1965 SC 264 [LNIND
+1964 SC 51] : (1965) 1 CrLJ 249 .
+197. Baba Lodhi v State of UP, (1987) 2 SCC 352 : AIR 1987 SC 1268 : 1987 Cr LJ 1119 ; MA
+AbdullaKunhi v State of Kerala, AIR 1991 SC 452 [LNIND 1991 SC 24] : 1991 Cr LJ 525 : (1991) 2
+SCC 225 [LNIND 1991 SC 24] ; Noor v State ofKarnataka, (2007) 12 SCC 84 [LNIND 2007 SC 639]
+: (2008) 2 SCC Cr 221 : 2007 Cr LJ 4299 .
+198. Tara Devi v State of UP, (1990) 4 SCC 144 : AIR 1991 SC 342 . See also Hem Raj v State
+Delhi Admn., 1990 Cr LJ 2665 : 1990 Supp SCC 291 : AIR 1990 SC 2252 , one of the accused
+alone proved to have given the fatal blow, the participation of others not proved, others not
+convicted under section 302/34.
+199. Bishan Singh v State of Punjab, 1983 Cr LJ 973 : AIR 1983 SC 748 : 1983 Cr LJ (SC) 327 :
+1983 SCC (Cr) 578; Ghanshyam v State of UP, 1983 Cr LJ 439 (SC) : AIR 1983 SC 293 : (1982) 2
+SCC 400 .
+200. Dasrathlal v State of Gujarat, 1979 Cr LJ 1078 (SC) : AIR 1979 SC 1342 . See further
+Rangaswami v State of TN, AIR 1989 SC 1137 : 1989 Cr LJ 875 : 1989 SCC (Cr) 617 : 1989 Supp
+(1) SCC 686 . Gulshan v State of Punjab, 1989 Cr LJ 120 : AIR 1988 SC 2110 : 1990 Supp SCC
+682 .
+201. Jarnail Singh v State of Punjab, (1996) 1 SCC 527 [LNIND 1995 SC 1172] : AIR 1996 SC 755
+[LNIND 1995 SC 1172] : 1996 Cr LJ 1139 .
+202. Maharashtra State Electricity Distribution Co Ltd v Datar Switchgerar Ltd (2010) 10 SCC 479
+[LNIND 2010 SC 979] : 2011 Cr LJ 8 ; Chandrakant Murgyappa Umrani v State of Maharashtra,
+1998 SCC (Cr) 698; Hamlet @ Sasi. v State of Kerala, (2003) 10 SCC 108 [LNIND 2003 SC 688] ;
+Surendra Chauhan v State of MP, (2000) 4 SCC 110 [LNIND 2000 SC 515] : AIR 2000 SC 1436
+[LNIND 2000 SC 515] ; Ramjee Rai v State of Bihar, (2006) 13 SCC 229 [LNIND 2006 SC 647] :
+2006 Cr LJ 4630 ; Prakash v State of MP, (2006) 13 SCC 508 [LNIND 2006 SC 1071] : 2007 Cr LJ
+798 ; Sham Shankar Kankaria v State of Maharashtra, (2006) 13 SCC 165 [LNIND 2006 SC 684] ;
+Manik Das v State of Assam, (2007) 11 SCC 403 [LNIND 2007 SC 769] : AIR 2007 SC 2274
+[LNIND 2007 SC 769] , participation proved.
+203. Chacko v State of Kerala, (2004) 12 SCC 269 [LNIND 2004 SC 86] : AIR 2004 SC 2688
+[LNIND 2004 SC 86] ; Abdul Wahid v State of Rajasthan, (2004) 11 SCC 241 [LNIND 2004 SC
+1454] : AIR 2004 SC 3211 [LNIND 2004 SC 1454] : 2004 Cr LJ 2850 ; Janak Singh v State of UP,
+(2004) 11 SCC 385 [LNIND 2004 SC 515] : AIR 2004 SC 2495 [LNIND 2004 SC 515] : 2004 Cr LJ
+2533 ; Parsuram Pandey v State of Bihar, 2005 SCC (Cr) 113 : AIR 2004 SC 5068 [LNIND 2004 SC
+1075] .
+204. Suresh Sakharam Nangare v State of Maharashtra, 2012 (9) Scale 245 [LNIND 2012 SC 574]
+: (2012) 9 SCC 249 [LNIND 2012 SC 574] .
+205. Raju v State of Chhatisgarh, 2014 Cr LJ 4425 .
+206. Shreekantiah Ramayya v State of Bombay, AIR 1955 SC 287 [LNIND 1954 SC 180] : 1955
+SCR (1) 1177 .
+207. Parasa Raja Manikyala Rao v State of AP, (2003) 12 SC 306 : AIR 2004 SC 132 [LNIND 2003
+SC 888] : 2004 Cr LJ 390 ; Virendra Singh v State of MP, (2010) 8 SCC 407 [LNIND 2010 SC 723] :
+(2010) 3 SCC (Cr) 893 : 2011 Cr LJ 952 ; Jaikrishnadas Desai, (1960) 3 SCR 319 [LNIND 1960 SC
+79] : AIR 1960 SC 889 [LNIND 1960 SC 79] : 1960 Cr LJ 1250 ; Dani Singh v State of Bihar, AIR
+2004 SC 4570 [LNIND 2004 SC 1490] : (2004) 13 SCC 203 [LNIND 2004 SC 1490] .
+208. Suresh v State of UP, 2001 (3) SCC 673 [LNIND 2001 SC 623] : AIR 2001 SC 1344 [LNIND
+2001 SC 623] ; Ramaswami Ayyangar v State of TN, AIR 1976 SC 2027 [LNIND 1976 SC 128] :
+1976 Cr LJ 1536 (the presence of those who in one way or the other facilitate the execution of
+the common design itself tantamounts to actual participation in the "criminal act").
+209. Rajkishore Purohit v State of Madhya Pradesh, AIR 2017 SC 3588 [LNIND 2017 SC 362] .
+210. Parasa Raja Manikyala Rao v State of AP, (2003) 12 SC 306 : AIR 2004 SC 132 [LNIND 2003
+SC 888] : 2004 Cr LJ 390 , citing Shankarlal Kacharabhai, AIR 1965 SC 1260 [LNIND 1964 SC
+230] : 1965 (2) Cr LJ 226 .
+211. Dharnidhar v State of UP, (2010) 7 SCC 759 [LNIND 2010 SC 584] : 2010 (7) Scale 12 ;
+Shyamal Ghosh v State of WB, (2012) 7 SCC 646 [LNIND 2012 SC 397] : 2012 Cr LJ 3825 : AIR
+2012 SC 3539 [LNIND 2012 SC 397] .
+212. Amrik Singh v State of Punjab, 1972 Cr LJ 465 (SC) : (1972) 4 SCC (N) 42 (SC).
+213. Krishna Govind Patil v State of Maharashtra, AIR 1963 SC 1413 [LNIND 1963 SC 12] : 1964
+(1) SCR 678 [LNIND 1963 SC 12] : 1963 Cr LJ 351 (SC); State of Maharashtra v Jagmohan Singh
+Kuldip Singh Anand, (2004) 7 SCC 659 [LNIND 2004 SC 862] : AIR 2004 SC 4412 [LNIND 2004 SC
+862] , the prosecution is not required to prove in every case a pre-arranged plan or prior concert.
+Preetam Singh v State of Rajasthan, (2003) 12 SCC 594 , prior concert can be inferred, common
+intention can develop on the spot.
+214. Harbans Nonia v State of Bihar, AIR 1992 SC 125 : 1992 Cr LJ 105 .
+215. Dharam Pal v State of UP, AIR 1995 SC 1988 [LNIND 1995 SC 198] : 1995 Cr LJ 3642 .
+216. Hanuman Prasad v State of Rajasthan, (2009) 1 SCC 507 [LNIND 2008 SC 2256] : (2009) 1
+SCC Cr 564, the Supreme Court distinguishes common intention from similar intention and also
+explains the meaning and applicability of the expression.
+217. Dajya Moshaya Bhil v State of Maharashtra, 1984 Cr LJ 1728 : AIR 1984 SC 1717 : 1984
+Supp SCC 373 . The Supreme Court applied the distinction between common intention and
+similar intention in State of UP v Rohan Singh, (1996) Cr LJ 2884 (SC) : AIR 1996 SCW 2612 . In
+Mohan Singh v State of Punjab, AIR 1963 SC 174 [LNIND 1962 SC 118] it was held that persons
+having similar intention which is not the result of pre-concerted plan cannot be held guilty for
+the "criminal act" with the aid of Section 34.
+218. Parichhat v State of MP, 1972 Cr LJ 322 : AIR 1972 SC 535 ; Amrik Singh v State of Punjab,
+1972 Cr LJ 465 (SC). Followed in Khem Karan v State of UP, 1991 Cr LJ 2138 All where each
+accused hit differently at the behest of one of them, hence, no common intention.
+219. Mitter Sen v State of UP, 1976 Cr LJ 857 : AIR 1976 SC 1156 ; see also Gajjan Singh v State
+of Punjab, 1976 Cr LJ 1640 : AIR 1976 SC 2069 [LNIND 1976 SC 72] ; Jarnail Singh v State of
+Punjab, 1982 Cr LJ 386 : AIR 1982 SC 70 (SC).
+220. Rambilas Singh v State of Bihar, AIR 1989 SC 1593 [LNIND 1989 SC 216] : (1989) 3 SCC 605
+[LNIND 1989 SC 216] : 1989 Cr LJ 1782 . The conviction under sub-sections 34/149 and 34/302
+was set aside.
+221. Tripta v State of Haryana, AIR 1992 SC 948 : 1992 Cr LJ 3944 . See also Major Singh v State
+of Punjab, AIR 2003 SC 342 [LNIND 2002 SC 742] : 2003 Cr LJ 473 : (2002) 10 SCC 60 [LNIND
+2002 SC 742] ; Balram Singh v State of Punjab, AIR 2003 SC 2213 [LNIND 2003 SC 514] : (2003)
+SCC 286 .
+222. Devaramani v State of Karnataka, (1995) 2 Cr LJ 1534 SC. See also Gopi Nath v State of UP,
+AIR 2001 SC 2493 : 2001 Cr LJ 3514 ; Pal Singh v State of Punjab, AIR 1999 SC 2548 [LNIND
+1999 SC 604] : 1999 Cr LJ 3962 ;Prem v Daula, AIR 1997 SC 715 [LNIND 1997 SC 64] : 1997 Cr
+LJ 838 ; Muni Singh v State of Bihar, AIR 2002 SC 3640 ;Mahesh Mahto v State of Bihar, AIR 1997
+SC 3567 [LNIND 1997 SC 1103] : 1997 Cr LJ 4402 .
+223. Lallan Rai v State of Bihar, AIR 2003 SC 333 [LNIND 2002 SC 705] : 2003 Cr LJ 465 : (2003)
+1 SCC 268 [LNIND 2002 SC 705] .
+224. Narinder Singh v State of Punjab, AIR 2000 SC 2212 [LNIND 2000 SC 615] : 2000 Cr LJ 3462
+, Sheelam Ramesh v State ofAP, AIR 2000 SC 118 [LNIND 1999 SC 926] : 2000 Cr LJ 51 ; State of
+Haryana v Bhagirath, AIR 1999 SC 2005 [LNIND 1999 SC 541] : 1999 CrLJ 2898 ; Asha v State of
+Rajasthan, AIR 1997 SC 2828 [LNIND 1997 SC 844] : 1997 Cr LJ 3561 .
+225. Satyavir Singh Rathi v State Thr. CBI, AIR 2011 SC 1748 [LNIND 2011 SC 475] : (2011) 6 SCC
+1 [LNIND 2011 SC 475] : 2011 Cr LJ 2908 .
+226. Krishnan v State, (2003) 7 SCC 56 [LNIND 2003 SC 587] : AIR 2003 SC 2978 [LNIND 2003
+SC 587] : 2003 Cr LJ 3705 .
+227. Rajkishore Purohit v State of MP, AIR 2017 SC 3588 [LNIND 2017 SC 362] .
+228. Ajay Sharma v State of Rajasthan, AIR 1998 SC 2798 [LNIND 1998 SC 879] : 1998 Cr LJ
+4599 . See also State of Karnatakav Maruthi, AIR 1997 SC 3797 : 1997 Cr LJ 4407 ; Bhupinder
+Singh v State of Haryana, AIR 1997 SC642 : 1997 Cr LJ 958 .
+229. State of UP v Balkrishna Das, AIR 1997 SC 225 [LNIND 1996 SC 1753] : 1997 Cr LJ 73 .
+230. State of AP v M Sobhan Babu, 2011 (3) Scale 451 [LNIND 2010 SC 1219] : 2011 Cr LJ 2175
+(SC).
+231. Rajkishore Purohit v State of MP, AIR 2017 SC 3588 [LNIND 2017 SC 362] ; State of AP v M.
+Sobhan Babu, 2011 (3) Scale 451 [LNIND 2010 SC 1219] : 2011 Cr LJ 2175 (SC).
+232. Kuria v State of Rajasthan, (2012) 10 SCC 433 [LNIND 2012 SC 678] : 2012 Cr LJ 4707 (SC);
+Hemchand Jha v State of Bihar, (2008) 11 SCC 303 [LNIND 2008 SC 1299] : (2008) Cr LJ 3203 ;
+Shyamal Ghosh v State of WB, (2012) 7 SCC 646 [LNIND 2012 SC 397] : 2012 Cr LJ 3825 : AIR
+2012 SC 3539 [LNIND 2012 SC 397] ; Nand Kishore v State of MP, AIR 2011 SC 2775 [LNIND
+2011 SC 622] : (2011) 12 SCC 120 [LNIND 2011 SC 622] .
+233. Bengai Mandal v State of Bihar, AIR 2010 SC 686 [LNIND 2010 SC 39] : (2010) 2 SCC 91
+[LNIND 2010 SC 39] .
+234. Maqsoodan v State of UP, 1983 Cr LJ 218 : AIR 1983 SC 126 [LNIND 1982 SC 199] : (1983)
+1 SCC 218 [LNIND 1982 SC 199] ; Aizaz v State of UP, (2008) 12 SCC 198 [LNIND 2008 SC 1621]
+: 2008 Cr LJ 4374 , Lala Ram v State of Rajasthan, (2007) 10 SCC 225 [LNIND 2007 SC 803] :
+(2007) 3 SCC Cr 634, Harbans Kaur v State of Haryana, AIR 2005 SC 2989 [LNIND 2005 SC 211] :
+2005 Cr LJ 2199 (SC), Dani Singh v State of Bihar, 2004 (13) SCC 203 [LNIND 2004 SC 1490] :
+2004 Cr LJ 3328 (SC).
+235. Ram Tahal v State of UP, 1972 Cr LJ 227 : AIR 1972 SC 254 [LNIND 1971 SC 579] ; see also
+Nitya Sen v State of WB, 1978 Cr LJ 481 : AIR 1978 SC 383 ; Sivam v State of Kerala, 1978 Cr LJ
+1609 : AIR 1978 SC 1529 ; Jagdeo Singh v State of Maharashtra, 1981 Cr LJ 166 : AIR 1981 SC
+648 (SC); Aher Pitha Vajshi v State of Gujarat, 1983 Cr LJ 1049 : AIR 1983 SC 599 [LNIND 1983
+SC 98] : 1983 SCC (Cr) 607; Manju Gupta v MS Paintal, AIR 1982 SC 1181 [LNIND 1982 DEL 128] :
+1982 Cr LJ 1393 : (1982) 2 SCC 412 . Another instance of failed prosecution under the Act is
+Harendra Narayan Singh v State of Bihar, AIR 1991 SC 1842 [LNIND 1991 SC 307] : 1991 Cr LJ
+2666 . Ghana Pradhan v State of Orissa, AIR 1991 SC 1133 : 1991 Cr LJ 1178 . Common intention
+not established even when the two accused were striking the same person in their own ways.
+236. Raju @ Rajendra v State of Rajasthan, 2013 Cr LJ 1248 (SC) : (2013) 2 SCC 233 [LNIND
+2013 SC 25] .
+237. Jhinku Nai v State of UP, AIR 2001 SC 2815 [LNIND 2001 SC 1587] at p. 2817. See also
+Jagga Singh v State of Punjab, (2011) 3 SCC 137 [LNINDORD 2011 SC 288] : AIR 2011 SC 960
+[LNINDORD 2011 SC 288] .
+238. Maharashtra State Electricity Distribution Co Ltd v Datar Switchgerar Ltd, (2010) 10 SCC 479
+[LNIND 2010 SC 979] : 2011 Cr LJ 8 : (2010) 12 SCR 551 : (2011) 1 SCC (Cr) 68.
+239. Darbara Singh v State of Punjab, 2012 (8) Scale 649 [LNIND 2012 SC 545] : (2012) 10 SCC
+476 [LNIND 2012 SC 545] ; Gurpreet Singh v State of Punjab, AIR 2006 SC 191 [LNIND 2005 SC
+887] : (2005) 12 SCC 615 [LNIND 2005 SC 887] .
+240. Vijay Singh v State of MP, 2014 Cr LJ 2158 .
+241. Willie Slavey v The State of MP, 1955 (2) SCR 1140 [LNIND 1955 SC 90] at p 1189 : AIR
+1956 SC 116 [LNIND 1955 SC 90] .
+242. Santosh Kumari v State of J&K, (2011) 9 SCC 234 [LNIND 2011 SC 901] : AIR 2011 SC 3402
+[LNIND 2011 SC 901] : (2011) 3 SCC (Cr) 657.
+243. Krishna Govind Patil v State of Maharashtra, AIR 1963 SC 1413 [LNIND 1963 SC 12] : 1963
+Cr LJ 351 relied in Chinnam Kameswara Rao v State of AP 2013 Cr LJ 1540 : JT 2013 (2) SC 398
+[LNIND 2013 SC 57] : 2013 (1) Scale 643 [LNIND 2013 SC 57] .
+244. Anil Sharma v State of Jharkhand, (2004) 5 SCC 679 [LNIND 2004 SC 590] : AIR 2004 SC
+2294 [LNIND 2004 SC 590] : 2004 Cr LJ 2527 .
+245. Satyavir Singh Rathi v State Thr. CBI, AIR 2011 SC 1748 [LNIND 2011 SC 475] : (2011) 6 SCC
+1 [LNIND 2011 SC 475] : 2011 Cr LJ 2908 .
+246. Barendra Kumar Ghosh v Emp., AIR 1925 PC 1 [LNIND 1924 BOM 206] (7) : 26 Cr LJ 431;
+Nanak Chand v State of Punjab, 1955 Cr LJ 721 (SC); Anam Pradhan v State, 1982 Cr LJ 1585
+(Ori). Chittaramal v State of Rajasthan, (2003) 2 SCC 266 [LNIND 2003 SC 14] : AIR 2003 SC 796
+[LNIND 2003 SC 14] : 2003 Cr LJ 889 , points of similarity and distinction explained in the case.
+247. Virendra Singh v State of MP, (2010) 8 SCC 407 [LNIND 2010 SC 723] : (2010) 3 SCC (Cr)
+893 : 2011 Cr LJ 952 .
+248. Surinder Singh v State of Punjab, (2003) 10 SCC 66 [LNIND 2003 SC 652] .
+249. Lachman Singh v The State, 1952 SCR 839 [LNIND 1952 SC 21] : AIR 1952 SC 167 [LNIND
+1952 SC 21] : 1952 Cr LJ 863 and Karnail Singh vState of Punjab, 1954 SCR 904 [LNIND 1953 SC
+126] : AIR 1954 SC 204 [LNIND 1953 SC 126] : 1954 Cr LJ 580 .
+250. Sangappa Sanganabasappa v State of Karnataka (2010) 11 SCC 782 [LNIND 2010 SC 866] :
+(2011) 1 SCC (Cr) 256; BaitalSingh v State of UP, AIR 1990 SC 1982 : 1990 Cr LJ 2091 : 1990
+Supp SCC 804 ; Ramdeo RaoYadav v State of Bihar, AIR 1990 SC 1180 [LNIND 1990 SC 126] :
+1990 Cr LJ 1983 .
+251. Dahari vState of UP, AIR 2013 SC 308 2012 (10) Scale 160, (2012)10 SCC 256 [LNIND 2012
+SC 638] ; Jivan Lal v State ofMP, 1997 (9) SCC 119 [LNIND 1996 SC 2679] ; and Hamlet @ Sasi v
+State of Kerala, AIR 2003 SC 3682 [LNIND 2003 SC 688] ; Gurpreet Singh vState of Punjab, AIR
+2006 SC 191 [LNIND 2005 SC 887] ; Sanichar Sahni v State of Bihar, AIR 2010 SC 3786 [LNIND
+2009 SC 1350] ; S Ganesan vRama Raghuraman, 2011 (2) SCC 83 [LNIND 2011 SC 5] ; Darbara
+Singh v State of Punjab, 2012 (8) Scale 649 [LNIND 2012 SC 545] : (2012)10 SCC 476 [LNIND
+2012 SC 545] : JT 2012 (8) SC 530 [LNIND 2012 SC 545] .
+252. Manik Shankarrao Dhotre v State of Maharashtra, 2008 Cr LJ 1505 (Kar); State of
+Maharashtra vMahipal Singh Satyanarayan Singh, 1996 Cr LJ 2485 .
+253. Brahmjit Singh v State, 1992 Cr LJ 408 (Del).
+254. Prem v State of Maharashtra, 1993 Cr LJ 1608 (Bom).255.Dukhmochan Pandey v State of
+Bihar, AIR 1998 SC 40 [LNIND 1997 SC 1255] : 1998 Cr LJ 66 .
+256. State of Gujarat v Chandubhai Malubhai Parmar, AIR 1997 SC 1422 [LNIND 1997 SC 627] :
+1997 Cr LJ 1909 (SC).
+257. Ghoura Chandra Naik v State of Orissa, 1992 Cr LJ 275 (Ori). See Rameshchandra Bhogilal
+Patel vState Of Gujarat, 2011 Cr LJ 1395 (Guj) (Section 420/34).
+258. Dev Cyrus Colabawala v State of Maharashtra, 2010 Cr LJ 758 (Bom).
+259. Atambir Singh v State of Delhi, 2016 Cr LJ 568 (Del).
+260. Vinay Kumar Rai v State of Bihar, (2008) 12 SCC 202 [LNIND 2008 SC 1646] : 2008 Cr LJ
+4319 : AIR 2008 SC 3276 [LNIND 2008 SC 1646] .
+261. Nagaraja v State of Karnataka, (2008) 17 SCC 277 [LNIND 2008 SC 2484] : AIR 2009 SC
+1522 [LNIND 2008 SC 2484] : one accused struck onthe road with an iron rod, two others used
+fists and kicks, there was nothing more common, the twocould be convicted under section 323.
+See also Mohan Singh v State of MP AIR 1999 SC 883 [LNIND 1999 SC 69] : (1999) 2 SCC 428
+[LNIND 1999 SC 69] , Abdul Wahid v State of Rajasthan, AIR 2004 SC 3211 [LNIND 2004 SC 1454]
+: (2004) 11 SCC 241 [LNIND 2004 SC 1454] ; AjaySharma v State of Rajasthan, AIR 1998 SC 2798
+[LNIND 1998 SC 879] : (1999) 1 SCC 174 [LNIND 1998 SC 879] .
+262. Chandra Kaur v State of Rajasthan, 2016 Cr LJ 3346 : AIR 2016 SC 2926 [LNINDU 2015 SC
+139] .
+263. Suresh v State of UP AIR 2001 SC 1344 [LNIND 2001 SC 623] : (2001) 3 SCC 673 [LNIND
+2001 SC 623] quoted from Shatrughan Patar vEmperor. See also Sewa Ram v State of UP, 2008
+Cr LJ 802 : AIR 2008 SC682 [LNIND 2007 SC 1452] ; Abaram v State of MP, (2007) 12 SCC 105
+[LNIND 2007 SC 546] : (2008) 2 SCC Cr 243 : 2007 Cr LJ 2743 .
+264. Bhanwar Singh v State of MP, (2008) 16 SCC 657 [LNIND 2008 SC 1246] : AIR 2009 SC 768
+[LNIND 2008 SC 1246] ; Vajrapu Sambayya Naidu vState of AP, AIR 2003 SC 3706 [LNIND 2003
+SC 176] : (2004) 10 SCC 152 [LNIND 2003 SC 176] .

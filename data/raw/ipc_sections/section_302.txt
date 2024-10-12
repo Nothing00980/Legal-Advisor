@@ -1,0 +1,338 @@
+Culpable homicide.
+Whoever causes death by doing an act with the intention of causing death, or with the
+intention of causing such bodily injury as is likely to cause death, or with the
+knowledge that he is likely by such act to cause death, commits the offence of
+culpable homicide.
+ILLUSTRATIONS
+(a) A lays sticks and turf over a pit, with the intention of thereby causing death, or
+with the knowledge that death is likely to be thereby caused. Z believing the
+ground to be firm, treads on it, falls in and is killed. A has committed the offence
+of culpable homicide.
+(b) A knows Z to be behind a bush. B does not know it. A, intending to cause, or
+knowing it to be likely to cause Z's death, induces B to fire at the bush. B fires
+and kills Z. Here B may be guilty of no offence; but A has committed the offence
+of culpable homicide.
+(c) A, by shooting at a fowl with intent to kill and steal it, kills B, who is behind a
+bush; A not knowing that he was there. Here, although A was doing an unlawful
+act, he was not guilty of culpable homicide, as he did not intend to kill B, or to
+cause death by doing an act that he knew was likely to cause death.
+Explanation 1.—A person who causes bodily injury to another who is labouring
+under a disorder, disease or bodily infirmity, and thereby accelerates the death
+of that other, shall be deemed to have caused his death.
+Explanation 2.—Where death is caused by bodily injury, the person who causes
+such bodily injury shall be deemed to have caused the death, although by
+resorting to proper remedies and skilful treatment the death might have been
+prevented.
+Explanation 3.—The causing of the death of child in the mother's womb is not
+homicide. But it may amount to culpable homicide to cause the death of a
+living child, if any part of that child has been brought forth, though the child
+may not have breathed or been completely born.
+COMMENT.—
+Homicide is the killing of a human being by a human being. It is either (A) lawful, or (B)
+unlawful.
+(A) Lawful homicide, or simple homicide, includes several cases falling under the
+General Exceptions (Chapter IV).
+(B) Unlawful homicide includes—
+(1) Culpable homicide not amounting to murder (section 299).
+(2) Murder (section 300).
+(3) Rash or negligent homicide (section 304A).
+(4) Suicide (sections 305, 306).
+(A) Lawful or simple homicide.—This is committed where death is caused in one of the
+following ways:—
+1. Where death is caused by accident or misfortune, and without any criminal
+intention or knowledge in the doing of a lawful act, in a lawful manner, by lawful
+means, and with proper care and caution (section 80).
+2. Where death is caused justifiably, that is to say,
+(i) By a person, who is bound, or by mistake of fact in good faith believes
+himself bound, by law (section 76).
+(ii) By a Judge when acting judicially in the exercise of any power which is, or
+which in good faith he believes to be, given to him by law (section 77).
+(iii) By a person acting in pursuance of the judgment or order of a Court of
+Justice (section 78).
+(iv) By a person who is justified or who by reason of a mistake of fact, in good
+faith, believes himself to be justified by law (section 79).
+(v) By a person acting without any criminal intention to cause harm and in
+good faith, for the purpose of preventing or avoiding other harm to person
+or property (section 81).
+(vi) Where death is caused in the exercise of the right of private defence of
+person or property (sections 100, 103).
+3. Where death is caused by a child, or a person of unsound mind, or an intoxicated
+person as will come under sections 82, 83, 84 and 85.
+4. Where death is caused unintentionally by an act done in good faith for the benefit
+of the person killed, when—
+(i) he or, if a minor or lunatic, his guardian, has expressly or impliedly
+consented to such an act (sections 87, 88); or
+(ii) where it is impossible for the person killed to signify his consent or where
+he is incapable of giving consent, and has no guardian from whom it is
+possible to obtain consent, in time for the thing to be done with benefit
+(section 92).
+(B) Unlawful homicide.—Culpable homicide is the first kind of unlawful homicide. It is
+the causing of death by doing:
+(i) an act with the intention of causing death;
+(ii) an act with the intention of causing such bodily injury as is likely to cause death;
+or
+(iii) an act with the knowledge that it was likely to cause death.
+Without one or other of those elements, an act, though it may be in its nature criminal
+and may occasion death, will not amount to the offence of culpable homicide.1.
+Culpable homicide may be classified in three categories—(1) in which death is caused
+by the doing of an act with the intention of causing death; (2) when it is committed by
+causing death with the intention of causing such bodily injury as is likely to cause
+death; and (3) where the death is caused by an act done with the knowledge that such
+act is likely to cause death. Knowledge and intention should not be confused. Section
+299 in defining first two categories does not deal with the knowledge whereas it does
+in relation to the third category. It would also be relevant to bear in mind the import of
+the terms "likely by such act to cause death". Herein again lies a distinction as "likely"
+would mean probably and not possibly. When an intended injury is likely to cause death,
+the same would mean an injury which is sufficient in the ordinary course of nature to
+cause death which in turn would mean that death will be the most probable result.2.
+[s 299.1] Ingredients.—
+The section has the following essentials:
+1. Causing of death of a human being.
+2. Such death must have been caused by doing an act
+(i) with the intention of causing death; or
+(ii) with the intention of causing such bodily injury as is likely to cause death;
+or
+(iii) with the knowledge that the doer is likely by such act to cause death.
+The fact that the death of a human being is caused is not enough. Unless one of the
+mental states mentioned in ingredient3. is present, an act causing death cannot
+amount to culpable homicide.
+[s 299.2] 'Causes death'.—
+Death means the death of a human being (section 46). But this word does not include
+the death of an unborn child (vide Explanation 3). It is immaterial if the person whose
+death has been caused is not the very person whom the accused intended to kill: see
+Illustration (a) and section 301.4. The offence is complete as soon as any person is
+killed. Death occurs when brain dies completely. A person cannot be said dead if some
+brain activity is present.5.
+[s 299.3] Five-step enquiry.—
+According to the Supreme Court, in case where death is alleged to have been caused
+by a person, there shall be a five-step inquiry:
+(i) Is there a homicide? (ii) If yes, is it a culpable homicide or a 'not culpable homicide'? (iii) If
+it is a culpable homicide, is the offence one of culpable homicide amounting to murder (s.
+300 of the Indian Penal Code) or is it a culpable homicide not amounting to murder (s. 304
+of the Indian Penal Code)? (iv) If it is a 'not culpable homicide' then a case u/s. 304-A of the
+Indian Penal Code is made out. (v) If it is not possible to identify the person who has
+committed the homicide, the provisions of s. 72 of the Indian Penal Code may be invoked.6.
+[s 299.4] 'By doing an act with the intention of causing death'.—
+None of the endless variety of modes by which human life may be cut short before it
+becomes in the course of nature extinct, is excluded. Death may be caused by
+poisoning, starving, striking, drowning, and by a hundred different ways.
+Under section 32, words which refer to acts done extend also to illegal omissions, and
+the word "illegal" is applicable to everything which is an offence or which is prohibited
+by law, or which furnishes ground for a civil action (section 43). Therefore, death
+caused by illegal omission will amount to culpable homicide.7.
+[s 299.5] Need for viscera report.—
+Having noticed that, in several cases, where poisoning is suspected, the prosecuting
+agencies are not taking steps to obtain viscera report, the Supreme Court, in Joshinder
+Yadav v State of Bihar8. issued certain directions in this behalf. It was held:
+We direct that in cases where poisoning is suspected, immediately after the post-
+mortem, the viscera should be sent to the FSL. The prosecuting agencies should ensure
+that the viscera is, in fact, sent to the FSL for examination and the FSL should ensure
+that the viscera is examined immediately and report is sent to the investigating
+agencies/Courts post-haste. If the viscera report is not received, the concerned Court
+must ask for explanation and must summon the concerned officer of the FSL to give an
+explanation as to why the viscera report is not forwarded to the investigating
+agency/Court. The criminal Court must ensure that it is brought on record.
+[s 299.6] Death caused by effect of words on imagination or passions.
+This may sometimes require a complete study of the person of the deceased, her
+psychology, nature and disposition. Going by these considerations in a case before it,
+the Supreme Court came to the conclusion that the death of the young married woman
+in her matrimonial home was a case of suicide and not that of murder. A letter of hers
+sensing some foul play against her was neither sufficient for conviction for murder nor
+to dispel the presumption of suicide generated by the type of person she was and her
+mental make-up.9.
+[s 299.7] 'With the intention of causing such bodily injury as is likely to cause
+death'.—
+The connection between the 'act' and the death caused thereby must be direct and
+distinct; and though not immediate, it must not be too remote.10. Where bodily injury
+sufficient to cause death is actually caused, it is immaterial to go into the question as
+to whether the accused had intention to cause death or knowledge that the act will
+cause death.11. In finding out whether there was the requisite intention or not, the Court
+has not to go merely by the part of the body where the blow fell, but also the
+circumstances and the background of the offence and also the ferocity of the attack.
+[s 299.8] 'With the knowledge that he is likely by such act to cause death'.—
+'Knowledge' is a strong word and imports a certainty and not merely a probability.12.
+[s 299.9] Beating for exorcising evil spirit.—
+Where the accused, in exorcising the spirit of a girl whom they believed to be
+possessed, subjected her to a beating which resulted in her death, it was held that they
+were guilty of culpable homicide.13.
+[s 299.10] Clauses 1 and 2.—'Intention of causing such bodily injury as is likely
+to cause death'.—'Knowledge that he is likely by such act to cause death'.—
+The practical difference between these two phrases is expressed in the punishment
+provided in section 304. But the phrase 'with the knowledge that he is likely by such act
+to cause death' includes all cases of rash acts by which death is caused, for rashness
+imports a knowledge of the likely result of an act which the actor does in spite of the
+risk.
+Both the expressions "intent" and "knowledge" occurring in section 299 postulate
+existence of a positive mental attitude which is of different degrees. Further, such
+mental attitude towards consequences of conduct is one of intention and knowledge. If
+death is caused in any of the circumstances envisaged in section 299, offence of
+culpable homicide is said to have been committed.14.
+[s 299.11] Distinction between knowledge and intention.—
+Knowledge denotes a bare state of conscious awareness of certain facts in which the
+human mind might itself remain supine or inactive whereas intention connotes a
+conscious state in which mental faculties are roused into activity and summed up into
+action for the deliberate purpose of being directed towards a particular and specific
+end which the human mind conceives and perceives before itself. Intention need not
+necessarily involve premeditation. Whether there is such an intention or not is a
+question of fact.15.
+[s 299.12] Death caused without 'requisite intention' or 'knowledge' not
+culpable homicide.—
+If the death is caused under circumstances specified in section 80, the person causing
+the death will be exonerated under that section. But, if it is caused in doing an unlawful
+act, the question arises whether he should be punished for causing it. The Code says
+that when a person engaged in the commission of an offence causes death by pure
+accident, he shall suffer only the punishment of his offence, without any addition on
+account of such accidental death. See Illustration (c) to this section. The offence of
+culpable homicide supposes an intention, or knowledge of likelihood of causing death.
+In the absence of such intention or knowledge, the offence committed may be grievous
+hurt,16. or simple hurt.17. It is only where death is attributed to an injury which the
+offender did not know would endanger life or would be likely to cause death and which
+in normal conditions would not do so notwithstanding death being caused, that the
+offence will not be culpable homicide but grievous or simple hurt. Every such case
+depends upon the existence of abnormal conditions unknown to the person who
+inflicts the injury.18. A person who voluntarily inflicts injury such as to endanger life
+must always, except in the most extraordinary and exceptional circumstances, be taken
+to know that he is likely to cause death. If the victim is actually killed, the conviction in
+such cases ought ordinarily to be of the offence of culpable homicide.19. Once it is
+established that an act was a deliberate act and was not the result of accident or
+rashness or negligence, it is obvious that the offence would be culpable homicide.20.
+[s 299.13] Death due to diseased spleen.—
+Where the accused gave a blow with a light bamboo stick, not more than an inch in
+diameter, to the deceased who was suffering from diseased spleen on the region of
+that organ, it was held that he was guilty of causing grievous hurt.21.
+[s 299.14] CASES.—Knowledge of probable consequence of act.—Beating.—
+Where a person struck with a heavy stick and killed a man, being at the time under the
+bona fide belief that the object at which he struck was not a human being but
+something supernatural, but through terror, having taken no steps to satisfy himself
+that it was not a human being, he was held to have committed culpable homicide.22.
+[s 299.15] Explanation 1.—
+A person causing bodily injury to another who is labouring under a disorder, disease, or
+bodily infirmity, and thereby accelerating the death of that other, is deemed to have
+'caused his death'. But one of the elements of the offence of culpable homicide must
+be present.23.
+[s 299.16] Explanation 2.—'By resorting to proper remedies death might have
+been prevented'.—
+This Explanation is explicit and gives no room for discussion. The reason for this
+provision is obvious that it is not always that proper remedies and skilful treatment are
+within the reach of a wounded man.24.
+Although proof be given that the wound or other bodily injury if skilfully treated might not
+have resulted in death, yet, if in fact death is the result, the wound 'causes' death. And it
+does not avail the offender to prove that the first cause might have been removed or
+rendered inoperative by the application of proper remedies and that death might have been
+prevented. 'Proper remedies and skilful treatment' may not be within the reach of the
+wounded man; or if they are at hand, he may be unable or unwilling to resort to them. But
+this is immaterial so far as it relates to the due interpretation of the words 'cause of death'.
+The primary cause which sets in motion some other cause,—as the severe wound which
+induces gangrene or fever, and the ultimate effect, death, are sufficiently connected as
+cause and effect, notwithstanding that the supervening sickness or disease might have
+been cured by medical skill. All that it is essential to establish is that the death has been
+caused by the bodily injury and, if there be any intervening cause, that it is connected with a
+sufficient degree of probability with the primary one.25.
+If death results from an injury voluntarily caused, the person who causes that injury is
+deemed to have caused death although the life of the victim might have been saved if
+proper medical attention had been given, and even if medical treatment was given but
+was not the proper treatment, provided that it was administered in good faith by a
+competent physician or surgeon.26.
+[s 299.17] CASES.—
+Where the deceased did not actually die from the injuries but died from the gangrene
+which set in inconsequence of some dirty substance, such as a bandage or the da with
+which the injuries were caused, coming into contact with one injury, although the
+injuries were not the direct cause of death, the person causing the injuries was held to
+have caused death.27. Where the facts were that the acts of the accused were in the
+category of a rash act which brought about dashing against the victim leading to his
+death. There appeared to be no intention or knowledge of bringing about a fatal
+consequence. The liability was under section 304A.28.
+[s 299.18] Explanation 3.—
+The causing of death of a child in the mother's womb is not homicide; such an offence
+is punishable under section 315. But it is homicide to cause the death of a living child,
+if any part of that child has been brought forth, though the child may not have breathed
+or been completely born. The former Chief Court of Punjab has observed that "if it is
+not homicide to kill a child in its mother's womb, it can hardly be urged that it is
+homicide to kill a child that has breathed in the womb and died while yet in the womb
+and has been brought forth still-born".29.
+[s 299.19] Applicability of section 299 whether conviction under section 304
+Part I or Part II.—
+A plain reading of section 299 will show that it contains three clauses, in two clauses it
+is the intention of the offender which is relevant and is the dominant factor and in the
+third clause it is the knowledge of the offender which is relevant and is the dominant
+factor. Analysing section 299 as aforesaid, it becomes clear that a person commits
+culpable homicide if the act by which the death is caused is done.
+"(i) with the intention of causing death; or
+(ii) with the intention of causing such bodily injury as is likely to cause death; or
+(iii) with the knowledge that the act is likely to cause death."
+If the offence is such which is covered by any one of the clauses, but does not fall
+within the ambit of clauses, Firstly–Fourthly of section 300 IPC, 1860, it will not be
+murder and the offender would not be liable to be convicted under section 302. In such
+a case, if the offence is such which is covered by clause (i) or (ii), the offender would be
+liable to be convicted under section 304 Part I IPC, 1860 as it uses the expression "if
+the act by which the death is caused is done with the intention of causing death, or of
+causing such bodily injury as is likely to cause death" where intention is the dominant
+factor. However, if the offence is such which is covered by clause (iii), the offender
+would be liable to be convicted under section 304, Part II, IPC, 1860 because of the use
+of the expression "if the act is done with the knowledge that it is likely to cause death,
+but without any intention to cause death, or to cause such bodily injury as is likely to
+cause death" where knowledge is the dominant factor.30.
+1. Rahee, (1866) Unrep Cr C 6. State v Ram Swarup, 1998 Cr LJ 1067 (All).
+2. Kesar Singh v State of Haryana, (2008) 15 SCC 753 [LNIND 2008 SC 1001] .
+3. Nirbhai Singh, 1972 Cr LJ 1474 (MP).
+4. Ballan, 1955 Cr LJ 1448 .
+5. Aruna Ramchandra Shanbaug v UOI, (2011) 4 SCC 454 [LNIND 2011 SC 265] : AIR 2011 SC
+1290 [LNIND 2011 SC 265] .
+6. Richhpal Singh Meena v Ghasi, 2014 Cr LJ 4339 : AIR 2014 SC 3595 [LNIND 2014 SC 691] .
+7. Kesar Singh v State of Haryana, (2008) 15 SCC 753 [LNIND 2008 SC 1001] , the enquiry is
+broad-based without going into every detail, whether there was the intention to strike at a vital
+part of the body with sufficient force to cause the kind of injury found on the body. Mohd Asif v
+State of Uttaranchal, (2009) 11 SCC 497 [LNIND 2009 SC 558] : 2009 Cr LJ 2789 , no hard and
+fast rule can be laid down for determining the existence of intention. Sellappan v State of TN,
+(2007) 15 SCC 327 [LNIND 2007 SC 91] , death caused by head injury, despite hospitalisation,
+plea that proper treatment could have saved, not tenable in view of Explanation 2, section 299.
+8. Joshinder Yadav v State of Bihar, 2014 Cr LJ 1175 : (2014) 4 SCC 42 [LNIND 2014 SC 34] .
+9. Sharad Birdichand Sarda v State of Maharashtra, AIR 1984 SC 1622 [LNIND 1984 SC 359] :
+1984 Cr LJ 1738 : (1984) 4 SCC 116 [LNIND 1984 SC 359] : 1984 SCC (Cr) 487. See also Bijoy
+Kumar Sen v State, 1988 Cr LJ 1818 (Cal); Prabhu v State of MP, 1991 Cr LJ 1373 : AIR 1991 SC
+1069 .
+10. Laxman, 1974 Cr LJ 1271 : AIR 1974 SC 1803 .
+11. Re Thangavelu, 1972 Cr LJ 390 (Mad); State of Bihar v Pasupati Singh, 1973 Cr LJ 1832 : AIR
+1973 SC 2699 [LNIND 1973 SC 284] ; Nishan Singh v State of Punjab, (2008) 17 SCC 505 [LNIND
+2008 SC 2718] : AIR 2008 SC 1661 [LNIND 2008 SC 2718] : (2008) 65 AIC 172 .
+12. Shankar Kondiba Gore v State of Maharashtra, 1995 Cr LJ 93 (Bom), where a stab injury was
+inflicted on abdomen but death was caused because the right artery was punctured at ilium, it
+was held that the accused could only be saddled with knowledge of causing death and could be
+convicted under section 304, Part II and not under section 302. See also Dharamvir v State of
+Haryana, (1994) 2 Cr LJ 1281 (P&H), sudden and unpremeditated fight, there being no previous
+enmity, single blow death of one, culpable homicide, not murder. Muniappan v State of TN, 1994
+Cr LJ 1309 (Mad), in a fight between brother and sister, the brother hit her and her son with a
+crow-bar, the sister died and the son was injured who in anger attacked the accused in reply, the
+accused was held to be guilty of culpable homicide and not entitled to the plea of private
+defence. Nizamuddin v State of MP, AIR 1994 SC 1041 : 1994 Cr LJ 1386 : 1995 SCC (Cr) 699,
+fatal injury caused in exceeding the right of private defence.
+13. Jamaludin, (1892) Unrep Cr C 603; Haku, (1928) 10 Lah 555; State of MP v Godhe Faguwa,
+1974 Jab LJ 302 : 1974 MPLJ 203 [LNIND 1973 MP 3] : ILR [1976] MP 361 [LNIND 1973 MP 3] .
+14. Jagriti Devi v State of HP, (2009) 14 SCC 771 [LNIND 2009 SC 1376] : AIR 2009 SC 2869
+[LNIND 2009 SC 1376] : (2009) 80 AIC 225 (SC) : (2009) 3 AP LJ 52 (SC).
+15. Kesar Singh v State of Haryana, (2008) 15 SCC 753 [LNIND 2008 SC 1001] ; Daya Nand v
+State of Haryana, (2008) 15 SCC 717 [LNIND 2008 SC 827] : AIR 2008 SC 1823 [LNIND 2008 SC
+827] : 2008 Cr LJ 2975 , murder and culpable homicide not amounting to murder, distinction
+explained and restatement of interpretation of sections 299 and 300. A similar explanation is to
+be seen in Ghelabhai Jagmalbhai Bhawad v State of Gujarat, (2008) 17 SCC 651 ; Harendra Nath
+Borah v State of Assam, (2007) 15 SCC 249 [LNIND 2007 SC 84] and Raj Kumar v State of
+Maharashtra, (2009) 15 SCC 292 [LNIND 2009 SC 1504] , ingredients and distinction restated.
+16. O'Brien, (1880) 2 All 766 ; Idu Beg, (1881) 3 All 776 .
+17. Safatulla, (1879) 4 Cal 815 ; Fox, (1879) 2 All 522 ; Randhir Singh, (1881) 3 All 597 .
+18. Bai Jiba, (1967) 19 Bom LR 823 .
+19. Mana, (1930) 32 Bom LR 1143 , 1144.
+20. Afrahim Sheikh, AIR 1964 SC 1263 [LNIND 1964 SC 1] : (1964) 2 Cr LJ 350 .
+21. Megha Meeah, (1865) 2 WR (Cr) 39; O'Brien, (1880) 2 All 766 .
+22. Kangla v State, (1898) 18 AWN 163.
+23. Fox, (1879) 2 All 522 .
+24. Krishnaswami, AIR 1965 Mad 261 .
+25. M&M 228. [This is Morgan & Macpherson's Indian Penal Code. Please see 'Explanation of
+Abbreviations' in the Prelim pages]
+26. Sah Pai, (1936) 14 Ran 643, as explained in Abor Ahmed v State, (1937) Ran 384 (FB).
+Pappachan v State of Kerala, 1994 Cr LJ 1765 (Ker), defence that proper medical attendance
+was not there was not allowed to be raised.
+27. Nga Paw v State, AIR 1936 Ran 526
+28. Satpal v State of Haryana, (2004) 10 SCC 794 .
+29. Mussammat Budho, AIR 1916 Lah 184 .
+30. Arun Nivalaji More v State of Maharashtra, (2006) 12 SCC 613 [LNIND 2006 SC 591] : (2007)
+2 SCC (Cr) 221 : AIR 2006 SC 2886 [LNIND 2006 SC 591] : 2006 Cr LJ 4057 .

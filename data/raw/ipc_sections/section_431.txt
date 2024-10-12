@@ -1,0 +1,323 @@
+Cheating and dishonestly inducing delivery of property.
+Whoever cheats and thereby dishonestly induces the person deceived to deliver any
+property to any person, or to make, alter or destroy the whole or any part of a valuable
+security, or anything which is signed or sealed, and which is capable of being
+converted into a valuable security, shall be punished with imprisonment of either
+description for a term which may extend to seven years, and shall also be liable to
+fine.
+COMMENT—
+Simple cheating is punishable under section 417. But where there is delivery or
+destruction of any property or alteration or destruction of any valuable security
+resulting from the act of the person deceiving this section comes into operation. For an
+offence under this section it must be proved that the complainant parted with his
+property acting on a representation which was false to the knowledge of the accused
+and that the accused had a dishonest intention from the outset.549. In Sonbhandra
+Coke Products v State of UP,550. it was held that offence of cheating can be made out
+only if it has been shown that damage or harm has been caused to the person so
+deceived.
+The Supreme Court has held that the word 'property' in this section does not
+necessarily mean that the thing, of which a delivery is dishonestly desired by the
+person who cheats, must have a money value or a market value, in the hand of the
+person cheated. The communicated order of assessment received by an assessee is
+"property".551.
+An admission card to sit for an Examination of a University is property within the
+meaning of this section; though the admission card as such has no pecuniary value it
+has immense value to the candidate for the examination.552.A driving licence or its
+duplicate553. had been held to be property within the meaning of this section. Where a
+bank was defrauded of a large amount and the signatures of the accused bank
+manager on drafts used for the purpose were proved beyond doubt to be his signature,
+his conviction under the section was held to be proper.554. Where a builder was
+defrauded by a conspiring team of financiers by giving him counterfeit currency,
+conviction under this section was fully warranted.555. In the ordinary course of things,
+relationship of banker and customer is that of debtor and creditor and not that of
+trustee and beneficiary. Payment of money against cheques already issued by the
+customer at a time when the bank had received notice to close the account did not in
+itself amount to cheating the customer in conspiracy with the payee.556.
+[s 420.1] Intention to deceive at the time of inducement.—
+The primary requirement to make out an offence of cheating under section 415
+punishable under section 420 IPC, 1860 is dishonest/fraudulent intention at the time of
+inducement is made.557. The intention to deceive should be in existence at the time
+when the inducement was made. Mere failure to keep up a promise subsequently
+cannot be presumed as leading to cheating.558.
+The intention to deceive was held to be not there either at the initial stage or any
+subsequent stage in the mere fact of transferring a portion of the property over which
+the transferors had no complete ownership. The sale could be binding only to the
+extent of the transferor's right.559. Where bogus receipts were issued for part payment
+of the price of the property over which the recipient had no ownership and therefore, no
+right to sell, he was held to be guilty of the offence under the section.560.
+[s 420.2] Dishonour of cheque.—
+A cheque was returned unpaid by the bank under the remark "payment stopped by
+drawer". The complainant alleged that the cheque was dishonoured because the
+drawer of the cheque had no sufficient balance or arrangement. The Court refused to
+quash the complaint. Issuing a cheque without arrangement of sufficient funds may
+amount to cheating.561. Where goods were delivered in a normal sales transaction and
+the buyer had also become the owner of the goods because the transfer of ownership
+was not linked with payment, it was held that the fact that a cheque for the price, which
+was issued in due course, bounced, did not constitute the offence of cheating because
+there was no evidence of intention to cheat at the outset of the transaction.562.
+Dishonest intention cannot be inferred from the bouncing of a cheque issued for an
+existing debt. The conviction of the accused for return of such cheque was not
+proper.563.
+A cheque was handed over in a share transaction by the accused. The cheque was
+signed by his wife. The person who passed the cheque was held guilty of cheating
+because of the dishonour but not his wife because she was not seen anywhere near
+the transaction.564.
+[s 420.3] Section 138, NI Act and section 420 IPC, 1860.—
+In the prosecution under section 138 Negotiable Instruments Act, 1881, the mens rea,
+i.e., fraudulent or dishonest intention at the time of issuance of Cheque is not required
+to be proved. But in a prosecution under section 420 IPC, 1860 the issue of mens rea
+may be relevant. There may be some overlapping of facts in the cases under section
+420 IPC, 1860 and section 138 of Negotiable Instruments Act, 1881, but ingredients of
+offences are entirely different. Thus, the subsequent case is not barred.565.
+[s 420.4] Conversion of Cheques.—
+Cheques issued by a company in the name of a supplier were converted by an
+employee of the company by opening an account in the name of the supplier. The
+opening of the account was facilitated by an employee of the bank. Both of them were
+held to be joint offenders. The order of convicting both of them was held to be not
+improper.566.
+[s 420.5] Sections 417 and 420.—
+In every case when property is delivered by a person cheated, there must always be a
+stage when the person makes up his mind to give the property on accepting the false
+representation made to him. It cannot be said that in such cases the person
+committing the offence can only be tried for the simple offence of cheating under
+section 417 and cannot be tried under this section because the person cheated parts
+with his property subsequent to making up his mind to do so.567.
+[s 420.6] Goods received under hire-purchase.—
+Breach of the conditions of a hire purchase agreement under which goods or property
+has been received does not amount to an offence under this section.568.
+Where the complainant stated that the accused had taken the vehicle on hire-purchase
+but failed and neglected to pay certain instalments and the Court found that there was
+no dishonest intention on the part of the hirer at the time of the transaction, the
+complaint was quashed, the Court observed that it was open to the complainant to
+proceed against the hirer before a civil Court for appropriate relief.569.
+[s 420.7] Arbitration clause.—
+The presence of an arbitration clause in an agreement cannot prevent criminal
+prosecution of a person if the ingredients of the offence are made out to the prima
+facie extent.570.
+[s 420.8] Financial crime.—
+The accused an investment advisor charged with dishonestly concealing material facts
+relating to bonds. The question was whether he had committed the alleged act of
+dishonesty contrary to the Financial Services Act, 1986 section 47(1). Such
+determination would have to include considering his intentions as to his future
+conduct. It was held that the phrase "material facts" within section 47(1) was to be
+widely construed so as to include his present intention as to future conduct. Dishonest
+concealment was also included within "material facts". It was required under section
+4(A) of the 1964 Act to consider his intentions and it was appropriate for the jury to
+consider such intentions, not in relation to dishonesty, but in relation to the victims of
+the alleged acts in connection with the particulars of the offence.571.
+[s 420.9] Finance company's inability to pay back deposits.—
+A finance company was not able to pay back deposit owing to its poor financial
+condition as found by the Company Law Board and Reserve Bank. The Court found no
+evidence of any intention to commit criminal breach of trust or any dishonest
+inducement. The complaint was held liable to be quashed.572.
+Issuing cheques with knowledge that they would be dishonoured amounts to an
+offence under this section.573. Offence under section 420 was alleged against the
+accused for issuance of cheque, who died and his business was inherited by his son.
+Police filed final report stating that the son is liable. The Court held that as it is well-
+settled law that a criminal's culpable offence shall not be inherited by his heirs. Once
+the accused died, the charge against the accused has been dismissed as abates.574.
+[s 420.10] Legal opinion given by Advocate.—
+Allegation is that advocate submitted false legal opinion to the bank in respect of the
+housing loans in the capacity of a panel advocate and did not point out actual
+ownership of the properties in question. The liability against an opining advocate arises
+only when the lawyer has an active participant in a plan to defraud the bank. Merely
+because his opinion may not be acceptable, he cannot be made liable for criminal
+prosecution, particularly, in the absence of tangible evidence that he associated with
+other conspirators. There is no prima facie case for proceeding in respect of the
+charges alleged against him. Proceedings quashed.575.
+[s 420.11] Fraudulent inducement for deposits, each deposit a separate
+offence.—
+Where a fraudulent finance company collects deposits, there is a separate offence
+towards each depositor. The fact that the maximum punishment of five years is
+prescribed for a single offence of a cheating could not be pressed into service by the
+accused for seeking relief.576.
+[s 420.12] Punishment.—
+The accused obtained payments from the Government by sending bills with bogus
+railway receipt numbers. This was a false representation which amounted to cheating.
+A long period of 30 years had passed since then. The sentence of one year
+imprisonment was reduced to the period already undergone but the fine of Rs. 15,000
+was maintained.577. In a conspiracy to benefit from a forged will, the Court imposed
+maximum possible punishment.578.
+[s 420.13] Pendency of civil suit.—
+A civil suit for specific performance was already pending against the party who caused
+the deception. The Court said that criminal proceeding was not to be quashed on that
+basis alone.579.
+[s 420.14] Proceedings quashed because the dispute is purely civil in nature.—
+It may be true that where the Court finds that the dispute between the parties was
+purely of civil nature, it may not allow criminal proceedings to go on. But no such law
+can be laid down because a case may be such that both a civil action and criminal
+complaint may be maintainable, the cause of action for both being the same.580. Mere
+breach of contract does not necessarily involve cheating.581. Where the dispute is
+essentially about the profit of the hotel business and its ownership, it is purely civil in
+nature and hence, the proceedings are quashed.582. Where, complaint is about the non-
+payment after placing orders for fabrication work on complainant, the complaint would
+only reveal that the allegations as contained in the complaint are of civil nature and do
+not prima facie disclose commission of alleged criminal offence under section 420 IPC,
+1860. Proceedings quashed.583. Allegation was that appellant had executed a sale
+deed in his favour in respect of a plot of land which had already been the subject
+matter of a previous transfer, Court held that he can at best question such transfer and
+claim damages in respect thereof from the vendor of the appellant by way of
+appropriate damages, but an action in the Criminal Court would not lie in the absence
+of any intention to cheat and/or defraud.584. An agreement for sale of land and the
+earnest money paid to the owner as part consideration and possession of the land
+having been transferred to the purchasers/complainants and the subsequent
+unwillingness of the owner to complete the same, gave rise to a liability of a civil nature
+and the criminal complaint was, therefore, not competent.585.
+[s 420.15] Using forged marks sheet.—
+The petitioner knew that they were submitting a forged marks-sheet for the purpose of
+securing a seat in the medical college. Their conviction under sections 420 and 471
+(using as genuine a forged document) was held to be proper. Failure in securing the
+purpose would not result in acquittal.586.
+[s 420.16] Checking in under false pretences.—
+The allegation against the accused was that he made a representation to the railway
+retiring room attendant that he was an Assistant Commercial Manager in railways and
+got a room allotted to him on that basis. Thus, a prima facie case of cheating was
+made out. The complaint was not to be quashed.587.
+[s 420.17] Juristic persons.—
+The punishment of imprisonment provided under the section cannot be imposed on a
+juristic person, a construction company in this case.588.
+In order to hold persons liable vicariously for any offence involved in the affairs of the
+company, it is not enough to show that they were running the affairs of the company.
+All the ingredients of the offence must be proved against them. The company has also
+to be made a party to the proceeding. In this case, there were only individual
+accusations against the persons concerned.589.
+[s 420.18] Previous sanction.—
+The offence of cheating under section 420 or for that matter offences relatable to
+section 467, section 468, section 471 and section 120B can by no stretch of
+imagination by their very nature be regarded as having been committed by any public
+servant while acting or purporting to act in discharge of official duty. Hence, the
+sanction of the competent authority under section 197 Cr PC, 1973 is not required.590.
+[s 420.19] Compounding.—
+Where the allegation was that accused with the assistance of known officials of AICTE
+had produced forged and fraudulent document to obtain recognition of the mentioned
+institution from AICTE and thereby cheated AICTE, the application for compounding of
+offence could not have been considered by the learned Magistrate without affording an
+opportunity of hearing to the AICTE. It is not the CBI which has been cheated by the
+action of the respondent No. 1 but in fact the AICTE.591.
+[s 420.20] Section 420 with non-compoundable offences.—
+Simply because an offence is not compoundable under section 320 Cr PC, 1973 is by
+itself no reason for the High Court to refuse exercise of its power under section 482 Cr
+PC, 1973. That power can be exercised in cases where there is no chance of recording
+a conviction against the accused and the entire exercise of a trial is destined to be an
+exercise in futility.592.
+549. Mobarik Ali, (1958) SCR 328 [LNIND 1957 SC 81] .
+550. Sonbhandra Coke Products v State of UP, 1994 Cr LJ 657 (All).
+551. Ishwarlal Girdharilal, 1969 (71) Bom LR 52 : AIR 1969 SC 40 [LNIND 1968 SC 143] ; see also
+NM Chakraborty, 1977 Cr LJ 961 (SC).
+552. Abhayanand, (1961) 2 Cr LJ 822 SC.
+553. Ramchander, AIR 1966 Raj 182 [LNIND 1965 RAJ 67] .
+554. Adithela Immanuel Raju v State of Orissa, 1992 Cr LJ 243 .
+555. Nellai Ganesan v State of TN, 1991 Cr LJ 2157 (Mad).
+556. ANZ Grindlays Bank v Shipping and Clearing (Agent) Pvt Ltd, 1992 Cr LJ 77 (Cal).
+557. Annamalai v State of Karnataka, 2011 Cr LJ 692 (SC) : (2010) 8 SCC 524 [LNIND 2010 SC
+745] .
+558. SN Palantikar v State of Bihar, AIR 2001 SC 2960 [LNIND 2001 SC 2381] : 2001 Cr LJ 4765 .
+Hira Lal Hari Lal Bhagwati v CBI, New Delhi, 2003 (5) SCC 257 [LNIND 2003 SC 499] .
+559. Ramesh Dutt v State of Punjab, (2009) 15 SCC 429 [LNIND 2009 SC 1475] .
+560. N Devindrappa v State of Karnataka, (2007) 5 SCC 228 [LNIND 2007 SC 602] : AIR 2007 SC
+1741 [LNIND 2007 SC 602] : 2007 Cr LJ 2949 .
+561. Thomas Verghese v P Jerome, 1992 Cr LJ 3080 (Ker). Nemichand Swaroopchand v TH
+Raibhagi, 2001 Cr LJ 4301 (Kant), a cheque issued for return of articles in a business
+transaction dishonoured, there was nothing to show any fraudulent or dishonest intention, no
+offence made out. Jasmin B Shah v State of Jharkhand, 2003 Cr LJ 621 (Jhar), dishonour of
+cheque, investigation not complete, charge sheet not submitted, prayer for quashing the
+proceeding rejected.
+562. HICEL Pharma Ltd v State of AP, 2000 Cr LJ 2566 (AP). Rajendra Vasantrao Khoda, v
+Laxmikant, 2000 Cr LJ 1196 (Bom) a complaint as to dishonour of cheque was not quashed,
+ingredients of cheating being made out. Subodh S Salaskar v Jayaprakash M Shah, (2008) 13
+SCC 689 [LNIND 2008 SC 1549] : AIR 2008 SC 3086 [LNIND 2008 SC 1549] : (2008) KLT 616 :
+2008 Cr LJ 3953 post-dated cheque issued in 1996, presented in 2001, dishonoured because
+account closed, but money had been paid back before that, no cheating, subsequent closing
+was inconsequential.
+563. Venkatchalam v State, 1998 Cr LJ 3189 (Mad). Bipin Singh v Chongitham, 1997 Cr LJ 724 :
+AIR 1997 SC 1448 [LNIND 1996 SC 1690] , representation by the accused so as to create public
+belief that a particular writing was that of a certain other person and not that he had himself
+written that book. No forgery or cheating. Mintu Singha Roy v Tenzing Dolkar; 2012 Cr LJ 3115
+(Sik) regarding the bounced cheque it was condoned as 50% of payment is received by the
+complainant
+564. Devender Kumar Singla v Baldev Krishna Singla, AIR 2004 SC 3084 [LNIND 2004 SC 228] :
+(2005) 9 SCC 15 [LNIND 2004 SC 228] .
+565. Sangeetaben Mahendrabhai Patel v State of Gujarat, (2012) 7 SCC 621 [LNIND 2012 SC
+1473] : AIR 2012 SC 2844 [LNIND 2012 SC 1473] ; See the other view in Kolla Veera Raghav Rao v
+Gorantla Venkatewwara Rao, (2011) 2 SCC 703 [LNIND 2011 SC 128] : 2011 Cr LJ 1094 .
+566. Vadivelu v State of TN, 1999 Cr LJ 369 (Mad).
+567. BS Dhaliwal, (1967) 1 SCR 211 [LNIND 1966 SC 165] .
+568. Abdul Rahim v Inspector of Police, 1992 Cr LJ 370 (Mad). OPTS Marketing Pvt Ltd v State of
+AP, 2001 Cr LJ 1489 (AP), prosecution under section 420, IPC, 1860 is still possible after the
+introduction of section 138 in the Negotiable Instruments Act, if the ingredients of the offence
+are satisfied, the complaint cannot be quashed.
+569. Mahesh Kumar v State of Karnataka, 2003 Cr LJ 528 (Kant).
+570. SN Palanitkar v State of Bihar, AIR 2001 SC 2960 [LNIND 2001 SC 2381] : 2001 Cr LJ 4765 .
+571. R v Central Criminal Court, (2002) EWHC 548 : (2002) 2 Cr App. R 12 [QBD (Admin. Ct)].
+572. Nilesh Lalit Parekh v State of Gujarat, 2003 Cr LJ 1018 (Guj); Mohd. Shaf-at Khan v National
+Capital Territory of Delhi, (2007) 13 SCC 354 [LNIND 2007 SC 924] , collection by fraud company,
+the court said that it would be appropriate to work out modalities as to how the properties of the
+company could be sold to get the highest price, so that the dues of the depositors and others
+could be paid back.
+573. Ramprasad Chatterjee v Md. Jakir Kureshi, 1987 Cr LJ 1485 (Cal). But otherwise a cheque
+is not a representation that there is balance in the account. GK Mohanty v Pratap Kishore Das,
+1987 Cr LJ 1446 (Ori). Where cheques were given subsequently to the transaction and there
+was no inducement at the stage of negotiations, prosecution under the section was quashed,
+MS Natrajan v Ramasis Shaw, (1995) 2 Cr LJ 2011 (Cal). S Muthu Kumar v State of TN, (1995) 1
+Cr LJ 350 (Mad) purchasing goods against post-dated cheques knowing that they would not be
+honoured is a ground for registering a complaint and the complaint is not liable to be quashed.
+574. Lakshmi Metal Works v State, 2016 Cr LJ 2730 (Mad) : IV (2016) CCR 282 (Mad).
+575. Central Bureau of Investigation Hyderabad v K Narayana Rao, 2012 Cr LJ 4610 : (2012) 9
+SCC 512 [LNIND 2012 SC 569] .
+576. Narinderjit Singh v UOI, AIR 2001 SC 3810 [LNIND 2001 SC 2325] .
+577. Kuldip Sharma v State, 2000 Cr LJ 1272 (Del).
+578. R v Spillman, (2001) 1 Cr App R (S) 139 [CA (Crim Div)]. R v Ball, (2001) 1 Cr App R (S)
+49[CA (Crim Div)] serious custodial punishment awarded where the accused persons deceived
+81 year old lady by receiving several times more money than the actual worth of the repair work
+done. The sentences correctly reflected that both the accused were jointly part of the
+conspiracy which concerned an extremely serious fraud, an enormous sum of money and the
+worst possible breach of trust. The report had been considered and the judge was entitled to
+decide what weight should be attached to the evidence. Rajamani v Inspector of Police, 2003 Cr
+PC 2002 (Mad), freezing of the accounts of third parties was held to be illegal.
+579. Vitoori Pradeep Kumar v Kaisula Dharmaiah, 2001 Cr LJ 4948 (SC).
+580. VR Dalal v Yougendra Naranji Thakkar, (2008) 15 SCC 625 [LNIND 2008 SC 1222] : AIR 2008
+SC 2793 [LNIND 2008 SC 1222] . In the relations between partners in opening and closing a firm,
+the essential ingredients of the offence of criminal breach of trust and cheating were missing.
+581. VY Jose v State of Gujarat, (2009) 3 SCC 78 [LNIND 2008 SC 2435] : (2009) 1 SCC Cr 996.
+Dalip Kaur v Jagnar Singh, (2009) 14 SCC 696 [LNIND 2009 SC 1409] : AIR 2009 SC 3191 [LNIND
+2009 SC 1409] , mere failure to refund the amount of advance which became due constituting
+breach of contract did not amount to cheating or criminal breach of trust. B Suresh Yadav v
+Sharifa Bee, (2007) 13 SCC 107 [LNIND 2007 SC 1238] : AIR 2008 SC 210 [LNIND 2007 SC 1238]
+: 2008 Cr LJ 431 , dispute of civil nature, complaint was an abuse of process, quashed.
+582. Paramjeet Batra v State of Uttarakhand, JT 2012 (12) SC 393 [LNIND 2012 SC 812] : 2012
+(12) Scale 688 [LNIND 2012 SC 812] ; Hussainbeg Hayatbeg Mirza v State of Gujarat, 2013 Cr LJ
+1090 (SC) - proceedings quashed since there were no ingredients or elements of criminal
+offence; to the same effect VP Shrivastava v Indian Explosives Limited, (2010) 10 SCC 361
+[LNIND 2010 SC 920] : (2010) 3 SCC (Cr) 1290.
+583. Thermax Ltd v KM Johny, (2011) 13 SCC 412 [LNIND 2011 SC 947] : (2012) 2 SCC (Cr) 650;
+but where the allegation is about the execution of fictitious sale deeds the purpose of which
+was to make unlawful gain, the question whether the respondent was aware that such deeds
+were executed for getting lawful gain, which may cause injury to another person as defined
+under section 44 IPC, 1860 is a matter which can be established only on adducing evidence.
+Order quashing the proceedings set aside [State of Madhya Pradesh v Surendra Kori, (2012) 10
+SCC 155 [LNIND 2012 SC 681] : 2013 Cr LJ 167 : AIR 2012 SC (Supp) 949; Joseph Salvaraj A v
+State of Gujarat, AIR 2011 SC 2258 [LNIND 2011 SC 576] : (2011) 7 SCC 59 [LNIND 2011 SC 576]
+; Udai Shankar Awasthi v State of UP, (2013) 2 SCC 435 [LNIND 2013 SC 22] 2013 (1) Scale 212
+[LNIND 2013 SC 22] .
+584. Rama Devi v State of Bihar, (2010) 12 SCC 273 [LNIND 2010 SC 875] : AIR 2010 SC (Supp)
+83; Kishan Singh v Gurpal Singh, (2010) 8 SCC 775 [LNIND 2010 SC 747] : AIR 2010 SC 3624
+[LNIND 2010 SC 747] - After losing in civil suit FIR filed with the sole intention of harassing the
+respondents and enmeshing them in long and arduous criminal proceedings. Proceedings
+quashed.
+585. Nageshwar Prasad Singh v Narayan Singh,k (1998) 5 SCC 694 ; distinguished on facts in SP
+Gupta v Ashutosh Gupta, (2010) 6 SCC 562 [LNIND 2010 SC 507] : (2010) 3 SCC (Cr) 193.
+586. AS Krishna v State of Kerala, 1998 Cr LJ 207 (Ker). The incident was 17 years old. The
+sentence of 1 year and 2 years was reduced to the period of three months. Premlata v State of
+Rajasthan, 1998 Cr LJ 1430 (Raj) using false certificate to secure an appointment.
+587. Develle Venkateswarlu v State of AP, 2000 Cr LJ 2929 (AP).
+588. Essar Constructions Ltd v CBI, 1999 Cr LJ 1861 (Bom).
+589. R Kalyani v Janak C Mehta, (2009) 1 SCC 516 [LNIND 2008 SC 2127] : (2009) 1 SCC Cr 567;
+MAA Annamalai v State of Karnataka, (2010) 8 SCC 524 [LNIND 2010 SC 745] : 2011 Cr LJ. 692
+(SC).
+590. Om Dhankar v State of Haryana, (2012) 11 SCC 252 [LNINDORD 2012 SC 439] : 2012 (3)
+Scale 363 [LNINDORD 2012 SC 439] relied on Prakash Singh Badal v State of Punjab, 2007 (1)
+SCC 1 [LNIND 2006 SC 1091] : AIR 2007 SC 1274 [LNIND 2006 SC 1091] .
+591. All India Council for Technical Education v Rakesh Sachan, 2013 (2) Scale 15 .
+592. AIR 2012 SC 499 [LNIND 2011 SC 1158] ; Jayrajsinh Digvijaysinh Rana v State of Gujarat,
+2012 (6) Scale 525 [LNIND 2012 SC 417] : 2012 CR LJ 3900 ; Shiji @ Pappu v Radhika, 2011 (10)
+SCC 705 [LNIND 2011 SC 1158] .

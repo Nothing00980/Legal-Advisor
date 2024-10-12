@@ -1,0 +1,151 @@
+False information, with intent to cause public servant to use his
+lawful power to the injury of another person.
+Whoever gives to any public servant any information 1 which he knows or believes to
+be false, intending thereby to cause, or knowing it to be likely that he will thereby
+cause, such public servant—
+(a) to do or omit anything2 which such public servant ought not to do or omit if the
+true state of facts respecting which such information is given were known by
+him, or
+(b) to use the lawful power of such public servant to the injury or annoyance of any
+person,
+shall be punished with imprisonment of either description for a term which
+may extend to six months, or with fine which may extend to one thousand
+rupees, or with both.]
+ILLUSTRATIONS
+(a) A informs a Magistrate that Z, a police-officer, subordinate to such Magistrate,
+has been guilty of neglect of duty or misconduct, knowing such information to
+be false, and knowing it to be likely that the information will cause the
+Magistrate to dismiss Z. A has committed the offence defined in this section.
+(b) A falsely informs a public servant that Z has contraband salt in a secret place,
+knowing such information to be false, and knowing that it is likely that the
+consequence of the information will be a search of Z's premises, attended with
+annoyance to Z. A has committed the offence defined in this section.
+(c) A falsely informs a policeman that he has been assaulted and robbed in the
+neighbourhood of a particular village. He does not mention the name of any
+person as one of his assaitants, but knows it to be likely that in consequence of
+this information the police will make enquiries and institute searches in the
+village to the annoyance of the villages or some of them. A has committed an
+offence under this section.]
+COMMENT.—
+Object.—The object of this section is that a public servant should not be falsely given
+information with the intent that he should be misled by a person who believed that
+information to be false, and intended to mislead him. This section does not require that
+action must always be taken if the person who makes the public servant knows or
+believes that action will be taken.68.
+[s 182.1] Ingredients.—
+(1) Giving of an information to a public servant.
+(2) Information must have been known or believed to be false by the giver.
+(3) Such false information was given with intention to cause, or knowing that it is likely
+to cause such public servant (a) to do or omit anything which he ought not to do or
+omit to do if the true facts were known to him, or (b) to use his lawful power to the
+injury or annoyance of any person.69.
+1. 'Any information'.—The Bombay and the Patna High Courts have ruled that any 'false
+information' given to a public servant, with the intent mentioned in the section, is
+punishable under it whether that information is volunteered by the informant or is given
+in answer to questions put to him by the public servant.70. Where a driver of a motor
+vehicle, who had no licence with him, on being asked his name by a police-officer, gave
+a fictitious name, it was held that he had committed an offence under this section.71.
+The section makes no distinction between information relating to a cognizable offence
+and one relating to a non-cognizable offence, nor is there anything in the section to
+justify the conclusion that it applies only to cases in which the information given to any
+public servant relates to a cognizable offence.72.
+2. 'To do or omit anything'.—It is not necessary that the public servant to whom false
+information is given should be induced to do anything or to omit to do anything in
+consequence of such information. The gist of the offence is not what action may or
+may not be taken by the public servant to whom false information is given, but the
+intention or knowledge (to be inferred from his conduct) of the person supplying such
+information.73. Section 182 does not require that action must always be taken if the
+person who moves the public servant knows or believes that action would be taken.74.
+Under this clause it is not necessary to show that the act done would be to the injury or
+annoyance of any third person.75.
+[s 182.2] Condition precedent for prosecution.—
+This section has to be read in conjunction with section 195(1)(a) of the Cr PC, 1973
+which requires a complaint for offences under sections 172–188, IPC, 1860, to be filed
+by the public servant concerned or by some other public servant to whom he is
+administratively subordinate.76. It is mandatory to follow the procedure prescribed
+under section 195 of the Code while initiating action against an accused for an offence
+punishable under section 182, IPC, 1860 else such action is rendered void ab initio.77.
+Thus, investigation into an offence under section 182, IPC, 1860 can be done only on
+the complaint given by a competent public servant; taking note of the fact that the
+procedure contemplated is not complied within the line with section 195, Cr PC, 1973
+as well as the settled legal position evolved through the decisions of the Apex Court,
+the cognizance assumed by the Magistrate for the offence under section 182, IPC,
+1860 is erroneous and not sustainable in law.78. Similar view has been expressed by
+the Hon'ble Supreme Court in PD Lakhani v State of Punjab,79. relying upon its earlier
+judgment in Daulat Ram's case (supra) and Mata Bhikh's case.80. It is held that:
+no complaint, therefore, could be lodged before the learned Magistrate by the Station House
+Officer. Even assuming that the same was done under the directions of SP, Section 195, in
+no uncertain terms, directs filing of an appropriate complaint petition only by the public
+servant concerned or his superior officer. It, therefore, cannot be done by an inferior officer.
+It does not provide for delegation of the function of the public servant concerned81.
+[s 182.3] Private Complaint.—
+Since the offence under section 182 is covered by the bar of section 195 Cr PC, 1973
+there is absolutely no scope for filing a private complaint. The embargo in section 195
+Cr PC, 1973 takes away the right to prosecute in respect of the aforesaid offences by
+way of filing a private complaint. Going by section 195 Cr PC, 1973 no Court shall take
+cognizance except in the manner contemplated by section 195 Cr PC, 1973 and
+consequently, no jurisdiction to refer the case under section 156(3) Cr PC, 1973 to the
+Police for investigation or to issue a direction to proceed under the aforesaid sections
+to the Police on a private person's complaint.82.
+[s 182.4] Mala fide Prosecution.—
+The Supreme Court has laid down that proceedings can be taken under this section as
+well as under sections 211 and 500 against persons who initiate prosecution against a
+person in high position with a view to wreaking vengeance for a private and personal
+grudge.83.
+[s 182.5] CASES.—Causing public servant to do what he ought not to do.—
+Mere non-mentioning of the complaint already filed in the Court of Chief Judicial
+Magistrate, in the petition filed under section 156(3) Cr PC, 1973 before the Special
+Sessions Judge, would not be enough to attract the section.84. The accused falsely
+telegraphed to a District Magistrate that the town had been attacked by a gang of 200
+robbers, but the Magistrate put no faith in the telegram and took no action; it was held
+that the accused were guilty of an offence under this section.85. A personated B at an
+examination and passed the examination and obtained a certificate in B's name. B,
+thereupon, applied to have his name entered in the list of candidates for Government
+service. He attached to this application the certificate issued in his name, and his name
+was ordered to be entered on the list of candidates. It was held that he was guilty of an
+offence under this section.86. Where the ulterior motive of the accused in making a
+false report of burglary was to suppress certain documents by pleading that they were
+stolen, it was held that the act of the accused was not punishable under this section.87.
+Where a resolution was passed in a public meeting condemning police inaction in
+regard to an assault case and copies of the said resolution were sent to various
+authorities including the Superintendent of Police and the officer-in-charge, but the
+officer-in-charge took exception to it and filed a complaint in Court under sections 182
+and 211, IPC, 1860, it was held that forwarding of the resolution did not amount to
+institution of criminal proceeding and no offence either under section 182 or section
+211, IPC, 1860, was committed. It was further observed that police should not be so
+sensitive over public criticism.88.
+[s 182.6] Period of Limitation.—
+Since the offence under section 182 IPC, 1860 is punishable with imprisonment for a
+period of six months only, the authority should file the complaint under section 182 IPC,
+1860 within one year from the date when that authority found that the allegations made
+in the complaint were false. Since more than four years was elapsed from the date
+when the authority found the allegations were false, no question of filing any complaint
+under section 182 IPC, 1860 at this belated stage arises.89.
+67. Subs. by Act 3 of 1895, section 1, for section 182.
+68. Daulat Ram, AIR 1962 SC 1206 [LNIND 1962 SC 28] : 1962 (2) Cr LJ 286 .
+69. Jiji Joseph v Tomy Ignatius, 2013 Cr LJ 828 (Ker).
+70. Ramji Sajabarao, (1885) 10 Bom 124; Lachman Singh, (1928) 7 Pat 715.
+71. Lachman Singh, (1928) 7 Pat 715.
+72. Thakuri, (1940) 16 Luck 55 .
+73. Budh Sen v State, (1891) 13 All 351 ; Raghu Tiwari, (1893) 15 All 336 .
+74. Sham Lal Thukral v State of Punjab, 2009 Cr LJ 189 (PH) relying on AIR 1962 SC1206
+[LNIND 1962 SC 28] : (1962 (2) Cr LJ 286) .
+75. Ganesh Khanderao, (1889) 13 Bom 506.
+76. Daulat Ram, 1962 (2) Cr LJ 286 : AIR 1962 SC 1206 [LNIND 1962 SC 28] ; TS Venkateswaran,
+1982 Cr LJ NOC 68 (Ker); See also State of Rajasthan v Chaturbhuj, 1983 Cr LJ NOC 56 (Raj).
+77. Saloni Arora v State of NCT of Delhi, AIR 2017 SC 391 [LNIND 2017 SC 23] .
+78. EK Palanisamy v DySP, 2010 Cr LJ 1802 (Mad); Geetika Batra v OP Batra, 2009 Cr LJ 2687
+(Del).
+79. PD Lakhani v State of Punjab, 2008 AIR SCW 3357.
+80. Mata Bhikh's case, (1994) 4 SCC 95 [LNIND 1994 SC 311] : (1994 AIR SCW 1935).
+81. Also see Sham Lal Thukral v State of Punjab, 2009 Cr LJ 189 (PH); Randhir v State of
+Haryana, 2004 Cr LJ 479 (PH).
+82. Loid Jude Manakkat v State, 2013 (2) KLT 931 : 2013 (3) KLJ 53 .
+83. State of Haryana v Bhajan Lal, 1992 Supp (1) SCC 335 : AIR 1992 SC 604 : 1992 Cr LJ 527 .
+84. Subhash Chandra v State of UP, (2000) 9 SCC 356 [LNIND 1999 SC 1565] : JT 2000 (2) SC 26
+: 2000 AIR(SCW) 4947.
+85. Budh Sen, supra.
+86. Ganesh Khanderao, supra.
+87. Shambhoo Nath, AIR 1959 All 545 [LNIND 1958 ALL 203] .
+88. Shiv Kumar Prasad Singh, 1984 Cr LJ 1417 (Pat).
+89. Harbhajan Singh Bajwa v Senior Superintendent of Police, Patiala, 2000 Cr LJ 3297 (PH).

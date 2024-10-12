@@ -1,0 +1,187 @@
+Punishment of abetment if the act abetted is committed in
+consequence and where no express provision is made for its punishment.
+Whoever abets any offence shall, if the act abetted is committed in consequence of
+the abetment, and no express provision is made by this Code for the punishment of
+such abetment, be punished with the punishment provided for the offence.
+Explanation.—An act or offence is said to be committed in consequence of abetment,
+when it is committed in consequence of the instigation, or in pursuance of the
+conspiracy, or with the aid which constitutes the abetment.
+ILLUSTRATIONS
+(a) A offers a bribe to B, a public servant, as a reward for showing A some favour in
+the exercise of B's official functions. B accepts the bribe. A has abetted the
+offence defined in section 161.
+(b) A instigates B to give false evidence. B, in consequence of the instigation,
+commits that offence. A is guilty of abetting that offence, and is liable to the
+same punishment as B.
+(c) A and B conspire to poison Z. A, in pursuance of the conspiracy, procures the
+poison and delivers it to B in order that he may administer it to Z. B, in pursuance
+of the conspiracy, administers the poison to Z in A's absence and thereby causes
+Z's death. Here B is guilty of murder. A is guilty of abetting that offence by
+conspiracy, and is liable to the punishment for murder.
+COMMENTS.—
+Under this section the abettor is liable to the same punishment as that which may be
+inflicted on the principal offender, (1) if the act of the latter is committed in
+consequence of the abetment, and (2) no express provision is made in the Code for the
+punishment of such an abetment. Section 109, IPC, 1860 becomes applicable even if
+the abettor is not present when the offence abetted is committed provided that he has
+instigated the commission of the offence or has engaged with one or more other
+persons in a conspiracy to commit an offence and pursuant to that conspiracy some
+act or illegal omission takes place or has intentionally aided the commission of an
+offence by an act or illegal omission.76.
+[s 109.1] Scope.—
+This section lays down nothing more than that if the IPC, 1860 has not separately
+provided for the punishment of abetment as such then it is punishable with the
+punishment provided for the original offence. Law does not require instigation to be in
+a particular form or that it should only be in words. The instigation may be by conduct.
+Whether there was instigation or not, is a question to be decided on the facts of each
+case. It is not necessary in law for the prosecution to prove that the actual operative
+cause in the mind of the person abetting was instigation and nothing else, so long as
+there was instigation and the offence has been committed or the offence would have
+been committed if the person committing the act had the same knowledge and
+intention as the abettor. The instigation must be with reference to the thing that was
+done and not to the thing that was likely to have been done by the person who is
+instigated. It is only if this condition is fulfilled that a person can be guilty of abetment
+by instigation. Further, the act abetted should be committed in consequence of the
+abetment or in pursuance of the conspiracy as provided in the Explanation to section
+109. Under the Explanation an act or offence is said to be committed in pursuance of
+abetment if it is done in consequence of (a) instigation (b) conspiracy or (c) with the
+aid constituting abetment. Instigation may be in any form and the extent of the
+influence which the instigation produced in the mind of the accused would vary and
+depend upon facts of each case. The offence of conspiracy created under section
+120A is bare agreement to commit an offence. It has been made punishable under
+section 120B. The offence of abetment created under the second clause of section 107
+requires that there must be something more than mere conspiracy. There must be
+some act or illegal omission in pursuance of that conspiracy. That would be evident by
+section 107 (second), "engages in any conspiracy … for the doing of that thing, if an act
+or omission took place in pursuance of that conspiracy". The punishment for these two
+categories of crimes is also quite different. Section 109, IPC, 1860 is concerned only
+with the punishment of abetment for which no express provision has been made in the
+IPC, 1860. The charge under section 109 should, therefore, be along with charge for
+murder which is the offence committed in consequence of abetment. An offence of
+criminal conspiracy is, on the other hand, an independent offence. It is made
+punishable under section 120B for which a charge under section 109 is unnecessary
+and inappropriate.77. Section 109 provides that if the act abetted is committed in
+consequence of abetment and there is no provision for the punishment of such
+abetment then the offender is to be punished with the punishment provided for the
+original offence. "Act abetted" in section 109 means the specific offence abetted.
+Therefore, the offence for the abetment of which a person is charged with the
+abetment is normally linked with the proved offence.78. The commission of the offence
+of rape in a hut then in possession of the accused was held to be not sufficient in itself
+to show that the accused abetted the offence.79.
+[s 109.2] Distinct offence.—
+Section 109 is by itself creative of an offence though it is punishable in the context of
+other offences. The accused was charged under sections 300 and 149. The Court said
+that he could not be convicted under section 300 with the aid of section 109. That
+would cause great prejudice to the accused in his defence.80. The offence for the
+abetment of which a person is charged with the abetment is normally linked with the
+proved offence.81. A plain reading of sections 107–109 of the IPC, 1860 would show
+that act complained of in order to amount to abetment has to be committed either prior
+to or at the time of commission of the offences.82.
+Where the appellant, the wife of a co-accused asked the prosecutrix, aged 15 years to
+go to the house of the accused and to bring lassi, and when the prosecutrix reached
+there, the co-accused, who were two in number, bolted the house from inside and
+committed rape on her, it was held that the appellant was guilty of the offence of
+abetment. 83.
+[s 109.3] Failure to prevent is not abetment.—
+It has been held by the Supreme Court that a failure to prevent the commission of an
+offence is not an abetment of that offence. The Court said:
+Where a person aids and abets the perpetrator of a crime at the very time when the crime is
+committed, he is a principal of the second degree and section 109 applies. But mere failure
+to prevent the commission of an offence is not by itself an abetment of that offence.
+Considering the definition in section 109 strictly, the instigation must have reference to the
+thing that was done and not to the thing that was likely to have been done by the person
+who is instigated. It is only if this condition is fulfilled that a person can be guilty of
+abetment by instigation. Section 109 is attracted even if the abettor is not present when the
+offence abetted is committed provided that he had instigated the commission of the
+offence or had engaged with one or more other persons in a conspiracy to commit an
+offence and pursuant to the conspiracy some act or illegal omission takes place or
+intentionally induced the commission of an offence by an act or illegal omission. In the
+absence of direct involvement, conviction for abetment is not sustainable. Section 109
+provides that if the act abetted is committed in consequence of abetment and there is no
+provision for the punishment of such abetment then the offender is to be punished with the
+punishment provided for the original offence. Section 109 applies even where the abettor is
+not present. Active abetment at the time of committing the offence is covered by section
+109.
+The words 'act abetted' as used in section 109 means the specific offence abetted. Mere
+help in the preparation for the commission of an offence which is not ultimately committed
+is not abetment within the meaning of section 109. 'Any offence' in section 109 means
+offence punishable under IPC or any special or local law. The abetment of an offence under
+the special or local law, therefore, is punishable under section 109. For constituting offence
+of abetment, intentional and active participation by the abettor is necessary.84.
+When a person is charged with the abetment of an offence, it is normally linked with an
+offence which has been proved.85.
+[s 109.4] Procedure.—Failure to frame Charge.—
+Section 109, IPC, 1860 is a distinct offence. Accused having faced trial for being a
+member of an unlawful assembly which achieved the common object of killing the
+deceased, could in no event be substitutedly convicted for offence under section 302,
+IPC, 1860 with the aid of section 109, IPC, 1860. There was obviously thus, not only a
+legal flaw but also a great prejudice to the appellant in projecting his defence.86.
+Section 109, IPC, 1860 is by itself an offence though punishable in the context of other
+offences.87.
+[s 109.5] Sentence.—
+When the act abetted is committed as a consequence of abetment, the abettor should
+be punished with the punishment provided for the main offence with the help of section
+109, IPC, 1860 and even if a charge under section 120B, IPC, 1860 had been framed, no
+separate sentence under that section is called for.88. No distinction should be made in
+the quantum of sentence to be awarded to the principal offender and that awarded to
+the abettor.89.
+[s 109.6] Compoundable.—
+When an offence is compoundable under section 320 of the Cr PC, 1973, the abetment
+of such may be compounded in like manner.90.
+[s 109.7] CASES.—
+Where the accused instigated others to assault with deadly weapons and not to kill, he
+should be convicted under section 324 read with section 109, IPC, 1860 and not under
+section 307 read with section 109, IPC, 1860.91. Where the accused did not participate
+in the act of rape but kept watch while others were committing the offence, and thereby
+aided and abetted the commission of the crime instead of preventing it, he was held
+liable to be convicted under section 376 read with this section and not under section
+376 read with section 34.92.
+[s 109.8] Distinction between sections 109 and 114.—
+There is a distinction between section 109 and section 114. Section 114 applies where
+a criminal first abets an offence to be committed by another person, and is
+subsequently present at its commission. Active abetment at the time of committing the
+offence is covered by section 109 and section 114 is clearly intended for an abetment
+previous to the actual commission of the crime, that is, before the first steps have been
+taken to commit it.93.
+76. NMMY Momin, 1971 Cr LJ 793 : AIR 1971 SC 885 [LNIND 1970 SC 155] . Where the accused
+suffered trial for the substantive offences of causing hurt under sections 328 and 272 by mixing
+ethyl and methyl alcohol but his direct involvement was not established, section 109 was not
+permitted to be pushed into service for convicting him for abetment; Joseph v State of Kerala,
+AIR 1994 SC 34 : 1994 Cr LJ 21 : 1995 SCC (Cr) 165.
+77. Arjun Singh v State of HP, AIR 2009 SC 1568 [LNIND 2009 SC 252] : (2009) 4 SCC 18 [LNIND
+2009 SC 252] : (2009) 1 SCR 983 [LNIND 2009 SC 252] : 2009 (2) Scale 302 [LNIND 2009 SC
+252] : 2009 Cr LJ 1332 . See Kehar Singh v The State (Delhi Admn.), AIR 1988 SC 1883 [LNIND
+1988 SC 887] ; Kulwant Singh v State of Bihar, (2007) 15 SCC 670 [LNIND 2007 SC 820] .
+78. Amit Kapoor v Ramesh Chander, JT 2012 (9) SC 312 [LNIND 2012 SC 564] : 2012 (9) Scale
+58 [LNIND 2012 SC 564] : (2012) 9 SCC 460 [LNIND 2012 SC 564] .
+79. Ashok Nivruti Desai v State of Maharashtra, 1995 Cr LJ 826 (Bom). Jag Narain Prasad v State
+of Bihar, 1998 Cr LJ 2553 : AIR 1998 SC 2879 [LNIND 1998 SC 387] , the accused charged with
+exhorting his son to kill the victim. The court said that it was not believable that an aged person
+would involve his son into crime for a trivial reason. Mere presence at the spot is not sufficient
+to involve all the family members who were there. See also Manjula v Muni, 1998 Cr LJ 1476
+(Mad).
+80. Wakil Yadav v State of Bihar, 1999 Cr LJ 5000 (SC). Arjun Singh v State of HP, (2009) 4 SCC
+18 [LNIND 2009 SC 252] : AIR 2009 SC 1568 [LNIND 2009 SC 252] : 2009 Cr LJ 1332 ,
+ingredients restated, the offence was not made out in this case.
+81. Amit Kapoor v Ramesh Chander, JT 2012 (9) SC 312 [LNIND 2012 SC 564] : 2012 (9) Scale
+58 [LNIND 2012 SC 564] : (2012) 9 SCC 460 [LNIND 2012 SC 564] ; Kishangiri Mangalgiri Swami
+v State of Gujarat, 2009 (4) SCC 52 [LNIND 2009 SC 193] .
+82. Jasobant Narayan Mohapatra v State of Orissa, 2009 Cr LJ 1043 (Ori).
+83. Om Prakash v State of Haryana, 2015 Cr LJ 586 : (2015) 2 SCC 84 [LNIND 2014 SC 887] .
+84. Kulwant Singh v State of Punjab, (2007) 15 SCC 670 [LNIND 2007 SC 820] .
+85. Goura Venkata Reddy v State of AP, (2003) 12 SCC 469 [LNIND 2003 SC 1004] , the appellant
+(accused) who instigated the other accused was convicted under section 304/109 and not
+under section 302/109.
+86. Wakil Yadav v State of Bihar, (2000) 10 SCC 500 : 1999 AIR SCW 4694.
+87. Joseph Kurian Philip Jose v State, (1994) 6 SCC 535 [LNIND 1994 SC 927] : AIR 1995 SC 4
+[LNIND 1994 SC 927] : 1995 Cr LJ 502 .
+88. State of TN v Savithri, 1976 Cr LJ 37 (Mad).
+89. Ashok Nivruti Desai v State of Maharashtra, (1995) 1 Cr LJ 826 (Bom). Vinit v State of
+Maharashtra, (1994) 2 Cr LJ 1791 (Bom).
+90. Section 320(3) Code of Criminal Procedure, 1973.
+91. Jai Narain, 1972 Cr LJ 469 : AIR 1972 SC 1764 .
+92. Nawabkhan v State of MP, 1990 Cr LJ 1179 MP; Jai Chand v State of HP, 2002 Cr LJ 2301
+(HP); Munuswamy v State of TN, 2002 Cr LJ 3916 (SC) : AIR 2002 SC 2994 [LNIND 2002 SC 500]
+.
+93. Kulwant Singh v State of Bihar, (2007) 15 SCC 670 [LNIND 2007 SC 820] ; Mathurala Adi
+Reddy v State of Hyderabad, AIR 1956 SC 177 : 1956 Cr LJ 341 .

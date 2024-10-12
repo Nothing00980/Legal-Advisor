@@ -1,0 +1,131 @@
+Certain laws not to be affected by this Act.
+Nothing in this Act shall affect the provisions of any Act for punishing mutiny and
+desertion of officers, soldiers, sailors or airmen in the service of the Government of
+India or the provisions of any special or local law 1 .]
+COMMENT—
+This section is a saving clause to section 2. Though the Code was intended to be a
+general one, it was not thought desirable to make it exhaustive, and hence, offences
+defined by local and special laws were left out of the Code, and merely declared to be
+punishable as theretofore.78. Thus, the personnel of the Army, Navy and Airforce are
+governed by the provisions of the Army Act, 1950, The Navy Act, 1957, and The Indian
+Air Force Act, 1950 in regard to offences of mutiny and desertion committed by
+them.79.
+1. 'Special or local law'.—A special law is a law relating to a particular subject;80.
+whereas a local law is a law which applies only to a particular part of the country.81.
+The distinction between a statute creating a new offence with a particular penalty and
+a statute enlarging the ambit of an existing offence by including new acts within it with
+a particular penalty is well settled. In the former case the new offence is punishable by
+the new penalty only; in the latter it is punishable also by all such penalties as were
+applicable before the Act to the offence in which it is included. The Principle is that
+where a new offence is created and the particular manner in which proceedings should
+be taken is laid down, then proceedings cannot be taken in any other way.82. However,
+a person cannot be punished under both the Penal Code and a special law for the same
+offence,83. and ordinarily the sentence should be under the special Act.84. This is,
+however, confined to cases where the offences are coincident or practically so.85.
+The Supreme Court issued specific guidelines regarding the interpretation of general law
+and special law. See the Box below for these Guidelines.
+Supreme Court Guidelines on Interpretation of General law and Special law
+(i) When a provision of law regulates a particular subject and a subsequent law
+contains a provision regulating the same subject, there is no presumption that
+the later law repeals the earlier law. The rule-making authority while making the
+later rule is deemed to know the existing law on the subject. If the subsequent
+law does not repeal the earlier rule, there can be no presumption of an intention
+to repeal the earlier rule;
+(ii) When two provisions of law — one being a general law and the other being
+special law govern a matter, the court should endeavour to apply a harmonious
+construction to the said provisions. But where the intention of the rule-making
+authority is made clear either expressly or impliedly, as to which law should
+prevail, the same shall be given effect.
+(iii) If the repugnancy or inconsistency subsists in spite of an effort to read them
+harmoniously, the prior special law is not presumed to be repealed by the later
+general law. The prior special law will continue to apply and prevail in spite of
+the subsequent general law. But where a clear intention to make a rule of
+universal application by superseding the earlier special law is evident from the
+later general law, then the later general law, will prevail over the prior special law.
+(iv) Where a later special law is repugnant to or inconsistent with an earlier general
+law, the later special law will prevail over the earlier general law.
+[Maya Mathew v State of Kerala86. and P Raghava Kurup v V Ananthakumari87..]
+[s 5.1] Contempt of Court
+Contempt of Courts Act, 1971 (Act 70 of 1971) makes it clear that, Contempt of Court
+means 'Civil contempt' or 'Criminal contempt'.88. 'Civil contempt' means wilful
+disobedience to any judgment, decree, direction, order, writ or other process of a Court
+or wilful breach of an Undertaking given to a Court.89. "Criminal contempt" means the
+publication (whether by words, spoken or written, or by signs, or by visible
+representations, or otherwise) of any matter or the doing of any other act whatsoever
+which – (i) scandalises or tends to scandalise or lowers or tends to lower the authority
+of any Court; or (ii) prejudices, or interferes or tends to interfere with, the due course of
+any judicial proceeding; or (iii) interferes or tends to interfere with, or obstructs or tends
+to obstruct, the administration of justice in any other manner.90. The provisions of this
+Act shall be in addition to and not in derogation of, the provisions of any other law
+relating to contempt of Courts.91. Contempt proceeding is sui generis (of its own kind
+or class or unique). It has peculiar features which are not found in criminal
+proceedings. The respondent does not stand in the position of a person accused of an
+offence. Initiation of contempt proceedings against the respondent who is already
+accused in a criminal proceedings, does not amount to double jeopardy.92. Mens rea is
+not necessary for committing contempt of Court. The main ingredient of the offence of
+contempt of Court is the result of one's contumacious act of offending the prestige and
+dignity of the judiciary so as to lower it in the estimation of the general public. Whether
+the contemnor intended it or not is of no consequence.93.
+[s 5.2] Contempt of Supreme Court and High Courts
+Articles 129 and 215 preserve all the powers of the Supreme Court and the High Court,
+respectively, as a Court of Record which includes the power to punish the contempt of
+itself. There are no curbs on the power of the High Court to punish for contempt of
+itself except those contained in the Contempt of Courts Act, 1971.94. For the judiciary
+to carry out its obligations effectively and true to the spirit with which it is sacredly
+entrusted the task, constitutional Courts have been given the power to punish for
+contempt, but greater the power; higher the responsibility.95.
+[s 5.3] Contempt of Subordinate Courts
+Every High Court shall have and exercise the same jurisdiction, powers and authority, in
+accordance with the same procedure and practice, in respect of contempt of Courts
+subordinate to it as it has and exercises in respect of contempt of itself provided that
+no High Court shall take cognizance of a contempt alleged to have been committed in
+respect of a Court subordinate to it where such contempt is an offence punishable
+under the IPC, 1860 [section 10 Contempt of Courts Act, 1971]. The procedure
+prescribed either under the Cr PC, 1973 or under the Indian Evidence Act, 1872 is not
+attracted to the proceedings initiated under section 15 of the Contempt of Courts Act.
+The High Court can deal with such matters summarily and adopt its own procedure.
+The only caution that has to be observed by the Court in exercising this inherent power
+of summary procedure is that the procedure followed must be fair and the contemnors
+are made aware of the charges levelled against them and given a fair and reasonable
+opportunity.96.
+[s 5.4] Section 228 IPC vis-a-vis Contempt of Courts Act
+What is made publishable under section 228 IPC, 186097. is the offence of intentional
+insult to a Judge or interruption of Court proceedings but not as a contempt of Court.
+The definition of criminal contempt is wide enough to include any act by a person
+which would either scandalise the Court or tend to interfere with the administration of
+justice. It would also include any act which lowers the authority of the Court or
+prejudices or interferes with the due course of any judicial proceedings. It is not limited
+to the offering of intentional insult to the Judge or interruption of the judicial
+proceedings.98.
+1. MC Verghese v Ponnan, AIR 1970 SC 1876 [LNIND 1968 SC 339] : (1969) 1 SCC 37 [LNIND
+1968 SC 339] : 1970 Cr LJ 1651 .
+2. Mobarik Ali v State of Bombay, AIR 1957 SC 857 [LNIND 1957 SC 81] : 1957 Cr LJ 1346 (SC).
+77. Subs. by the A.O. 1950, for section 5.
+78. Ramachandrappa, (1883) 6 Mad 249; Motilal Shah, (1930) 32 Bom LR 1502 : 55 Bom 89.
+79. UOI v Anand Singh Bisht, AIR 1997 SC 361 [LNIND 1996 SC 1341] : (1996) 10 SCC 153
+[LNIND 1996 SC 1341] : 1996 Cr LJ 4435 : (1996) 1 SCC (Cr) 1198.
+80. Section 41 IPC, 1860.
+81. Section 42 IPC, 1860.
+82. Bhalchandra Ranadive, (1929) 31 Bom LR 1151 , 1178 : 54 Bom 35.
+83. Hussun Ali, (1873) 5 NWP 49.
+84. Kuloda Prosad Majumdar, (1906) 11 Cal WN 100; Bhogilal, (1931) 33 Bom LR 648 .
+85. Joti Prasad Gupta, (1931) 53 All 642 , 649; Suchit Raut v State, (1929) 9 Pat 126.
+86. Maya Mathew v State of Kerala, (2010) 4 SCC 498 [LNIND 2010 SC 190] : (2010) 3 SCR 16
+[LNIND 2010 SC 190] : AIR 2010 SC 1932 [LNIND 2010 SC 190] : 2010 (2) Scale 833 [LNIND
+2010 SC 190] .
+87. P Raghava Kurup v V Ananthakumari, (2007) 9 SCC 179 [LNIND 2007 SC 215] : 2007 (2) SCR
+1058 [LNIND 2007 SC 215] : (2007) 3 Scale 431 [LNIND 2007 SC 215] .
+88. Section 2(a).
+89. Section 2(b).
+90. Section 2(c).
+91. Section 22.
+92. Delhi Judicial Service, Association, Tis Hazari Court v State of Gujarat, AIR 1991 SC 2176
+[LNIND 1991 SC 446] : 1991 (4) SCC 406 [LNIND 1991 SC 446] .
+93. VG Ramachandran, Contempt of Court, 6th Edn, p 319 quoted in Re MV Jayarajan, 2012 (1)
+Ker LT SN 23 : 2011 (4) KHC 585 .
+94. V G Peterson v O V Forbes, AIR 1963 SC 692 [LNIND 1962 SC 298] : 1963 Supp (1) SCR 40 :
+1963 (1) Cr LJ 633 .
+95. HG Rangangoud v State Trading Corp of India, AIR 2012 SC 490 : 2012 (1) SCC 297 .
+96. Daroga Singh v BK Pandey, AIR 2004 SC 2579 [LNIND 2004 SC 485] : (2004) 5 SCC 26
+[LNIND 2004 SC 485] : 2004 Cr LJ 2084 .
+97.

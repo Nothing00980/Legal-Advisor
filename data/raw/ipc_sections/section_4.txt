@@ -1,0 +1,261 @@
+Extension of Code to extraterritorial offences.
+The provisions of this Code apply also to any offence committed by—
+46.[(1) any citizen of India in any place without and beyond India;
+(2) any person on any ship or aircraft registered in India wherever it may be;]
+47.[(3) any person in any place without and beyond India committing offence
+targeting a computer resource located in India.]
+48.[Explanation.—In this section—
+(a) the word "offence" includes every act committed outside India which,
+if committed in India, would be punishable under this Code;
+(b) the expression "computer resource" shall have the meaning assigned
+to it in clause ( k ) of sub-section (1) of section 2 of the Information
+Technology Act, 2000 (21 of 2000).]
+49.[ILLUSTRATION]
+50.[***] A, 51.[who is a 52.[citizen of India]], commits a murder in Uganda. He
+can be tried and convicted of murder in any place in 53.[India] in which he
+may be found.
+54.[***]
+COMMENT—
+This section shows the extent to which the Code applies to offences committed
+outside India. The Code applies to any offence committed by—
+(1) any citizen of India in any place, wherever he may be;
+(2) any person on any ship or aircraft registered in India wherever it may be; and
+(3) any person, whether or not a citizen of India, who commits any offence, from
+anywhere in the world, targeting a computer resource located in India.
+Hence, except for the case of an offence committed against a computer resource
+located in India, to extend the scope of operation of IPC, 1860 against persons, either
+the offender must be a citizen of India or he must have committed the offence on any
+ship or aircraft registered in India.
+[s 4.1] Crimes committed outside India.—
+Where an offence is committed beyond the limits of India but the offender is found
+within its limits, then
+(I) he may be given up for trial in the country where the offence was committed
+(extradition) or
+(II) he may be tried in India (extraterritorial jurisdiction).
+Where an offence was committed by an Indian citizen outside India, it was held that the
+offence was punishable under the IPC, 1860. An investigation of such an offence would
+not require sanction of the Central Government under the proviso to section 188, Cr PC,
+1973. But an enquiry as contemplated by section 202, Cr PC, 1973 could only be with
+the sanction of the Central Government.55.
+(I) Extradition.—Extradition is the surrender by one State to another of a person desired
+to be dealt with for crimes of which he has been accused or convicted and which are
+justiciable in the Courts of the other State. Surrender of a person within the State to
+another State—whether a citizen or an alien—is a political act done in pursuance of a
+treaty or an arrangement ad hoc.56. Though extradition is granted in implementation of
+the international commitment of the State, the procedure to be followed by the Courts
+in deciding, whether extradition should be granted and on what terms, is determined by
+the municipal law of the land. Extradition is founded on the broad principle that it is in
+the interest of civilised communities that criminals should not go unpunished and on
+that account, it is recognised as a part of the comity of nations that one State should
+ordinarily afford to another State assistance towards bringing offenders to justice.57.
+The procedure for securing the extradition from India is laid down in the Extradition Act,
+1962.
+(II) Extraterritorial jurisdiction.—Indian Courts are empowered to try offences
+committed out of India on (A) land, (B) high seas or (C) aircraft.
+(A) Land.—By virtue of sections 3 and 4 of the Penal Code, and section 188 of the Cr
+PC, 1973 local Courts can take cognizance of offences committed beyond the
+territories of India. Where the Court is dealing with an act committed outside India by a
+citizen of India which would be an offence punishable under the Penal Code if it had
+been committed in India, section 4 constitutes the act an offence and it can be dealt
+with under section 188 of the Cr PC, 1973.58. If, however, at the time of commission of
+the offence the accused person is not a citizen of India, the provisions of section 4 of
+the Penal Code and section 188 of the Cr PC, 1973 have no application.59.
+Section 188 of the Cr PC, 1973, provides that when an offence is committed outside
+India—
+(a) by a citizen of India, whether on high seas or elsewhere; or
+(b) by any person not being such citizen on any ship or aircraft registered in India,
+he may be dealt with in respect of such offence as if it had been committed at
+any place within India at which he may be found.
+The word 'found' in section 188, Cr PC, 1973 means not where a person is discovered
+but where he is actually present.60. A man brought to a place against his will can be
+said to be found there.61. When a man is in the country and is charged before a
+Magistrate with an offence under the Penal Code, it will not avail him to say that he was
+brought there illegally from a foreign country. The Bombay High Court has laid down
+this principle, following English precedents, in Savarkar's case.62. The accused Savarkar
+had escaped at Mareseilles from the custody of police officers charged with the duty of
+bringing him from London to Bombay, but was re-arrested there and brought to Bombay
+and committed for trial by the Special Magistrate at Nasik. The High Court held that the
+trial and committal were valid.63. The provisions of the IPC, 1860 have been extended
+to offences committed by any citizen of India in any place within and beyond India by
+virtue of section 4 thereof. Accordingly, offences committed in Botswana by an Indian
+citizen would also be amenable to the provisions of the IPC, 1860 subject to the
+limitation imposed under the proviso to section 188 Cr PC, 1973.64. Section 4 gives
+extraterritorial jurisdiction but as the Explanation says the acts committed must
+amount to an offence under the Penal Code.65.
+[s 4.2] Acts done within Indian as well as foreign territory.—
+A person who is a citizen of India is liable to be tried by the Courts of this country for
+acts done by him, partly within and partly without the Indian territories, provided the
+acts amount together to an offence under the Code.66.
+(B) Admiralty jurisdiction.—The jurisdiction to try offences committed on the high seas
+is known as the admiralty jurisdiction. It is founded on the principle that a ship on the
+high seas is a floating island belonging to the nation whose flag she is flying.
+Admiralty jurisdiction extends over—
+(1) Offences committed on Indian ships on the high seas.
+(2) Offences committed on foreign ships in Indian territorial waters.
+(3) Piracy.
+Power to enforce claims against foreign ships is an essential attribute of admiralty
+jurisdiction and it is assumed over such ships while they are within the jurisdiction of
+the High Court by arresting and detaining them. Admiralty jurisdiction of the High
+Courts in India has been historically traced to the Charters of 1774 and 1728, as
+subsequently expanded and clarified by the Letters Patent of 1823, 1862 and 1865 read
+with the Admiralty Court Act, 1861, the Colonial Courts of Admiralty Act, 1890, and the
+Colonial Court of Admiralty (India) Act, 1891 and preserved by section 106 of the
+Government of India Act, 1915, section 223 of the Government of India Act, 1935 and
+Article 225 of the Constitution of India. The pre-Constitution enactments have
+continued to remain in force in India as existing laws.67.
+The High Court as a Court of Admiralty is treated as a separate entity exercising a
+distinct and specific or prescribed or limited jurisdiction. This reasoning is based on the
+assumption that the continuance in force of the Colonial Courts of Admiralty Act, 1890
+as an existing law carves out a distinct jurisdiction of the High Court limited in ambit
+and efficacy to what has been granted by the Admiralty Court Act 1861, and that
+jurisdiction has remained stultified ever since. This restrictive construction is not
+warranted by the provisions of the Constitution. Accordingly, a foreign ship falls within
+the jurisdiction of the High Court where the vessel happens to be at the relevant time,
+i.e., at the time when the jurisdiction of the High Court is invoked, or, where the cause of
+action wholly or in part arises. The Merchant Shipping Act empowers the concerned
+High Court to arrest a ship in respect of a substantive right. This jurisdiction can be
+assumed by the concerned High Court, whether or not the defendant resides or carries
+on business, or the cause of action arose wholly or in part, within the local limits of its
+jurisdiction. Once a foreign ship is arrested within the local limits of the jurisdiction of
+the High Court, and the owner of the ship has entered appearance and furnished
+security to the satisfaction of the High Court for the release of the ship, the
+proceedings continue as a personal action. The conclusion is that all the High Courts in
+India have inherent admiralty jurisdiction and can invoke the same for the enforcement
+of a maritime claim.68.
+Even while exercising extraordinary powers available under the Constitution the
+jurisdiction of the High Court is primarily circumscribed by its territorial limits, viz., the
+jurisdiction has to be in context of the territorial jurisdiction available to the High Court.
+If the overall scheme of IPC, 1860 (section 4), Cr PC, 1973 (section 188), The Merchant
+Shipping Act, 1958 (section 437) and the Territorial Waters Act, 1976 (section 13) are
+taken into consideration read with sections 2(2) and 3(15) of the Merchant Shipping
+Act, it is apparent that for a Court, including High Court, to be vested with jurisdiction,
+an offender or offending vessel have to be found within local territorial limits of such
+Court.69.
+[s 4.3] Piracy
+Piracy consists of any of the following acts:
+(a) any illegal acts of violence or detention, or any act of depredation, committed for
+private ends by the crew or the passengers of a private ship or a private aircraft,
+and directed:
+(i) on the high seas, against another ship or aircraft, or against persons or
+property on board such ship or aircraft;
+(ii) against a ship, aircraft, persons or property in a place outside the
+jurisdiction of any State;
+(b) any act of voluntary participation in the operation of a ship or of an aircraft with
+knowledge of facts making it a pirate ship or aircraft;
+(c) any act of inciting or of intentionally facilitating an act described in
+subparagraph (a) or (b).70.
+The Convention on the Law of Sea known as United National Convention on the Law of
+Sea, 1982 (UNCLOS) sets out the legal framework applicable to combating piracy and
+armed robbery at sea, as well as other ocean activities. UNCLOS, 1982 is a
+comprehensive code on the international law of sea. It codifies and consolidates the
+traditional law within a single, unificatory legal framework. It has changed the legal
+concept of continental shelf and also introduced a new maritime zone known as
+exclusive economic zone. Exclusive economic zone is a new concept having several
+new features.71. The UNCLOS signed by India in 1982 and ratified on 29 June 1995,
+encapsulates the law of the sea and is supplemented by several subsequent
+resolutions adopted by the Security Council of the United Nations.
+Before UNCLOS came into existence, the law relating to the seas which was in
+operation in India, was the Territorial Waters, Continental Shelf, Exclusive Economic
+Zone and Other Maritime Zones Act, 1976, which spelt out the jurisdiction of the
+Central Government over the Territorial Waters, the Contiguous Zones and the
+Exclusive Economic Zone. The provisions of the UNCLOS are in harmony with and not
+in conflict with the provisions of the Maritime Zones Act, 1976, in this regard. Article 33
+of the Convention recognises and describes the Contiguous Zone of a nation to extend
+to 24 nautical miles from the baseline from which the breadth of the territorial sea is
+measured. Similarly, Articles 56 and 57 describe the rights, jurisdiction and duties of
+the coastal State in the Exclusive Economic Zone and the breadth thereof extending to
+20 nautical miles from the baseline from which the breadth of the territorial sea is
+measured. This provision is also in consonance with the provisions of the 1976 Act.
+The area of difference between the provisions of the Maritime Zones Act, 1976, and the
+Convention occurs in Article 97 of the Convention which relates to the penal
+jurisdiction in matters of collision or any other incident of navigation.72.
+[s 4.4] Jurisdiction of Indian High Courts.—
+In view of the declaration of law made by the Supreme Court in M V Elisabeth v Harwan
+Investment and Trading,73. the High Courts in India have inherent admiralty jurisdiction.
+The offences which come within the admiralty jurisdiction are now defined by the
+Merchant Shipping Act, 1958.
+(C) Aircraft.—The provisions of the Code are made applicable to any offence
+committed by any person on any aircraft registered in India, wherever it may be.
+[s 4.5] Liability of foreigners in India for offences committed outside its limits.
+—
+The acts of a foreigner committed by him in territory beyond the limits of India do not
+constitute an offence against the Penal Code, and, consequently, a foreigner cannot be
+held criminally responsible under that Code by the tribunals of India for acts committed
+by him beyond its territorial limits. Thus, when it is sought to punish a person, who is
+not an Indian subject, as an offender in respect of a certain act, the question is not
+'where was the act committed,' but 'was that person at the time, when the act was
+done, within the territory of India'. For, if he was not, the act is not an offence, the doer
+of it is not liable to be punished as an offender, and he is, therefore, not subject to the
+jurisdiction of criminal Courts.74. But if a foreigner in a foreign territory initiates an
+offence which is completed within Indian territory, he is, if found within Indian territory,
+liable to be tried by the Indian Court within whose jurisdiction the offence was
+completed.75.
+[s 4.6] Section 4 IPC and section 188 of Cr PC.—
+Section 188 Cr PC, 1973 and section 4 of the IPC, 1860 spell out that if the person
+committing the offence at that point of time is a citizen of India, then, even if the
+offence is committed beyond the contours of India, he will be subject to the jurisdiction
+of the Courts in India. The rule enunciated under the two sections rests on the principle
+that qua citizens the jurisdiction of Courts is not lost by reason of the venue of the
+offence. However, section 188 of the Code places an interdiction in the enquiry or trial
+over offences committed outside India by a citizen of India insisting for sanction from
+the Central Government to do so.76.
+1. MC Verghese v Ponnan, AIR 1970 SC 1876 [LNIND 1968 SC 339] : (1969) 1 SCC 37 [LNIND
+1968 SC 339] : 1970 Cr LJ 1651 .
+2. Mobarik Ali v State of Bombay, AIR 1957 SC 857 [LNIND 1957 SC 81] : 1957 Cr LJ 1346 (SC).
+45. Subs. by Act 4 of 1898, section 2, for section 4.
+46. Subs. by the A.O. 1950, for clauses (1) to (4).
+47. Ins. by the Information Technology (Amendment) Act, 2008 (10 of 2009), section 51(a)(i)
+(w.e.f. 27-10- 2009).
+48. Subs. by the Information Technology (Amendment) Act, 2008 (10 of 2009), section 51(a)(ii),
+for Explanation (w.e.f. 27-10-2009). Explanation, before substitution, stood as under:
+"Explanation.—In this section the word "offence" includes every act committed outside India
+which, if committed in India, would be punishable under this Code."
+49. Subs. by Act 36 of 1957, section 3 and Sch II, for "Illustrations" (w.e.f. 17-9-1957).
+50. The brackets and letter "(a)" omitted by Act 36 of 1957, section 3 and Sch II (w.e.f. 17-9-
+1957).
+51. Subs. by the A.O. 1948, for "a coolie, who is a Native Indian subject".
+52. Subs. by the A.O. 1950, for "a British subject of Indian domicile".
+53. The words "British India" have been successively amended by the A.O. 1948, the A.O. 1950
+and Act 3 of 1951, section 3 and Sch (w.e.f. 1-4-1951), to read as above.
+54. Illustrations (b), (c) and (d) omitted by the A.O. 1950.
+55. Muhammad Rafi v State of Kerala, 2010 Cr LJ 592 Ker DB.
+56. State of WB v Jugal Kishore More, (1969) 3 SCR 320 [LNIND 1969 SC 8] : 1969 Cr LJ 1559 :
+AIR 1969 SC 1171 [LNIND 1969 SC 8] .
+57. Abu Salem Abdul Qayoom Ansari v State of Maharashtra, JT 2010 (10) SC 202 [LNIND 2010
+SC 858] : 2010 (9) Scale 460 : (2011) 3 SCC (Cr) 125 : (2011) 11 SCC 214 [LNIND 2010 SC 858] .
+58. Ajay Aggarwal v UOI, 1993 (3) SCC 609 [LNIND 1993 SC 431] : AIR 1993 SC 1637 [LNIND
+1993 SC 431] : 1993 Cr LJ 2516 .
+59. Central Bank of India Ltd v Ram Narain, (1955) 1 SCR 697 [LNIND 1954 SC 126] : 1955 Cr LJ
+152 : AIR 1955 SC 36 [LNIND 1954 SC 126] .
+60. Maganlal v State, (1882) 6 Bom 622.
+61. Lopez and Sattler, (1858) 27 LJ (MC) 48.
+62. Vinayak D Savarkar, (1910) 13 Bom LR 296 , 35 Bom 225.
+63. Supra. Also see Om Hemrajani v State of UP, (2005) 1 SCC 617 [LNIND 2004 SC 1181] : AIR
+2005 SC 392 [LNIND 2004 SC 1181] .
+64. Thota Venkateswarlu v State of AP, AIR 2011 SC 2900 [LNIND 2011 SC 850] : (2011) 9 SCC
+527 [LNIND 2011 SC 850] : 2011 Cr LJ 4925 : (2011) 3 SCC (Cr) 772.
+65. Rambharthi, (1923) 25 Bom LR 772 [LNIND 1923 BOM 115] : 47 Bom 907; Sheikh Haidar v
+Syed Issa, (1939) Nag 241.
+66. Moulivie Ahmudoollah, (1865) 2 WR (Cr) 60.
+67. See Kamalakar Mahadev Bhagat v Scindia Steam Navigation Co Ltd, AIR 1961 Bom 186
+[LNIND 1960 BOM 71] : (1960) 62 Bom LR 995 ; Sahida Ismail v Petko R Salvejkov, AIR 1973 Bom
+18 [LNIND 1971 BOM 74] : (1972) 74 Bom LR 514 ; Jayaswal Shipping Co v SS Leelavati, AIR
+1954 Cal 415 [LNIND 1953 CAL 202] ; Reena Padhi v 'Jagdhir', AIR 1982 Ori 57 [LNIND 1981 ORI
+93] .
+68. M V Elisabeth v Harwan Investment and Trading, 1993 Supp (2) SCC 433 : AIR 1993 SC 1014
+[LNIND 1992 SC 194] ; MV Al Quamar v Tsavliris Salvage (International) Ltd, AIR 2000 SC 2826
+[LNIND 2000 SC 1119] : (2000) 8 SCC 278 [LNIND 2000 SC 1119] : 2000 (5) Scale 618 [LNIND
+2000 SC 1119] ; MV Free Neptune v DLF Southern Towns Private, 2011 (1) Ker LT 904 : 2011 (1)
+KHC 628 .
+69. MG Forests Pte Ltd v "MV Project Workship", Gujarat High Court Judgement dated 24
+February 2004.
+70. Article 100. United Nations Convention on the Law of the Sea (UNCLOS), 1982.
+71. Aban Loyd Chiles Offshore Ltd v UOI, JT 2008 (5) SC 256 [LNIND 2008 SC 897] : 2008 (6)
+Scale 128 [LNIND 2008 SC 897] : (2008) 11 SCC 439 [LNIND 2008 SC 897] .
+72. Republic of Italy through Ambassador v UOI, (2013) 4 SCC 721 : 2013 (1) Scale 462
+[LNINDORD 2013 SC 9114] .
+73. M V Elisabeth v Harwan Investment and Trading, 1993 Supp (2) SCC 433 : AIR 1993 SC 1014
+[LNIND 1992 SC 194] .
+74. Musst. Kishen Kour, (1878) PR No. 20 of 1878; Jameson, (1896) 2 QB 425 .
+75. Chhotalal, (1912) 14 Bom LR 147 [LNIND 1912 BOM 26] .
+76. P T Abdul Rahiman v State of Kerala, 2013 Cr LJ 893 (Ker).

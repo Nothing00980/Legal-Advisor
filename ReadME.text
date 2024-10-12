@@ -1,0 +1,20 @@
+Progress till now group no 13 Legal Advisor
+
+- intitially on research phase 
+-- gathered all the case judgements - total of 2914 cases which were highlighted by the high/supreme court
+-- acts
+---  case laws from ipc and crpc online references
+---  central and state acts from india code -- referecnes given
+--- other laws - like properity,family etc
+--- some special references from 2010 - 2018 judgements and laws enacted.
+-- data extraction and web scraping
+--- ipc_extractor.ipynb -- which extracts all the data from Indian Penal Code Book Online resource.
+--- law_extractor.ipynb -- extracts all the law based text from central as well as state acts references from indiacode.
+
+- Devlopment phase (currently the progress is in fragments so now output can be shown )
+-- some references on how to feed our data in bert example_on_data_feed.ipynb
+-- intial phase of how to convert our textual data into feature vector - bert_notebook.ipynb
+-- bert_spam_detection -- a reference on how bert model works based on kaggle dataset / Imdb dataset.
+-- we have not feed the complete data but a fragment to check the model outputs, rest is in progress.
+
+

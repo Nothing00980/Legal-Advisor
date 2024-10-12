@@ -1,0 +1,282 @@
+Act done by a person justified or by mistake of fact believing himself
+justified, by law.
+Nothing is an offence which is done by any person who is justified by law1, or who by
+reason of a mistake of fact2 and not by reason of a mistake of law3 in good faith,
+believes himself to be justified by law, in doing it.
+ILLUSTRATION
+A sees Z commit what appears to A to be a murder. A, in the exercise, to the best of his
+judgment exerted in good faith, of the power which the law gives to all persons of
+apprehending murderers in the fact, seizes Z, in order to bring Z before the proper
+authorities. A has committed no offence, though it may turn out that Z was acting in
+self-defence.
+COMMENT.—
+Distinction between Sections 76 and 79.—The distinction between section 76 and this
+section is that in the former a person is assumed to be bound, and in the latter to be
+justified, by law; in other words, the distinction is between a real or supposed legal
+obligation and a real or supposed legal justification, in doing the particular act. Under
+both (these sections) there must be a bona fide intention to advance the law,
+manifested by the circumstances attending the act which is the subject of charge; and
+the party accused cannot allege generally that he had a good motive, but must allege
+specifically that he believed in good faith that he was bound by law (section 76) to do
+as he did, or that being empowered by law (section 79) to act in the matter, he had
+acted to the best of his judgment exerted in good faith.14.
+1. Any person who is justified by law.—Jurisprudentially viewed, an act may be an
+offence, definitionally speaking but a forbidden act may not spell inevitable guilt if the
+law itself declares that in certain special circumstances it is not to be regarded as an
+offence. The chapter on General Exceptions operates in this province. Section 79
+makes an offence a non-offence. When? Only when the offending act is actually
+justified by law or is bona fide believed by mistake of fact to be so justified.15. It is easy
+to see that if the act complained of is wholly justified by law, it would not amount to an
+offence at all in view of the provisions of section 79 of the IPC, 1860. Many cases may
+however arise wherein acting under the provisions of the Police Act or other law
+conferring powers on the police, the police officer or some other person may go beyond
+what is strictly justified in law. Though section 79 of the IPC, 1860 will have no
+application to such cases, section 53 of the Police Act will apply. But section 53 applies
+to only a limited class of persons. So, it becomes the task of the Court, whenever any
+question whether this section applies or not arises to bestow particular care on its
+decision. In doing this it has to ascertain first, what act is complained of and then to
+examine, if there is any provision of the Police Act or other law conferring powers on
+the police, under which it may be said to have been done or intended to be done. The
+Court has to remember in this connection that an act is not "under" a provision of law
+merely because the point of time at which it is done coincides with the point of time
+when some act is done in the exercise of the powers granted by the provision or in
+performance of the duty imposed by it. To be able to say that an act is done "under" a
+provision of law, one must discover the existence of a reasonable relationship between
+the provisions and the act. In the absence of such a relation the act cannot be said to
+be done "under" the particular provision of law.16. But unless there is a reasonable
+connection between the act complained of and the powers and duties of the office, it
+cannot be said that the act was done by the accused officer under the colour of his
+office.17. In Bhanuprasad Hariprasad Dave's case,18. wherein the allegations against the
+police officer was of taking advantage of his position and attempting to coerce a
+person to give him a bribe. The plea of colour of duty was negatived by the Supreme
+Court. In Prof. Sumer Chand v UOI, 1994 (1) SCC 64 [LNIND 1993 SC 665] Supreme
+Court on facts endorsed the opinion of the High Court that the act of the Police Officer
+complained of fell within the description of `colour of duty'. The argument is irresistible
+that if the performance of the act which constitutes the offence is justified by law, i.e.,
+by some other provision, then section 79 exonerates the doer because the act ceases
+to be an offence. Likewise, if the act were done by one 'who by reason of a mistake of
+fact in good faith believes himself to be justified by law in doing it' then also, the
+exception operates and the bona fide belief, although mistaken, eliminates the
+culpability. If the offender can irrefutably establish that he is actually justified by law in
+doing the act or, alternatively, that he entertained a mistake of fact and in good faith
+believed that he was justified by law in committing the act, then, the weapon of section
+79 demolishes the prosecution.19.
+2. 'Mistake of fact'.—Under this section, although an act may not be justified by law, yet
+if it is done under a mistake of fact, in the belief in good faith that it is justified by law it
+will not be an offence. Such cases are not uncommon where the Courts in the facts
+and circumstances of the particular case have exonerated the accused under section
+79 on the ground of having acted in good faith under the belief, owing to a mistake of
+fact that he was justified in doing the act which constituted an offence. As laid down in
+section 52 of the IPC, 1860, nothing is said to be done or believed in good faith which is
+done or believed without due care and attention. The question of good faith must be
+considered with reference to the position of the accused and the circumstances under
+which he acted. 'Good faith' requires not logical infallibility but due care and attention.
+The question of good faith is always a question of fact to be determined in accordance
+with the proved facts and circumstances of each case.20.
+'Mistake' is not mere forgetfulness.21. It is a slip "made, not by design, but by
+mischance."22. Under sections 76 and 79 a mistake must be one of fact and not of law.
+At common law an honest and reasonable belief in the existence of circumstances,
+which, if true, would make the act for which a prisoner is indicted an innocent act has
+always been held to be a good defence. Honest and reasonable mistake stands in fact
+on the same footing as absence of the reasoning faculty, as in infancy, or perversion of
+that faculty, as in lunacy.23. It may be laid down as a general rule that an alleged
+offender is deemed to have acted under that state of facts which he in good faith and
+on reasonable grounds believed to exist when he did the act alleged to be an
+offence.24. Ignorantia facti doth excusat, for such ignorance many times makes the act
+itself morally involuntary.25. Where a man made a thrust with a sword at a place where,
+upon reasonable grounds, he supposed a burglar to be, and killed a person who was
+not a burglar, it was held that he had committed no offence.26. In other words, he was
+in the same situation as far as regards the homicide as if he had killed a burglar. The
+accused while guarding his maize field shot an arrow at a moving object in the bona
+fide belief that it was a bear and in the process caused the death of a man who was
+hiding there. It was held that he could not be held liable for murder as his case was
+fully covered by section 79 as well as section 80 IPC, 1860.27. Similarly, where the
+accused while helping the police stopped a cart which they in good faith believed to be
+carrying smuggled rice but ultimately their suspicion proved to be incorrect, it was held
+that they could not be prosecuted for wrongful restraint under section 341 as their case
+was covered by section 79 IPC, 1860.28. Section 79 makes an offence a non-offence.
+Thus, where the Board of Censors, acting within their jurisdiction and on an application
+made and pursued in good faith sanctions the public exhibition of a film, the producer
+and the connected agencies do enter the statutory harbour and are protected from
+prosecution under section 292 IPC, 1860, because section 79 of the Code exonerates
+them at least in view of their bona fide belief that the certificate is justificatory.29.
+3. 'Mistake of law'.—Mistake in point of law in a criminal case is no defence. Mistake of
+law ordinarily means mistake as to the existence or otherwise of any law on a relevant
+subject as well as mistake as to what the law is.30.
+Ignorance of the municipal law of the Kingdom, or of the penalty thereby inflicted upon
+offenders, doth not excuse any, that is of the age of discretion and compos mentis, from the
+penalty of the breach of it; because every person of the age of discretion and compos
+mentis is bound to know the law, and presumed so to do.31.
+If any individual should infringe the statute law of the country through ignorance or
+carelessness, he must abide by the consequences of his error; it is not competent to
+him to aver in a Court of Justice that he was ignorant of the law of the land, and no
+Court of Justice is at liberty to receive such a plea.32.
+The maxim ignorantia juris non excusat, in its application to criminal offences, admits of
+no exception, not even in the case of a foreigner who cannot reasonably be supposed
+in fact to know the law of the land.33. The legal presumption that everyone knows the
+law of the land is often untrue as a matter of fact. But then why such a presumption
+subsists? The reason for this seems to be nothing but expediency; otherwise there is
+no knowing of the extent to which the excuse of ignorance of law might be carried.
+Indeed, it might be urged almost in every case.34. This rule of expediency has been put
+to use even in a case where the accused could not have possibly known the law in the
+circumstances in which he was placed. Thus, a person who was on the high seas and
+as such could not have been cognizant of a recently passed law might be convicted for
+contravening it.35.
+Whenever the question of justification of an offence either due to mistake of fact or
+mistake of law arises, the guiding rules are: (1) that when an act is in itself plainly
+criminal, and is more severely punishable if certain circumstances co-exist, ignorance
+of the existence of such circumstances is no answer to a charge for the aggravated
+offence. (2) That where an act is prima facie innocent and proper, unless certain
+circumstances co-exist, then ignorance of such circumstances is an answer to the
+charge. (3) That the state of the defendant's mind must amount to absolute ignorance
+of the existence of the circumstance which alters the character of the act, or to a belief
+in its non-existence. (4) Where an act which is in itself wrong is, under certain
+circumstances, criminal, a person who does the wrong act cannot set up as a defence
+that he was ignorant of the facts which turned the wrong into a crime. (5) Where a
+statute makes it penal to do an act under certain circumstances, it is a question upon
+the wording and object of the particular statute, whether the responsibility of
+ascertaining that the circumstances exist is thrown upon the person who does the act
+or not. In the former case his knowledge is immaterial.36.
+[s 79.1] Ignorance of statute newly passed.—
+Although a person commits an act which is made an offence for the first time by a
+statute so recently passed as to render it impossible that any notice of the passing of
+the statute could have reached the place where the offence has been committed, yet
+his ignorance of the statute will not save him from punishment.37. For an Indian law to
+operate and be effective in the territory where it operates namely, the territory of India, it
+is not necessary that it should either be published, or be made known outside the
+country.38.
+[s 79.2] Act of State.—
+An act of State is an act injurious to the person or to the property of some person who
+is not at the time of that act a subject of the Government; which act is done by any
+representative of the Government's authority, civil or military, and is either previously
+sanctioned or subsequently ratified by the Government. The doctrine as to acts of State
+can apply only to acts which affect foreigners, and which are done by the orders or with
+the ratification of the Government. As between the State and its subjects there can be
+no such thing as an act of State. Courts of law are established for the express purpose
+of limiting public authority in its conduct towards individuals.
+Persons carrying out an act of State under proper orders will be protected by the Penal
+Code, in the same way as if they were carrying out a lawful order under the municipal
+law. To support a plea of this nature two things are essential:—
+(1) that the defendant had authority to act on behalf of the State in the matter; and
+(2) that in so acting, he was professing to act as a matter of policy, outside the law,
+and not as a matter of right within the law.
+[s 79.3] Protection of private persons.—
+Private persons acting under sections 38, 43, 72 and 73 of the Cr PC, 1973 will be
+protected under this section.
+[s 79.4] Fake Encounters. —
+Unprovoked firing by appellants who were police officials caused death of two persons
+and grievous gun-shot injuries to another person. Seven police officers admitted firing
+into the vehicle. But the defence case was that they had done so only on the direction
+of ACP, a superior officer. The Supreme Court held that it cannot, by any stretch of
+imagination, be claimed by anybody that a case of murder would fall within the
+expression 'colour of duty'.39.
+[s 79.5] CASES.—Mistake of fact.—
+Good Defence.—Where an accused owing to a defect in his vision and the effect of a
+fall bona fide believed that his son of whom he was very fond was a tiger and caused
+fatal injuries to him with an axe in a moment of delusion, he was protected under this
+section, and his act being done under a bona fide mistake, he could not be convicted of
+an offence of murder.40. Once the Board of Censors, acting within their jurisdiction and
+on an application made and pursued in good faith, sanctions the public exhibition of a
+film, the producer and connected agencies enter the statutory harbour and are
+protected because section 79 exonerates them in view of the bona fide belief that the
+certificate is justificatory.41.
+[s 79.6] English case.—
+The accused was convicted of bigamy, having gone through the ceremony of marriage
+within seven years after she had been deserted by her husband. She believed in good
+faith and on reasonable grounds that her husband was dead. It was held that a bona
+fide belief on reasonable grounds in the death of the husband at the time of the second
+marriage afforded a good defence to the indictment, and that the conviction was
+wrong.42. Where the question was whether the accused was to be held liable for
+injuring a person whom he thought was belabouring another when in fact he was only
+trying to immobilise a person who had attempted to rob a woman, the Court said that if
+W was labouring under a mistake of fact as to the circumstances when he committed
+the alleged offence, he was to be judged according to his mistaken view of the facts
+regardless of whether his mistake was reasonable or unreasonable. The
+reasonableness or otherwise of the belief was only material to the question of whether
+the belief was in fact held by the defendant at all.43.
+[s 79.7] Bad defence.—
+Deceased attempted to steal coconut from the garden of which accused was a
+watchman. Accused contended that, he while discharging his duties as a watchman in
+good faith and under mistake of fact inflicted an injury which unfortunately resulted in
+the death of the victim. Explaining the applicability of section 79, Supreme Court held
+that there was no mistake of fact which could even if existed or found true could
+warrant or justify in law, the imposition of such a serious injury as found inflicted on the
+victim.44. A police-officer saw a horse tied up in B's premises and because it happened
+to resemble one which his father had lost a short time previously, he jumped at once to
+the conclusion that B had either stolen the horse himself, or purchased it from the thief,
+and compelled B to account for his possession. The officer found that B had bought
+the animal from one S; so he sent for S, charged him with the theft, and compelled him
+to give bail whilst an investigation was pending. The officer never sent for the
+supposed owner of the horse, or took the trouble of getting any credible information as
+to whether it was his father's horse or not. It was held that the police-officer had not
+acted in good faith, that is, with due care and attention and that this section did not
+protect him.45. The accused struck a person with a full force lathi blow thinking that he
+was a thief and he had to do so to safeguard his property. The incident took place
+outside the house near a pond. The place was away from the house. There being no
+occasion for private defence of property and the blow being given on the head with
+severity, it was held that the accused was liable to be convicted under section 304 Part
+II. He was sentenced to three years RI.46.
+[s 79.8] English case.—
+The accused took an unmarried girl under the age of 16 years out of the possession,
+and against the will, of her father. The defence of the accused was that he was bona
+fide and reasonably believed that the girl was older than 16. It was held that the taking
+of the girl was unlawful the defence was bad.47. This case may be distinguished from
+Tolson's case, in which a woman married believing her husband to be dead. There the
+conduct of the woman was not in the smallest degree immoral, but was, on the other
+hand, perfectly natural and legitimate.
+1. Shankar Narayan Bhadolkar v State of Maharashtra, AIR 2004 SC 1966 [LNIND 2004 SC 1370] :
+2004 Cr LJ 1778 : (2005) 9 SCC 71 [LNIND 2004 SC 1370] .
+2. The Indian Evidence Act, I of 1872, section 105.
+3. Musammat Anandi, (1923) 45 All 329 ; Babulal, 1960 Cr LJ 437 (All).
+4. A K Chaudhary v State of Gujarat, 2006 Cr LJ 726 (Guj).
+5. A K Chaudhary v State of Gujarat, 2006 Cr LJ 726 (Guj).
+14. 1st Rep. section 114, p 219.
+15. Raj Kapoor v Laxman, AIR 1980 SC 605 [LNIND 1979 SC 492] : (1980) 2 SCC 175 [LNIND
+1979 SC 492] : 1980 (2) SCR 512 [LNIND 1979 SC 492] : 1980 Cr LJ 436 ; Jayantilal K Katakia v P
+Govindan Nair, AIR 1981 SC 1196 : (1981) 2 SCC 423 .
+16. State of AP v N Venugopal, AIR 1964 SC 33 [LNIND 1963 SC 159] .
+17. State of Maharashtra v Narhar Rao, AIR 1966 SC 1783 [LNIND 1966 SC 85] ; State of
+Maharashtra v Atma Ram, AIR 1966 SC 1786 [LNIND 1978 SC 193] .
+18. Bhanuprasad Hariprasad Dave v State of Gujarat, AIR 1968 SC 1323 [LNIND 1968 SC 119] .
+19. Raj Kapoor v Laxman, AIR 1980 SC 605 [LNIND 1979 SC 492] : (1980) 2 SCC 175 [LNIND
+1979 SC 492] : 1980 (2) SCR 512 [LNIND 1979 SC 492] : 1980 Cr LJ 436 .
+20. State of Orissa v Bhagaban Barik, AIR 1987 SC 1265 [LNIND 1987 SC 366] : (1987) 2 SCC
+498 [LNIND 1987 SC 366] .
+21. Per Lord Esher, MR, in Barrow v Isaacs, (1891) 1 QB 417 , 420.
+22. Per Lord Russell, CJ, in Sandford v Beal, (1899) 65 LJQB 73 , 74, 73 LT 406.
+23. Per Cave, J, in Tolson, (1889) 23 QBD 168 , 181.
+24. Per Stephen, J, in Ibid., p 188.
+25. 1 Hale PC pp 42, 43.
+26. Levett, (1839) Cro Car 538.
+27. State of Orissa v Khora Ghasi, 1978 Cr LJ 1305 (Ori).
+28. Keso Sahu v Saligram, 1977 Cr LJ 1725 (Ori).
+29. Rajkapoor v Laxman, 1980 Cr LJ 436 : AIR 1980 SC 605 [LNIND 1979 SC 492] .
+30. Tustipada Mandal, (1950) Cut 75.
+31. 1 Hale PC 42.
+32. Fischer, (1891) 14 Mad 342, 354, FB.
+33. Esop, (1836) 7 C & P 456.
+34. Bilbie v Lumley, (1802) 2 East 469.
+35. Bailey v Bailey, (1800) Russ & Ry 1; C & J cases, see also State of Maharashtra v MH George,
+1965 (1) Cr LJ 641 : AIR 1965 SC 722 [LNIND 1964 SC 208] .
+36. Tustipada Mandal, (1950) Cut. 75.
+37. Bailey's Case, (1800) Russ. & Ry 1.
+38. Mayer Hans George, (1964) 67 Bom LR, 583 : AIR 1965 SC 722 [LNIND 1964 SC 208] : (1965)
+1 Cr LJ 641 .
+39. Satyavir Singh Rathi v State Thr. CBI, AIR 2011 SC 1748 [LNIND 2011 SC 475] : (2011) 6 SCC
+1 [LNIND 2011 SC 475] : 2011 Cr LJ 2908 : (2011) 2 SCC(Cr) 782 : (2011) 6 SCR 138 [LNIND
+2011 SC 475] .
+40. Chirangi, (1952) Nag 348.
+41. Raj Kapoor v Laxman, AIR 1980 SC 605 [LNIND 1979 SC 492] : (1980) 2 SCC 175 [LNIND
+1979 SC 492] : 1980 (2) SCR 512 [LNIND 1979 SC 492] : 1980 Cr LJ 436 .
+42. Tolson, (1889) 23 QBD 168 .
+43. R. v Williams, (1987) 3 All ER 411 Ch, following dictum of LAWTON LJ in R. v Kimber, (1983)
+1 All ER 320 . See also Beckford v R, (1987) 3 All ER 425 PC, where the same test was applied in
+a situation in which a person acted in self defence under a mistaken, but honestly held belief,
+that the person whom he shot dead was a dangerous gunman.
+44. Pitchai v State, (2004) 13 SCC 579 : (2006) 1 SCC(Cr) 505 See also Nagraj v State of Mysore,
+AIR 1964 SC 269 [LNIND 1963 SC 153] : 1964 (3) SCR 671 [LNIND 1963 SC 153] : 1964 Cr LJ
+161 .
+45. Sheo Surun Sahai v. Mohomed Fazil Khan, (1868) 10 WR (Cr) 20.
+46. State of Orissa v Bhagbhan Barik, (1987) 2 SCC 498 [LNIND 1987 SC 366] : AIR 1987 SC
+1265 [LNIND 1987 SC 366] : 1987 Cr LJ 1115 . The Court relied on Russel On Crimes, 76 (vol 1).
+47. Prince, (1875) LR 2 CCR 154.

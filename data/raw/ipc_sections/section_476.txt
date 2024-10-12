@@ -1,0 +1,192 @@
+Punishment for forgery.
+Whoever commits forgery shall be punished with imprisonment of either description
+for a term which may extend to two years, or with fine, or with both.
+COMMENT.—
+The offence of forgery is defined in sections 463 and 464 of the Code. Under section
+463 the making of a false document with any of the intents therein mentioned is
+forgery, and section 464 sets forth when a person is said to make a 'false document'
+within the meaning of the Code.
+The definition of forgery in the Code is not as simple and clear as the definition of
+forgery in common law. Forgery in common law is defined as the fraudulent making or
+alteration of a writing to the prejudice of another man's right.
+[s 465.1] Ingredients.—
+The elements of forgery are—
+1. The making of a false document or part of it.
+2. Such making should be with the intent
+(a) to cause damage or injury to (i) public, or (ii) any person; or
+(b) to support any claim or title; or
+(c) to cause any person to part with property; or
+(d) to cause any person to enter into express or implied contract; or
+(e) to commit fraud or that fraud may be committed.
+1. 'Makes any false document'.— A school inspector prepared under his own signature
+false pay bills containing false claims for salaries of teachers who had not worked
+within his jurisdiction, some of whom being purely fictitious, and encashed them from
+the treasury. He was held to be guilty of making a false document but not of forgery
+because he had not made the signature or writing of another, nor had altered the pay
+bills.18.
+The antedating of a document is not forgery, unless it has or could have operated to the
+prejudice of some one.19. Incorporation or inclusion of a false statement in a document
+would not ipso facto make the document false. For a document to be false, it has to tell
+a lie about itself.20.
+[s 465.2] Publication of book.—
+There was allegation that the accused person, in order to induce the public to purchase
+the book, falsely represented that the book was by a certain person. There was no
+allegation that the accused himself had written the book and represented it to be that
+of some other person. The Court said such allegations, even if true, do not make out a
+case of forgery. The offence of cheating could not also be said to have been made out
+because it was a consequential offence.21.
+Where the allegation was that the accused, who was working as a stenographer in the
+High Court, had fabricated a forged bail order and the evidence showed that the bail
+order in question was in fact written by the accused, the finding of the High Court that
+the paper could not be said to be a document in the absence of signature of the
+accused was held to be not tenable. The document could have been used for causing
+wrongful loss or obtaining wrongful gain. Hence, the offence under sections 466 and
+468 was made out.22.
+2. 'To cause damage or injury to the public or to any person'.—The damage or injury
+must be intended to be caused by the false document to the public or any individual.23.
+Thus, a police-officer who alters his diary so as to show that he had not kept certain
+persons under surveillance does not commit forgery, inasmuch as there is no risk of
+loss or injury to any individual and the element of fraud as defined in section 25 is
+absent.24. It is the intent to cause damage or injury which constitutes the gist of this
+offence. It is immaterial whether damage, injury or fraud is actually caused or not.25.
+Mere making of a false document would not constitute defrauding unless injury or
+intent to cause injury to the person deceived was also proved.26.
+To tamper with a proceeding in a Court of Justice in order to obtain from the Court a
+decision or order, which it otherwise would not make, is as much a public mischief as
+to attempt to secure the unauthorised release of a prisoner from jail or to obtain for an
+unqualified person credentials entitling him to practise as a surgeon or to navigate a
+ship.27.
+3. 'Support any claim or title'.—Even if a man has a legal claim or title to property, he
+will be guilty of forgery if he counterfeits documents in order to support it. See
+illustrations (f), (g), (h) and (i). An actual intention to convert an illegal or doubtful claim
+into an apparently legal one is dishonesty and will amount to forgery.28.
+The term 'claim' is not limited in its application to a claim to property. It may be a claim
+to anything, as for instance, a claim to a woman as the claimant's wife, a claim to the
+custody of a child as being the claimant's child, or a claim to be admitted to attendance
+at a law class in a college, or to be admitted to a university or other examination, or a
+claim to the possession of immovable or any other kind of property.29.
+4. 'To cause any person to part with property'.—It is not necessary that the property
+with which it is intended that false document shall cause a person to part should be in
+existence at the time when the false document was made. For example, if A gave an
+order to B to buy the material for making and to make a silver tea service for him, and
+C, before the tea service was made or the materials for making it had been bought
+were to make a false letter purporting, but falsely, to be signed by A, authorizing B to
+deliver to D the tea service when made, C would have committed forgery within the
+meaning of section 463 by making that false document with intent to cause B to part
+with property, namely, the tea service, when made.30. A written certificate has been
+held to be 'property' within the meaning of this section.31.
+5. 'Intent to commit fraud'.—The Supreme Court had held that the expression "defraud"
+involves two elements, namely, deceit and injury to the person deceived. Injury is
+something other than economic loss that is deprivation of property, whether movable
+or immovable, or of money, and it will include any harm whatever caused to any person
+in body, mind, reputation or such others. In short, it is a non-economic or non-pecuniary
+loss. A benefit or advantage to the deceiver will almost always cause loss or detriment
+to the deceived. Even in those rare cases where there is a benefit or advantage to the
+deceiver, but no corresponding loss to the deceived the second condition is
+satisfied.32.
+6. 'Fraudulently'.—This word is used in sections 471 and 464 together with the word
+'dishonestly' and presumably in a sense not covered by the latter word. If, however, it be
+held that 'fraudulently' implies deprivation, either actual or intended, then apparently
+that word would perform no function which would not have been fully discharged by
+the word 'dishonestly' and its use would be mere surplusage. So far as such a
+consideration carries any weight, it obviously inclines in favour of the view that the
+word 'fraudulently' should not be confined to transactions of which deprivation of
+property forms a part.33.
+7. 'Makes'.—"The 'making of a document, or part of a document, does not mean
+'writing' or 'printing' it, but signing or otherwise executing it; as in legal phrase we speak
+of 'making an indenture' or 'making a promissory note', by which is not meant the
+writing out of the form of the instrument, but the sealing or signing it as a deed or note.
+The fact that the word 'makes' is used in the section in conjunction with the words
+'signs', 'seals' or 'executes', or 'makes any mark denoting the execution', etc., seems to
+very clearly to denote that this is its true meaning. What constitutes a false document
+or part of a document is not the writing of any number of words which in themselves
+are innocent, but affixing the seal or signature of some person to the document, or part
+of a document, knowing that the seal or signature is not his, and that he gave no
+authority to affix it. In other words, the falsity consists in the document, or part of a
+document, being signed or sealed with the name or seal of a person who did not in fact
+sign or seal it".34.
+[s 465.3] Fabricating letter or certificate.—
+In a case, the allegation was that the accused made false document for getting sim
+cards of mobile phones. Handwriting expert deposed that he was not in a position to
+give any finding on basis of specimen signature of appellant. It was held that since
+finding recorded by Special Judge was contrary to evidence given by handwriting
+expert, conviction of appellant for offence punishable under section 465 read with
+section 471 of IPC, 1860, could not be sustained.35. Where accused was alleged to
+have obtained employment on strength of forged document, finding that accused had
+not been proved to have forged the documents, it was held that offence under section
+465 is not made out.36.
+[s 465.4] Creation of a website by the company—
+Where the appellant created a website with the name Devi Consultancy Services for the
+development of the existing company named Devi Polymers Private Limited, in the
+absence of any possibility to impute any intent to cause damage or injury or to enter
+into any express or implied contract or any intent to commit fraud in the making of the
+said website, no offence of forgery is made out, especially when he has not received a
+single rupee or nor has he entered into any contract in his own name on the basis of
+the above website.37.
+[s 465.5] Acting for society after takeover.—
+Where the entire management of a society was taken over by the petitioners and they
+were looking after its affairs by writing letters, drawing cheques and operating bank
+accounts by signing their names on behalf of the society and not on anybody else's
+names or behalf, the offence of forgery/making false document was not made out.38.
+[s 465.6] Alteration of document.—
+The mere alteration of a document does not make it a forged document. The alteration
+must be for some gain or for some objective. The Court said that presuming that figure
+"1" was added to the date mentioned on the document, it could not be said that the
+document became false. The accused had nothing to gain from it, nor it affected the
+period of limitation.39.
+[s 465.7] Clause second.—Alteration on or cancellation of document [Section
+464].—
+This clause requires dishonest or fraudulent cancellation or alteration of a document in
+any material part without lawful authority after it has been made or executed by a
+person who may be living or dead.
+The conduct of an Advocate's clerk in forging the signature of another Advocate on a
+surety bond and in altering certain endorsements for the purposes of identification and
+attestation, was held by the Supreme Court as amounting to an offence under this
+section and not under section 468.40.
+[s 465.8] Sentence.—
+Accused employed as a sanitation supervisor was found to have committed offence of
+making fake trade licences and issuing them to various persons. Court below convicted
+him for one year under section 471 read with section 465 IPC, 1860, and two years'
+simple imprisonment (SI) under section 468, IPC imposed upon him. Considering the
+fact that he was a first offender and an orphan and sole bread earner of his family
+which consisted of a minor child and an unemployed wife, the sentence under section
+471 read with section 465 IPC, 1860 was reduced to one month and the sentence
+under section 468 IPC, 1860 was reduced to two months.41.
+18. Shankerlal Vishwakarma v State of MP, 1991 Cr LJ 2808 (MP).
+19. Gobind Singh, (1926) 5 Pat 573.
+20. AK Khosla v TS Venkatesan, 1994 Cr LJ 1448 (Cal); Lee Cheung Wing v R, 1992 Cr App R 355
+(PC), falsification of a withdrawal slip to enable the withdrawal of money, offence; Premlata v
+State of Rajasthan, 1998 Cr LJ 1430 (Raj); Manilal v State of Kerala, 1998 Cr LJ 785 (Ker). See
+also Joginder Lal v State (Delhi Admn.), 1998 Cr LJ 3175 (Del); Mohandas v State of TN, 1998 Cr
+LJ 3409 (Mad); Bharat Hiralal v Jaysiri Amarsinh, 1997 Cr LJ 2509 (Bom), forgery of a document
+is possible even if the accused himself is the author and signatory of the document. A case of a
+false bill, magistrate justified in taking cognizance.
+21. Guru Bipin Singh v Chongtham Manihar Singh, AIR 1997 SC 1448 [LNIND 1996 SC 1690] :
+1997 Cr LJ 724 .
+22. State of UP v Ranjit Singh, AIR 1999 SC 1201 : 1999 Cr LJ 1830 .
+23. RR Diwakar v B Guttal, 1975 Cr LJ 90 (Kant).
+24. Sanjiv Ratnappa, (1932) 34 Bom LR 1090 : 56 Bom 488.
+25. Kalyanmal, (1937) Nag 45.
+26. Sadanand, 1977 Cr LJ NOC 103 (Goa); Tul Mohon Ram, 1981 Cr LJ NOC 223 (Del); see also
+Harnam Singh, 1976 Cr LJ 913 (SC), as in 'Comments' under section 477A infra. TN Rugmani v C.
+Achutha Menon, AIR 1991 SC 983 [LNIND 1990 SC 803] , application for permission for
+construction made in another's name, but without any intention of causing harm, no offence
+under the section.
+27. Mahesh Chandra Prasad v State, (1943) 22 Pat 292.
+28. Ibid.
+29. Soshi Bhushan, (1893) 15 All 210 , 217.
+30. Soshi Bhushan, (1893) 15 All 210 , 217, 218.
+31. Ibid, p 218.
+32. Dr. Vimla, (1963) 2 Cr LJ 434 .
+33. Abbas Ali, (1896) 25 Cal 512 , 521, FB overruling Haradhan, (1892) 19 Cal 380 .
+34. Per Garth CJ in Riasat Ali, (1881) 7 Cal 352 , 355.
+35. Nazeem Ahmed Wahid Ahmed Khanl v State of Maharashtra, 2011 Cr LJ 1786 (Bom).
+36. Rupa Bania v State of Assam, 2006 Cr LJ 3455 (Gau).
+37. Ramesh Rajagopal v Devi Polymers Pvt Ltd, AIR 2016 SC 1920 [LNIND 2016 SC 170] :
+2016(4) Scale 198 [LNIND 2016 SC 170] .
+38. PN Parthasarthy v GK Srinivasa Rao, 1995 Cr LJ 3406 (Kant).
+39. Parminder Kaur v State of UP, 2010 Cr LJ 895 : AIR 2010 SC 840 [LNIND 2009 SC 1924] :
+(2010) 1 SCC 322 [LNIND 2009 SC 1924] .
+40. Sharvan Kumar v State of UP, AIR 1985 SC 1663 [LNIND 1985 SC 231] : (1985) 3 SCC 658
+[LNIND 1985 SC 231] , reducing the sentence to nine months, already undergone.
+41. Tashi Dadul Bhutia v State of Sikkim, 2011 Cr LJ 1315 (Sik).

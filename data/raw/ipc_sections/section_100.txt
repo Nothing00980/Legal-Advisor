@@ -1,0 +1,73 @@
+Act done in good faith for benefit of a person without consent.
+Nothing is an offence by reason of any harm which it may cause to a person for whose
+benefit it is done in good faith, even without that person's consent, if the
+circumstances are such that it is impossible for that person to signify consent, or if
+that person is incapable of giving consent, and has no guardian or other person in
+lawful charge of him from whom it is possible to obtain consent in time for the thing
+to be done with benefit: Provided—
+Provisos.
+First.—That this exception shall not extend to the intentional causing of death, or
+the attempting to cause death;
+Secondly.—That this exception shall not extend to the doing of anything which the
+person doing it knows to be likely to cause death, for any purpose other than the
+preventing of death or grievous hurt, or the curing of any grievous disease or
+infirmity;
+Thirdly.—That this exception shall not extend to the voluntary causing of hurt, or
+to the attempting to cause hurt, for any purpose other than the preventing of
+death or hurt;
+Fourthly.—That this exception shall not extend to the abetment of any offence, to
+the committing of which offence it would not extend.
+ILLUSTRATIONS
+(a) Z is thrown from his horse, and is insensible. A, a surgeon, finds that Z
+requires to be trepanned. A, not intending Z's death, but in good faith, for Z's
+benefit, performs the trepan before Z recovers his power of judging for
+himself. A has committed no offence.
+(b) Z is carried off by a tiger. A fires at the tiger knowing it to be likely that the
+shot may kill Z, but not intending to kill Z, and in good faith intending Z's
+benefit. A's ball gives Z a mortal wound. A has committed no offence.
+(c) A, a surgeon, sees a child suffer an accident which is likely to prove fatal
+unless an operation be immediately performed. There is no time to apply to
+the child's guardian. A performs the operation in spite of the entreaties of
+the child, intending, in good faith, the child's benefit. A has committed no
+offence.
+(d) A is in a house which is on fire, with Z, a child. People below hold out a
+blanket. A drops the child from the house-top, knowing it to be likely that the
+fall may kill the child, but not intending to kill the child, and intending, in
+good faith, the child's benefit. Here, even if the child is killed by the fall, A
+has committed no offence.
+Explanation.—Mere pecuniary benefit is not benefit within the meaning of
+sections 88, 89 and 92.
+COMMENT.—
+Acts done in good faith.—This section is designed to meet those cases which do not
+come either under section 88 or under section 89. The principal object of sections 88,
+89 and 92 is protection of medical practitioners. Illustrations (a) and (b) exemplify
+cases in which it is impossible to give consent; illustrations (c) and (d), where legal
+capacity to consent is wanting.
+The author of the Code observes:
+There yet remains a kindred class of cases which are by no means of rare occurrence. For
+example, a person falls down in an apoplectic fit. Bleeding alone can save him, and he is
+unable to signify his consent to be bled. The surgeon who bleeds him commits an act falling
+under the definition of an offence. The surgeon is not the patient's guardian, and has no
+authority from any such guardian, yet it is evident that the surgeon ought not to be
+punished. Again, a house is on fire. A person snatches up a child too young to understand
+the danger, and flings it from the house-top, with a faint hope that it may be caught on a
+blanket below, but with the knowledge that it is highly probable that it will be dashed to
+pieces. Here, though the child may be killed by the fall though the person who threw it down
+knew that it would very probably be killed, and though he was not the child's parent or
+guardian, he ought not to be punished.
+In these examples there is what may be called a temporary guardianship justified by the
+exigency of the case and by the humanity of the motive. This temporary guardianship bears
+a considerable analogy to that temporary magistracy with which the law invests every
+person who is present when a great crime is committed, or when the public peace is
+concerned. To acts done in the exercise of this temporary guardianship, we extend by
+clause 72 a protection very similar to that which we have given to the acts of regular
+guardians.244.
+This section speaks of 'hurt', whereas section 89 speaks of 'grievous hurt', otherwise
+the terminology of both the sections is almost identical.
+1. Shankar Narayan Bhadolkar v State of Maharashtra, AIR 2004 SC 1966 [LNIND 2004 SC 1370] :
+2004 Cr LJ 1778 : (2005) 9 SCC 71 [LNIND 2004 SC 1370] .
+2. The Indian Evidence Act, I of 1872, section 105.
+3. Musammat Anandi, (1923) 45 All 329 ; Babulal, 1960 Cr LJ 437 (All).
+4. A K Chaudhary v State of Gujarat, 2006 Cr LJ 726 (Guj).
+5. A K Chaudhary v State of Gujarat, 2006 Cr LJ 726 (Guj).
+244. The Works of Lord Macaulay- 'On the Chapter of General Exceptions', Note B.

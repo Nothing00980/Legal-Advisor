@@ -1,0 +1,383 @@
+Punishment.
+Whoever is a member of an unlawful assembly, shall be punished with imprisonment
+of either description for a term which may extend to six months, or with fine, or with
+both.
+COMMENT—
+Unlawful assembly.—An 'assembly' is a company of persons assembled together in a
+place, usually for a common purpose. Court is concerned with an 'unlawful assembly'.
+Wherever five or more persons commit a crime with a common object and intent, then
+each of them would be liable for commission of such offence, in terms of sections 141
+and 149, Indian Penal Code, 1860 (IPC, 1860). It is not possible to define the
+constituents or dimensions of an offence under section 149 simpliciter with regard to
+dictionary meaning of the words 'unlawful assembly' or 'assembly'.2. An assembly of
+five or more persons having as its common object any of the five objects enumerated
+under section 1 41 of IPC is deemed to be an unlawful assembly. Membership of an
+unlawful assembly is itself an offence punishable under section.143, whereas other
+species of the said offence are dealt with under section 143–145 of IPC. Similarly,
+sections 146–148 of IPC deals with the offence of rioting which is defined to be use of
+force or violence by any member thereof. Section 149 makes every member of an
+unlawful assembly liable for offence that may be committed by any member of the
+unlawful assembly in prosecution of the common object of that assembly or for
+commission of any offence that the members of the assembly knew to be likely to be
+committed in prosecution of the common object of the assembly.3. To bring a case
+within section 149 of IPC some essential features must be present. First, there must be
+an existence of an unlawful assembly within the meaning of section 141 of IPC. This is
+a mixed question of fact and law.4.
+The underlying principle of section 141 is that law discourages tumultuous assemblage
+of men to preserve the public peace. Section 141 defines what an 'unlawful assembly'
+is. Section 142 gives the connotations of 'a member of an unlawful assembly'. Section
+143 punishes tumultuous assemblies as they endanger public peace. It does not
+require that the purpose of the unlawful assembly should have been fulfilled.
+The essence of an offence under this section is the combination of five or more
+persons, united in the purpose of committing a criminal offence, and the consensus of
+purpose is itself an offence distinct from the criminal offence which these persons
+agree and intend to commit.5. Unlike the Indian law contained in section 141, IPC, 1860,
+an unlawful assembly at common law need to have only three or more persons who
+must assemble together for the common purpose of committing an offence involving
+use of violence, or for achieving a lawful or unlawful object in such a manner so as to
+lead to a reasonable apprehension of a breach of peace as a direct result of their
+conduct.6. Thus, under section 141, IPC, especially under sub-section (3) thereof, use of
+violence or likelihood of breach of the peace is not at all a sine qua non for an offence
+of unlawful assembly but this is so under the common law. So under the common law,
+even if the purpose of the assembly is unlawful, the offence of being an unlawful
+assembly would not be committed if there is no likelihood of breach of the peace and
+this would be so even if the unlawful common purpose is carried out.
+[s 143.1] Ingredients.—
+An 'unlawful assembly' is an assembly of five or more persons if their common object
+is—
+1. to overawe by criminal force
+(a) the Central Government, or
+(b) the State Government, or
+(c) the Legislature, or
+(d) any public servant in the exercise of lawful power;
+2. to resist the execution of law or legal process;
+3. to commit mischief, criminal trespass, or any other offence;
+4. by criminal force—
+(a) to take or obtain possession of any property, or
+(b) to deprive any person of any incorporeal right, or
+(c) to enforce any right or supposed right;
+5. by criminal force to compel any person—
+(a) to do what he is not legally bound to do, or
+(b) to omit what he is legally entitled to do.
+1. 'Five or more'.— The Constitution Bench in Mohan Singh's case7. held that it is only
+where five or more persons constituted an assembly that an unlawful assembly is born,
+provided, of course, the other requirements of the said section as to the common
+object of the persons composing that assembly are satisfied. In other words, it is an
+essential condition of an unlawful assembly that its membership must be five or more.
+The Supreme Court has endorsed the view that the number of injuries caused and the
+number of persons who were inflicted with those injuries, (in this case, three persons
+were attacked and they sustained 13, 12 and 7 injuries respectively) can give a clue to
+the fact that more than three persons must necessarily have participated in the
+attack.8.
+[s 143.2] Effect of acquittal of some accused:
+In Mohan Singh v State of Punjab,9. the Supreme Court considered the question of
+acquittal of two of the accused charged for the offence under section 302 read with
+section 149, on the conviction of the remaining three accused. If five or more persons
+are named in the charge as forming an unlawful assembly and the evidence adduced
+by the prosecution proves that charge against all of them that is a very clear case
+where section 149 could be invoked. "It is however not necessary that five or more
+persons must be convicted before a charge under section 149 could be successfully
+brought home to any members of the unlawful assembly. It may be that less than five
+persons may be charged and convicted under section 302 read with section 149, if the
+charge is that persons before the court along with others named, constituted an
+unlawful assembly. Other persons so named may not be available for trial along with
+their companions for the reason that they have absconded. In such a case, the fact that
+less than five persons are before the court does not make section 149 inapplicable.
+Therefore, in order to bring home a charge under section 149, it is not necessary that
+five or more persons must necessarily be brought before the court and convicted …" In
+view of the decision of the Constitution Bench in Mohan Singh's case,10. even after
+acquittal of the two accused from all the charges levelled against them, if there is any
+material that they were members of the unlawful assembly, the conviction under
+section 302 can be based with the aid of section 149.11.
+Where two of the six accused persons were acquitted without any finding that some
+other known or unknown persons also were involved in the assault, the remaining four
+accused persons could not be said to be members of an unlawful assembly.12. Where
+a group of persons, differently armed, assaulted a man with the common object of
+killing him and all the assailants accused except one were acquitted, it was held that
+the remaining sole accused could not be convicted and sentenced under section 302
+with the aid of section 149. The court cannot carve out a new case.13. If out of an
+unlawful assembly consisting of seven named persons four are acquitted, the other
+three cannot be convicted of rioting as members of an unlawful assembly.14. They may,
+however, be convicted of the principal offence with the aid of section 34, IPC, 1860.15.
+Where presence of eight persons in the course of assault was established, four of them
+were given benefit of doubt but there was no finding anywhere to the effect that only
+four persons had taken part in the assault, conviction of the remaining four on the
+charge of forming unlawful assembly was not illegal.16.
+2. 'Common object'.— The common object of an unlawful assembly depends firstly on
+whether such object can be classified as one of those described in section 141;
+secondly, such common object need not be the product of prior concert but may form
+on spur of the moment, finally, nature of such common object is a question of fact to
+be determined by considering the nature of arms, nature of assembly, behaviour of
+members, etc.17. Mere presence in an assembly does not make a person a member of
+an unlawful assembly unless it is shown that he had done something or omitted to do
+something which would make him a member of the unlawful assembly or unless the
+case falls under section 142.18. Thus, merely because some persons assembled, all of
+them cannot be condemned 'ipso facto' as being members of that unlawful
+assembly.19. At the same time it cannot be laid down as a general proposition of law
+that unless an overt act is proved against a person, who is alleged to be a member of
+unlawful assembly, it cannot be said that he is a member of an assembly. The only
+thing required is that he should have understood that the assembly was unlawful and
+was likely to commit any of the acts which fall within the purview of section 141.20.
+Further the prosecution has to prove that the commission of the offence was by any
+member of an unlawful assembly and such offence must have been committed in
+prosecution of the common object of the unlawful assembly or such that the members
+of the assembly knew that it was likely to be committed.21. The word 'object' means the
+purpose or design and, in order to make it 'common', it must be shared by all. In other
+words, the object should be common to the persons, who compose the assembly, that
+is to say, they should all be aware of it and concur in it. A common object may be
+formed by express agreement after mutual consultation, but that is by no means
+necessary. It may be formed at any stage by all or a few members of the assembly and
+the other members may just join and adopt it. Once formed, it need not continue to be
+the same. It may be modified or altered or abandoned at any stage.22.
+Section 142 postulates that whoever, being aware of facts which render any assembly
+an unlawful one, intentionally joins the same would be a member thereof. Whether an
+assembly is unlawful one or not, would depend on various factors, the principal
+amongst them being a common object formed by the members thereof to commit an
+offence specified in one or the other clauses contained in section 141.23. In a free fight
+between two groups resulting in death of one person and injuries to several others on
+both the sides, it was held that the formation of an unlawful assembly was not
+impossible but the common object of such an assembly cannot be determined on the
+basis of serious injury by one of them.24. The accused along with about six–eight
+others forcibly entered into the office of a union leader and assaulted him but the victim
+did not receive any serious injury inside the union office and managed to escape. Later
+on in the open space some members of the crowd surrounded and attacked him and
+dealt fatal blows. It was held that the accused who entered the union office did not
+share the common object of committing murder of the deceased. They were convicted
+under sections 326/149.25. Where the accused forming an unlawful assembly
+assaulted the deceased but the injury caused by only one accused proved to be fatal
+and the injuries caused by the others were found to be simple, it was held that the
+common object of the unlawful assembly was only to cause grievous hurt and only the
+accused who caused fatal injury was liable to be convicted for murder and others
+under section 326/149.26.
+The Supreme Court observed on the facts of a case that given the circumstances in
+which the assembly came together and given that all parties were aware that among
+them, certain members carried weapons like guns and spear, even if it was held that
+common object of assembly was not to cause death, it would not be an unreasonable
+inference that all accused knew that the offence of culpable homicide was likely to be
+committed in prosecution of such an armed assault on another group which was not
+prepared to withstand such an attack, bringing about application of second portion of
+section 149. Therefore, it was held, that any of the accused found to have participated
+in the assault should be held guilty under section 141 and 149.27.
+[s 143.3] Determination of Common object:
+Determination of the common object of an unlawful assembly or the determination of
+the question whether a member of the unlawful assembly knew that the offence that
+was committed was likely to be committed is essentially a question of fact that has to
+be made keeping in view the nature of the assembly, the arms carried by the members
+and the behaviour of the members at or near the scene and a host of similar or
+connected facts and circumstances that cannot be entrapped by any attempt at an
+exhaustive enumeration.28. It is difficult indeed, though not impossible, to collect direct
+evidence of such knowledge. An inference may be drawn from circumstances such as
+the background of the incident, the motive, the nature of the assembly, the nature of the
+arms carried by the members of the assembly, their common object and the behaviour
+of the members soon before, at or after the actual commission of the crime.29.
+[s 143.4] Second clause—Resisting Law or Legal Process.—
+Resistance to some law, or legal process, connotes some overt act, and mere words,
+when there is no intention of carrying them into effect, are not sufficient to prove an
+intention to resist.30. When an order is lawfully made under the provisions of a statute,
+that order is law, and resistance to the execution of that law is an offence.31.
+Under this clause the act resisted must be a legal act. Where a number of persons
+resisted an attempt to search a house which was being made by officers, who had not
+the written order investing them with the power to do so, it was held that the persons
+resisting the attempted search were not guilty of this offence.32. Assembling together
+for the common object of rescuing a friend from unlawful police detention has been
+held by the Supreme Court as not constituting an unlawful assembly.33.
+[s 143.5] Third clause.—Committing Criminal Trespass, Mischief, other
+offence.—
+This clause specifies only two offences, viz., mischief and criminal trespass, but the
+words 'or other offence' seem to denote that all offences are included though only two
+are enumerated in a haphazard way. In Manga @ Man Singh v State of Uttarakhand, the
+Supreme Court while considering the application of principle of 'ejusdem generis' to
+section 141 'third' clause, observed that:
+We fail to appreciate as to how simply because the offences mischief or criminal trespass
+are used preceding the expression "other offence" in Section 141 'third', it should be taken
+that such offence would only relate to a minor offence of mischief or trespass and that the
+expression "other offence" should be restricted only to that extent. As pointed out by us
+above, the offence of mischief and trespass could also be as grave as that of an offence of
+murder, for which the punishment of life imprisonment can be imposed as provided for
+under Sections 438, 449, 450 etc. Therefore, we straight away hold that the argument of
+learned senior counsel for the Appellants to import the principle of 'ejusdem generis' to
+Section 141 'third', cannot be accepted.34.
+[s 143.6] Suleman Bakery Case:
+It is a case related to the communal riots of Mumbai in early 1993. Government
+imposed curfew and the Special Operation Squad (SOS) was called to control the
+communal riots on information of stone pelting, throwing of glass bottles, acid bulbs
+and firing from the terrace of Suleman Bakery. It was argued that at any rate SOS was
+an unlawful assembly on account of the third clause of section 141 of IPC, 1860, and
+hence, all the discharged accused persons were members of the unlawful assembly
+and had to be at least charged and inquired into by the courts below. It was argued that
+the assembly of the police at least till the time they broke open the door was a lawful
+move, as it was their duty but they should not have broken open the door and
+trespassed the Suleman bakery; and all those who entered Suleman bakery formulated
+an unlawful assembly as they illegally trespassed into the Suleman bakery. Since A-1,
+Shri Tyagi, had ordered them to break open the doors and he was a part of that unlawful
+assembly who had the common object. The Supreme Court held that they were all the
+members of the SOS and had the duty to quell the riots. They were not doing anything
+illegal in coming out and trying to control the riots. Court rejected the argument by
+holding that a trespass becomes a criminal trespass if it is with an intention to annoy
+or to do something illegal which is not the case here. There was no question of the so-
+called entry amounting to criminal trespass.35.
+[s 143.7] Fourth clause—Application of Criminal Force.—
+The act falling within the purview of this clause is made punishable owing to the
+injurious consequences which it is likely to cause to the public peace. This clause does
+not take away the right of private defence of property. It does not affect clause 2 of
+section 105, which allows a person to recover the property carried away by theft. It is
+meant to prevent the resort to force in vindication of supposed rights. It makes a
+distinction between an admitted claim or an ascertained right and a disputed claim.36.
+Where five or more persons assemble for maintaining by force or show of force a right
+which they bona fide believe they possess, and not for enforcing by such force or show
+of force a right or supposed right of theirs, they do not constitute an unlawful
+assembly.37. An assembly of five or more persons cannot be designated as an unlawful
+assembly under this section if its object is to defend property by the use of force within
+the limits prescribed by law.38. But when a body of men are determined to vindicate
+their rights, or supposed rights, by unlawful force, and when they engage in a fight with
+men who, on the other hand, are equally determined to vindicate, by unlawful force,
+their rights or supposed rights, no question of self-defence arises. Neither side is trying
+to protect itself, but each side is trying to get the better of the other.39.
+[s 143.8] Fifth clause—Compelling persons to act or omission.—
+This clause is very comprehensive and applies to all the rights a man can possess,
+whether they concern the enjoyment of property or not. There is no reference to 'any
+right or supposed right' as in the preceding clause.
+[s 143.9] Explanation.—
+An assembly which is lawful in its inception may become unlawful by the subsequent
+act of its members.40. It may turn unlawful all of a sudden and without previous
+concert among its members.41. But illegal acts of one or two members, not acquiesced
+in by the others, do not change the character of the assembly.42. The law on the point
+as stated above is approved by the Supreme Court in Moti Das.43.
+[s 143.10] Being member of unlawful assembly.—
+Section 142 shows that it is sufficient for the offence of riot to be proved against an
+individual that the individual should remain in an unlawful assembly as soon as he is
+aware that the assembly is unlawful. The word "continues" in the section means
+physical presence as a member of the unlawful assembly, that is, to be physically
+present in the crowd.44. This, however, should not be interpreted to mean that mere
+presence as a curious onlooker or bystander at the scene of the unlawful assembly
+without sharing its common object would make a person liable under section 142, IPC,
+1860, for being a member of an unlawful assembly.45. Thus common object cannot be
+attributed to a person from his mere presence at the scene of the occurrence. There
+must be some other direct or circumstantial evidence to justify that inference.46.
+For being a member of unlawful assembly it is not necessary that a person must
+commit some overt act towards the commission of the crime. The test is whether he
+knows of its common object and continues to keep its company due to his own free
+will.47. Thus, where a large procession of Kannadigas, taken out to voice protest
+against Maharashtrians, turned violent, started pelting stones and attacking police
+officers; the procession turned into an unlawful assembly the moment it developed the
+common object of causing damage to property and injuries to police officers.
+Thereafter, every person who continued as a member of the assembly became liable
+for the offence committed by the processionalists by virtue of section 149 of IPC,
+1860.48. If some unidentified members of an unlawful assembly behaved in an unruly
+manner, the other members in the procession cannot be held guilty of the offence by
+foisting vicarious liability, merely because they were in the procession.49.
+[s 143.11] CASES.—Enforcement of right by use of criminal force.—Dispute
+regarding possession of land.—
+Where there was a dispute of long standing between the accused and certain other
+parties regarding possession of certain land, and the accused went to sow the land
+with indigo, accompanied by a body of men armed with sticks who kept off the
+opposite party by brandishing their weapons while the land was sowed, it was held that
+they were guilty of this offence.50. Where the accused, who were in possession of the
+disputed land, went upon it in a large body armed with sticks, prepared in anticipation
+of a fight, and were reaping the paddy grown by them, when the complainant's party
+came up and attempted to cut the same, whereupon a fight ensued and one man was
+seriously wounded and died subsequently, it was held that the common object was not
+to enforce a right but to maintain undisturbed the actual enjoyment of a right and that
+the assembly was not therefore unlawful.51.
+2. State of Haryana v Shakuntla, (2012) 5 SCC 171 [LNIND 2012 SC 1259] : JT 2012 (4) SC 287 :
+AIR 2012 (SCW) 2952 : 2012 Cr LJ 2850 .
+3. Bharat Soni v State of Chhattisgarh, 2013 Cr LJ 486 (SC) : 2013 (1) Mad LJ (Cr) 94 : 2013 (1)
+Crimes 66 .
+4. Gurmail Singh v State of Pumjab, 2013 (4) SCC 228 [LNIND 2012 SC 864] : 2013 (2) SCC (Cr)
+369.
+5. Matti Venkanna, (1922) 46 Mad 257.
+6. Stephen, Digest of Criminal Law, Article 90.
+7. Mohan Singh's case, AIR 1963 SC 174 [LNIND 1962 SC 118] : (1963) 1 Cr LJ 100 .
+8. Suresh Pal v State of UP, AIR 1981 SC 1161 : 1981 Cr LJ 624 : 1981 All LJ 562 : 1981 Supp
+SCC 6 .
+9. Mohan Singh v State of Punjab, AIR 1963 SC 174 [LNIND 1962 SC 118] : 1963 (1) Cr LJ 100
+10. Supra.
+11. Shaji v State, (2011) 5 SCC 423 [LNIND 2011 SC 481] : AIR 2011 SC 1825 [LNIND 2011 SC
+481] : 2011 Cr LJ 2935 (SC). See also Roy Fernandes v State of Goa, (2012) 3 SCC 221 [LNIND
+2012 SC 86] : 2012 Cr LJ 1542 (SC).
+12. Subran v State of Kerala, 1993 Cr LJ 1387 (SC) : AIR 1993 SCW 1014 : (1993) 3 SCC 32
+[LNIND 1993 SC 162] , 39.
+13. Ram Chandra Chaudhary v State of UP, 1992 Cr LJ 1488 (All). Over a dozen persons
+prosecuted, others acquitted, only two convicted of whom one died, the remaining one convict
+entitled to acquittal on the same grounds, see Malkiat Singh v State of Punjab, 1994 Cr LJ 623 :
+AIR 1993 SCW 4071 .
+14. Motiram, (1960) 62 Bom LR 514 ; Kartar Singh, AIR 1961 SC 1787 [LNIND 1961 SC 210] :
+1961 (2) Cr LJ 853 .
+15. Ram Tahal, 1972 Cr LJ 227 (SC); Amir Hussain, 1975 Cr LJ 1874 : AIR 1975 SC 2211 ;
+Methala Potturaju v State of AP, (1992) 1 SCC 49 [LNIND 1991 SC 448] : AIR 1991 SC 2214
+[LNIND 1991 SC 448] : 1991 Cr LJ 3133 : AIR 1991 SC 2214 [LNIND 1991 SC 448] .
+16. Sahebrao Kisan Jadhav v State of Maharashtra, 1992 Cr LJ 339 (Bom) : 1992 (1) Bom CR 423
+[LNIND 1991 BOM 410] .
+17. Bhanwar Singh v State of MP, (2008) 16 SCC 657 [LNIND 2008 SC 1246] : AIR 2009 SC 768
+[LNIND 2008 SC 1246] : (2008) 67 AIC 133 .
+18. KM Ravi v State of Karnataka, (2009) 16 SC 337 ; Baladin, AIR 1956 SC 181 : 1956 Cr LJ 345 .
+See also Masalti v State of UP, AIR 1965 SC 202 [LNIND 1964 SC 173] : (1965) 1 Cr LJ 226 ; and
+Bishambar, AIR 1971 SC 2381 : 1971 Cr LJ 1700 ; followed in Babu Hamidkhan Mestry v State of
+Maharashtra, (1995) 2 Cr LJ 2355 (Bom) cited in Binay Kumar Singh v State of Bihar, AIR 1997 SC
+322 [LNIND 1996 SC 2707] : 1997 AIR SCW 78 : (1997) 1 SCC 283 [LNIND 1996 SC 2707] : 1997
+Cr LJ 362 , to the effect that where a larger number of persons are accused of committing a
+crime and are charged with the aid of section 149, the court should be extremely careful in
+scrutinising the evidence and there should be two, three or more witness who should be
+consistent. This ruling was applied in Kamaksha Rai v State of UP, AIR 2000 SC 53 [LNIND 1999
+SC 885] : 2000 Cr LJ 178 . See also Thankappan Mohanan v State of Kerala, 1990 Cr LJ 1477 ;
+Chinu Patel v State of Orissa, 1990 Cr LJ 248 (Ori).
+19. Uday Singh v State of MP, AIR 2017 SC 393 .
+20. Raj Nath v State of UP, AIR 2009 SC 1422 [LNIND 2009 SC 59] : (2009) 4 SCC 334 [LNIND
+2009 SC 59] : (2009) 1 SCR 336 : JT 2009 (1) SC 373 [LNIND 2009 SC 85] ; (2009) 2 SCC (Cr)
+289.
+21. Uday Singh v State of MP, AIR 2017 SC 393 .
+22. Raj Nath v State of UP, AIR 2009 SC 1422 [LNIND 2009 SC 59] : (2009) 4 SCC 334 [LNIND
+2009 SC 59] : (2009) 1 SCR 336 : JT 2009 (1) SC 373 [LNIND 2009 SC 85] : (2009) 2 SCC (Cr)
+289.
+23. Akbar Sheikh v State of WB, (2009) 7 SCC 415 [LNIND 2009 SC 1106] : (2009) 3 SCC (Cr)
+431.
+24. Amrik Singh v State of Punjab, 1993 AIR SCW 2482 : 1993 Cr LJ 2857 : 1994 Supp (1) SCC
+320 .
+25. SP Sinha v State of Maharashtra, AIR 1992 SC 1791 : 1992 Cr LJ 2754 : 1993 Supp (1) SCC
+658 .
+26. Thakore Dolji Vanvirji v State of Gujarat, AIR 1992 SC 209 : 1992 Cr LJ 3953 .
+27. Bhanwar Singh v State of MP, (2008) 16 SCC 657 [LNIND 2008 SC 1246] : AIR 2009 SC 768
+[LNIND 2008 SC 1246] : (2008) 67 AIC 133 . There was no right of private defence in the
+circumstances, the accused persons were aggressors and such persons cannot claim benefit of
+private defence.
+28. Bharat Soni v State of Chhattisgarh, 2013 Cr LJ 486 (SC) 2013 (1) Mad LJ (Cr) 94 : 2013 (1)
+Crimes 66 .
+29. Rajendra Shantaram Todankar v State of Maharashtra, AIR 2003 SC 1110 [LNIND 2003 SC 4] :
+2003 (2) SCC 257 [LNIND 2003 SC 4] .
+30. Abdul Hamid, (1922) 2 Pat 134 (SB).
+31. Ramendrachandra Ray, (1931) 58 Cal 1303 .
+32. Narain, (1875) 7 NWP 209.
+33. State of UP v Niyamat, (1987) 1 SCC 434 : AIR 1987 SC 1652 [LNIND 1987 SC 391] : 1987 Cr
+LJ 1881 .
+34. Manga @ Man Singh v State of Uttarakhand, (2013) 7 SCC 629 [LNIND 2013 SC 529] : 2013
+Cr LJ 3332 .
+35. Noorul Huda Maqbool Ahmed v Ram Deo Tyagi, (2011) 7 SCC 95 [LNIND 2011 SC 570] : 2011
+Cr LJ 4264 : (2011) 3 SCC (Cr) 31.
+36. Gulam Hoosein, (1909) 11 Bom LR 849 .
+37. Veerabadra Pillai v State, (1927) 51 Mad 91.
+38. Mathu Pandey, (1970) 1 SCR 358 [LNIND 1969 SC 516] : AIR 1970 SC 27 [LNIND 1969 SC
+516] .
+39. Prag Dat, (1898) 20 All 459 ; Kabiruddin, (1908) 35 Cal 368 ; Maniruddin, (1908) 35 Cal 384 .
+See also Onkarnath, 1974 Cr LJ 1015 : AIR 1974 SC 1550 [LNIND 1974 SC 154] ; Vishvas v State,
+1978 Cr LJ 484 : AIR 1978 SC 414 [LNIND 1978 SC 17] .
+40. Khemee Singh, (1864) 1 WR (Cr) 18; Lokenath Kar, (1872) 18 WR (Cr) 2.
+41. Ragho Singh, (1902) 6 Cal WN 507.
+42. Dinobundo Rai, (1868) 9 WR (Cr) 19.
+43. Moti Das, AIR 1954 SC 657 at p 659.
+44. Sheo Dayal v State, (1933) 55 All 689 .
+45. Baladin, 1956 Cr LJ 345 : AIR 1956 SC 181 ; Hanuman Singh, 1969 Cr LJ 359 (All); Md
+Shariff, 1969 Cr LJ 1351 (Bom); Musakhan, 1976 Cr LJ 1987 : AIR 1976 SC 2566 ; Muthu Naicker
+v State of WB, 1978 Cr LJ 1713 (SC). To the same effect, State of Karnataka v Mallu Kallappa
+Patil, 1994 Cr LJ 952 : AIR 1994 SC 784 : 1994 Supp (3) SCC 352 .
+46. R Deb, Principles of Criminology, Criminal Law and Investigation, 2nd Edn, vol II, p 862. See
+also Akbar Sheikh v State of WB, (2009) 7 SCC 415 [LNIND 2009 SC 1106] : (2009) 3 SCC (Cr)
+431; Rattiram v State of MP, through Inspector of Police, 2013 Cr LJ 2353 (SC) : 2013 AIR (SCW)
+2456.
+47. Apren Joseph, 1972 Cr LJ 1162 (Ker); See also Balwant Singh, 1972 Cr LJ 645 : AIR 1972 SC
+860 [LNIND 1972 SC 94] .
+48. Kutubuddin Hasansab Mahat, 1977 Cr LJ NOC 155 (Kant); See also Moti Das, 1954 Cr LJ
+1708 : AIR 1954 SC 657 ; Sukha, 1956 Cr LJ 923 : AIR 1956 SC 513 [LNIND 1956 SC 30] ;
+Chandrika Prasad, 1972 Cr LJ 22 : AIR 1972 SC 109 [LNIND 1971 SC 453] .
+49. Jayendra Shantaram Dighe v State of Maharashtra, 1992 Cr LJ 2796 (Bom).
+50. Peary Mohun Sircar, (1883) 9 Cal 639 .
+51. Silajit Mahto, (1909) 36 Cal 865 .

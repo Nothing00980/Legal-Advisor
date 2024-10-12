@@ -1,0 +1,112 @@
+Offence requiring a particular intent or knowledge committed by one
+who is intoxicated.
+In cases where an act done is not an offence unless done with a particular knowledge
+or intent, a person who does the act in a state of intoxication shall be liable to be dealt
+with as if he had the same knowledge as he would have had if he had not been
+intoxicated, unless the thing which intoxicated him was administered to him without
+his knowledge or against his will.
+COMMENT.—
+Offence requiring particular intent or knowledge.—By reading the above section, it is
+clear that in the first part of the section the words 'intention or knowledge' are
+mentioned, but in the latter part of the section the word 'knowledge' is only mentioned
+and the word 'intention' is omitted. In case of voluntary drunkenness, knowledge is to
+be presumed in the same manner as if there was no drunkenness. If really the
+Parliament wanted the word 'intention' also to be presumed even in the case of an act
+done in a drunken state of mind, the said word could have been mentioned in the
+Second part also, but the same is omitted. Therefore, whether the accused was having
+intention or not while committing an act cannot be presumed as in case of
+knowledge.199. As certain guilty knowledge or intention forms part of the definition of
+many offences, this section is provided to meet those cases. It says that a person
+voluntarily intoxicated will be deemed to have the same knowledge as he would have
+had if he had not been intoxicated. There may be cases in which a particular knowledge
+is an ingredient, and there may be other cases in which a particular intent is an
+ingredient, the two not being necessarily always identical. The section does not say
+that the accused shall be liable to be dealt with as if he had the same intention as
+might have been presumed if he had not been intoxicated. Therefore, although there is
+a presumption so far as knowledge is concerned, there is no such presumption with
+regard to intention.200. Thus, this section attributes to a drunken man the knowledge of
+a sober man when judging of his action but does not give him the same intention. This
+knowledge is the result of a legal fiction and constructive intention cannot invariably be
+raised.201. Drunkenness makes no difference to the knowledge with which a man is
+credited and if a man knew what the natural consequences of his acts were, he must
+be presumed to have intended to cause them.202. But this presumption may be
+rebutted by his showing that at the time he did the act, his mind was so affected by the
+drink he had taken that he was incapable of forming the intention requisite for making
+his act the offence charged against him.203.
+So far as knowledge is concerned the Court must attribute to the intoxicated man the
+same knowledge as if he was quite sober but so far as intent or intention is concerned,
+the Court must gather it from the attending general circumstances of the case paying
+due regard to the degree of intoxication. If the man was beside his mind altogether for
+the time being, it would not be possible to fix him with the requisite intention. In other
+words, where a man goes so deep into drinking that he becomes really incapable of
+forming the requisite specific intent or knowledge for the offence, then in such a case
+too section 86 of the Code would impute the requisite knowledge to the accused
+though not the requisite intention. Thus, where the accused in a state of extreme
+intoxication caused a fatal injury in the abdomen of his friend but by virtue of his highly
+intoxicated state of mind was incapable of knowing then as to what he was doing far
+less forming the requisite intent to kill as envisaged in section 300, IPC, 1860, he could
+not be convicted under section 302 as he did not have the requisite intent to kill but he
+could still be convicted under section 304 Part II, IPC, 1860, by virtue of imputed
+knowledge under section 86, IPC, 1860.204. In this connection see also the discussion
+under sub-head "voluntary drunkenness: when an excuse" under section 85, ante. But if
+he had not gone so deep in drinking and from the facts it could be found that he knew
+what he was about the Court will apply the rule that a man is presumed to intend the
+natural consequences of his act or acts.205.
+[s 86.1] CASES.—
+Accused husband beating his wife and throwing burning lamp on her under influence of
+liquor. Since he himself consumed the liquor he is not entitled to claim benefit under
+section 86 of IPC, 1860.206. Act of the accused of walking a distance to the house of a
+witness and concealing the weapon and his wearing apparels showed that he was
+conscious and capable of understanding of his act. No evidence as regards the degree
+of intoxication or any evidence of any attending general circumstances to arrive at a
+conclusion that accused was beside his mind altogether temporarily at time
+incident.207. On the basis of evidence in this case, it cannot be said that the accused
+was so much intoxicated at the time of the incident that he was beside his mind
+altogether for the time being. He did set his wife on fire, but as soon as her sari started
+burning he realised the folly of his act and started extinguishing the fire. It shows that
+he was not so much intoxicated that he was besides his mind altogether. Therefore, the
+rule that a man is presumed to intend the natural consequences of his act can be
+applied to him also. Conviction under section 302 IPC, 1860 altered to one under
+section 304(1) IPC, 1860.208.
+[s 86.2] Sections 85 and 86.—
+The reading of sections 85 and 86 together makes it clear that section 86 is an
+exception to section 85. These provisions show that if the intoxication is induced
+voluntarily, the act done is an offence even if the person is incapable of knowing the
+nature of the act or that what he is doing is either wrong or contrary to law. This section
+obviously covers all offences. That is why; it appears that it became necessary to enact
+section 86 to take care of offences requiring a particular intent or knowledge on the
+part of the intoxicated offender. The section takes care of such offences and states
+that if intoxication is involuntary, neither knowledge nor intention in committing the
+offence will be presumed. If however, it is voluntary only knowledge of the offence on
+the part of the offender will be presumed but not intention in committing it. What
+section 86 means and no more as compared to section 85. The degree of intoxication
+demanded by both sections, however, remains the same. In fact, it is instructive to note
+that section 84 which exempts persons of unsoundness of mind also expects the
+degree of unsoundness to the same extent, viz., incapability of knowing the nature of
+the act or of the knowledge that what is being done either wrong or contrary to law.
+Hence, the conclusion is inescapable that to avail of the exception under section 86,
+the degree of intoxication of the offender must be such that he is incapable of knowing
+the nature of the act or that he is doing what is either wrong or contrary to law.
+Intoxication short of this degree will not entitle the offender to the benefit of the
+exception.209.
+1. Shankar Narayan Bhadolkar v State of Maharashtra, AIR 2004 SC 1966 [LNIND 2004 SC 1370] :
+2004 Cr LJ 1778 : (2005) 9 SCC 71 [LNIND 2004 SC 1370] .
+2. The Indian Evidence Act, I of 1872, section 105.
+3. Musammat Anandi, (1923) 45 All 329 ; Babulal, 1960 Cr LJ 437 (All).
+4. A K Chaudhary v State of Gujarat, 2006 Cr LJ 726 (Guj).
+5. A K Chaudhary v State of Gujarat, 2006 Cr LJ 726 (Guj).
+199. Mavari Surya Satyanaraina v State of AP, 1995 Cr LJ 689 (AP).
+200. Dil Mohammad, (1941) 21 Pat 250; Basdev v State of PEPSU, 1956 Cr LJ 919 (2) : AIR 1956
+SC 488 [LNIND 1956 SC 34] .
+201. Pal Singh, (1917) PR No. 28 of 1917.
+202. Judagi Malah, (1929) 8 Pat 911.
+203. Samman Singh, (1941) 24 Lah 39.
+204. Enrique F Rio v State, 1975 Cr LJ 1337 (Goa).
+205. Basdev v State of Pepsu, (1956) SCR 363 [LNIND 1956 SC 34] : AIR 1956 SC 488 [LNIND
+1956 SC 34] .
+206. Gautam Bhila Ahire v State of Maharashtra,. 2010 Cr LJ 4073 (Bom); Pidika Janu v State of
+Orissa, 1989 Cr LJ (NOC) 104 ,
+207. Shankar Jaiswara v State of WB, (2007) 9 SCC 360 [LNIND 2007 SC 651] : (2007) 3 SCC
+(Cr) 553.
+208. Babu Sadashiv Jadhav v State of Maharashtra, 1984 Cr LJ 739 (Bom).
+209. State of Maharashtra v Ashok Yashwant, 1987 Cr LJ 1416 (Bom).

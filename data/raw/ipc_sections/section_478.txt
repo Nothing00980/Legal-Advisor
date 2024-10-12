@@ -1,0 +1,129 @@
+Forgery of valuable security, will, etc.
+Whoever forges a document which purports to be a valuable security or a will, or an
+authority to adopt a son, or which purports to give authority to any person to make or
+transfer any valuable security, or to receive the principal, interest or dividends
+thereon, or to receive or deliver any money, movable property, or valuable security, or
+any document purporting to be an acquittance or receipt acknowledging the payment
+of money, or an acquittance or receipt for the delivery of any movable property or
+valuable security, shall be punished with 46.[imprisonment for life], or with
+imprisonment of either description for a term which may extend to ten years, and
+shall also be liable to fine.
+COMMENT.—
+The offence under this section is an aggravated form of the offence described in the
+preceding section. The forged document must be one of those mentioned in the
+section. A complaint by the court is necessary for cognizance of the offence.47.
+Section 467, IPC, 1860, does not require the prosecution to prove that the accused who
+commits forgery, has benefitted thereby or any loss has occasioned to anyone
+thereby.48. There is a fundamental difference between a person executing a sale deed
+claiming that the property conveyed is his property, and a person executing a sale deed
+by impersonating the owner or falsely claiming to be authorised or empowered by the
+owner, to execute the deed on owner's behalf. When a person executes a document
+conveying a property describing it as his, there are two possibilities. The first is that he
+has a bona fide belief that the property actually belongs to him. The second is that he
+may be dishonestly or fraudulently claiming it to be his even though he knows that it is
+not his property. But to fall under first category of "false documents", it is not sufficient
+that a document has been made or executed dishonestly or fraudulently. There is a
+further requirement that it should have been made with the intention of causing it to be
+believed that such document was made or executed by, or by the authority of a person,
+by whom or by whose authority he knows that it was not made or executed. When a
+document is executed by a person claiming a property which is not his, he is not
+claiming that he is someone else nor is he claiming that he is authorised by someone
+else. Therefore, execution of such document (purporting to convey some property of
+which he is not the owner) is not execution of a false document as defined under
+section 464 of the Code. If what is executed is not a false document, there is no
+forgery. If there is no forgery, then neither section 467 nor section 471 of the Code is
+attracted.49.
+[s 467.1] Quashing of complaint.—
+There were bold allegations in the complaint that the shares of the complainant had
+been transferred on forged signatures. There was nothing to show how all or any of the
+accused persons were involved. No offence was constituted under sections 406, 420,
+467, 468 and 120-B. The order taking cognizance was held to be improper. It was
+quashed in respect of accused persons who preferred special leave petition and also in
+respect of those who did not file a petition.50.
+[s 467.2] CASES.—
+Where the allegation was that a company, acting through its directors in concert with
+the chartered accountants and some other persons: (i) conceived a criminal conspiracy
+and executed it by forging and fabricating a number of documents, like photographs of
+old machines, purchase orders and invoices showing purchase of machinery in order to
+support their claim to avail hire-purchase loan from Bank; (ii) on the strength of these
+false documents, bank parted with the money by issuing pay orders and demand drafts
+in favour of the Company; and (iii) the accused opened six fictitious accounts in the
+banks to encash the pay orders/bank drafts issued by Bank in favour of the suppliers of
+machines, thereby directly rotating back the loan amount to the borrower from these
+fictitious accounts, and in the process committed a systematic fraud on the Bank and
+obtained pecuniary advantage for themselves. Precise details of all the fictitious
+accounts as also the further flow of money realized on encashment of demand
+drafts/pay orders have been incorporated in the charge sheet additionally, by allegedly
+claiming depreciation on the new machinery, which was never purchased, on the basis
+of forged invoices, etc.; the accused cheated the public exchequer as well. The
+Supreme Court held that proceedings are not liable to be quashed merely because
+dues of bank have been paid up.51.
+A deed of agreement for purchase of shares is not a valuable security.52. A person who
+received money from a postman under a false representation that he was the payee
+when in fact he was not, and signed the postal acknowledgement in the name of the
+payee, was held to have committed an offence under this section.53. Where the
+accused fraudulently brought into existence a registered sale deed, said to have been
+executed by the widow of a person, intending to deceive and also to injure the
+reversioners of that person, it was held that they were guilty under this section.54.
+Where the accused falsely identified a person before the Oaths Commissioner as the
+deponent and the said person affixed his thumb impression on the document and it
+was also apparent that the document could not even become an affidavit without
+identification of the deponent by the accused, it was held that the accused abettor
+having been present at the time of the commission of the offence of impersonation he
+was guilty under section 467 read with section 114, IPC, 1860.55. A bank draft is a
+security for the purposes of this section and the bank manager signing a forged draft is
+guilty of this offence.56. Making out cheques for withdrawing money for official
+purposes and obtaining the signature of the signing officer under that pretence was
+held to be punishable offence under this section.57.
+[s 467.3] Bar under section 195(1)(b)(ii) of the Code of Criminal Procedure,
+1973 (Cr PC, 1973).—
+Section 195(1)(b)(ii), Cr PC mandates that no court shall take cognizance of any
+offence described in section 463, or punishable under sections 471, 475 or 476, of IPC,
+1860, when such offence is alleged to have been committed in respect of a document
+produced or given in evidence in a proceeding in any court, except on the complaint in
+writing of that court, or of some other court to which that court is subordinate. It
+contemplates a situation where offences enumerated therein are committed with
+respect to a document subsequent to its production or giving in evidence in a
+proceeding in any court.58. The petitioner stood before the Court as surety in favour of
+the accused person and filed the affidavit, bail declaration form and title document of
+the Land record-of-rights book before the Court. It was further revealed that the
+petitioner filed the false declaration as well as false affidavit in support of the said
+declaration. It was further found that both the documents, i.e., the declaration form as
+well the affidavit of accused were prepared just before production of them in the Court.
+Admittedly, the offence was committed before the documents were filed in the Court.
+Section 195(1)(b)(ii) of Cr PC would be attracted only when the offences enumerated in
+the said provision have been committed with respect to a document after it had been
+produced or given in evidence in a proceeding in any court, i.e., during the time when
+the document was in custodia legis. This being the settled position of law, there
+appears to be no justification in quashing the prosecution of the petitioner-accused on
+the ground that provisions of section 195(1)(b)(ii) are applicable.59.
+46. Subs. by Act 26 of 1955, section 117 and Sch, for "transportation for life" (w.e.f. 1 January
+1956).
+47. See Sardul Singh v State of Haryana, 1992 Cr LJ 354 (P&H).
+48. Suresh Hingorani v State of Haryana, 2013 (1) Scale 225 [LNIND 2013 SC 21] : JT 2013 (8)
+SC 66 [LNIND 2013 SC 21] .
+49. Shiv Charan v State of Rajasthan, 2012 Cr LJ 211 (Raj).
+50. Ashok Chaturvedi v Shitual H Chanchani, 1998 Cr LJ 4091 : AIR 1998 SC 2796 [LNIND 1998
+SC 751] .
+51. Sushil Suri v CBI, (2011) 5 SCC 708 [LNIND 2011 SC 494] : AIR 2011 SC 1713 [LNIND 2011
+SC 494] .
+52. AK Khosla v TS Venkatesan, 1992 Cr LJ 1448 (Cal).
+53. Jogidas v State, (1921) 24 Bom LR 99 ; Sanjay Gaikwad v State of Maharashtra, 2013 Cr LJ
+(NOC) 304 —using genuine special adhesive stamps fraudulently obtained for making false
+document— offence is under section 468 not under section 256–259 IPC.
+54. Ganga Dibya, (1942) 22 Pat 95.
+55. Calcutta Singh, 1978 Cr LJ 477 (P&H).
+56. Adithela Immanuel Raju v State of Orissa, 1992 Cr LJ 243 ; State of Haryana v Parmanand,
+(1995) 1 Cr LJ 396 , embezzlement by forging entries in records, but neither signature nor
+handwriting proved by expert evidence, conviction on the statement of a sole witness not
+justified.
+57. State of Punjab v Baj Singh, (1995) 2 Cr LJ 1311 (P&H); Joginder Pal Dhiman v UOI, 2002 Cr
+LJ 677 (HP), bank manager defrauded bank by forging amounts on FDRs and issuing drafts in
+his own and wife's name. But on being detected he returned the whole amount involved.
+Sentence reduced to one year and amount of fine maintained.
+58. Iqbal Singh Marwah v Meenakshi Marwah, (2005) 4 SCC 370 [LNIND 2005 SC 261] ; Mahesh
+Chand Sharma v State of UP, AIR 2010 SC 812 [LNIND 2009 SC 1740] : (2009) 15 SCC 519
+[LNIND 2009 SC 1740] ; CP Subhash v Inspector of Police Chennai, 2013 Cr LJ 3684 : JT 2013 (2)
+SC 270 [LNIND 2013 SC 74] , sale deed had not been forged while in custody of court, bar under
+section 195 not applicable.
+59. Jagannath Singh v State of MP, 2011 Cr LJ 3008 (MP).

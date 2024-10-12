@@ -1,0 +1,93 @@
+"Fraudulently.".
+A person is said to do a thing fraudulently if he does that thing with intent to defraud 1
+but not otherwise.
+COMMENT—
+The intention with which an act is done is very important in determining whether the
+act is done 'dishonestly' or 'fraudulently'.
+1. 'Intent to defraud'.—The terms 'fraud' and 'defraud' are not defined in the Penal Code.
+The word 'defraud' is of double meaning in the sense that it either may or may not imply
+deprivation, and, as it is not defined, its meaning must be sought by a consideration of
+the context in which the word 'fraudulently' is found.126.
+Fraud is an act of deliberate deception with a design to secure something, which is
+otherwise not due. Fraud and deception are synonymous.127.
+To 'defraud' or do something fraudulently is not by itself made an offence under the
+Penal Code, but various acts when done fraudulently (or fraudulently and dishonestly)
+are made offences. These include:
+(i) Fraudulent removal or concealment of property (sections 206, 421, 424)
+(ii) Fraudulent claim to property to prevent seizure (section 207).
+(iii) Fraudulent suffering or obtaining a decree (sections 208 and 210)
+(iv) Fraudulent possession/delivery of counterfeit coin (sections 239, 240, 242 and
+243).
+(v) Fraudulent alteration/diminishing weight of coin (sections 246–253)
+(vi) Fraudulent acts relating to stamps (sections 261–261)
+(vii) Fraudulent use of false instruments/weight/measure (sections 264–266)
+(viii) Cheating (sections 415–420)
+(ix) Fraudulent prevention of debt being available to creditors (section 422).
+(x) Fraudulent execution of deed of transfer containing false statement of
+consideration (section 423).
+(xi) Forgery making or executing a false document (sections 463–471 and 474)
+(xii) Fraudulent cancellation/destruction of valuable security, etc. (section 477)
+(xiii) Fraudulently going through marriage ceremony (section 496).
+It follows therefore, that by merely alleging or showing that a person acted fraudulently,
+it cannot be assumed that he committed an offence punishable under the Code or any
+other law, unless that fraudulent act is specified to be an offence under the Code or
+other law.128.
+The expression 'defraud' involves two elements, namely, deceit and injury to the person
+deceived. The injury may even comprise a non-economic or non-pecuniary loss. Even in
+those rare cases where the benefit to the deceiver does not cause corresponding loss
+to the deceived, the second condition is satisfied.129. The expression "intent to deceive"
+is different from the expression "intent to defraud".130. "Intent to defraud" is established
+only when the deception has as its aim some advantage or the likelihood of advantage
+to the person who causes the deceit or some kind of injury or the possibility of injury to
+another.131. Thus, where an expert deposing before a court as a defence witness was
+asked to produce his credentials before the court and it appeared from the documents
+produced that they were not genuine, it was held that as he acted under the orders of
+the court and not voluntarily, it could not be said that his intention was to cause any
+one to act to his disadvantage. In the circumstances, he did not act with "intent to
+defraud". He was, therefore, held liable under sections 193 and 196 but not under
+sections 465 and 471, IPC, 1860.132.
+[s 25.1] 'Fraudulently'; 'dishonestly'.—
+According to the Supreme Court "the word "defraud" includes an element of deceit.
+Deceit is not an ingredient of the definition of the word "dishonestly" while it is an
+important ingredient of the definition of the word "fraudulently". The former involves a
+pecuniary or economic gain or loss while the latter by construction excludes that
+element. Further, the juxtaposition of the two expressions "dishonestly" and
+"fraudulently" used in the various sections of the Code indicate their close affinity and
+therefore, the definition of one may give colour to the other. To illustrate, in the
+definition of "dishonestly", wrongful gain or wrongful loss is the necessary ingredient.
+Both need not exist, one would be enough. So too, if the expression "fraudulently" were
+to be held to involve the element of injury to the person or persons deceived, it would
+be reasonable to assume that the injury should be something other than pecuniary or
+economic loss. Though almost always an advantage to one causes loss to another and
+vice versa, it need not necessarily be so."133.
+Where the accused, after the execution and registration of a document, which was not
+required by law to be attested, added his name to the document as an attesting
+witness, it was held that his act was neither fraudulent nor dishonest and the accused
+was, therefore, not guilty of forgery.134. A person who is not a member of Scheduled
+Caste or Scheduled Tribes obtains a false certificate with a view to gain undue
+advantage to which he or she was not otherwise entitled to would amount to
+commission of fraud135. Suppression of a material document would also amount to a
+fraud on the court.136.
+126. Abbas Ali, supra.
+127. Meghmala v G Narasimha Reddy, 2010 (8) SCC 383 [LNIND 2010 SC 761] ; Inderjit Singh
+Grewal v State of Punjab, (2011) 12 SCC 588 [LNIND 2011 SC 801] : (2011) 10 SCR 557 [LNIND
+2011 SC 801] : 2012 Cr LJ 309 (SC).
+128. Mohd. Ibrahim v State of Bihar, (2009) 8 SCC 751 [LNIND 2009 SC 1774] : (2009) 3 SCC (Cr)
+929.
+129. Dr. Vimala, AIR 1963 SC 1572 [LNIND 1962 SC 397] : (1963) 2 Cr LJ 434 ; State of UP v
+Ranjit Singh, AIR 1999 SC 1201 : 1999 (2) SCC 617 .
+130. S Dutt v State of UP, 1966 Cr LJ 459 : AIR 1960 SC 523 .
+131. Re: BV Padmanabha Rao, 1970 Cr LJ 1502 (Mysore).
+132. S Dutt, Supra.
+133. Dr. Vimla, AIR 1963 SC 1572 [LNIND 1962 SC 397] : (1963) 2 Cr LJ 434 .
+134. Surendra Nath Ghosh, (1910) 14 CWN 1076 . See also TR Arya v State of Punjab, 1987 Cr LJ
+222 (P&H); Pramod Malhotra v UOI, (2004) 3 SCC 415 [LNIND 2004 SC 1543] : AIR 2004 SC 3338
+[LNIND 2004 SC 1543] : (2004) 111 DLT 605 .
+135. Lilly Kutty v Scrutiny Committee, AIR 2005 SC 4313 [LNIND 2005 SC 989] : (2005) Ibrahim v
+State of Bihar, (2009) 8 SCC751 : (2009) 3 SCC 8 SCC 283 Also see- Bhaurao Dagdu Paralkar v
+State of Maharashtra, AIR 2005 SC 3330 : (2005) 7 SCC 605 [LNIND 2005 SC 624] .
+136. Gowrishankar v Joshi Amba Shankar Family Trust, (1996 (3) SCC 310) [LNIND 1996 SC 447]
+For meaning of fraud See :Ram Chandra Singh v Savitri Devi, (2003 (8) SCC 319) Roshan Deen v
+Preeti Lal, (2002 (1) SCC100) Ram Preeti Yadav v UP Board of High School and Intermediate
+Education, (2003 (8) SCC 311) [LNIND 2003 SC 741] ,Ashok Leyland Ltd v State of TN, (2004 (3)
+SCC 1) [LNIND 2004 SC 1556] .

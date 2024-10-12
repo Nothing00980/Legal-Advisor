@@ -1,0 +1,181 @@
+Making a false document.
+4. [A person is said to make a false document or electronic record—
+First.—Who dishonestly or fraudulently—
+(a) makes, signs, seals or executes a document or part of a document;
+(b) makes or, transmits any electronic record or part of any electronic record;
+(c) affixes any 5.[electronic signature] on any electronic record;
+(d) makes any mark denoting the execution of a document or the authenticity of the
+6.[electronic signature],
+with the intention of causing it to be believed that such document or part of
+document, electronic record or 7.[electronic signature] was made, signed,
+sealed executed, transmitted or affixed by or by the authority of a person by
+whom or by whose authority he knows that it was not made, signed, sealed,
+executed or affixed; or
+Secondly.—Who, without lawful authority, dishonestly or fraudulently, by cancellation
+or otherwise, alters a document an electronic record in any material part thereof, after
+it has been made, executed or affixed with 8.[electronic signature] either by himself or
+by any other person, whether such person be living or dead at the time of such
+alteration; or
+Thirdly.—Who dishonestly or fraudulently causes any person to sign, seal, execute or
+alter a document or an electronic record or to affix his 9.[electronic signature] or any
+electronic record knowing that such person by reason of unsoundness of mind or
+intoxication cannot, or that by reason of deception practised upon him, he does not
+know the contents of the document or electronic record or the nature of the
+alteration.]
+ILLUSTRATIONS
+(a) A has a letter of credit upon B for rupees 10,000 written by Z. A, in order to
+defraud B, adds a cipher to the 10,000, and makes the sum 1,00,000, intending
+that it may be believed by B that Z so wrote the letter. A has committed forgery.
+(b) A, without Z's authority, affixes Z's seal to a document purporting to be a
+conveyance of an estate from Z to A, with the intention of selling the estate to B
+and thereby of obtaining from B the purchase-money. A has committed forgery.
+(c) A picks up a cheque on a banker signed by B, payable to bearer, but without any
+sum having been inserted in the cheque. A fraudulently fills up the cheque by
+inserting the sum of ten thousand rupees. A commits forgery.
+(d) A leaves with B, his agent, a cheque on a banker, signed by A, without inserting
+the sum payable and authorizes B to fill up the cheque by inserting a sum not
+exceeding ten thousand rupees for the purpose of making certain payment. B
+fraudulently fills up the cheque by inserting the sum of twenty thousand rupees.
+B commits forgery.
+(e) A draws a bill of exchange on himself in the name of B without B's authority,
+intending to discount it as a genuine bill with a banker and intending to take up
+the bill on its maturity. Here, as A draws the bill with intent to deceive the banker
+by leading him to suppose that he had the security of B, and thereby to discount
+the bill, A is guilty of forgery.
+(f) Z's will contains these words—"I direct that all my remaining property be equally
+divided between A, B and C". A dishonestly scratches out B's name, intending
+that it may be believed that the whole was left to himself and C. A has
+committed forgery.
+(g) A endorses a Government promissory note and makes it payable to Z or his
+order by writing on the bill the words "Pay to Z or his order" and signing the
+endorsement. B dishonestly erases the words "Pay to Z or his order" and thereby
+converts the special endorsement into a blank endorsement. B commits forgery.
+(h) A sells and conveys an estate to Z. A afterwards, in order to defraud Z of his
+estate, executes a conveyance of the same estate to B, dated six months earlier
+than the date of the conveyance to Z, intending it to be believed that he had
+conveyed the estate to B before he conveyed it to Z. A has committed forgery.
+(i) Z dictates his will to A. A intentionally writes down a different legatee from the
+legatee named by Z, and by representing to Z that he has prepared the will
+according to his instructions, induces Z to sign the will. A has committed forgery.
+(j) A writes a letter and signs it with B's name without B's authority, certifying that A
+is a man of good character and in distressed circumstances from unforeseen
+misfortune, intending by means of such letter to obtain alms from Z and other
+persons. Here, as A made a false document in order to induce Z to part with
+property. A has committed forgery.
+(k) A without B's authority writes a letter and signs it in B's name certifying to A's
+character, intending thereby to obtain employment under Z. A has committed
+forgery in as much as he intended to deceive Z by the forged certificate, and
+thereby to induce Z to enter into an express or implied contract for service.
+Explanation 1.—A man's signature of his own name may amount to forgery.
+ILLUSTRATIONS
+(a) A signs his own name to a bill of exchange, intending that it may be believed
+that the bill was drawn by another person of the same name. A has committed
+forgery.
+(b) A writes the word "accepted" on a piece of paper and signs it with Z's name, in
+order that B may afterwards write on the paper a bill of exchange drawn by B
+upon Z, and negotiate the bill as though it had been accepted by Z. A is guilty of
+forgery; and if B, knowing the fact, draws the bill upon the paper pursuant to A's
+intention, B is also guilty of forgery.
+(c) A picks up a bill of exchange payable to the order of a different person of the
+same name. A endorses the bill in his own name, intending to cause it to be
+believed that it was endorsed by the person whose order it was payable; here A
+has committed forgery.
+(d) A purchases an estate sold under execution of a decree against B. B, after the
+seizure of the estate, in collusion with Z, executes a lease of the estate of Z at a
+nominal rent and for a long period, and dates the lease six months prior to the
+seizure, with intent to defraud A, and to cause it to be believed that the lease
+was granted before the seizure. B, though he executes the lease in his own
+name, commits forgery by antedating it.
+(e) A, a trader, in anticipation of insolvency, lodges effects with B for A's benefit, and
+with intent to defraud his creditors; and in order to give a colour to the
+transaction, writes a promissory note binding himself to pay to B a sum for value
+received, and antedates the note, intending that it may be believed to have been
+made before. A was on the point of insolvency. A has committed forgery under
+the first head of the definition.
+Explanation 2.—The making of a false document in the name of a fictitious person,
+intending it to be believed that the document was made by a real person, or in the
+name of a deceased person, intending it to be believed that the document was made
+by the person in his lifetime, may amount to forgery.
+10.[Explanation 3.—For the purposes of this section, the expression "affixing 11.
+[electronic signature]" shall have the meaning assigned to it in clause (d) of
+subsection (1) of section 2 of the Information Technology Act, 2000].
+ILLUSTRATION
+A draws a bill of exchange upon a fictitious person, and fraudulently accepts the bill in
+the name of such fictitious person with intent to negotiate it. A commits forgery.
+COMMENTS.—
+An analysis of section 464 of IPC, 1860 shows that it divides false documents into
+three categories:
+A. The first is where a person dishonestly or fraudulently makes or executes a
+document with the intention of causing it to be believed that such document was made
+or executed by some other person, or by the authority of some other person, by whom
+or by whose authority he knows it was not made or executed.
+B. The second is where a person dishonestly or fraudulently, by cancellation or
+otherwise, alters a document in any material part, without lawful authority, after it has
+been made or executed by either himself or any other person.
+C. The third is where a person dishonestly or fraudulently causes any person to sign,
+execute or alter a document knowing that such person could not by reason of (a)
+unsoundness of mind, or (b) intoxication, or (c) deception practised upon him, know the
+contents of the document or the nature of the alteration. In short, a person is said to
+have made a 'false document', if (i) he made or executed a document claiming to be
+someone else or authorised by someone else, or (ii) he altered or tampered a
+document, or (iii) he obtained a document by practicing deception, or from a person not
+in control of his senses.12. Making of any false document, in view of the definition of
+'forgery' is the sine qua non therefor. What would amount to making of a false
+document is specified in section 464 thereof. What is, therefore, necessary is to
+execute a document with the intention of causing it to be believed that such document
+inter alia was made by the authority of a person by whom or by whose authority he
+knows that it was not made.13. In the case of Mir Nagvi Askari v CBI, the Court held that:
+A person is said to make a false document or record if he satisfies one of the three
+conditions as noticed hereinbefore and provided for under the said section. The first
+condition being that the document has been falsified with the intention of causing it to be
+believed that such document has been made by a person, by whom the person falsifying the
+document knows that it was not made. Clearly the documents in question in the present
+case, even if it be assumed to have been made dishonestly or fraudulently, had not been
+made with the intention of causing it to be believed that they were made by or under the
+authority of some one else. The second criteria of the section deals with a case where a
+person without lawful authority alters a document after it has been made. There has been
+no allegation of alteration of the voucher in question after they have been made. Therefore
+in our opinion the second criteria of the said section is also not applicable to the present
+case. The third and final condition of Section 464 deals with a document, signed by a
+person who due to his mental capacity does not know the contents of the documents which
+were made i.e because of intoxication or unsoundness of mind etc. Such is also not the
+case before us. Indisputably therefore the accused before us could not have been convicted
+with the making of a false document.14.
+To attract the second clause of section 464 there has to be alteration of document
+dishonestly and fraudulently. So in order to attract the clause 'secondly' if the document
+is to be altered it has to be for some gain or with such objective on the part of the
+accused. Merely changing a document does not make it a false document.15.
+[s 464.1] Making of false document.—
+False document is said to have been made when a person dishonestly or fraudulently
+makes a document with the intention of causing it to be believed that such document
+was made by some other person.16.
+[s 464.2] Issuance of a caste certificate.—
+The Sub-Divisional Officer (SDO) issued a caste certificate. The application for the
+same was supported by affidavit of the father of the applicant. Later, the High Power
+Scrutiny Committee cancelled the certificate. A complaint was filed alleging forgery,
+cheating, conspiracy, etc. The High Court held that no offence of forgery was
+constituted as neither signature nor seals, etc., of Sub-Divisional Officer were forged
+but the caste certificate was issued by the SDO, himself and therefore it was not a false
+document in the eyes of law according to the provisions of section 464 of IPC, 1860.17.
+4. Subs. by The Information Technology Act (Act 21 of 2000), section 91 and First Schedule,
+w.e.f. 17 October 2000. The words "electronic record" have been defined in section 29A.
+5. Subs. for the words "digital signature" by the Information Technology (Amendment) Act,
+2008 (10 of 2009), section 51 (w.e.f. 27 October 2009).
+6. Subs. for the words "digital signature" by the Information Technology (Amendment) Act,
+2008 (10 of 2009), section 51 (w.e.f. 27 October 2009).
+7. Ibid.
+8. Ibid.
+9. Ibid.
+10. Ins. by The Information Technology Act (Act 21 of 2000), section 91 and First Sch, w.e.f. 17
+October 2000.
+11. Subs. for the words "digital signature" by the Information Technology (Amendment) Act,
+2008 (10 of 2009), section 51 (w.e.f. 27 October 2009).
+12. Mohammed Ibrahim v State of Bihar, (2009) 8 SCC 751 [LNIND 2009 SC 1774] : 2010 Cr LJ
+2223 : AIR 2010 SC (Supp) 347; Malay Chatterjil v State of Bihar, 2012 Cr LJ 2240 (Pat).
+13. Devendra v State of UP, 2009 (7) SCC 495 : 2009 (7) Scale 613 [LNIND 2009 SC 1158] .
+14. Mir Nagvi Askari v CBI, AIR 2010 SC 528 [LNIND 2009 SC 1651] : (2009) 15 SCC 643 [LNIND
+2009 SC 1651] .
+15. Parminder Kaurl v State of UP, (2010) 1 SCC 322 [LNIND 2009 SC 1924] : AIR 2010 SC 840
+[LNIND 2009 SC 1924] .
+16. Raj Shekhar Agrawal v State of WB, 2016 Cr LJ 993 (Cal) : (2015) 4 CALLT 615 (HC).
+17. Harvir Singh v State of MP, 2016 Cr LJ 3608 (MP) : 2016 (2) JLJ 422 .

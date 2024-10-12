@@ -1,0 +1,220 @@
+Punishment of offences committed within India.
+Every person 1 shall be liable to punishment under this Code and not otherwise for
+every act or omission contrary to the provisions thereof, of which he shall be guilty
+within 11.[India] 12.[***]. 2
+COMMENT—
+This section deals with the intraterritorial operation of the Code. It makes the Code
+universal in its application to every person in any part of India for every act or omission
+contrary to the provisions of the Code.
+Section 2 read with section 4 of the IPC, 1860 makes the provisions of the Code
+applicable to the offences committed "in any place without and beyond" the territory of
+India; (1) by a citizen of India or (2) on any ship or aircraft registered in India,
+irrespective of its location, by any person not necessarily a citizen. Such a declaration
+was made as long back as in 1898. By an amendment in 2009 to the said section, the
+Code is extended to any person in any place "without and beyond the territory of India",
+committing an offence targeting a computer resource located in India.13.
+1. 'Every person'.—Every person is made liable to punishment, without distinction of
+nation, rank, caste or creed, provided the offence with which he is charged has been
+committed in some part of India. A foreigner who enters the Indian territories and thus,
+accepts the protection of Indian laws virtually gives an assurance of his fidelity and
+obedience to them and submits himself to their operation. It is no defence on behalf of
+a foreigner that he did not know he was doing wrong, the act not being an offence in
+his own country. A foreigner who commits an offence within India is guilty and can be
+punished as such without any limitation as to his corporal presence in India at the
+time.14. Indian Courts have jurisdiction against foreigners residing in foreign countries
+but their acts connected with transaction or part of transaction arising in India.15.
+[s 2.1] Corporate Criminal Liability
+A company is liable to be prosecuted and punished for criminal offences. Although
+there are earlier authorities to the fact that the corporation cannot commit a crime, the
+generally accepted modern rule is that a corporation may be subject to indictment and
+other criminal process although the criminal act may be committed through its agent.
+The majority in the Constitution bench held that there is no immunity to the companies
+from prosecution merely because the prosecution is in respect of offences for which
+the punishment is mandatory imprisonment and fine.16. When imprisonment and fine is
+prescribed as punishment the Court can impose the punishment of fine which could be
+enforced against the company.17.
+In CBI v Blue Sky Tie-up Pvt Ltd,18. the question again came up for consideration before
+the Supreme Court and it was held that since the majority of the Constitution Bench
+ruled in Standard Chartered Bank v Directorate of Enforcement [supra] that the company
+can be prosecuted even in a case where the Court can impose substantive sentence as
+also fine, and in such case only fine can be imposed on the corporate body, the contrary
+view taken by the learned single Judge cannot be approved.
+[s 2.2] Vicarious Liability.—
+Indian Penal Code, save and except some matters does not contemplate any vicarious
+liability on the part of a person. Commission of an offence by raising a legal fiction or
+by creating a vicarious liability in terms of the provisions of a statute must be expressly
+stated. The Managing Director or the Directors of the Company, thus, cannot be said to
+have committed an offence only because they are holders of offices.19. Vicarious
+liability of the Managing Director and Director would arise provided any provision exists
+in that behalf in the statute. Statutes indisputably must contain provision fixing such
+vicarious liabilities. Even for the said purpose, it is obligatory on the part of the
+complainant to make requisite allegations which would attract the provisions
+constituting vicarious liability.20. The provisions of the Essential Commodities Act,
+1955, Negotiable Instruments Act, 1881, Employees' Provident Fund (Miscellaneous
+Provision) Act, 1952, etc., have created such vicarious liability. It is interesting to note
+that section 14A of the 1952 Act specifically creates an offence of criminal breach of
+trust in respect of the amount deducted from the employees by the company. In terms
+of the explanations appended to section 405 of the IPC, 1860 a legal fiction has been
+created to the effect that the employer shall be deemed to have committed an offence
+of criminal breach of trust. Whereas a person in charge of the affairs of the company
+and in control thereof has been made vicariously liable for the offence committed by
+the company along with the company but even in a case falling under section 406 of
+the IPC, 1860 vicarious liability has been held to be not extendable to the Directors or
+officers of the company.21.
+There is no exception in favour of anyone in the Penal Code, but the following persons
+are exempted from the jurisdiction of criminal Courts of every country:—
+(a) Foreign Sovereigns.—The real principle on which the exemption, of every sovereign
+from the jurisdiction of every Court, has been deduced is that the exercise of such
+jurisdiction would be incompatible with his regal dignity—that is to say, with his
+absolute independence of every superior authority.22.
+(b) Diplomats.—United Nations Privileges and Immunities Act, 1947, and the Diplomatic
+Relations (Vienna Convention) Act, 1972, gave certain diplomats, missions and their
+member's diplomatic immunity even from criminal jurisdiction. The Diplomatic
+Relations (Vienna Convention) Act had been enacted to give effect to the Vienna
+Convention on Diplomatic Relations, 1961. The effect of section 2 of the Act is to give
+the force of law in India to certain provisions set out in the Schedule to the Act.
+A diplomatic agent shall enjoy immunity from the criminal jurisdiction of the receiving
+State. He shall also enjoy immunity from its civil and administrative jurisdiction except
+in the case of:
+(i) A real action relating to private immovable property situated in the territory of the
+receiving State, unless he holds it on behalf of the sending State for the
+purposes of the mission;
+(ii) An action relating to succession in which the diplomatic agent is involved as
+executor, administrator, heir or legatee as a private person and not on behalf of
+the sending State;
+(iii) An action relating to any professional or commercial activity exercised by the
+diplomatic agent in the receiving State outside his official functions.23. A
+diplomatic agent is not obliged to give evidence as a witness.24. Privileges and
+immunities are conferred on United Nations and its Representatives as well as
+on other international organisations and their representatives by the United
+Nations (Privileges and Immunities) Act, 1947.25.
+(c) Alien enemies.—In respect of acts of war alien enemies cannot be tried by criminal
+Courts. If an alien enemy commits a crime unconnected with war, e.g., theft, he would
+be triable by ordinary criminal Courts.
+(d) Foreign army.—When armies of one State are by consent on the soil of a foreign
+State they are exempted from the jurisdiction of the State on whose soil they are.
+(e) Warships.—Men-of-war of a State in foreign waters are exempt from the jurisdiction
+of the State within whose territorial jurisdiction they are. The domestic Courts, in
+accordance with principles of international law, will accord to the ship and its crew and
+its contents certain immunities. The immunities can, in any case, be waived by the
+nation to which the public ship belongs.26.
+(f) President and Governors.—Under Article 361 of the Indian Constitution, the
+President and Governors are exempt from the jurisdiction of Courts.
+2. 'Within India'.—If the offence is committed outside India it is not punishable under
+the Penal Code, unless it has been made so by means of special provisions such as
+sections 3, 4, 108A, etc., of the Code. Under section179 of the Cr PC, 1973 even the
+place(s) wherein the consequence (of the criminal act) "ensues" would be relevant to
+determine the Court of competent jurisdiction. Therefore, even the Courts within whose
+local jurisdiction, the repercussion/effect of the criminal act occurs, would have
+jurisdiction in the matter. When the consequence of an act committed by a foreigner
+outside India if ensued in India, he can be tried in India.27. Normally crime carries the
+person. The commission of a crime gives the Court of the place where it is committed
+jurisdiction over the person of the offender.28.
+[s 2.3] Territorial jurisdiction.—
+The territory of India is defined under Article 1 of the Constitution of India. Article 1 of
+the Constitution of India deals only with the geographical territory while Article 297
+deals with 'maritime territory'.
+Article 297(3) authorises the Parliament to specify from time to time the limits of
+various maritime zones such as, territorial waters, continental shelf, etc. Clauses (1)
+and (2) of the said Article make a declaration that all lands, minerals and other things
+of value and all other resources shall vest in the Union of India.29. Section 18 of the IPC,
+1860 defines India as the territory of India excluding the state of Jammu and Kashmir.
+These territorial limits would include the territorial waters of India.30. Under the General
+Clauses Act, 1897, India is defined to mean all territories for the time being comprised
+in the territory of India as defined in the Constitution of India. Under the provisions of
+Article 297 of the Constitution of India, all lands, minerals and other things of value
+underlying the ocean within the territorial waters or the continental shelf or the
+exclusive economic zone of India vest in the Union. The Constitution of India does not
+itself define the terms territorial waters, continental shelf, and exclusive economic
+zone. Clause (3) of Article 297 states that their limits shall be such as may be specified
+by Parliament. In 1976, Parliament implemented the amendments to the Constitution
+of India by passing the Maritime Zones Act, 1976.31. Insofar the Republic of India is
+concerned, the limit of the territorial waters was initially understood to be three nautical
+miles. It had been extended subsequently; up to six nautical miles by a Presidential
+proclamation dated 22 March 1952 and to 12 nautical miles by another proclamation
+dated 30 September 1967. By The Territorial Waters, Continental Shelf, Exclusive
+Economic Zone and Other Maritime Zones Act, 80 of 1976, it was statutorily fixed at 12
+nautical miles. Section 3 of the Act stipulates that the sovereignty of India extends to
+the territorial waters, the limit of which is 12 nautical miles. Section 5 of the Territorial
+Waters Act, 1976 defines the contiguous zone of India as an area beyond and adjacent
+to territorial waters to a distance of 24 nautical miles from the nearest point of the
+baseline. Section 7 of the Act defines the Exclusive economic zone of India as an area
+beyond and adjacent to territorial waters up to a limit of 200 nautical miles.32.
+[s 2.4] Jurisdiction beyond Territorial Waters
+In the case of British India Steam Navigation Co Ltd v Shanmughavilas Cashew
+Industries,33. the Supreme Court examined the effective operation of the statutes of a
+country in relation to foreigners and foreign ships.
+In general, a statute extends territorially, unless the contrary is stated, throughout the
+country and will extend to the territorial waters, and such places as intention to that effect is
+shown. A statute extends to all persons within the country if that intention is shown. The
+Indian Parliament, therefore, has no authority to legislate for foreign vessels or foreigners in
+them on the high seas. Thus a foreign ship on the high seas, or her foreign owners or their
+agents in a foreign country, are not deprived of rights by our statutory enactment expressed
+in general terms unless it provides that a foreign ship entering an Indian port or territorial
+waters and thus coming within the territorial jurisdiction is to be covered. Without anything
+more Indian statutes are ineffective against foreign property and foreigners outside the
+jurisdiction.
+It is this principle which is reflected in section 2(2) of the Merchant Shipping Act,
+1958.34.
+Earlier in Aban Loyd Chiles Offshore Ltd v UOI,35. it was held that India has been given
+only certain limited sovereign rights and such limited sovereign rights conferred on
+India in respect of continental shelf and exclusive economic zone cannot be equated to
+extending the sovereignty of India over the continental shelf and exclusive economic
+zone as in the case of territorial waters.
+1. MC Verghese v Ponnan, AIR 1970 SC 1876 [LNIND 1968 SC 339] : (1969) 1 SCC 37 [LNIND
+1968 SC 339] : 1970 Cr LJ 1651 .
+2. Mobarik Ali v State of Bombay, AIR 1957 SC 857 [LNIND 1957 SC 81] : 1957 Cr LJ 1346 (SC).
+11. The original words "the said territories" have successively been amended by the A.O. 1937,
+the A.O. 1948, the A.O. 1950 and Act 3 of 1951, section 3 and Sch (w.e.f. 3-4-1951), to read as
+above.
+12. The words and figures "on or after the said first day of May, 1861" rep. by Act 12 of 1891,
+section 2 and Sch I.
+13. Republic of Italy through Ambassador v UOI, (2013) 4 SCC 721 : 2013 (1) Scale 462
+[LNINDORD 2013 SC 9114] .
+14. Mobarik Ali v State of Bombay, AIR 1957 SC 857 [LNIND 1957 SC 81] : 1957 Cr LJ 1346 (SC).
+See also State of Maharashtra v Mayer Hans George, 1965 (1) SCR 123 [LNIND 1964 SC 415] :
+AIR 1965 SC 722 [LNIND 1964 SC 208] : 1965 (1) Cr LJ 641 .
+15. Lee Kun Hee v State of UP, (2012) 3 SCC 132 [LNIND 2012 SC 89] : AIR 2012 SC 1007
+[LNINDORD 2012 SC 443] : 2012 Cr LJ 1551 .
+16. Standard Chartered Bank v Directorate of Enforcement, (2005) 4 SCC 530 [LNIND 2005 SC
+476] : AIR 2005 SC 2622 [LNIND 2005 SC 476] : 2005 SCC (Cr) 961; Asstt Commr v Velliappa
+Textiles Ltd, 2003 (11) SCC 405 [LNIND 2003 SC 794] : 2004 SCC (Cr) 1214) Overruled.
+17. Standard Chartered Bank v Directorate of Enforcement, AIR 2006 SC 1301 [LNIND 2006 SC
+145] : (2006) 4 SCC 278 [LNIND 2006 SC 145] : (2006) 2 SCC (Cr) 221. See also CBI v Blue Sky
+Tie-up Pvt Ltd, (2011) 6 Scale 436 : AIR 2012 (SCW) 1098 : 2012 Cr LJ 1216 . Also see Aneeta
+Hada v Godfather Travels & Tours, (2012) 5 SCC 66 : 2012 Cr LJ 2525 : AIR 2012 SC 2795 [LNIND
+2012 SC 260] .
+18. CBI v Blue Sky Tie-up Pvt Ltd, (2011) 6 Scale 436 : AIR 2012 (SCW) 1098 : 2012 Cr LJ 1216 .
+Also see Aneeta Hada v Godfather Travels & Tours, (2012) 5 SCC 66 : 2012 Cr LJ 2525 : AIR 2012
+SC 2795 [LNIND 2012 SC 260] in which it is held that directors cannot be prosecuted without the
+Company being arraigned as an accused–138 NI Act.
+19. Keki Hormusji Gharda v Mehervan Rustom Irani, (2009) 6 SCC 475 [LNIND 2009 SC 1276] :
+2009 Cr LJ 3733 : AIR 2009 SC 2594 [LNIND 2009 SC 1276] .
+20. Maksud Saiyed v State of Gujarat, (2008) 5 SCC 668 [LNIND 2007 SC 1090] : JT 2007 (11) SC
+276 [LNIND 2007 SC 1090] : (2008) 2 SCC (Cr) 692.
+21. SK Alagh v State of UP, AIR 2008 SC 1731 [LNIND 2008 SC 368] : (2008) 5 SCC 662 [LNIND
+2008 SC 368] : 2008 Cr LJ 2256 : (2008) 2 SCC (Cr) 686.
+22. Per Brett, LJ in The Parlement Belge, (1880) 5 PD 197 , 207.
+23. Article 31 (1) of Diplomatic Relations (Vienna Convention) Act, 1972.
+24. Article 31 (1) of Diplomatic Relations (Vienna Convention) Act, 1972.
+25. United Nations (Privileges and Immunities) Act, Act No. XLV of 1947.
+26. Chung Chi Cheung, (1939) AC 160 .
+27. Lee Kun Hee v State of UP, (2012) 3 SCC 132 [LNIND 2012 SC 89] : AIR 2012 SC 1007
+[LNINDORD 2012 SC 443] : 2012 Cr LJ 1551 ; Mobarik Ali v State of Bombay, AIR 1957 SC 857
+[LNIND 1957 SC 81] : 1957 Cr LJ 1346 (SC) : 1958 SCR 328 [LNIND 1957 SC 81] .
+28. Kubic Dariusz v UOI, AIR 1990 SC 605 [LNIND 1990 SC 25] : (1990) 1 SCC 568 [LNIND 1990
+SC 25] : 1990 Cr LJ 796 .
+29. Republic of Italy through Ambassador v UOI, (2013) 4 SCC 721 : 2013 (1) Scale 462
+[LNINDORD 2013 SC 9114] .
+30. BK Wadeyar v Daulatram Rameshwarlal, AIR 1961 SC 311 [LNIND 1960 SC 493] : 1961 (1)
+SCR 924 [LNIND 1960 SC 493] .
+31. Aban Loyd Chiles Offshore Ltd v UOI, JT 2008 (5) SC 256 [LNIND 2008 SC 897] : 2008 (6)
+Scale 128 [LNIND 2008 SC 897] : (2008) 11 SCC 439 [LNIND 2008 SC 897] .
+32. UOI Republic of Italy through Ambassador v UOI, (2013) 4 SCC 721 : 2013 (1) Scale 462
+[LNINDORD 2013 SC 9114] .
+33. British India Steam Navigation Co Ltd v Shanmughavilas Cashew Industries, 1990 (3) SCC
+481 [LNIND 1990 SC 150] : JT 1990 (1) SC 528 [LNIND 1990 SC 150] : 1990 (1) SCR 884 .
+34. World Tanker Carrier Corp v SNP Shipping Services Pvt Ltd, AIR 1998 SC 2330 [LNIND 1998
+SC 461] : 1998 (5) SCC 310 [LNIND 1998 SC 461] .
+35. Aban Loyd Chiles Offshore Ltd v UOI, (2008) 11 SCC 439 [LNIND 2008 SC 897] : JT 2008 (5)
+SC 256 [LNIND 2008 SC 897] : 2008 (6) Scale 128 [LNIND 2008 SC 897] .

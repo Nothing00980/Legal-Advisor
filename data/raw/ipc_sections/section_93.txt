@@ -1,0 +1,111 @@
+Act of a person incapable of judgment by reason of intoxication caused
+against his will.
+Nothing is an offence which is done by a person who, at the time of doing it, is, by
+reason of intoxication, incapable of knowing the nature of the act, or that he is doing
+what is either wrong, or contrary to law; provided that the thing which intoxicated him
+was administered to him without his knowledge or against his will.
+COMMENT.—
+Under this section a person will be exonerated from liability for doing an act while in a
+state of intoxication if he at the time of doing it, by reason of intoxication, was
+(1) incapable of knowing the nature of the act, or
+(2) that he was doing what was either wrong or contrary to law;
+Provided that the thing which intoxicated him was administered to him without his
+knowledge or against his will.185.
+Voluntary drunkenness is no excuse for the commission of a crime.186. A person
+cannot become himself drunk with liquor and commit an offence and then come and
+say that he had consumed the liquor and, therefore, the benefit of section 85 should be
+given to him.187. The law pronounces that the obscuration and divestment of that
+judgment and human feeling which in a sober state would have prevented the accused
+from offending, shall not, when produced by his voluntary act, screen him from
+punishment, although he be no longer capable of self-restraint.188. It is also no excuse
+to say that because of it he failed to resist the impulse to act in a certain way189. or
+that because of it he acted like an automaton.190.
+[s 85.1] Voluntary drunkenness.—when an excuse.—
+Nevertheless voluntary drunkenness is a factor which has to be taken into
+consideration at least in two types of cases, viz.,
+(i) where a specific intent is an essential element of an offence charged and the
+evidence shows that the state of intoxication of the accused is such that he is
+incapable of forming the specific intent essential to constitute the crime.191. In the
+Indian context, for example, it would be intent to kill as in clauses 1, 2, and 3 of section
+300, IPC, 1860. In such cases, however, even if the accused fails to actually form the
+specific intent, section 86, IPC, 1860, would impute the necessary guilty knowledge to
+him and he would, therefore, be liable for culpable homicide not amounting to murder
+though not of murder.192. Thus, voluntary intoxication amounting to prove incapacity to
+form the required specific intent would be a limited excuse to reduce an offence of
+murder (section 302) to one of culpable homicide not amounting murder (section 304,
+IPC, 1860). This is, however, a question of fact in each case.
+In a case of wife-burning, her dying declaration disclosed that her husband consumed
+liquor, scolded her and then set her afire after pouring kerosene on her. She fought the
+fire and tried to run away but the accused again caught hold of her and again poured oil
+and inflamed her. It was held that these circumstances showed that the mental
+faculties of the accused were not impaired to such an extent that he was prevented
+from forming the requisite intention to cause death. He was convicted under section
+302 and not section 304, Part II.193.
+(ii) where habitual drunkenness has resulted in such a diseased condition of the mind
+that the accused is incapable of knowing the nature of the act or that he is doing what
+is either wrong or contrary to law. In such a case M'Naughten Rules (section 84, IPC,
+1860) would come into play and he would be absolved from liability.194. The most
+common example of such an alcoholic disease is "Delirium Tremens" which is
+produced by prolonged and habitual excessive drinking and results in loss of the
+faculty of reasoning or serious defect of reasoning. In other words, "insanity, whether
+produced by drunkenness or otherwise, is a defence to the crime charged."195.
+Under this section if a man is made drunk through stratagem or the fraud of others, or
+through ignorance, or through any other means causing intoxication without the man's
+knowledge or against his will, he is excused.196.
+[s 85.2] CASE.—
+The accused ravished a girl of 13 years of age and, in furtherance of the act of rape,
+placed his hand upon her mouth and his thumb upon her throat, thereby causing death
+by suffocation. The sole defence was a plea of drunkenness. It was held that
+drunkenness was no defence unless it could be established that the accused at the
+time of committing rape was so drunk that he was incapable of forming the intent to
+commit it (which was not alleged), inasmuch as the death resulted from a succession
+of acts, the rape and the act of violence causing suffocation, which could not be
+regarded independently of each other; and that the accused was guilty of murder.197.
+Drink is an aggravating feature in the award of sentence. In reference to one of the
+accused persons there was no evidence to establish that the effect of intoxication was
+such as to cause him to lack the specific intent for murder, particularly in view of the
+fact that, on his own admission, he was following instructions given by the other
+accused and he was able to give the police a lucid account of his actions. The degree
+of intoxication fell far below that which would preclude the formation of specific intent
+required for murder.198.
+1. Shankar Narayan Bhadolkar v State of Maharashtra, AIR 2004 SC 1966 [LNIND 2004 SC 1370] :
+2004 Cr LJ 1778 : (2005) 9 SCC 71 [LNIND 2004 SC 1370] .
+2. The Indian Evidence Act, I of 1872, section 105.
+3. Musammat Anandi, (1923) 45 All 329 ; Babulal, 1960 Cr LJ 437 (All).
+4. A K Chaudhary v State of Gujarat, 2006 Cr LJ 726 (Guj).
+5. A K Chaudhary v State of Gujarat, 2006 Cr LJ 726 (Guj).
+185. Bablu v State of Rajasthan, (2006) 13 SCC 116 [LNIND 2006 SC 1134] : AIR 2007 SC 697
+[LNIND 2006 SC 1134] : 2007 Cr LJ 1160 , the Court stated three propositions as to the scope of
+the section:
+(i) the insanity whether produced by drunkenness or otherwise is a defence to the crime
+charged;
+(ii) evidence of drunkenness which renders the accused incapable of forming the specific
+intent essential to constitute the crime should be taken into account with the other facts
+proved in order to determine whether or not he had this intent; and
+(iii) the evidence of drunkenness falling short of a proved incapacity in the accused to form
+the intent necessary to constitute the crime and merely establishing that his mind is
+affected by drink so that he more readily gave to some violent passion, does not rebut
+the presumption that a man intends the natural consequences of his acts.
+186. Chet Ram vState, 1971 Cr LJ 1246 ; (HP) Bodhee Khan, (1866) 5 WR (Cr) 79; Boodh Dass,
+(1866) PR No. 41 of 1866.
+187. Venkappa Kannappa Chowdari v State of Karnataka, 1996 Cr LJ 15 (Kar).
+188. Mobeni Minji, 1982 Cr LJ NOC 39 (Gau).
+189. Director of Public Prosecutions v Beard, (1920) AC 479 ; AG for Northern Ireland v Gallagher
+(1963) AC 349 .
+190. Brathy v AG for Northern Ireland, (1963) AC 386 .
+191. Director of Public Prosecutions v Beard, (1920) AC 479 ; Ramsingh, (1938) Nag 305;
+Samman Singh, (1941) 24 Lah 39; DPP v Majewski (1976) 2 All ER 142 ; Shankar Jaiswara v State
+of WB, (2007) 9 SCC 360 [LNIND 2007 SC 651] : (2007) 3 SCC Cr 553, the appellant abused the
+victim in a filthy language, and when told to leave, stabbed him seven times to his death with a
+sharp weapon, so many wounds shows no loss of self control, witnesses did not testify to the
+degree of intoxication, in such circumstances it could not be said that there was no intention on
+the part of the appellant or that he was out of his senses on account of intoxication.
+192. Mathai Mathew, 1952 Cr LJ 1304 (TC); Basdev v State of PEPSU, 1956 Cr LJ 919 (2) : AIR
+1956 SC 488 [LNIND 1956 SC 34] ; see also R. Deb, Principles of Criminology, Criminal Law and
+Investigation, 2nd Edn, vol II, pp 604-605.
+193. Mavari Surya Satyanaraina v State of AP, (1995) 1 Cr LJ 689 .
+194. Davis (1881) 14 Cox cc 563; AG for Northern Ireland v Gallagher; DPP v Board, Supra.
+195. Basdev, 1956 Cr LJ 919 (at p 922-SC).
+196. 1 Hale PC 32.
+197. Director of Public Prosecutions v Beard, (1920) AC 479 .
+198. Sooklal v Trinidad and Tobago, (1999) 1 WLR 2011 , [Lord Hope of Craighead, PC].

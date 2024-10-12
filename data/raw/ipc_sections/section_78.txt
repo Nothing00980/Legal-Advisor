@@ -1,0 +1,188 @@
+Limit of punishment of offence made up of several offences.
+Where anything which is an offence is made up of parts, any of which parts is itself an
+offence, the offender shall not be punished with the punishment of more than one of
+such his offences, unless it be so expressly provided.
+225. [Where anything is an offence falling within two or more separate definitions of
+any law in force for the time being by which offences are defined or punished, or
+where several acts, of which one or more than one would by itself or themselves
+constitute an offence, constitute, when combined, a different offence,
+the offender shall not be punished with a more severe punishment than the Court
+which tries him could award for any one of such offences.]
+ILLUSTRATIONS
+(a) A gives Z fifty strokes with a stick. Here A may have committed the offence of
+voluntarily causing hurt to Z by the whole beating, and also by each of the blows
+which make up the whole beating. If A were liable to punishment for every blow,
+he might be imprisoned for fifty years, one for each blow. But he is liable only to
+one punishment for the whole beating.
+(b) But if, while A is beating Z, Y interferes, and A intentionally strikes Y, here, as the
+blow given to Y is no part of the act whereby A voluntarily causes hurt to Z, A is
+liable to one punishment for voluntarily causing hurt to Z, and to another for the
+blow given to Y.
+COMMENT—
+The section says that where an offence is made up of parts, each of which constitutes
+an offence, the offender should not be punished for more than one offence unless
+expressly provided. Where an offence falls within two or more separate definitions of
+offences; or where several acts of which one or more than one would, by itself or
+themselves, constitute an offence, constitute, when combined, a different offence, the
+offender should not be punished with a more severe punishment than the Court which
+tries him could award for any one of such offences. The section governs the whole
+Code and regulates the limit of punishment in cases in which the greater offence is
+made up of two or more minor offences. It is not a rule of adjective law or procedure,
+but a rule of substantive law regulating the measure of punishment, and it does not,
+therefore, affect the question of conviction, which relates to the province of procedure.
+Section 71 IPC, 1860 as well as section 26 of the General Clauses Act, 1897 talk only of
+punishment and not of conviction. Thus, conviction of the accused in respect of the
+same act for two different offences is quite legal.226. The section contemplates
+separate punishments for an offence against the same law and not under different
+laws. Where offences are committed under two separate enactments, section 71 IPC,
+1860 is not helpful to the accused and as such, two separate sentences cannot be
+questioned by pressing section 71 into service.227. In order to attract provisions of
+Article 20(2) of the Constitution, i.e., doctrine of autrefois acquit or section 300 Cr PC,
+1973 or section 71 IPC, 1860 or section 26 of the General Clauses Act, 1897
+ingredients of the offences in the earlier case as well as in the latter case must be the
+same and not different. The test to ascertain whether the two offences are the same is
+not identity of the allegations but the identity of the ingredients of the offence.228.
+The rules for assessment of punishment are laid down in sections 71 and 72 of the
+IPC, 1860 and section 31 of the Cr PC, 1973. Section 31 of the Code of Criminal
+Procedure provides that when a person is convicted at one trial of two or more
+offences, the Court may, subject to the provisions of section 71 of the IPC, 1860,
+sentence him, for such offences, to the several punishments prescribed therefor which
+such Court is competent to inflict; and in the case of consecutive sentences, it shall not
+be necessary for the Court, by reason only of the aggregate punishment for the several
+offence being in excess of the punishment which it is competent to inflict on conviction
+of a single offences, to send the offender for trial before a higher Court. It, therefore,
+enhances the ordinary powers of sentences given to Magistrates by section 29, Cr PC,
+1973; but in order to bring a case within the purview of this section, the accused must
+have been convicted of two or more offences in the same trial, and the sentence for
+any one of these offences should not exceed the limits of their ordinary powers. The
+limits fixed by this section refer to sentences passed simultaneously, or upon charges
+which are tried simultaneously. Sentences of imprisonment passed under it may run
+concurrently. When an accused is convicted at one trial of two or more offences,
+section 31(1) of Cr PC, 1973 vests discretion in Court to direct that punishment shall
+run concurrently. Court may sentence the accused for such offences to several
+punishments prescribed therefor, and such punishment would consist of imprisonment
+to commence, one after expiration of other in such order as the Court may direct,
+subject to limitation contained in section 71 of IPC, 1860.229.
+[s 71.1] Illustration (a).—
+"A gives Z fifty strokes with a stick. Here A may have committed the offence of
+voluntarily causing hurt to Z by the whole beating, and also by each of the blows which
+make up whole beating. If A were liable to punishment for every blow, he might be
+imprisoned for 50years, one for each blow. But he is liable only to one punishment for
+the whole beating." It is to be noted that the whole beating is considered to constitute
+one offence while each of the blows also amounted to the offence of voluntarily
+causing hurt. It can be said, therefore, that while the obtaining of money by cheating on
+the presentation of an individual bill did constitute the offence of cheating the
+obtaining of the entire money in pursuance of the terms of the single contract and the
+single conspiracy entered into also constituted the offence of cheating. When the
+accused could not be punished with the punishment for more than one such offence it
+cannot be the intention of law that the accused be charged with each of the offences,
+which were in a way included in the complete offence made up by the entire course of
+conduct of the accused in pursuance of the conspiracy.230.
+[s 71.2] Section 71 IPC and section 220 Cr PC.—
+Section 71 of the IPC, 1860 has to be read in conjunction with section 220 of the Cr PC,
+1973. It should, however, be remembered that section 220 Cr PC, 1973 contains only
+rules of criminal pleading in regard to joinder of charges and does not deal with the
+sentence to be passed on the charges of the offences mentioned in the several
+illustrations thereunder. Sub-section (5) of section 220 Cr PC, 1973 makes this position
+abundantly clear. A joint reading of section 71 IPC, 1860 and section 220 Cr PC, 1973
+clearly shows that clause (2) of section 71 IPC, 1860 approximates sub-section (3) of
+section 220 Cr PC, 1973 and clause (3) of section 71 IPC, 1860 corresponds to sub-
+section (4) of section 220 Cr PC, 1973. It, therefore, follows that the embargo on
+separate sentence under section 71 IPC, 1860 applies only to cases falling within sub-
+sections (3) and (4) of section 220 Cr PC, 1973 and not under, for example, sub-section
+(1) of that section.231. Thus in cases covered by illustrations (i), (j) and (k) to sub-
+section (3) and illustration (m) to sub-section (4) of section 220 Cr PC, though the
+offences mentioned therein could be tried together and conviction recorded in regard
+to each one of them, yet no separate sentences could be passed in view of the
+embargo contained in section 71 IPC, 1860. Similarly, where the accused was
+convicted and sentenced under section 147 IPC, 1860 a separate sentence under
+section 143 IPC, 1860 could not be passed.232. In the same way when an accused is
+convicted for a more serious offence, e.g., under section 148 IPC, 1860 a separate
+sentence under section 147 IPC, 1860 is not only uncalled for but illegal.233. It,
+therefore, means that cases falling under sub-section (1) of section 220 Cr PC, 1973
+where several distinct offences are committed in course of the same transaction, the
+accused cannot only be tried and convicted of all of them at one trial but even separate
+sentences can be passed in regard to each one of them. Thus, where a person
+commits lurking house-trespass by night (section 457 IPC, 1860) and also commits
+theft (section 380 IPC, 1860) in course of the same transaction, he can be convicted
+and sentenced separately for both of them.234. Though the offence under section 420,
+IPC, 1860 and offence under section 138, N.I. Act are very distinct and their ingredients
+are different, still both the offences were committed during the same transaction;
+accused could have been charged and tried for both the offences during single trial as
+per section 220, Cr PC, 1973. However, from the language of section 220, it appears to
+be enabling provision whereby two or more different offences may be tried together by
+the Court and not mandatory.235.
+[s 71.3] CASES.—
+1.It was contended that the accused having caused the evidence of the two offences
+under sections 330 and 348 to disappear, committed two separate offences under
+section 201 and are punishable accordingly. Taking a strict view of the matter, it must
+be said that by the same act the appellants committed two offences under section 201.
+The case is not covered either by section 71 of the IPC, 1860 or by section 26 of the
+General Clauses Act, and the punishment for the two offences cannot be limited under
+those sections. But, normally, no Court should award two separate punishments for the
+same act constituting two offences under section 201. The appropriate sentence under
+section 201 for causing the evidence of the offence under section 330 to disappear
+should be passed, and no separate sentence need be passed under section 201 for
+causing the evidence of the offence under section 348 to disappear.236. Where death
+was caused by rash and negligent driving of a truck and the accused could be
+convicted under sections 279 and also under sections 304A, it was held that a separate
+sentence under sections 279 could not be imposed.237.
+[s 71.4] Rioting and grievous hurt.—
+The illustration (a) to section 71 IPC makes it clear that where only an offence is made
+up of many parts, and then only, the offender shall not be punished for more than one
+such offence. When the offences are separate and distinct and do not constitute parts
+of one offence, the accused can be convicted separately for each one of the offences.
+Therefore, the argument that the sentence both under sections 148 and 324, IPC is
+opposed to section 71, IPC is not acceptable.238.
+The provisions of section 31 of the Code of Criminal Procedure have to be read subject
+to the provisions of this section and that where anything is an offence falling within two
+or more separate definitions of any law in force for the time being by which offences
+are defined or punished, the offender shall not be punished with more severe
+punishment than the Court which tries him could award for anyone of such
+offences.239.
+3. Same facts constituting different offences.—It has been held that although the act
+of the petitioner is only one, namely plying of overloaded vehicle on the public road, he
+had committed two distinct offences punishable under two different enactments,
+namely (i) violation of the terms of permit and certificate of registration granted by the
+authorities which is punishable under the Motor Vehicles Act, 1988 and (ii) causing
+damage to the public property which is punishable under the Prevention of Damage to
+Public Property Act, 1984. Hence, the claim of the petitioner that he is being punished
+more than once for the same offence violating Article 20(2) of the Constitution of India
+is neither factually correct nor legally tenable as he is being proceeded against for two
+distinct offences punishable under two separate Acts and no parallel procedure for the
+same offence is being adopted.240. Prosecution under sections 5 and 6 of Rajasthan
+Sati (Prevention) Act 1987 not barred since section 5 makes the commission of an act
+an offence and punishes the same while the provisions of section 6 are preventive in
+nature and make provision for punishing contravention of prohibitory order so as to
+make the prevention effective. The two offences have different ingredients.241.
+4. An act giving rise to an offence and an aggravated form of the same offence.—
+Section 457 makes punishable lurking house trespass by night or house breaking by
+night in order to the committing of any offence punishable with imprisonment and if
+the offence intended to be committed is theft, the punishment is higher. Section 380
+makes punishable a theft committed in a dwelling house. The two offences do not, in
+our opinion, fall under section 71 and, therefore, the conviction under both the sections
+is not illegal.242.
+225. Added by Act 8 of 1882, sec. 4.
+226. Ramanaya v State, 1977 Cr LJ 467 (Pat).
+227. Re Natarajan, 1976 Cr LJ 1502 (Mad); see also Sukhnandan v State, (1917) 19 Cr LJ 157 .
+228. Mahendrabhai v State of Gujarat, AIR 2012 SC 2844 [LNIND 2012 SC 1473] : (2012) 7 SCC
+621 [LNIND 2012 SC 1473] : 2012 Cr LJ 2432 .
+229. Satnam Singh Puransing Gill v State of Maharashtra, 2009 Cr LJ 3781 .
+230. Banwarilal Jhunjhunwala v UOI, AIR 1963 SC 1620 [LNIND 1962 SC 382] : 1963 (Supp2)
+SCR 338 : 1963 Cr LJ 529 .
+231. Nirichan, 12 M. 36; Kalidas, 38 C 453 : Wazir, 10A 58.
+232. Poovappa, 1981 Cr LJ NOC 107 (Kant).
+233. Re Thangavelu, 1972 Cr LJ 390 (Mad).
+234. Udai Bhan, 1962 (2) Cr LJ 251 : AIR 1962 SC 1116 [LNIND 1962 SC 37] ; see also Ramanaya
+v State, 1977 Cr LJ 467 (Pat).
+235. Sharan P Khanna v Oil & Natural Gas Corp Ltd, 2010 Cr LJ 4256 (Bom).
+236. Roshan Lal v State of Punjab, AIR 1965 SC 1413 [LNIND 1964 SC 339] : 1965 (2) Cr LJ 426 .
+See also Nafe Singh v State of Haryana, (1971) 3 SCC 934 : (1972) 1 SCC (Cr) 182; Kharkan v
+State of UP, AIR 1965 SC 83 [LNIND 1963 SC 205] : 1965 (1) Cr LJ 116 .
+237. Kantilal Shivabhai v State of Gujarat, 1990 Cr LJ 2500 (Guj).
+238. Angadi Chennaiah v State of AP, 1985 Cr LJ 1366 (AP).
+239. Puranmal, AIR 1958 SC 935 [LNIND 1958 SC 89] : 1958 Cr LJ 1432 .
+240. Vikash Kumar Singh v State of Bihar, AIR 2011 Pat 72 [LNINDORD 2011 PAT 7073] .
+241. State of Rajasthan v Hat Singh, 2003 (2) SCC 152 [LNIND 2003 SC 7] : AIR 2003 SC 791
+[LNIND 2003 SC 7] .
+242. Udai Bhan v State of UP, AIR 1962 SC 1116 [LNIND 1962 SC 37] : 1962 Cr LJ 251 .

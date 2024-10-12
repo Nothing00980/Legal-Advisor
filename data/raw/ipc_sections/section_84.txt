@@ -1,0 +1,76 @@
+Act done by a person bound, or by mistake of fact believing himself
+bound, by law.
+Nothing is an offence which is done by a person who is, or who by reason of a mistake
+of fact 1 and not by reason of a mistake of law 2 in good faith believes himself to be,
+bound by law 3 to do it.
+ILLUSTRATIONS
+(a) A, a soldier, fires on a mob by the order of his superior officer, in conformity with
+the commands of the law. A has committed no offence.
+(b) A, an officer of a Court of Justice, being ordered by that Court to arrest Y, and,
+after due enquiry, believing Z to be Y, arrests Z. A has committed no offence.
+COMMENT.—
+Sections 76 and 79 are based on the maxim ignorantia facti doth excusat and ignorantia
+juris non excusat. Section 76 excuses a person who has done what by law is an offence,
+under a misconception of facts, leading him to believe in good faith that he was
+commanded by law to do it. See Comment on section 79, infra.
+This section and sections 77, 78 and 79 deal with acts of a person bound or justified by
+law. This section as well as sections 78 and 79 deal with acts of a person under a
+mistake.
+1. 'Mistake of fact'.—See Comment under section 79, infra.
+2. 'Mistake of law'.—See Comment under section 79, infra.
+3. 'In good faith believes himself to be, bound by law'.—In order to entitle a person to
+claim the benefit of this section it is necessary to show the existence of a state of facts
+which would justify the belief in good faith, interpreting the latter expression with
+reference to section 52, that the person to whom the order was given was bound by law
+to obey it. Thus, in the case of a soldier, the Penal Code does not recognize the mere
+duty of blind obedience to the commands of a superior as sufficient to protect him
+from the penal consequences of his act. But in certain circumstances a soldier
+receives absolute protection under section 132 of the Cr PC, 1973.
+For illegal acts, however, neither the orders of a parent nor a master nor a superior will
+furnish any defence. Nothing but fear of instant death is a defence for a policeman who
+tortures anyone by order of a superior. The maxim respondeat superior has no
+application to such a case.6. The net position appears to be that if superior order is in
+conformity with the law no further question arises and the subordinate officer is
+protected by section 76 IPC, 1860, if he carries out that order. It is only when the order
+is not in accordance with the law but the subordinate officer who carries out that order
+in good faith, on account of a mistake of fact and not on ground of mistake of law,
+believes himself to be bound by law to carry out such an order, that a further question
+arises as to whether the subordinate officer will not still get protection of section 76
+IPC, 1860, because of his mistake of fact. Thus, where the order was legal in the
+circumstances of the case, e.g., where the police patrol party opened fire under the
+order of the Deputy Commissioner of Police after it had been attacked on a dark night
+and an Assistant Commissioner of Police had been injured as a result of such attack,
+really no question arose for the application of section 76 IPC, 1860, as the order was
+both legal and justified by the circumstances of the case.7. The Indian law as contained
+in sections 76 and 79 of the Penal Code appears to be the same as in England. This
+point has, however, not been clearly decided in any case including the decision of the
+Supreme Court in Shew Mangal Singh's case.8. There are, however, enough indications
+in Shew Mangal Singh's case and in sections 76 and 79 IPC, 1860, that if the
+subordinate due to a mistake of fact and not due to a mistake of law honestly believed
+that he was bound or justified by law in carrying out the superior order which though
+not manifestly illegal was nevertheless illegal, perhaps he would still get the benefit of
+superior order. Obedience to an illegal order can only be used in mitigation of
+punishment but cannot be used as a complete defence.9. If on account of any
+abnormal reaction, the employee has committed suicide, the conduct of the
+complainant or of higher officer of taking departmental action by way of resorting to
+legal remedy or enforcement of law, cannot be termed as leaving no option to the
+delinquent employee but to commit suicide and, therefore, cannot be said as abetment
+or incitement to suicide under such circumstances. In any case any action for resorting
+to legal remedy for grievances or for enforcement of law in exercise of powers or
+purported exercise of power cannot be said to contain any element of criminality
+unless such action is ex facie without any competence, authority or jurisdiction.10.
+[s 76.1] Protection of private persons assisting police.—
+Private persons who are bound to assist the police under section 42 of the Cr PC, 1973
+will be protected under this section.
+1. Shankar Narayan Bhadolkar v State of Maharashtra, AIR 2004 SC 1966 [LNIND 2004 SC 1370] :
+2004 Cr LJ 1778 : (2005) 9 SCC 71 [LNIND 2004 SC 1370] .
+2. The Indian Evidence Act, I of 1872, section 105.
+3. Musammat Anandi, (1923) 45 All 329 ; Babulal, 1960 Cr LJ 437 (All).
+4. A K Chaudhary v State of Gujarat, 2006 Cr LJ 726 (Guj).
+5. A K Chaudhary v State of Gujarat, 2006 Cr LJ 726 (Guj).
+6. Latifkhan v State, (1895) 20 Bom 394; Gurdit Singh, (1883) PR No. 16 of 1883.
+7. State of WB v Shew Mangal Singh, 1981 Cr LJ 1683 : AIR 1981 SC 1917 [LNIND 1981 SC 355]
+: (1981) 4 SCC 2 [LNIND 1981 SC 355] .
+8. Shew Mangal Singh, Supra.
+9. Chaman Lal, (1940) 21 Lah 521.
+10. A K Chaudhary v State of Gujarat, 2006 Cr LJ 726 (Guj).

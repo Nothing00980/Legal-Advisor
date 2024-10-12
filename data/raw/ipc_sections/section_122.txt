@@ -1,0 +1,90 @@
+Abettor present when offence is committed.
+Whenever any person who if absent would be liable to be punished as an abettor, is
+present when the act or offence for which he would be punishable in consequence of
+the abetment is committed, he shall be deemed to have committed such act or
+offence.
+COMMENTS.—
+This section:
+is only brought into operation when circumstances amounting to abetment of a particular
+crime have first been proved, and then the presence of the accused at the commission of
+that crime is proved in addition … Section 114 deals with the case, where there has been the
+crime of abetment, but where also there has been actual commission of the crime abetted
+and the abettor has been present thereat, and the way in which it deals with such a case is
+this. Instead of the crime being still abetment with circumstances of aggravation, the crime
+becomes the very crime abetted. The section is evidently not punitory. Because
+participation de facto. … may sometimes be obscure in detail, it is established by the
+presumption Juris et de jure that actual presence plus prior abetment can mean nothing else
+but participation. The presumption raised by s. 114 brings the case within the ambit of s.
+34.97.
+The meaning of this section is that if the nature of the act done constitutes abetment,
+then, if present, the abettor is to be deemed to have committed the offence, though in
+point of fact another actually committed it. The abetment must be complete apart from
+the mere presence of the abettor.98. The words "who if absent would be liable to be
+punished as an abettor" clearly show that abetment must be one prior to the
+commission of the offence and complete by itself.99. Where, for instance, a blow is
+struck by A, in the presence of, and by the order of, B, both are principals in the
+transaction. If A instigates B to murder, he commits abetment; if absent, he is
+punishable as an abettor, and if the offence is committed, then under section 109; if
+present, he is by this section deemed to have committed the offence and is punishable
+as a principal. This section applies to cases where a person abets the commission of
+the offence sometime before at a different place and also remains present at the time
+the offence is committed.100. But where a person is charged with abetment under this
+section for aiding in the Commission of an offence, e.g., section 300 IPC, 1860 and the
+person charged as the principal offender is acquitted on the ground that he had not
+committed the offence in question, no further question arises regarding abettor's
+liability.101.
+Section 114 is not applicable in every case in which the abettor is present at the
+commission of the offence abetted. While section 109 is a section dealing generally
+with abetment, section 114 applies to those cases only in which not only is the abettor
+present at the time of the commission of the offence but abetment has been
+committed prior to and independently of his presence.102.
+[s 114.1] Sections 34 and 114.—
+The distinction between sections 34 and 114 is a very fine one. According to section
+34, where a criminal act is done by several persons, in furtherance of the common
+intention of all, each of them is liable as if it were done by himself alone; so that if two
+or more persons are present, aiding and abetting in the commission of a murder each
+will be tried and convicted as a principal, though it might not be proved which of them
+actually committed the act. Section 114 refers to the case where a person by abetment,
+previous to the commission of the act, renders himself liable as an abettor, is present
+when the act is committed, but takes no active part in the doing of it.103. A mere
+direction from one person to another and the carrying out of that direction by the other
+may be only instigation of the latter's act and may not be a case of a joint act falling
+under section 34.104. Accused provided an axe to his son who assaulted the victim
+leading to his death. It was not a pre-meditated action on the part of main accused and
+appellant supplied axe instantaneously without considering its pros and cons.
+Conviction of appellant on charge of abetment (section 114) is not maintainable.105.
+1. 'Present'.—It is not necessary that the party should be actually present, an ear or eye
+witness of the transaction; he is, in construction of law, present, aiding and abetting, if,
+with the intention of giving assistance, he be near enough to afford it, should occasion
+arise. A conspirator, who, while his friends enter into a house and loot it, stands and
+watches outside in pursuance of the common design, does not escape liability under
+the section.106. Where, therefore, a person watched at the door of a house while a
+murder was being committed inside he would be guilty of murder.107.
+[s 114.2] Section 376 read with Section 114.—
+In order to bring home such conviction under section 376, IPC, 1860 read with section
+114, IPC, 1860 there must be evidence on record to show: (a) that there was abetment
+of rape to be committed; (b) that the abettors have factually abetted the commission of
+rape; and (c) that they were present at the time when the commission of rape took
+place.108.
+97. Barendra Kumar Ghosh, (1924) 52 IA 40 , 53 : 27 Bom LR 148, 159 : 52 Cal 197.
+98. Krishnaswami Naidu, (1927) 51 Mad 263. See Malanrama v State of Maharashtra, ILR 1958
+Bom 700 [LNIND 1957 BOM 189] : 1960 Cr LJ 1189 where it was held in the circumstances of
+the case that the mere presence of the accused at the ceremony knowing that the offence of
+bigamy was being committed and the throwing the holy rice over the couple did not amount to
+abetment of bigamy notwithstanding that one of the accused persons distributed pan after the
+ceremony. Followed in CS Vardachari v CS Shanti, 1987 Cr LJ 1048 over similar facts.
+99. Sital, (1935) 11 Luck 384 .
+100. Nanboo v Kedar, AIR 1962 MP 91 [LNIND 1961 MP 109] .
+101. Mahommed Jasimuddin, 1982 Cr LJ 1510 (Gau). See also State v Naroshbhai Haribhai
+Tandel, 1997 Cr LJ 2783 (Guj).
+102. Kulwant Singh v State of Bihar, (2007) 15 SCC 670 [LNIND 2007 SC 820] .
+103. Jan Mahomed, (1864) 1 WR (Cr) 49; Nga Po Kyone, (1933) 11 Ran 354.
+104. MA Reddy v State, AIR 1956 SC 177 : 1956 Cr LJ 341 .
+105. Muklesur Rahaman v State, 2010 Cr LJ 4488 . Also see, Kalubhai Maganbhai Vaghela v State
+of Gujarat, 2009 Cr LJ 2317 (Guj).
+106. Khandu v State, (1899) 1 Bom LR 351 , 355.
+107. Sidharth v State of Bihar, AIR 2005 SC 4352 [LNIND 2005 SC 752] : (2005) 12 SCC 545
+[LNIND 2005 SC 752] : 2005 Cr LJ 4499 : (2006) 1 SCC (Cr) 175. Also see Mukati Prasad Rai
+alias Mukti Rai v State IR, 2005 SC 1271 : (2004) 13 SCC 144 : (2005) 1 SCC (Cr) 69; Awadh
+Mahto v State of Bihar, 2007 Cr LJ 342 (Pat).
+108. Mangiya v State of Rajasthan, 2000 Cr LJ 4814 (Raj).

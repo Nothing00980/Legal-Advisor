@@ -1,0 +1,50 @@
+Limit to imprisonment for non-payment of fine, when imprisonment and
+fine awardable.
+The term for which the Court directs the offender to be imprisoned in default of
+payment of a fine shall not exceed one-fourth of the term of imprisonment which is
+the maximum fixed for the offence, if the offence be punishable with imprisonment as
+well as fine.
+COMMENT—
+This section applies to all cases where the offence is 'punishable with imprisonment as
+well as fine,' i.e., cases where fine and imprisonment can be awarded, and also those
+where the punishment may be either fine or imprisonment, but not both. The only cases
+that it does not apply to are those dealt with in section 67 where fine only can be
+awarded.204. Section 33 (now 30) of the Cr PC, 1973 acts as a corollary to this section.
+Thus under section 65, IPC, 1860 the imprisonment in default of fine cannot exceed
+one-fourth of the maximum term of imprisonment that can be awarded for the offence.
+Thus, where the High Court altered the conviction of the appellant to one under section
+419 read with section 109 IPC, from a conviction recorded by the trial Court under
+sections 420/511, 467, 468 and 471 read with section 120B IPC, and awarded a
+sentence of two years' rigorous imprisonment while maintaining the fine of Rs. 3,000
+and by implication the default imprisonment of two years as awarded by the trial Court,
+it was held that, though the trial Court's order regarding two years' imprisonment in
+default of payment of fine was quite in order in view of the fact that the five offences
+for which the trial Court recorded a conviction were each punishable with seven years'
+imprisonment and the fine of Rs. 3,000 was only a part of the cumulative sentence for
+the commission of those five offences, yet the sentence of three years' imprisonment
+in default of payment of fine became illegal the moment the High Court altered the
+conviction to one under section 419 read with section 109 IPC, as under these sections
+the accused could be sentenced to a maximum of three years' imprisonment and,
+therefore, the default imprisonment could under no circumstance exceed nine months,
+that is, one-fourth of the maximum sentence of three years that could be awarded
+under section 419, IPC.205. While a Magistrate's powers are specifically limited by
+section 33(old) Cr PC they must also be exercised so as not to contravene section 65
+IPC.206. Section 326, IPC is punishable with imprisonment for life, or with imprisonment
+of either description for a term which may extend to ten years, and shall also be liable
+to fine. However, because of section 29(2), Cr PC the learned Magistrate, First Class,
+cannot impose the maximum amount of imprisonment prescribed by this section; he
+also cannot, by resorting to section 65, IPC, award a period of imprisonment, in default
+of payment of fine, on the erroneous assumption that he has the power to award the
+maximum sentence prescribed by section 326, IPC.207. Section 65 IPC that puts a limit
+of imprisonment for default sentence upto one-fourth of the term of imprisonment, the
+grievance against higher default sentence, if any, can be only by the accused and not by
+the State.208.
+204. Yakoob Sahib v State, (1898) 22 Mad 238.
+205. Ram Jas v State of UP, 1974 Cr LJ 1261 : AIR 1974 SC 1811 [LNIND 1970 SC 363] ; see also
+Partap Kumar, 1976 Cr LJ 818 (P&H).
+206. Chhajulal v State of Rajasthan, AIR 1972 SC 1809 [LNIND 1972 SC 179] : (1972) 3 SCC 411
+[LNIND 1972 SC 179] . See Shantilal v State of MP, (2007) 11 SCC 243 [LNIND 2007 SC 1171] :
+2008 Cr LJ 386 : (2008) 1 SCC (Cr) 1 in which the period of three years imprisonment for default
+of fine was reduced to six months.
+207. Bidhan Bisoi v State of Orissa, 1989 Cr LJ 1038 (Ori).
+208. Association of Victims of Uphaar Tragedy v Sushil Ansal, AIR 2017 SC 976 .

@@ -1,0 +1,378 @@
+Abetment of a thing.
+A person abets the doing of a thing, who—
+First.—Instigates any person to do that thing; or
+Secondly.—Engages with one or more other person or persons in any conspiracy for
+the doing of that thing, if an act or illegal omission takes place in pursuance of that
+conspiracy, and in order to the doing of that thing; or
+Thirdly.—Intentionally aids, by any act or illegal omission, the doing of that thing.
+Explanation 1.—A person who, by wilful misrepresentation, or by wilful concealment of
+a material fact which he is bound to disclose, voluntarily causes or procures, or
+attempts to cause or procure, a thing to be done, is said to instigate the doing of that
+thing.
+ILLUSTRATION
+A, a public officer is authorised by a warrant from a Court of Justice to apprehend Z. B,
+knowing that fact and also that C is not Z, wilfully represents to A that C is Z, and
+thereby intentionally causes A to apprehend C. Here B abets by instigation the
+apprehension of C.
+Explanation 2.—Whoever, either prior to or at the time of the commission of an act,
+does anything in order to facilitate the commission of that act, and thereby facilitates
+the commission thereof, is said to aid the doing of that act.
+COMMENTS.—
+In common parlance, the word 'abet' means assistance, co-operation and
+encouragement and includes wrongful purpose. In Corpus Juris Secundum, vol I at p
+306, the meaning of the word 'abet' is given as follows:
+'To abet' has been defined as meaning to aid; to assist or to give aid; to command, to
+procure, or to counsel; to countenance; to encourage, counsel, induce, or assist; to
+encourage or to set another on to commit.
+Used with 'aid'. The word 'abet' is generally used with the word 'aid' and similar words.
+In order to bring a person abetting the doing of a thing, under any one of the clauses
+enumerated under section 107, it is not only necessary to prove that the person who
+has abetted has taken part in the steps of the transactions but also in some way or
+other he has been connected with those steps of the transactions which are criminal.
+The offence of abetment depends upon the intention of the person who abets, and not
+upon the act which is actually done by the person whom he abets.1.
+For the purposes of the first two clauses of this section it is immaterial whether the
+person instigated commits the offence or not or the persons conspiring together
+actually carry out the object of the conspiracy.2. It is only in the case of a person
+abetting an offence by intentionally aiding another to commit that offence that the
+charge of abetment against him would be expected to fail when the person alleged to
+have committed the offence is acquitted of that offence.3. The Court noted that in
+Faguna Kanta Nath v State of Assam4. the appellant was tried for an offence under
+section 165A for having abetted the commission of an offence by an officer, who was
+acquitted, and it was held that the appellant's conviction for abetment was also not
+maintainable. But subsequently in Jamuna Singh v State of Bihar,5. it was considered
+not desirable to hold that an abettor cannot be punished if the person actually
+committing the offence is acquitted. The Court said that the abettor's guilt depends
+upon the nature of the offence abetted and the manner of abetment. It is only in cases
+of intentional aiding that the abettor would have to be acquitted with the principal
+offender.6. Following this state of the rulings the Supreme Court ordered the acquittal
+of the single abettor when the main offender as also all other abettors already stood
+acquitted.
+The Supreme Court has reiterated that before anybody can be punished for abetment
+of suicide, it must be proved that the death in question was a suicidal death.7.
+The Supreme Court held that the offence of abetment is a separate and independent
+offence. Where the offence is committed in consequence of the abetment but there is
+no provision for punishment of such abetment, the abettor is to be punished along with
+the offender for the original offence.8.
+Abetment is constituted by:
+(1) instigating a person to commit an offence; or
+(2) engaging in a conspiracy to commit it; or
+(3) intentionally aiding a person to commit it.
+The offence of abetment by instigation depends upon the intention of the person who
+abets and not upon the act which is done by the person who has abetted. The
+abetment may be by instigation, conspiracy or intentional aid as provided under section
+107, Indian Penal Code (IPC), 1860. However, the words uttered in a fit of anger or
+omission without any intention cannot be termed as instigation.9.
+[s 107.1] Mens rea.—
+In order to proceed against a person for criminal offence under section 107,
+prosecution must prove the element of mens rea. Negligence or carelessness or the
+facilitation cannot be termed to be abetment so as to punish the guilty as per the
+provision of penal laws.10. In order to constitute abetment, the abettor must be shown
+to have "intentionally" aided to commission of the crime. Mere proof, that the crime
+charged could not have been committed without involvement and/or interposition of
+the alleged abettor is not enough compliance with the requirements of section 107. It is
+not enough that an act on the part of the alleged abettor happens to facilitate the
+commission of the crime. Intentional aiding and therefore active complicity is the gist
+of the offence of abetment under the third paragraph of section 107.11.
+[s 107.2] Sting operation, mens rea and abetment.—
+In typical sting operations, though the operation is carried in the public interest, the
+same is generally done by instigating the accused. Hence the victim, who is otherwise
+innocent, is lured into committing a crime on the assurance of absolute secrecy and
+confidentiality of the transaction raising the potential question as to how such a victim
+can be held responsible for the crime which he would not have committed but for the
+enticement. In such circumstances, should the individual, i.e., the sting operator be held
+criminally liable for commission of the offence that is inherent and inseparable from
+the process by which commission of another offence is sought to be established?
+What about the operator who has mens rea or guilty intention to commit the offence?
+These are puzzling questions when there is an allegation that the sting operator is
+alleged to have committed the abetment of the offence. The Supreme Court in Rajat
+Prasad v CBI,12. observed that a crime does not stand obliterated or extinguished
+merely because its commission is claimed to be in public interest. At the same time,
+the criminal intent (mens rea) behind the commission of the act will have to be
+established before the liability of the person charged with the commission of crime can
+be adjudged. The Court held that the questions whether the sting operation is a
+journalistic exercise and any criminal intent can be imputed are to be answered by the
+evidence of the parties.
+(1) Abetment by instigation.—First clause.—A person is said to 'instigate' another to an
+act, when he actively suggests or stimulates him to the act by any means of language,
+direct or indirect, whether it takes the form of express solicitation, or of hints,
+insinuation or encouragement.13.
+[s 107.3] "Instigate" Meaning.—
+Instigation is to goad, urge forward, provoke, incite or encourage to do "an act". To
+satisfy the requirement of "instigation", though it is not necessary that actual words
+must be used to that effect or what constitutes "instigation" must necessarily and
+specifically be suggestive of the consequence. Yet a reasonable certainty to incite the
+consequence must be capable of being spelt out. Where the accused had, by his acts
+or omission or by a continued course of conduct, created such circumstances that the
+deceased was left with no other option except to commit suicide, in which case,
+"instigation" may have to be inferred. A word uttered in a fit of anger or emotion without
+intending the consequences to actually follow, cannot be said to be instigation. Thus, to
+constitute 'instigation', a person who instigates another has to provoke, incite, urge or
+encourage the doing of an act by the other by "goading" or 'urging forward'. The
+dictionary meaning of the word "goad" is "a thing that stimulates someone into action;
+provoke to action or reaction … to keep irritating or annoying somebody until he
+reacts".14. The word "instigate" literally means to provoke, incite, urge on or bring about
+by persuasion to do anything. The abetment may be by instigation, conspiracy or
+intentional aid as provided in the three clauses of the section.15. Instigate means the
+active role played by a person with a view to stimulate another person to do the thing.
+In order to hold a person guilty of abetting it must be established that he had
+intentionally done something which amounted to instigating another to do a thing.16.
+Instigation may be of an unknown person.17. A mere acquiescence or permission does
+not amount to instigation.18.
+[s 107.4] Wilful misrepresentation or wilful concealment.—
+Explanation 1 to this section says that a person who (1) by wilful misrepresentation, or
+(2) by wilful concealment of a material fact which he is bound to disclose, voluntarily
+causes or procures, or attempts to cause or procure a thing to be done, is said to
+instigate the doing of that thing. The illustration is an example of instigation by 'wilful
+misrepresentation'. Instigation by 'wilful concealment' is where some duty exists which
+obliges a person to disclose a fact. The explanation to section 107 says that any wilful
+misrepresentation or wilful concealment of a material fact which he is bound to
+disclose, may also come within the contours of "abetment".19.
+[s 107.5] CASES.—Direct instigation.—
+Where, of several persons constituting an unlawful assembly, some only were armed
+with sticks, and A, one of them, was not so armed, but picked up a stick and used it, B
+(the master of A), who gave a general order to beat, was held guilty of abetting the
+assault made by them.20.
+[s 107.6] Suicide.—
+Abetment involves a mental process of instigating a person or intentionally aiding a
+person in doing a thing. Without a positive act on the part of the accused to instigate or
+aid in committing suicide, conviction cannot be sustained.21. Deceased committed
+suicide by hanging himself because of alleged illicit relationship between his wife and
+the accused. Accused took the wife of deceased away from the house of her brother
+and kept her with him for four days. There is definitely a proximity and nexus between
+the conduct and behaviour of the accused and wife of deceased with that of suicide
+committed by the deceased.22. Where a married girl committed suicide by burning
+herself in her in-law's house, her in-laws were held guilty of abetment because they
+were persistently torturing her for inadequate dowry and had gone to the extent of
+accusing her of illegitimate pregnancy.23. "All these tortures and taunts", Ray J said,24.
+"Caused depression in her mind and drove her to take the extreme step of putting an
+end to her life by sprinkling kerosene oil on her person and setting it afire." In another
+case of the same kind a husband persistently demanded more money from his wife,
+quarrelling with her everyday. On the fateful day when she happened to say that death
+would have been better than this, she heard only this in reply that her husband would
+feel relieved if she ended her life. Immediately thereafter she set herself on fire. The
+husband was held guilty of instigating her to commit suicide.25. Mere harassment of
+wife by husband due to differences per se does not attract section 306 read with
+section 107, IPC, 1860.26.
+Demand of loan amount by accused from deceased itself does not come within the
+scope of abetment as defined under section 107.27. Goading and intimidating a debtor
+with a view to pressurising him for repayment of the loan which brought about a
+suicide by the debtor immediately thereafter, was held as not amounting to abetment
+of suicide and, therefore, no case under section 306 read with section 34 was made
+out.28.
+The accused told the other person "to go and die". It was held that this would not in
+itself satisfy the ingredients of instigation. Instigation has to be with mens rea. The
+suicide was committed two days after the quarrel between the accused and the
+deceased. This also showed that the suicide was not the direct result of the quarrel.
+The suicide note indicated that her husband was a frustrated man and given to drinking
+and suffered from great stress and depression.29.
+The accused, a Motor Vehicle Inspector, beat up and abused a driver for not being able
+to produce necessary papers. The driver committed suicide. The Court said that it was
+not shown that he was guilty of any act of abetment within the meaning of section 107.
+The charge against him under section 107 was quashed.30.
+[s 107.7] Proof.—
+In Chitresh Kumar Chopra v State (Govt. of NCT of Delhi),31. the Supreme Court
+reiterated the legal position laid down in its earlier three judge bench judgment in the
+case of Ramesh Kumar v State of Chhattisgarh,32. and held that where the accused by
+his acts or continued course of conduct creates such circumstances that the deceased
+was left with no other option except to commit suicide, an instigation may be inferred.
+In order to prove that the accused abetted commission of suicide by a person, it has to
+be established that:
+(i) the accused kept on irritating or annoying the deceased by words, deeds or wilful
+omission or conduct which may even be a wilful silence until the deceased
+reacted or pushed or forced the deceased by his deeds, words or wilful omission
+or conduct to make the deceased move forward more quickly in a forward
+direction; and
+(ii) that the accused had the intention to provoke urge or encourage the deceased
+to commit suicide while acting in the manner noted above. Undoubtedly,
+presence of mens rea is the necessary concomitant of instigation.33.
+[s 107.8] Threats.—
+Mere threats of involving the family in a false and frivolous case cannot be held to
+tantamount to instigation. By such threats it cannot be held that the accused instigated
+the deceased to commit suicide.34.
+[s 107.9] Test.—
+No straight-jacket formula can be laid down to find out as to whether in a particular
+case there has been instigation which force the person to commit suicide. In a
+particular case, there may not be direct evidence in regard to instigation which may
+have direct nexus to suicide. Therefore, in such a case, an inference has to be drawn
+from the circumstances and it is to be determined whether circumstances had been
+such which in fact had created the situation that a person felt totally frustrated and
+committed suicide.35.
+(2) Abetment by conspiracy.—Second clause.—'Conspiracy' consists in the agreement
+of two or more [persons] to do an unlawful act or to do a lawful act by unlawful means.
+So long as such a design rests in intention only, it is not indictable. When two agree to
+carry it into effect, the very plot is an act in itself, and the act of each of the parties,
+promise against promise, actus contra actum, capable of being enforced, if lawful, is
+punishable if for a criminal object or for the use of criminal means.36. It is not
+necessary that the abettor should concert the offence with the person who commits it.
+It is sufficient if he engages in the conspiracy in pursuance of which the offence is
+committed.37. Where parties concert together, and have a common object, the act of
+one of the parties, done in furtherance of the common object and in pursuance of the
+concerted plan, is the act of all.38.
+Before the introduction of Chapter V-A, conspiracy, except in cases provided for by
+sections 121A, 311, 400, 401 and 402 of the Code, was a mere species of abetment
+when an act or an illegal omission took place in pursuance of that conspiracy, and
+amounted to a distinct offence for each distinct offence abetted by conspiracy.39. For
+an offence under the second clause of this section a mere combination of persons or
+agreement is not enough; an act or illegal omission must take place in pursuance of
+the conspiracy. But for an offence under section 120A a mere agreement is enough if
+the agreement is to commit an offence.40.
+[s 107.10] Abetment and Conspiracy-Difference between.—
+Criminal conspiracy postulates an agreement between two or more persons to do, or
+cause to be done, an illegal act or an act which is not illegal, by illegal, means. It differs
+from other offences because mere agreement is made an offence even if no step is
+taken to carry out that agreement. Though there is close association of conspiracy with
+incitement and abetment the substantive offence of criminal conspiracy is somewhat
+wider in amplitude than abetment by conspiracy as contemplated under section 107,
+IPC, 1860.41. There is no analogy between section 120B and section 109, IPC, 1860.
+There may be an element of abetment in a conspiracy, but conspiracy is something
+more than an abetment. Offences created by sections 109 and 120B, iPC, 1860 are
+quite distinct and there is no warrant for limiting the prosecution to only one element of
+conspiracy, that is, abetment when the allegation is that what a person did was
+something over and above that.42.
+(3) Abetment by aid.—Third clause.—By act.—A person, it is trite, abets by aiding, when
+by any act done either prior to, or at the time of the commission of an act, he intends to
+facilitate and does in fact facilitate the commission thereof, would attract the third
+clause of section 107 of the IPC, 1860. Doing something for the offender is not
+abetment. Doing something with knowledge so as to facilitate him to commit the crime
+or otherwise would constitute abetment.43. In order to constitute abetment by aiding
+within the meaning of the third paragraph of section 107, IPC, 1860 the abettor must be
+shown to have intentionally aided the commission of the crime. A person may invite
+another casually or for a friendly purpose and that may facilitate the murder of the
+invitee. But unless it is shown that the invitation was extended with a view to facilitate
+the commission of the murder, it cannot be said that the person extending the
+invitation had abetted the murder. The language used in the section is "intentionally
+aids" and therefore, active complicity is the gist of the offence of abetment under the
+third paragraph of section 107, IPC, 1860.44. Abetment includes instigating any person
+to do a thing or engaging with one or more persons in any conspiracy for the doing of a
+thing, if an act or illegal omission takes place in pursuance of that conspiracy and in
+order to the doing of that thing, or intentional aid by any act or illegal omission to the
+doing of that thing. On facts held, in the instant case, there was no direct evidence to
+establish that the appellant either aided or instigated the deceased to commit suicide
+or entered into any conspiracy to aid her in committing suicide.45. Where the principal
+offender killed the victim with a knife provided by the defendant who later claimed that
+he thought the knife would be used only to threaten, the defendant's conviction for
+murder was upheld, the Court of Appeal saying that the trial judge was correct to direct
+the jury that the defendant could be so convicted if he contemplated that the principal
+offender might kill or cause serious bodily harm to the victim as part of their joint
+enterprise.46. It is not necessary that the abettor should be present at the place of the
+occurrence. It is also not necessary to show that the secondary party to a conspiracy to
+murder intended the victim to be killed provided it is proved that he contemplated or
+foresaw the event as a real or substantial risk. Mere absence from the scene of the
+crime cannot amount to unequivocal communication of withdrawal from the
+enterprise. The accused was recruited with certain others by a person to kill his wife. At
+a predetermined time she was taken to the agreed place and killed. The accused was
+not present when the killing took place. It was held that he was rightly convicted in that
+he had lent encouragement and assistance before the commission of the crime.47.
+[s 107.11] By illegal omission.—
+The definition of abetment as given in section 107, IPC, 1860 not only includes
+instigation but also intentional aiding by an illegal omission.48. A lady advocate was
+attending the chamber of her senior advocate, the accused. On the day of the incident
+she was talking with the accused at her residence. At that moment in his presence, she
+poured kerosene on her and set herself on fire. The accused did nothing to save her. It
+was held that this did not amount to "illegal omission". He was held not guilty of
+abetment of suicide.49.
+[s 107.12] Abetment of offences under other laws.—
+The offence of aiding and abetting is applicable to all statutory offences unless
+specifically excluded by statute and accordingly it was held to apply to offences
+created by the [English] Public Order Act, 1986.50. An abetment of an offence under the
+Prevention of Corruption Act, 1988 can be made by a non-public servant. Abettors are
+to be prosecuted through trial under the Prevention of Corruption Act.51.
+[s 107.13] CASES.—By act.—Presence at bigamous marriage.—
+Mere presence at the scene of a bigamous marriage without any evidence of
+instigation aiding or conspiring would not amount to abetment.52. Where the accused
+held the antarpat (screen) during the performance of a marriage which he knew was a
+void marriage under section 494, it was held that his act amounted to an act of
+intentional aid and fell within the purview of the explanation.53.
+[s 107.14] Presence at exhibition of blue film.—
+While entering into the parlour the accused was not aware of the type of film under
+exhibition. Immediately after his entry, the police raided the parlour and charge-sheeted
+him as an abettor of offences under sections 292, 293 and 294 because blue films
+were under exhibition. Following the Supreme Court decision in Shri Ram v State of
+UP,54. the Court held that something more must be shown than mere presence.
+[s 107.15] Rape-Abetment.—
+In a case of custodial rape, husband and wife, taken into police custody, were kept in
+separate rooms. The wife was raped by the head constable while the accused
+constable kept watch over the husband and did nothing hearing the shrieks of the
+victim wife. Conviction of the accused constable for abetting commission of rape was
+upheld.55.
+[s 107.16] Humiliation.—
+The accused persons caused constant humiliation to the deceased by accusing him of
+theft of things belonging to relatives at a marriage occasion. He committed suicide
+after returning from marriage. The humiliation caused by the accused was held to be
+not such as to amount to instigation which could have induced the deceased to
+commit suicide.56.
+[s 107.17] Attempt.—
+Merely because the section opens with the words "if any person commits suicide" it
+cannot be held that in a case of unsuccessful suicide there is no attempt to abet the
+commission of suicide. Suicide and its attempt on the one hand and abetment of
+commission of suicide and its attempt on the other are treated differently by law and
+therefore, the one who abets the commission of an unsuccessful attempt to commit
+suicide cannot be held to be punishable merely under section 309 read with section
+116, IPC, 1860. To implement the scheme of law he has got to be held to be punishable
+under section 306 read with section 511, IPC, 1860. The Supreme Court has never laid
+down in Satvir Singh57. that under no circumstance an offence under section 306 read
+with section 511, IPC, 1860 can be committed. The Supreme Court did not have
+occasion to consider whether a conviction for an offence of attempt to abet the
+commission of suicide is punishable under section 306 read with section 511, IPC,
+1860.58.
+1. Kartar Singh v State of Punjab, (1994) 3 SCC 569 : 1994 Cr LJ 3139 : (1994) 1 SCC (Cr) 899.
+2. Faguna Kanto, 1959 Cr LJ 917 : AIR 1959 SC 673 [LNIND 1959 SC 2] .
+3. Jamuna Singh v State of of Bihar, AIR 1967 SC 553 [LNIND 1966 SC 202] : 1967 Cr LJ 541 .
+4. Faguna Kanta Nath v State of Assam, AIR 1959 SC 673 [LNIND 1959 SC 2] : 1959 Supp 2 SCR
+1 : 1959 Cr LJ 917 .
+5. Jamuna Singh v State of Bihar, AIR 1967 SC 553 [LNIND 1966 SC 202] : 1967 Cr LJ 541 .
+6. Citing Madan Raj Bhandari v State of Rajasthan, AIR 1970 SC 436 [LNIND 1969 SC 230] : 1970
+Cr LJ 519 where the abettor of inducing miscarriage was acquitted when the person causing
+miscarriage was acquitted. In Ex-Sepoy Haradhan Chakrabarty v UOI, AIR 1990 SC 1210 [LNIND
+1990 SC 57] : (1990) 2 SCC 143 [LNIND 1990 SC 57] , it was held that abetment fails when
+substantive offence is not established against the principal offender.
+7. Wazir Chand v State of Haryana, AIR 1989 SC 378 [LNIND 1988 SC 569] : 1989 Cr LJ 809 :
+(1989) 1 SCC 244 [LNIND 1988 SC 569] .
+8. Kishori Lal v State of MP, (2007) 10 SCC 797 [LNIND 2007 SC 800] : AIR 2007 SC 2457
+[LNIND 2007 SC 800] : (2007) 3 Ker LT 259 .
+9. State of Punjab v Iqbal Singh, AIR 1991 SC 1532 [LNIND 1991 SC 279] ; Surender v State of
+Hayana, (2006) 12 SCC 375 [LNIND 2006 SC 1015] ; Kishori Lal v State of MP, AIR 2007 SC 2457
+[LNIND 2007 SC 800] ; and Sonti Rama Krishna v Sonti Shanti Sree, AIR 2009 SC 923 [LNIND
+2008 SC 2319] .
+10. B Ammu v State of TN, 2009 Cr LJ 866 (Mad); Chitresh Kumar Chopra v State (Government of
+NCT of Delhi), AIR 2010 SC 1446 [LNIND 2009 SC 1663] .
+11. Shri Ram v State of UP, AIR 1975 SC 175 [LNIND 1974 SC 349] : 1975 Cr LJ 240 (SC) quoted
+in Jasobant Narayan Mohapatra v State of Orissa, 2009 Cr LJ 1043 (Ori); Benupani Behera v State,
+1992 (1) Ori LR 571 .
+12. Rajat Prasad v CBI, 2014 Cr LJ 2941 : 2014 (5) Scale 574 [LNIND 2014 SC 467] .
+13. Amiruddin, (1922) 24 Bom LR 534 [LNIND 1922 BOM 98] , 542.
+14. Chitresh Kumar Chopra v State (Government of NCT of Delhi), AIR 2010 SC 1446 [LNIND 2009
+SC 1663] ; Kishangiri Mangalgiri Goswami v State of Gujarat, (2009) 4 SCC 52 [LNIND 2009 SC
+193] : (2009) 1 SCR 672 [LNIND 2009 SC 193] : AIR 2009 SC 1808 2009 Cr LJ 1720.
+15. Goura Venkata Reddy v State of AP, (2003) 12 SCC 469 [LNIND 2003 SC 1004] .
+16. Rajib Neog v State of Assam, 2011 Cr LJ 399 (Gau).
+17. Ganesh D Savarkar, (1909) 12 Bom LR 105 .
+18. Ram Singh v State, 1997 Cr LJ 1406 (P&H), the complainant (wife) alleged that her in-laws
+incited her husband to marry over again. There was no evidence to show that they negotiated or
+arranged the second marriage, nor of their presence at the time of performance of second
+marriage. Complaint quashed. See also Darbar Singh v State of Chhattisgarh, 2013 Cr LJ 1612
+(Chh).
+19. Netai Dutta v State of WB, AIR 2005 SC 1775 [LNIND 2005 SC 208] : (2005) 2 SCC 659
+[LNIND 2005 SC 208] ; Amit Kapoor v Ramesh Chander, JT 2012 (9) SC 312 [LNIND 2012 SC 564]
+: 2012 (9) Scale 58 [LNIND 2012 SC 564] : (2012) 9 SCC 460 [LNIND 2012 SC 564] .
+20. Rasookoollah, (1869) 12 WR (Cr) 51. Where the accused had instigated three persons to
+commit murder, his conviction under sections 307/109 was upheld. Hemant Kumar Mondal v
+State of WB, 1993 Cr LJ 82 (Cal).
+21. M Mohan v State, Represented by the Deputy Superintendent of Police, (2011) 3 SCC 626
+[LNIND 2011 SC 246] : 2011 (3) Scale 78 [LNIND 2011 SC 246] : AIR 2011 SC 1238 [LNIND 2011
+SC 246] : 2011 Cr LJ 1900 ; Amalendu Pal v State of WB, (2010) 1 SCC 707 [LNIND 2009 SC
+1978] ; Rakesh Kumar v State of Chhattisgarh, (2001) 9 SCC 618 [LNIND 2001 SC 2368] , Gangula
+Mohan Reddy v State of AP, (2010) 1 SCC 750 [LNIND 2010 SC 3] ; Thanu Ram v State of MP,
+2010 (10) Scale 557 [LNIND 2010 SC 962] : (2010) 10 SCC 353 [LNIND 2010 SC 962] : (2010) 3
+SCC (Cr) 1502; SS Chheena v Vijay Kumar Mahajan, (2010) 12 SCC 190 [LNIND 2010 SC 746] :
+(2010 AIR SCW 4938); Sohan Raj Sharma v State of Haryana, AIR 2008 SC 2108 [LNIND 2008 SC
+845] : (2008) 11 SCC 215 [LNIND 2008 SC 845] .
+22. Dammu Sreenu v State of AP, AIR 2009 SC 3728 : (2009) 14 SCC 249 [LNIND 2009 SC 1356]
+.
+23. Gurbachan Singh v Satpal Singh, (1990) 1 SCC 445 [LNIND 1989 SC 475] : AIR 1990 SC 209
+[LNIND 1989 SC 475] : 1990 Cr LJ 562 .
+24. Ibid, (1990) 1 SCC 445 [LNIND 1989 SC 475] at p 458 : AIR 1990 SC 209 [LNIND 1989 SC
+475] : 1990 Cr LJ 562 .
+25. Brijlal v Prem Chand, AIR 1989 SC 1661 [LNIND 1989 SC 243] : (1989) Supp 2 SCC 680. But
+where there was no evidence of dowry demands, self immolation by the married woman within

@@ -1,0 +1,87 @@
+Criminal breach of trust.
+Whoever, being in any manner entrusted with property,1 or with any dominion over
+property, dishonestly misappropriates2 or converts to his own use that property, or
+dishonestly uses or disposes of that property3 in violation of any direction of law
+prescribing the mode in which such trust4 is to be discharged, or of any legal contract,
+express or implied, which he has made touching the discharge of such trust, or
+wilfully suffers any other person so to do, commits "criminal breach of trust".
+278.[Explanation 279.[1].—A person, being an employer 280.[of an establishment whether
+exempted under section 17 of the Employees Provident Fund and Miscellaneous
+Provisions Act, 1952 (19 of 1952), or not] who deducts the employee's contribution
+from the wages payable to the employee for credit to a Provident Fund or Family
+Pension Fund established by any law for the time being in force, shall be deemed to
+have been entrusted with the amount of the contribution so deducted by him and if he
+makes default in the payment of such contribution to the said fund in violation of the
+said law, shall be deemed to have dishonestly used the amount of the said
+contribution in violation of a direction of law as aforesaid.]
+281.[Explanation 2.—A person, being an employer, who deducts the employees'
+contribution from the wages payable to the employee for credit to the Employees'
+State Insurance Fund held and administered by the Employees' State Insurance
+Corporation established under the Employees' State Insurance Act, 1948 (34 of 1948),
+shall be deemed to have been entrusted with the amount of the contribution so
+deducted by him and if he makes default in the payment of such contribution to the
+said Fund in violation of the said Act, shall be deemed to have dishonestly used the
+amount of the said contribution in violation of a direction of law as aforesaid.]
+ILLUSTRATIONS
+(a) A, being Executor to the will of a deceased person, dishonestly disobeys the law
+which directs him to divide the effects according to the will, and appropriate
+them to his own use. A has committed criminal breach of trust.
+(b) A is a warehouse-keeper. Z going on a journey, entrusts his furniture to A, under
+a contract that it shall be returned on payment of a stipulated sum for
+warehouse room. A dishonestly sells the goods. A has committed criminal
+breach of trust.
+(c) A, residing in Calcutta, is agent for Z, residing at Delhi. There is an express or
+implied contract between A and Z, that all sums remitted by Z to A shall be
+invested by A, according to Z's direction. Z remits a lakh of rupees to A, with
+directions to A to invest the same in Company's paper. A dishonestly disobeys
+the direction and employs the money in his own business. A has committed
+criminal breach of trust.
+(d) But if A, in the last illustration, not dishonestly but in good faith, believing that it
+will be more for Z's advantage to hold shares in the Bank of Bengal, disobeys Z's
+directions, and buys shares in the Bank of Bengal, for Z, instead of buying
+Company's paper, here, though Z should suffer loss, and should be entitled to
+bring a civil action against A, on account of that loss, yet A, not having acted
+dishonestly, has not committed criminal breach of trust.
+(e) A, a revenue-officer, is entrusted with public money and is either directed by law,
+or bound by a contract, express or implied, with the Government, to pay into a
+certain treasury all the public money which he holds. A dishonestly appropriates
+the money. A has committed criminal breach of trust.
+(f) A, a carrier, is entrusted by Z with property to be carried by land or by water. A
+dishonestly misappropriates the property. A has committed criminal breach of
+trust.
+COMMENT—
+The basic requirement to bring home the accusations under section 405 are the
+requirements to prove conjointly i) entrustment and ii) whether the accused was
+actuated by dishonest intention or not, misappropriated it or converted it to his own
+use to the detriment of the persons who entrusted it.282. Two distinct parts are
+involved in the commission of the offence of criminal breach of trust. The first part
+consists of the creation of an obligation in relation to the property over which dominion
+or control is acquired by the accused. The second is the misappropriation or dealing
+with the property dishonestly and contrary to the terms of the obligation created.283. A
+trust contemplated by section 405 would arise only when there is an entrustment of
+property or dominion over property. There has, therefore, to be a property belonging to
+someone which is entrusted to the person accused of the offence under section 405.
+The entrustment of property creates a trust which is only an obligation annexed to the
+ownership of the property and arises out of a confidence reposed and accepted by the
+owner.284. However, it must be borne in mind that section 405 IPC, 1860 does not
+contemplate the creation of a trust with all the technicalities of the law of trust. It
+contemplates the creation of a relationship whereby the owner of property makes it
+over to another person to be retained by him until a certain contingency arises or to be
+disposed of by him on the happening of a certain event.285.
+278. Ins. by Act 40 of 1973, section 9 (w.e.f. 1 November 1973).
+279. Explanation renumbered as Explanation 1 by Act 38 of 1975, section 9 (w.e.f. 1 September
+1975).
+280. Ins. by Act 33 of 1988, section 27 (w.e.f. 1 August 1988).
+281. Ins. by Act 38 of 1975, section 9 (w.e.f. 1 September 1975).
+282. Sadhupati Nageswara Rao v State of Andhra Pradesh, (2012) 8 SCC 547 [LNIND 2012 SC
+461] : AIR 2012 SC 3242 [LNIND 2012 SC 461] ; Asoke Basak v State of Maharashtra, (2010) 10
+SCC 660 [LNIND 2010 SC 1699] : (2011) 1 SCC(Cr) 85; Indian Oil Corpn. v NEPC India Ltd, (2006)
+6 SCC 736 [LNIND 2006 SC 537] ; Pratibha Rani v Suraj Kumar, (1985) 2 SCC 370 [LNIND 1985
+SC 86] ; Rashmi Kumar v Mahesh Kumar Bhada, (1997) 2 SCC 397 [LNIND 1996 SC 2178] ; R
+Venkatkrishnan v Central Bureau of Investigation, (2009) 11 SCC 737 [LNIND 2009 SC 1653] .
+283. Onkar Nath Mishra v State, (NCT of Delhi) (2008) 2 SCC 561 [LNIND 2007 SC 1511] : (2008)
+1 SCC (Cr) 507.
+284. Common Cause v UOI, (1999) 6 SCC 667 [LNIND 1999 SC 637] : 1999 SCC (Cr) 1196.
+285. VP Shrivastava v Indian Explosives Ltd (2010) 10 SCC 361 [LNIND 2010 SC 920] : (2010) 3
+SCC (Cr) 1290; Jaswantrai Manilal Akhaney v State of Bombay, AIR 1956 SC 575 [LNIND 1956 SC
+40] : 1956 Cr LJ 1116 .

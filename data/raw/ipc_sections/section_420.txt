@@ -1,0 +1,546 @@
+Criminal breach of trust by public servant, or by banker, merchant or
+agent.
+Whoever, being in any manner entrusted with property, or with any dominion over
+property in his capacity of a public servant1 or in the way of his business as a banker,2
+merchant,3 factor,4 broker,5 attorney6 or agent,7 commits criminal breach of trust in
+respect of that property, shall be punished with 367.[imprisonment for life], or with
+imprisonment of either description for a term which may extend to ten years, and
+shall also be liable to fine.
+COMMENT—
+This section classes together public servants, bankers, merchants, factors, brokers,
+attorneys and agents. As a rule the duties of such persons are of a highly confidential
+character, involving great powers of control over the property entrusted to them; and a
+breach of trust by such persons may often induce serious public and private calamity.
+[s 409.1] Ingredients.—
+In order to sustain conviction under section 409, IPC, 1860, two ingredients are to be
+proved; namely, (i) the accused, a public servant or a banker or agent was entrusted
+with the property of which he is duty bound to account for; and (ii) the accused has
+committed criminal breach of trust. What amounts to criminal breach of trust is
+provided under section 405, IPC, 1860. The basic requirement to bring home the
+accusations under section 405 are the requirements to prove conjointly (i) entrustment
+and (ii) whether the accused was actuated by dishonest intention or not,
+misappropriated it or converted it to his own use to the detriment of the persons who
+entrusted it.368.
+Merely because the accused allegedly kept the amount in defiance of the official
+instruction, it cannot be an incriminating circumstance to arrive at a conclusion that he
+has committed the breach of trust. It is a settled position of law that suspicion
+howsoever grave cannot take the place of proof.369.
+The section cannot be construed as implying that any head of an office that is
+negligent in seeing that the rules about remitting money to the treasury are observed is
+ipso facto guilty of criminal breach of trust; but something more than that is required to
+bring home the dishonest intention. There should be some indication which justifies a
+finding that the accused definitely had the intention of wrongfully keeping Government
+out of the moneys.370. Subjecting to a civil liability would thus attract one of the
+ingredients of criminal breach of trust. There cannot be, however, any doubt
+whatsoever that a mere error of judgment would not attract the penal provision
+contained in section 409 of the IPC, 1860.371. the fact that the accused puts back the
+money,372. or promises to do so,373. does not wipe out the offence or absolve him from
+liability. Where a post-master misappropriated the money entrusted to him but paid
+back the whole amount before being challenged, his acquittal on this ground was held
+to be wrong.374. But the Courts do take that fact into account as a mitigating factor
+and would consider light punishment as sufficient to meet the ends of justice.375.
+Where certain articles disappeared from an open godown which was being watched by
+a Chowkidar (watchman), it was held that the over-all incharge overseer could not be
+held liable under the section unless there was the proof that the articles disappeared
+because of his doings or non-doings.376.
+The offence under the section requires criminal intent or mens rea. Where in the matter
+of post office deposit accounts, all that was proved showed that there was negligence
+in maintaining them, the Court said that it could be a fit case for departmental
+proceedings but not proceedings under section 409 because the intention to
+misappropriate the proceeds of the accounts was not in evidence.377.
+[s 409.2] Property of Government company.—
+The property of a Government company was purchased by a firm of which the accused
+was a partner. He was the CM of the company. The CM or the Minister was not shown
+to have dominion over the property of the company. The relationship between the CM
+and the company was not shown to be of trustee and fiduciary. It was held that the
+ingredients of the section were not satisfied.378. The complaint does not contain the
+averment that Rs.5 lakhs was entrusted to the appellant, either in his personal capacity
+or as the Chairman of Maharashtra State Electricity Board and that he misappropriated
+it for his own use. The said amount was deposited by the complainant company with
+MSEB and there is nothing in the complaint which may even remotely suggest that the
+complainant had entrusted any property to appellant or that the appellant had
+dominion over the said money of the complainant, which was converted by him to his
+own use, so as to satisfy the ingredients of section 405 IPC, 1860. Proceedings
+quashed.379.
+[s 409.3] Prosecution against company.—
+Since, the majority of the Constitution Bench ruled in Standard Chartered Bank v
+Directorate of Enforcement.380. That the company can be prosecuted even in a case
+where the Court can impose substantive sentence as also fine, and in such case only
+fine can be imposed on the corporate body.381.
+[s 409.4] Ownership right in films.—
+In an agreement for film production the terms stated that the rights in the negative of
+the film and the right of distribution for exhibition were to be vested in the complainant.
+The accused, the other party, departed from the terms and exhibited the film publicly
+without consent of the complainant. It was held that the accused was guilty of the
+offence of breach of trust.382.
+[s 409.5] Temporary misappropriation.—
+The allegation is that while he was working as a Lower Division Clerk in the Office of
+the Deputy Superintendent of Police, the accused had temporarily misappropriated an
+amount of Rs. 1,839. Admittedly, the sum had been deposited in the post office before
+the due date and that no loss had been caused to the Department, even if it is assumed
+that a false entry had been made in the record. Offence alleged under IPC, 1860 against
+the appellant are trivial in nature and have caused no harm and in fact no offences in
+the eye of law. The benefit of section 95 IPC, 1860 is available to the appellant.383.
+1. 'In his capacity of a public servant'.—Persons like public servants, bankers, etc., who
+are made liable under the section occupy a position of highly confidential nature
+involving great power of control over property entrusted to them. Breach of trust by
+such persons may result in serious public or private calamity. High morality is expected
+from such persons. They are supposed to discharge their duties honestly.384. Where a
+police dog handler had taken a sum of money by way of travelling and daily allowance
+(TA, DA), but went on to his native place on unauthorized absence and returned the
+money on coming back, it was held that he did not use the money for the official
+purpose and though the diversion was temporary, it constituted an offence under the
+section. The trial Court convicted him. It was held that there was no scope for
+interference in the judgment of the trial Court.385.
+2. 'Banker'.—A banker is one who receives money to be drawn out again as the owner
+has occasion for it, the customer being lender, and the banker borrower, with the
+superadded obligation of honouring the customer's cheques up to the amount of the
+money received and still in the banker's hands.386. The word 'banker' includes a cashier
+or shroff.387. In ANZ Grindlays Bank plc v Shipping and Clearing (Agents) Pvt Ltd,388. it
+was held that relation between the bank and its depositors is that of debtor and
+creditor but that the relation of trust can be created under special circumstances.
+Where the principal debtor did not repay the bank loan, the bank as creditor can adjust
+it at the maturity of the fixed deposit receipts deposited by the guarantor with the bank
+as security, though the debt became barred by limitation at the time of maturity of the
+said fixed deposit receipts. Such adjustment would not amount to offences punishable
+under sections 109, 114 and 409 IPC, 1860.389. Bank officials who allowed advance
+credits on banker's cheques to a customer in violation of Departmental instructions
+acted in violation of direction of law. The officials had dominion over the money
+belonging to the bank and they dishonestly used that money for conferring a benefit on
+the customer. They were held guilty of the offence under the section.390.
+[s 409.6] Securities Scam.—
+The National Housing Bank cannot advance loans to anybody except housing finance
+institutions, scheduled banks and statutory slum clearance bodies. The advancement
+of any loan to any individual is an offence under National Housing Bank Act, 1987.
+Allegation of advancement of loan to Harshad Mehta by NHB under the disguise of a
+call money transaction was held illegal. If as result of that illegal transaction a private
+person who was not expected to reap the fruit of 'call money' was allowed to retain the
+same for a period to make an unlawful gain therefrom, offence of criminal breach of
+trust must be held to be have been committed.391.
+3. 'Merchant'.—A merchant is one who traffics to remote countries; also any one
+dealing in the purchase and sale of goods.392. A failure on the part of persons
+responsible to refund the share application money when it becomes refundable
+because of the stock exchange refusal to approve the prospectus, has been taken to be
+a misappropriation by a merchant.393.
+4. 'Factor'.—Is a substitute in mercantile affairs; an agent employed to sell goods or
+merchandise consigned or delivered to him by or for his principal, for a compensation
+commonly called factorage or commission.394. Complainant took loan from company
+against shares of complainant. Shares were not returned to him after repayment of
+loan. Court below has found that the charge under section 409 was tenable since,
+though the accused were not bankers or the public servants, they would fit in the
+category of factor. The "factor" has been defined in Law Lexicon as "A factor is a
+mercantile agent who, in the customary course of his business as such agent, is
+entrusted with the possession or control of goods, wares, or merchandise for sale on
+commission". An agent employed to sell goods or merchandise consigned or delivered
+to him, by or for his principal, for compensation commonly called "factorage" or
+"commission". The Bombay High Court held that it cannot be held that accused
+directors of company were agent, employed by complainant, to sell goods or
+merchandise, entrusted to them for compensation called a "factorage" or "commission"
+and the accused were not covered by definition of 'factor' as envisaged under section
+409 IPC, 1860.395.
+5. 'Broker'.—Is an agent employed to make bargains and contracts between other
+persons in matters of trade, commerce and navigation, by explaining the intentions of
+both parties, and negotiating in such a manner as to put those who employ him in a
+condition to treat together personally. More commonly he is an agent employed by one
+party only to make a binding contract with another.396.
+A factor is entrusted with the possession as well as the disposal of property; a broker is
+employed to contract about it without being put in possession.397.
+6. 'Attorney'.—Is one who is appointed by another to do something in his absence, and
+who has authority to act in the place and turn of him by whom he is delegated.398. The
+High Court, while dismissing the revision petition, observed that it was possible that the
+appellants were duped by the general power of attorney holder who knew that his
+powers had been revoked but concealed the fact. If there any bona fides in the conduct
+of the accused person, (by reason of revival of power), such arguments could have
+made at the trial stage. The Court refused to interfere in the judgment.399.
+7. 'Agent'.—Is a person employed to do any act for another, or to represent another in
+dealings with third persons.400. An agent though bound to exercise his authority in
+accordance with all lawful instructions which may be given to him from time to time by
+his principal is not subject in its exercise to the direct control or supervision of the
+principal.401. The trustee of a temple is an agent of the deity, and if he misappropriates
+temple jewels he is guilty under this section.402. Where it is a servant's duty to account
+for and pay over the moneys received by him at stated times, his not doing so wilfully
+amounts to embezzlement.403. The term 'agent' is not restricted to persons who carry
+on the profession of agents. The requirements of this section would be satisfied if the
+person is an agent of another and that other person entrusts him with property or with
+any dominion over property in the course of his duties as an agent. The entrustment
+must be in connection with his duties as an agent.404. Where the appellant, an agent
+entrusted with the distribution of the rice under the 'Food for Work Scheme' to the
+workers on production of coupons was charged with misappropriation of 67.65
+quintals of rice, the evidence proves that there was entrustment of property to the
+accused, Court upheld the conviction.405.
+[s 409.7] Commission agent.—
+The accused was appointed as commission agent. Certain accounts were found to be
+outstanding against the accused. The Court said that it was a dispute between a
+principal and his agent of civil nature. The agent should not be harassed for such a
+dispute by resort to criminal proceedings.406.
+[s 409.8] Minister.—
+Accused, the Minister for electricity and higher officials of Electricity Board alleged to
+have awarded contract at a very high and exorbitant rate with special conditions having
+heavy financial implications, by reducing the retention and security amount and by
+allowing the contractor to return only fifty per cent of the empty cement bags. It is
+found that accused persons have abused their official positions. Supreme Court set
+aside the order of acquittal and convicted the accused.407.
+[s 409.9] Independent contractor.—
+An independent contractor was entrusted with a specific quantity of steel for purposes
+of fabrication and erection of trolley. He fraudulently disposed of the steel contrary to
+the terms on which possession was handed over to him. The Court said that he could
+be treated as a trustee for the purposes of appropriate use of steel, in view of the
+decision of the Supreme Court in Somnath v State of Rajasthan.408. He was guilty of
+criminal breach of trust and liable to be punished under section.409.
+[s 409.10] Insurance agent.—
+Where an agent of the Life Insurance Corporation collected the premium amount from
+the policy holder but did not deposit it with the corporation, his conviction for
+misappropriation was held to be proper.410.
+[s 409.11] Buyer of goods.—
+Goods were delivered to a buyer in a sales transaction in the ordinary course of
+business and he became the owner also because the vesting of property was not
+linked with payment. It was held that he could not be held liable for misappropriating
+his own property though his cheque, which was issued for payment of price afterwards,
+bounced.411. Where the buyer refused to accept the shipment on premise that on a
+random checking too many defects were found in the garments and complaint was
+filed to recover the dues, Supreme Court held that the dispute between the parties is
+civil in nature.412.
+[s 409.12] Entrustment.—"
+Entrustment" being a necessary part of the offence, where it is not proved, no offence
+arises under this section.413. It is the settled law that mere proof of entries in the books
+of account, unsupported by any evidence of receipt, is not alone sufficient to fasten the
+accused with the offence of criminal breach of trust.414. An Assistant Engineer was
+charged for criminal breach of trust for misappropriating Govt. Funds. It was found that
+there was no entrustment of funds to the accused public servant. It was held that
+question of misappropriation of funds does not arise.415. Accordingly, a school
+inspector withdrawing money against false pay bills and misappropriating the entire
+amount was held to be punishable for misappropriation and cheating but not of
+criminal breach of trust because the amount withdrawn was not entrusted to him.416.
+Where a postal delivery agent was given an insured cover supposed to contain Rs.
+1000 and on delivery to the addressee, who opened the cover in the presence of the
+agent, it was found that it contained blank papers, the agent was held not liable under
+the section. The prosecution did not prove the most vital fact that at the time of
+handing over to the agent, the cover did contain the amount in question.417. Where a
+quantity of diesel oil which was delivered to a junior officer under his signature and he
+embezzled it, his senior was not allowed to be prosecuted. There was no entrustment
+to him. The fact that he exercised authority over the junior did not establish his
+possession. The conviction of the senior was set aside, while that of the junior was
+upheld.418. Where no account was produced as to the quantity of yarn entrusted and
+how much was returned after making the finished product, it was held that there was
+no infirmity in the order of acquittal.419.
+[s 409.13] President of Co-operative Society.—
+It has been held that the President of a Co-operative Society is not a public servant.
+Dishonest retention of money of the society by the President was not an offence under
+section 409. But section 406 was attracted.420. Secretary of co-operative society is not
+a public servant within meaning of section 21 IPC, 1860 r/w.s. 8 of W.B. Co-operative
+Societies Act, and no previous sanction is necessary for prosecuting him for offence
+under section 409, IPC, 1860.421.
+[s 409.14] Burden of proof.—
+The prosecution has to prove that a public servant was entrusted with property which
+he was duty bound to account for and that he misappropriated the property. Where the
+fact of entrustment has been admitted or proved, the burden is then upon him to show
+that the property was applied to the purpose for which it was entrusted to him.422.
+[s 409.15] Amount repaid.—
+The accused persons acting through directors of company in concert with the
+Chartered Accountants and some other persons hatched a criminal conspiracy and
+executed it by forging and fabricating a number of documents in order to support their
+claim to avail hire purchase loan form the bank. The accused had not only duped the
+bank, they had also availed of depreciation on the machinery, which was never
+purchased and used by them, causing loss to the exchequer, a serious economic
+offence against the society. Supreme Court had declined to quash the proceedings.
+Merely because the dues of the bank have been paid up, the appellant cannot be
+exonerated from the criminal liability.423.
+[s 409.16] CASES.
+Even a mistaken receipt of money by a public servant in official capacity does create an
+obligation for the public servant to render an account of the money so received. All that
+is required is entrustment or acquisition of dominion over property in the capacity of a
+public servant. Thus where the accused, an official of the Indian Unit of Hindustan
+Insurance Society who had no authority to collect premiums from Pakistani policy-
+holders, did in fact represent to them that they could pay their premiums to him and
+also issued receipts purporting to act in his official capacity and thereafter
+misappropriated the money after making false entries in the relevant register, it was
+held that he was guilty under section 409, IPC, 1860.424. It should, however, be
+remembered that the prosecution has to prove that the public servant has acted
+dishonestly in regard to property entrusted to him.425.
+[s 409.17] Section 420 and 409.—Distinction.—
+In 'criminal breach of trust', an accused comes into possession of a property or
+acquires dominion over a property honestly and bona fide, but he develops dishonest
+intention subsequent to the taking possession of, or subsequent to having acquired the
+dominion over, the property and, having developed such dishonest intention, he
+dishonestly misappropriates or converts to his own use the property or dishonestly
+uses or disposes of the property in violation of any direction of law prescribing the
+mode in which such trust is to be discharged, or of any legal contract, express or
+implied, which he has made touching the discharge of such trust, or wilfully suffers any
+other person so to do. Thus, in 'criminal breach of trust', the intention of the accused
+cannot be dishonest or mala fide at the time, when he comes into possession of the
+property or comes to acquire dominion over the property; but, having come into
+possession of, or having acquired dominion over, the property, the accused develops
+dishonest intention and actuated by such mens rea, he converts to his own use the
+property or dishonestly uses or disposes of the property in violation of any direction of
+law prescribing the mode in which such trust is to be discharged, or of any legal
+contract, express or implied, which he has made touching the discharge of such trust,
+or wilfully suffers any other person so to do. Contrary to what happens in "criminal
+breach of trust", the intention of the accused, in a case or "cheating", is dishonest from
+the very commencement of the transaction. There is really no consent by the person,
+who is intentionally induced by deception to deliver the property or allow any person to
+retain the property or is intentionally induced, as a result of deception, to do or omit to
+do anything, which he would not do or omit to do if he were not so deceived, and which
+act or omission causes or is likely to cause damage or harm to that person in body,
+mind, reputation or property. In short, thus, while in "criminal breach of trust", the
+accused comes into possession of the property without dishonest intention and
+develops dishonest intention subsequent to his coming into possession of the
+property, the offence of 'cheating' is one, wherein the accused has dishonest intention
+from the very commencement of the transaction.426.
+[s 409.18] Section 409 and section 477A IPC, 1860.—
+Contention of the accused is that scheme of sections 408 and 409 IPC, 1860 goes to
+show that distinct offences have been provided respectively for the clerks or servants
+and for the bankers and the present petitioner has been charged for the offence under
+section 409 IPC, 1860 as he is a banker, but at the same time, he has been convicted
+for the offence under section 477A IPC, 1860, where bankers have not been included in
+the description of offence under section 477A IPC, 1860 and conviction under sections
+477A and 409 IPC, 1860 cannot go hand to hand. The accused has been charged for
+the offence under section 409 IPC, 1860 as he was public servant at the relevant time
+being a Postal Assistant and his contention that he was a banker is misplaced. The
+accused has not been charged as a banker.427.
+[s 409.19] Director.—
+A director of a company is not only an agent but also a trustee of the assets of the
+company which come to his hand. Thus having dominion and control over property he
+can come within the mischief of this section if he dishonestly misappropriates that
+property to his own use.428. The manager of a rice mill was held liable under the
+section for causing disappearance of a quantity of paddy from a huge stock of the
+material entrusted to him.429.
+[s 409.20] Directors of Company.—Vicarious liability.—
+It is to be noted that the concept of 'vicarious liability' is unknown to criminal law. As
+observed earlier, there is no specific allegation made against any person but the
+members of the board and senior executives are joined as the persons looking after the
+management and business of the appellant Company.430. The Penal Code does not
+contain any provision for attaching vicarious liability on the part of the Managing
+Director or the Directors of the Company when the accused is the Company. The
+learned Magistrate failed to pose unto himself the correct question, viz., as to whether
+the complaint petition, even if given face value and taken to be correct in its entirety,
+would lead to the conclusion that the respondents herein were personally liable for any
+offence. The Bank is a body corporate. Vicarious liability of the Managing Director and
+Director would arise provided any provision exists in that behalf in the Statute. Statutes
+indisputably must contain provision fixing such vicarious liabilities. Even for the said
+purpose, it is obligatory on the part of the complainant to make requisite allegations
+which would attract the provisions constituting vicarious liability.431. In the case of
+Punjab National Bank v Surendra Prasad Sinha,432. a complaint was lodged by the
+complainant for prosecution under sections 409, 109 and 114, IPC, 1860 against the
+Chairman, the Managing Director of the Bank and a host of officers Since the principal
+debtor defaulted in payment of debt, the Branch Manager of the bank on maturity of the
+said fixed deposit adjusted a part of the amount against the said loan. The complainant
+alleged that the debt became barred by limitation and, therefore, the liability of the
+guarantors also stood extinguished. It was, therefore, alleged that the officers of the
+bank criminally embezzled the said amount with dishonest intention to save
+themselves from financial obligation. The Magistrate without adverting whether the
+allegations in the complaint prima facie make out an offence charged for, in a
+mechanical manner, issued the process against all the accused persons. The High
+Court refused to quash the complaint and the matter finally came to Supreme Court.
+The Supreme Court allowed the appeal, quashed the proceedings and held that the
+complaint was laid impleading the Chairman, the Managing Director of the Bank by
+name and a host of officers. There lies responsibility and duty on the Magistracy to find
+whether the concerned accused should be legally responsible for the offence charged
+for. Only on satisfying that the law casts liability or creates offence against the juristic
+person or the persons impleaded then only process would be issued.
+[s 409.21] Society.—
+The accused was in charge of a society's affairs. Shortage of funds was detected. It
+was held that the fact that the accused agreed to make good the shortage at a later
+point of time could not be treated as an admission of guilt on his part. Ingredients of
+misappropriation were not made out. The mere discrepancy in amount was not
+sufficient to sustain the conviction.433.
+Prosecution has to prove entrustment and not how property was dealt with.—The
+prosecution has to show that the property in question was entrusted to the accused. It
+is then for the accused to show how he dealt with the property. 434.
+[s 409.22] Previous sanction.—
+In a prosecution against the Vice-chancellor of a University where section 50(2) of the
+1994 University Act, 1904 says no prosecution will lie against the appellant without
+previous sanction of the Syndicate, prosecution cannot be launched in the absence of
+the previous sanction of the Syndicate.435. As far as the offence of criminal conspiracy
+punishable under section 120-B, read with section 409 of the IPC, 1860 is concerned
+and also section 5(2) of the Prevention of Corruption Act, 1988, are concerned they
+cannot be said to be of the nature mentioned in section 197 of the Cr PC, 1973.436.
+[s 409.23] Punishment.—
+The accused, working as an assistant accountant in a company, received on behalf of
+the company certain recoveries from a firm but did not credit them in the account of
+the said firm. He was found guilty and was convicted and sentenced to undergo RI of 1
+and a half years under section 409 and RI of 1 and a half years under section 477-A.
+The Apex Court upheld the conviction but considering time factor and age of the
+accused, the sentence was reduced to six months, RI under each count.437.
+The accused, a postmaster, was convicted under this section. The offence happened
+15 years ago. He deposited the misappropriated amount with interest even before the
+FIR was filed. He was punished only with fine of Rs. 4,000 without any
+imprisonment.438.
+[s 409.24] Moral turpitude.—
+Undoubtedly, the embezzlement of Rs.5000 by the appellant, for which he had been
+convicted under section 409 IPC, 1860, was an offence involving moral turpitude.439.
+[s 409.25] Conviction of Employee under section 409.—will release on
+probation remove the disqualification.—
+Once a Criminal Court grants a delinquent employee the benefit of P.O. Act, 1958, its
+order does not have any bearing so far as the service of such employee is concerned.
+The word "disqualification" in section 12 of the Act 1958 provides that such a person
+shall not stand disqualified for the purposes of other Acts like the Representation of
+the People Act, 1950 etc. The conviction in a criminal case is one part of the case and
+release on probation is another. Therefore, grant of benefit of the provisions of Act
+1958, only enables the delinquent not to undergo the sentence on showing his good
+conduct during the period of probation. In case, after being released, the delinquent
+commits another offence, benefit of Act 1958 gets terminated and the delinquent can
+be made liable to undergo the sentence. Therefore, in case of an employee who stands
+convicted for an offence involving moral turpitude, it is his misconduct that leads to his
+dismissal.440.
+367. Subs. by Act 26 of 1955, section 117 and Sch, for "transportation for life" (w.e.f. 1 January
+1956).
+368. Sadhupati Nageswara Rao v State of Andhra Pradesh, (2012) 8 SCC 547 [LNIND 2012 SC
+461] : AIR 2012 SC 3242 [LNIND 2012 SC 461] .
+369. Sachindra Das v The State of Tripura, 2016 Cr LJ 3908 : 2016 (2) GLT 894 .
+370. Lala Raoji, (1928) 30 Bom LR 624 . Mohan Tiwari v State of Arunachal Pradesh, 1992 Cr LJ
+737 (Gau), unauthorised extraction of timber by the contractor from a forest officer in
+connivance with the officials concerned, prima facie evidence of guilt.
+371. Sudhir Shantilal Mehta v CBI, (2009) 8 SCC 1 [LNIND 2009 SC 1652] : (2009) 3 SCC (Cr)
+646.
+372. Vishwa Nath v State of J&K, AIR 1983 SC 174 : 1983 Cr LJ 231 : (1983) 1 SCC 215 .
+373. Vijay Digambar Lanjekar v State of Maharashtra, 1991 SCC (Cr) 841 : 1991 Supp (2) SCC 8,
+the court reduced the sentence of 2 years' RI to the period already undergone. Where, on the
+other hand, credit sale was in vogue and the amounts involved stood deposited before CID
+probe, the conviction was not sustained. Narendra Pratap Narain Singh v State of UP, AIR 1991
+SC 1394 [LNIND 1991 SC 186] : 1991 Cr LJ 1816 .
+374. State of MP v Prempal, 1991 Cr LJ 2878 . The court followed Vishwanath v State of J & K,
+AIR 1983 SC 174 : 1983 Cr LJ 231 where the principle laid down was that a public servant
+entrusted with Government money misappropriates that amount for personal use, refund of that
+amount, after the act of defalcation is discovered, does not absolve the accused of the offence.
+375. See Ram Mohan Saxena v State of MP, 1977 (II) MPWN 377; Bahadur Singh v State of MP,
+(1976) JLJSN 120; Narbada Singh Chouhan v State of MP, (1971) JLJ SN 11 and State v Autar
+Singh, (1966) JLJ SN 99.
+376. Janeshwar Das Agarwal v State of UP, AIR 1981 SC 1646 : 1981 All LJ 887 : (1981) 18 All
+CC 151 : (1981) 3 SCC 10 .
+377. Chandraiah v State of AP, (2003) 12 SCC 670 : AIR 2004 SC 252 : 2004 Cr LJ 365 .
+378. R Sai Bharathi v J Jayalalitha, (2004) 2 SCC 9 [LNIND 2003 SC 1023] : AIR 2004 SC 692
+[LNIND 2003 SC 1023] : 2004 Cr LJ 286 .
+379. Asoke Basak v State of Maharashtra, (2010) 10 SCC 660 [LNIND 2010 SC 1699] : (2011) 1
+SCC(Cr) 85.
+380. Standard Chartered Bank v Directorate of Enforcement, (2005) 4 SCC 530 [LNIND 2005 SC
+476] .
+381. CBI v Blue Sky Tie-up Pvt Ltd, 2012 Cr LJ 1216 : AIR 2012 SC (Supp) 613.
+382. Krishna Rao Keshav v State of UP, 1997 Cr LJ 1129 (All).
+383. NK Illiyas v State of Kerala, 2012 CR LJ 2418 : AIR 2012 SC 3790 [LNIND 2011 SC 646] ; R
+Venkatkrishnan v CBI, (2009) 11 SCC 737 [LNIND 2009 SC 1653] . It made no difference to the
+criminal liability that the money was quickly recovered and departmental action was taken
+against bank officials.
+384. R Venkatkrishnan v CBI, (2009) 11 SCC 737 [LNIND 2009 SC 1653] .
+385. Shabbir Ahmed Sherkhan v State of Maharashtra, (2009) 5 SCC 22 [LNIND 2009 SC 621] :
+(2009) 1 SCC (L&S) 1016 .
+386. Wharton, 14th Edn, p 109. The relationship of trust can arise between them only under
+special circumstances. ANZ Grindlays Bank v Shipping and Clearing (Agents) Pvt Ltd, 1992 Cr LJ
+77 (Cal), paying money after instructions to close account, no cheating. MV Bany v State of TN,
+1989 Cr LJ 667 (Mad).
+387. Hira Lal, (1907) PR No. 19 of 1908. A bank manager permitting money to be withdrawn
+against false drafts signed by him commits this offence. Adithela Immanuel Raju v State of
+Orissa, 1992 Cr LJ 243 . The protections and privileges of a banker are not available to persons
+who are not legally engaged in the banking business. AG Abreham v State of Kerala, 1987 Cr LJ
+2009 (Ker). Withdrawal of money from Post Office by forging signature, liability made out. State
+of Orissa v Sapneswar Thappa, 1987 Cr LJ 612 (Ori).
+388. ANZ Grindlays Bank plc v Shipping and Clearing (Agents) Pvt Ltd, 1992 Cr LJ 77 (Cal).
+389. Punjab National Bank v Surendra Prasad Sinha, AIR 1992 SC 1815 [LNIND 1992 SC 300] :
+1992 Cr LJ 2916 ; S Jayaseelan v State of SPF, 2002 Cr LJ 732 (Mad), the cashier received
+repayment of loan installments, issued receipts and also made entries in the pass book but did
+not show the repayments in the ledger books. Dishonest intention established. Sentence of 2
+years reduced to 18 months because he had paid back. Bank of Baroda v Samrat Exports, 1998
+Cr LJ 2773 (Kant), the debit by the bank to the guarantor's account in respect of the sum due
+from the principal borrower was not a dishonest misappropriation. MN Ojha v Alok Kumar
+Srivastav, (2009) 9 SCC 682 [LNIND 2009 SC 1708] : AIR 2010 SC 201 [LNIND 2009 SC 1708] -
+the averments made in the complaint does not disclose the commission of any offence by the
+appellant or any one of them. Proceedings quashed.
+390. Sudhir Shantilal Mehta v CBI, (2009) 8 SCC 1 [LNIND 2009 SC 1652] : (2009) 3 SCC (Cr)
+646; Satyajit Roy v State of Tripura, 2010 Cr LJ 3397 (Gau)- Where the allegation was of Criminal
+breach of trust by banker, conviction based on an alleged writing of accused without examining
+the hand writing expert is held not proper.
+391. R Venkatkrishnan v CBI, (2009) 11 SCC 737 [LNIND 2009 SC 1653] : AIR 2010 SC 1812
+[LNIND 2009 SC 1653] .
+392. Wharton, 14th Edn, p 649.
+393. Radhey Shyam Khemka v State of Bihar, AIR 1993 SCW 2427 : 1993 Cr LJ 2888 : (1993) 3
+SCC 54 [LNIND 1993 SC 276] .
+394. Ibid, p. 400.
+395. Pramod Parmeshwarlal Banka v State of Maharashtra, 2011 Cr LJ 4906 (Bom).
+396. Ibid, p. 148.
+397. Stevens v Biller, (1883) 25 Ch D 31 .
+398. Wharton, 14th Edn, p 95.
+399. Chaman Lal v State of Punjab, (2008) 11 SCC 721 : AIR 2009 SC 2972 [LNIND 2009 SC 721]
+.
+400. The Indian Contract Act (IX of 1872) section 182.
+401. Chandi Prasad, (1955) 2 SCR 1035 [LNIND 1955 SC 108] .
+402. Muthusami Pillai, (1895) 1 Weir 432.
+403. Chandra Prasad, (1926) 5 Pat 578.
+404. RK Dalmia, AIR 1962 SC 1821 [LNIND 1962 SC 146] : (1962) 2 Cr LJ 805 . A partner of a
+firm opening an account in the firm name showing himself as a proprietor and depositing firm
+cheques into it and withdrawing money from it, does not commit an offence under this section
+or section 419. Tapan Kumar Mitra v Manick Lal Dey, 1987 Cr LJ 1483 (Cal).
+405. Sadhupati Nageswara Rao v State of Andhra Pradesh, (2012) 8 SCC 547 [LNIND 2012 SC
+461] : AIR 2012 SC 3242 [LNIND 2012 SC 461] .
+406. SK Agarwal v Manoj Dalmia, 2001 Cr LJ 3343 (All).
+407. V S Achuthanandan v R Balakrishna Pillai, AIR 2011 SC 1037 [LNIND 2011 SC 165] : 2011
+(3) SCC 317 [LNIND 2011 SC 165] .
+408. Somnath v State of Rajasthan, AIR 1972 SC 1490 [LNIND 1972 SC 112] : 1972 Cr LJ 897
+409. Sadashiva Rao v State of AP, 2000 Cr LJ 2110 .
+410. Suresh Tolani v State of Rajasthan, 2001 Cr LJ 1959 (Raj).
+411. HICEL Pharma Ltd v State of AP, 2000 Cr LJ 2566 (AP).
+412. Sharon Michael v State of Tamil Nadu, (2009) 3 SCC 375 [LNIND 2008 SC 2506] : (2009) 2
+SCC (Cr) 103.
+413. Roshan Lal Raina v State of J & K, AIR 1983 SC 631 : 1983 Cr LJ 975 : 1983 2 SCC 429 . See
+also Jat Ram v State of HP, 1991 Cr LJ 1435 , false wage bill, not properly proved.
+414. State of Orissa v Gopinath Panigrahi, 1995 Cr LJ 4095 (Ori). Todar Singh Premi v State of UP,
+1992 Cr LJ 1724 (All), no proof of entrustment of money to the accused Government service.
+Prafulla Kumar Panda v State of Orissa, 1994 Cr LJ 3818 (Ori), no proof of entrustment of
+cheque, the only cheque produced was of personal payment, no offence.
+415. Bansidhar Swain v State, 1993 Cr LJ 830 (Ori).
+416. Shankerlal Vishwakarma v State of MP, 1991 Cr LJ 2808 (MP). The Court cited this book at
+p. 2812 to highlight the distinction between Cheating and Criminal Breach of Trust and Criminal
+Misappropriation. See at p 396 of 26th Edn of 1987 and State of MP v DN Pandya, 1983 MPLJ
+778 . Jitendra Nath Bose v State of WB, 1991 Cr LJ 922 (Cal), no evidence of entrustment;
+Government and non-Government property lumped together in charge, held not proper,
+Baikuntha v Nilamani Bantha, 1991 Cr LJ 59 (Ori), entrustment of cash not proved.
+417. Fakira Nayak v State of Orissa, 1987 Cr LJ 1479 (Ori).
+418. Jiwan Dass v State of Haryana, AIR 1999 SC 1301 [LNIND 1999 SC 204] : 1999 Cr LJ 2034 .
+419. VN Sonal v Nagamanickam, 2001 Cr PC 3428 (Mad).
+420. Shanmugham v State of TN, 1997 Cr LJ 2042 (Mad).
+421. Rabindra Nath Bera v State of West Bengal, 2012 CR LJ 913 (Cal).
+422. Mustafikhan v State of Maharashtra, (2007) 1 SCC 623 [LNIND 2006 SC 1076] .
+423. Sushil Suri v CBI, (2011) 5 SCC 708 [LNIND 2011 SC 494] : AIR 2011 SC 1713 [LNIND 2011
+SC 494] ; Nikhil Merchant v Central Bureau of Investigation, (2008) 9 SCC 677 [LNIND 2008 SC
+1660] distinguished.
+424. S and R, Legal Affairs, West Bengal v SK Roy, 1974 Cr LJ 678 : AIR 1974 SC 794 [LNIND
+1974 SC 35] .
+425. Sardar Singh, 1977 Cr LJ 1158 : AIR 1977 SC 1766 : (1977) 1 SCC 463 . See also State of
+Orissa v Gangadhar Pande, 1989 Supp (2) SCC 150 : 1991 SCC (Cr) 389, leniency shown to a
+misappropriating Government servant because of old age and retirement since long. Kulbir
+Singh v State of Punjab, 1991 Cr LJ 1756 (P&H), embezzlement of stone metal, proceedings
+instituted after a lapse of 9 yrs., quashed.
+426. Mahindra and Mahindra Financial Services Ltd v Delta Classic Pvt Ltd, 2010 Cr LJ 4591
+(Bom).
+427. Vijay Kumar v State of Rajasthan, 2012 Cr LJ 2790 (Raj).
+428. Shivanarayan, 1980 Cr LJ 388 (SC).
+429. Narindra Kumar Jain v MP, 1996 Cr LJ 3200 : AIR 1996 SC 2213 .
+430. Thermax Ltd v K M Johny, 2011 (11) Scale 128 [LNIND 2011 SC 947] : 2011 (13) SCC 412
+[LNIND 2011 SC 947] ; GHCL Employees Stock Option Trust v India Infoline Ltd, (2013) 4 SCC 505
+[LNIND 2013 SC 232] : AIR 2013 SC 1433 [LNIND 2013 SC 232] - from perusal of order passed
+by the Magistrate it reveals that two witnesses including one of the trustees were examined by
+the complainant but none of them specifically stated as to which of the accused committed
+breach of trust or cheated the complainant except general and bald allegations made therein-
+proceedings quashed.
+431. Maksud Saiyed v State of Gujarat, 2008 (5) SCC 668 [LNIND 2007 SC 1090] : JT 2007 (11)
+SC 276 [LNIND 2007 SC 1090] ; Pramod Parmeshwarlal Banka v State of Maharashtra, 2011 Cr LJ
+4906 (Bom).
+432. Punjab National Bank v Surendra Prasad Sinha, AIR 1992 SC 1815 [LNIND 1992 SC 300] :
+1993 Supp (1) SCC 499
+433. State of Karnataka v Syed Mehaboob, 2000 Cr LJ 1184 (Kant).
+434. N Bhargavan Pillai v State of Kerala, AIR 2004 SC 2317 [LNIND 2004 SC 520] : 2004 Cr LJ
+2494 : (2004) 2 KLT 725 .
+435. R Ramachandran Nair v Deputy Superintendent Vigilance Police, (2011) 4 SCC 395 [LNIND
+2011 SC 319] : (2011) 2 SCC (Cr) 251.
+436. Raghunath Anant Govilkar v State of Maharashtra, AIR 2008 SC (Supp) 1486; Shreekantiah
+Ramayya Munipalli v State of Bombay, AIR 1955 SC 287 [LNIND 1954 SC 180] and also Amrik
+Singh v State of Pepsu, AIR 1955 SC 309 [LNIND 1955 SC 15] ; State of UP v Paras Nath Singh,
+(2009) 6 SCC 372 [LNINDORD 2009 SC 650] : 2009 Cr LJ 3069 .
+437. Inder Sen Jain v State of Punjab, AIR 1994 SC 1065 : 1994 Cr LJ 1224 . Bachchu Singh v
+State of Haryana, AIR 1999 SC 2285 [LNIND 1999 SC 1375] : 1999 Cr LJ 3528 , misuse of tax
+money collected by a Gram Sachiv, he was sentenced to six months RI and fine. He had already
+undergone 4½ months. His sentence was reduced to period already undergone.
+438. State of HP v Karanvir, 2006 Cr LJ 2917 : AIR 2006 SC 2211 [LNIND 2006 SC 394] : (2006) 5
+SCC 381 [LNIND 2006 SC 394] .
+439. Sushil Kumar Singhal v Regional Manager, Punjab National Bank, 2010 AIR (SCW) 5119 :
+(2010) 8 SCC 573 [LNIND 2010 SC 730] .
+440. Sushil Kumar Singhal v Regional Manager, Punjab National Bank, 2010 AIR (SCW) 5119 :
+(2010) 8 SCC 573 [LNIND 2010 SC 730] .
