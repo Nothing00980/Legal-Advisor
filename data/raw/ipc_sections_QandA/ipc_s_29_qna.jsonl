@@ -1,0 +1,5 @@
+{"input": "What does Section 29 of the IPC define?", "target": "Section 29 defines 'Document' as any matter expressed or described upon any substance by means of letters, figures, or marks."}
+{"input": "Does Section 29 include digital documents?", "target": "Yes, digital documents are included as long as they convey matter by letters, figures, or marks."}
+{"input": "Are photographs considered documents under Section 29?", "target": "Yes, photographs are considered documents if they convey information."}
+{"input": "Is a verbal agreement a document under Section 29?", "target": "No, a verbal agreement is not a document under Section 29."}
+{"input": "Does Section 29 include electronic signatures?", "target": "Yes, electronic signatures are included as part of digital documents under Section 29."}

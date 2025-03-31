@@ -1,0 +1,5 @@
+{"input": "What does Section 65 of the IPC define?", "target": "Section 65 limits imprisonment in default of fine to one-fourth of the maximum imprisonment for the offense."}
+{"input": "Can imprisonment under Section 65 exceed the maximum term for the offense?", "target": "No, imprisonment in default of fine cannot exceed one-fourth of the maximum term for the offense."}
+{"input": "Does Section 65 apply to all fines?", "target": "Yes, Section 65 applies to all fines if imprisonment in default is imposed."}
+{"input": "What is the purpose of Section 65 in the IPC?", "target": "Section 65 ensures proportionality between the default imprisonment and the original punishment."}
+{"input": "What is an example of Section 65 in action?", "target": "If the maximum imprisonment for an offense is 4 years, default imprisonment cannot exceed 1 year."}

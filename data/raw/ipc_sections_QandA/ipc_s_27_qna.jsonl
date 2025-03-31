@@ -1,0 +1,5 @@
+{"input": "What does Section 27 of the IPC define?", "target": "Section 27 defines property in the possession of a person lawfully, which includes items under their control."}
+{"input": "Does Section 27 include rented property?", "target": "Yes, rented property is considered lawful possession under Section 27."}
+{"input": "Is borrowed property covered under Section 27?", "target": "Yes, borrowed property is included if it is in lawful possession."}
+{"input": "Does Section 27 apply to stolen goods?", "target": "No, stolen goods are not considered lawfully possessed under Section 27."}
+{"input": "Does Section 27 include property held by agents?", "target": "Yes, property held by agents on behalf of someone is included under Section 27."}
